@@ -4,4 +4,4 @@ Yeah, this is the place where I'll store my stuff. Updates will come when they d
 
 Standard Content/Trigger Warnings apply (but are not necessarily limited to):-
 
-Intense Violence, Strong Language, Sexual Content, Full & Partial Nudity, Alcohol Consumption, Smoking, Human & Animal Death, Fire, and so on.
+Intense Violence, Strong Language, Sexual Content, Full & Partial Nudity, Alcohol Consumption, Smoking, Human & Animal Death, and so on.
