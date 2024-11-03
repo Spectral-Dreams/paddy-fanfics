@@ -1406,7 +1406,7 @@ He goes on, "Anyway, I suggest we focus on the Malkavian. Sheriff Eunice has to 
 "You'll...have a word with her. Talk her into our side, if possible. Try to connect with her. I believe she recently lost her husband, didn't she?"
 "Yeah, she did. What's that got to do with anything?"
 "I recall you telling me that she's a 'stone-cold bitch' who'd 'kill her own kid for the right price.'"
-Ginny chuckles, "Yeah. Gotta love small town cops, they know how to play the game."
+Ginny chuckles, "Yeah. Gotta love small town cops; they know how to play the game."
 Arman smiles, "Exactly. The Sheriff is clearly a determined woman. Convince her that Lucas is simply not the right fit as Prince. There's a strong case to be made there."
 Ginny frowns, "I don't think she's gonna be too swayed by that alone, Arman. Malkavians are uh...yeah, they're not the best at that kind of stuff."
 "Hmm. Yes, I've...heard stories about them. Still, she may be persuaded if we play our cards right. Talking to her as a first step won't hurt."
@@ -1495,7 +1495,7 @@ She stays where she is for a bit, looking up at the ceiling and just thinking ho
 The Garou attack on Frank and the other Ravnos at the garage still leaves her feeling uneasy. But, for now, she has to focus on her tasks for tonight.
 And so she gets up, takes a shower, and prepares for the night ahead.
 That all too familiar feeling of The Hunger comes back as Maya leaves her room and goes upstairs to the living room.
-She then takes her phone out and spends a few minutes idly scrolling through her music playlist, looking for something to listen to.
+She takes her phone out and spends a few minutes idly scrolling through her music playlist, looking for something to listen to.
 But no amount of music can ease the the eternal demands of The Beast. It's starting to resemble a storm is raging in her head.
 She plops herself on the couch and blows a raspberry, "Ugh. So lonely...So, so lonely. I wish she was still here. I wish we could just...get lost together."
 Suddenly, she feels something in the back of her mind. She feels compelled to contact Lucile through the way they agreed. So, she immediately opens her laptop and clicks on the link that was given to her.
@@ -1554,7 +1554,7 @@ Maya's eyes widen, "You think so?"
 Eleanor replies, "Yes."
 Maya lowers her head, "I...uh...miss Lucile. A lot."
 She looks up at Eleanor, "She's gonna be OK, right?" Maya wants the reassurance of her Sire on this.
-Eleanor softly says, "She is an excellent Blood Sorceress and her Thaumaturgy skills are quite remarkable for a Neonate. I have every confidence that she will be fine." She places her hand on Maya's shoulder.
+Eleanor softly says, "She is an excellent Blood Sorceress and her Thaumaturgy skills are quite remarkable for a Neonate. I am confident that she WILL be fine." She places her hand on Maya's shoulder.
 Maya smiles, "Thank you, Eleanor. I--I needed to hear that."
 Eleanor goes on, "There are some matters we must attend to tonight, however."
 "Oh, really? Like...?"
@@ -1589,16 +1589,16 @@ Eleanor sighs, "Hmm."
 Maya asks, "How did Lucile do at her Proving?"
 Eleanor approvingly says, "Exceptionally well, Maya. She was able to make a stiletto out of her own Vitae."
 Maya smiles, "Yep. She showed it to me before she left. You think I'll be able to do that one night?"
-Eleanor nods, "I believe so. But, I will not lie to you, it is a difficult task. It takes years of practice to achieve that level of mastery over the Blood."
+Eleanor nods, "I believe so. But, I will not lie to you, it is a difficult undertaking. It takes years of practice to achieve that level of mastery over the Blood."
 Maya blandly says, "We got time. We're Kindred after all. Heh."
 Eleanor narrows her eyes, "Something is troubling you, Maya. What is it?"
 Maya sharply exhales, "You mean apart from my girlfriend being whisked away for courier duty? Or the fact that I can't show my face around town because of--"
-She stops herself as she chokes up a bit, "--I'm not like you and Lucile. I'm not super smart or...or whatever. I'm just...me. I was a lifestyle writer for a dying magazine in a small town. Now, I don't even have a job anymore."
+She stops herself as she chokes up a bit, "--I'm not like you and Lucile. I'm not super smart or...or whatever. I'm just...me. I was a lifestyle writer for a dying magazine in a small town. Now, I don't even have that anymore."
 A few tears of blood roll down Maya's cheeks.
 "You mustn't be so harsh, Maya. That was your previous life. The Embrace has given you an opportunity to become more than you ever were."
 Maya says, "I know. I'm sorry. I'm just scared. I just don't wanna mess this up."
 Eleanor places her hand on Maya's back, "And you won't, Childe. You must be strong. Stronger than you ever were. You are a Tremere now. A member of one of the most prestigious Clans of Kindred Society."
-"'Prestigious'? I thought that kind of honor was reserved for Clans Ventrue and Toreador."
+"'Prestigious'? I thought that kind of honor was reserved for Clans Ventrue or Toreador?"
 Eleanor dismissively waves her hand, "The Pyramid commands respect wherever it goes."
 Maya asks, "What about the others?"
 Eleanor replies, "They have their place. But that is not your concern. For now, you MUST focus. Not only on your training but also the tasks given to you by Prince Lucas. If you fail him, then you fail us all."
@@ -1609,7 +1609,7 @@ Eleanor bluntly states, "Because there are certain things that I do not wish to 
 Maya asks, "Is uh...Laszlo just your driver or is he like your Ghoul or something?"
 Eleanor grimaces, "Ghoul? I have already made my position on such creatures clear, Childe. They are nothing but volatile and unpredictable. No, Laszlo is simply my driver. That is all."
 Maya asks, "But, he's a mortal. Aren't you worried about, like, a potential Masquerade breach or something?"
-Eleanor firmly replies, "My personal affairs and how I conduct them are not your concern, Childe. Lucile never questioned my judgments. I expect you to follow her example."
+Eleanor firmly replies, "My personal affairs and how I conduct them are not your concern, Childe. Lucile never questioned my judgments; I expect you to follow her example."
 Maya lowers her head and pensively says, "I'm sorry. It--It won't happen again, Eleanor."
 No use arguing with your Sire. Especially an Elder like Eleanor.
 Eleanor gives Maya a stern look, "Good. Now, let us go and meet Nolene."
@@ -1643,7 +1643,7 @@ Maya extends her hand, "Hi! I'm Maya."
 "Nice to meet you. I'm Nolene and welcome to Nolene's Corner Of Curiosities!" Her voice is cheerful and energetic.
 Maya likes her already.
 Eleanor says, "Ms. Nolene. It is good to see you again. I trust that the...object is in a safe place?"
-Nolene nods, "Yep. Locked nice and tight. Ain't nobody getting to it."
+Nolene nods, "Yep. Locked away nice and tight. Ain't nobody getting to it."
 Eleanor smiles, "Good."
 Maya asks, "What object?"
 Eleanor sighs, "That ritual dagger that somehow came into the possession of that Ravnos."
@@ -1740,7 +1740,7 @@ Perhaps the others missed something in their initial search?
 Maya calms herself, shuts her eyes, and focuses. She tries to clear her mind and listen.
 She hears...nothing. She opens her eyes and sees that nothing has changed.
 The whispers seemed to have faded away (for the time being).
-She sighs and shakes her head. She then closes her eyes once more and tries to channel her Vitae into her Discipline.
+She sighs and shakes her head. She closes her eyes once more and tries to channel her Vitae into her Discipline.
 She can feel the energy coursing through her veins. She feels it in her hands. She feels it in her eyes.
 She concentrates as her eyes glow in a strange bluish-white hue.
 She can see everything now. Far beyond what the mortal eye can see. She can see the dust particles floating around. She can see the littlest cracks in the walls.
@@ -1768,7 +1768,7 @@ She squints in the general direction of where that creature was and sees...nothi
 A hallucination brought on by staying too long in Auspex, perhaps?
 Either way, that's enough excitement for one night. Maya holds the briefcase and heads to the nearby bus stop.
 The Prince is definitely gonna wanna see what she found!
-Since she has no way of contacting him (or Sheriff Eunice), she decides to swing by the abandoned auditorium where the Clans usually have their meetings.
+Since she has no way of contacting him (or Sheriff Eunice), she decides to swing by the abandoned auditorium where the Clan reps usually have their meetings.
 Maybe someone's still lurking around there at this time of the night?
 Due to slightly denser traffic, the bus ride is a bit longer than expected.
 On the bus, Maya holds onto the briefcase and gets a few looks from the other passengers. Some cover their noses while others have a rather sour expression on their face.
@@ -2014,7 +2014,7 @@ Arman responds, "She has already served as Sheriff under 2 Princes- Geoffrey Cal
 Ginny says, "Nicolaides. Lucas Nicolaides. Funny name, heh."
 Arman smiles, "Yes, yes. Well, she served under Geoffrey for quite some time, it would seem."
 Ginny directly asks, "Ya really want a Lunatic as the next Prince, Arman?"
-Arman replies, "The Clan Of the Moon may be...unhinged. But, they might be more suitable for a town like Plaintry."
+Arman replies, "The Clan Of the Moon may be...unhinged. But, they might be more suitable for a laid-back town like Plaintry."
 Ginny lets out a sigh, "I guess I'll just have to believe you."
 Arman gives her an almost sad look and asks, "Have I ever let you down, my dear?"
 Ginny softly chuckles, "So far, nope. Let's hope it stays that way...pretty boy." She bites her lip and suggestively strokes her breasts.
@@ -2054,7 +2054,7 @@ Arman checks his WhatsApp messages and notices the documents Maya sent over alon
 Arman frowns and decides to forward the 2 PDFs to Lenny.
 Lenny comes online a few seconds later. He replies: "Jeez, just woke up. WTF did you send me now??"
 Arman replies: "More documents pertaining to Vespire Inc, I believe."
-Lenny messages back: "I'll look @ it later. BTW, it's official. Camden's coming to town tomorrow afternoon."
+Lenny messages back: "I'll look @ it later. BTW, it's official. He's coming to town tomorrow afternoon."
 Arman exhales and taps on the virtual keyboard: "So, what's our plan?"
 Lenny responds after a few moments: "I'll tell him that one of Plaintry's more...important residents wishes to meet him before the whole Nimbus thing. He won't say no."
 Arman types back: "Are you sure he won't?"
@@ -2163,7 +2163,7 @@ Maya's loneliness has never felt this crushing before. She begins to wonder what
 She also spends some time pondering about the state of her Clan as a whole as well as the other Kindred.
 She's still a Fledgling, so there's a lot for her to learn.
 And there are even greater secrets awaiting her in the shadows.
-She shuts down the laptop and closes the lid. She grabs a hairdryer and plugs it in. She looks herself in the mirror and remarks, "Damn. Just...Ugh, never mind."
+She shuts down the laptop and closes the lid. She grabs a hairdryer and plugs it in. She looks herself in the mirror and remarks, "Damn. Just...ugh, never mind."
 She starts blow-drying her red hair and continues her usual beauty routine. She applies some light makeup to cover up that all-too-familiar deathly paleness that's so prominent on her face and neck.
 After all, Kindred are considered clinically dead. This paleness is often mistaken for illness or simply bad lighting.
 Maya puts on a hoodie jacket and a pair of casual pants. She checks herself in the mirror. Satisfied with her appearance, she slips into some comfy sneakers.
@@ -2275,7 +2275,7 @@ He sighs as he adjusts his shirt cuff, "I'm your friend here, Maya. You gotta pl
 There's just something off about it. Deeply off.
 Maya blandly asks, "Private? Where?"
 Björn points in some vague direction, "Anywhere not here. Too many people around here. Too much...light," he whispers those last 3 words for some reason.
-He continues, "Look, I'm not gonna hurt you or try anything funny." He does the three-finger salute, "Scout's Honor."
+He continues, "Look, I'm not gonna hurt you or try anything funny." He does the Scout sign and salute with his 3 fingers, "Scout's Honor."
 Maya nods and says, "You better not. You won't get very far." She scoffs and leans back on the bench.
 Björn nods, "Oh, I know. Trust me." He leans closer and says, "C'mon, let's go."
 "Hmmm. Let's." Maya grabs the briefcase and follows Björn. They walk to a nearby alley that is barely lit at this time.
@@ -2288,7 +2288,7 @@ With almost catlike reflexes, he grabs Maya's hand and places 2 fingers on her w
 Maya stammers as she struggles to break free of his grip, "Wha--wha--"
 He smiles at her and nods, "How about we play a game of...feel-my-pulse?"
 Who is this guy?
-Maya looks scared as Björn forces her fingers onto his own wrist. It's...odd. She feel absolutely no pulse from this man's wrist, yet he's still moving, talking, and acting like a human.
+Maya looks scared as Björn forces her fingers onto his own wrist. It's...odd. She feels absolutely no pulse from this man's wrist, yet he's still moving, talking, and acting like a human.
 She stares deeply into his lifeless eyes, trying to figure out what's going on here.
 Maya gulps, "You're...you're a--"
 A smile of satisfaction comes across his face, "Kindred? Vampire? Cainite, if you're feeling fancy." He lets go of Maya's hand and chuckles to himself.
@@ -2415,7 +2415,7 @@ As she rides, she spots a group of teenagers walking on the sidewalk. She slows 
 She hears them talking amongst themselves. They turn around and see Maya on the scooter. She's not wearing her helmet, so they almost immediately recognize her.
 They start pointing and jeering. A couple of them make faces at her. One of them even yells, "DRACULA WENT THAT WAY!"
 Maya sighs and speeds off, feeling a bit annoyed and frustrated. She's not about to start a fight with a bunch of teenagers. She, after all, was one numerous years ago.
-So, a part of her understands their...antics. She just hopes that it won't become too much of a bother in the age of technology. After all, as a Kindred she now has a responsibility to uphold The Masquerade.
+So, a part of her understands their...antics. She just hopes that it won't become too much of a bother in the age of technology. After all, as a Kindred, she now has a responsibility to uphold The Masquerade.
 Anyway, she speeds off and spends the next hour or so idly riding around the town on her Vespa. Frank really did a good job on the maintenance and repairs. It's like she's riding a brand new scooter!
 It's too bad she'll never get to thank him.
 After a while, she decides to head back to the auditorium. It's time to hand over that briefcase to the Prince, or whoever's there.
@@ -2471,7 +2471,7 @@ The Wanderer continues, "She's gonna be OK. I'm told that she's an excellent Blo
 Maya replies, "The finest I've ever met."
 He gives her shoulder a gentle squeeze, "Then, she's gonna be just fine."
 Maya smiles weakly and sighs. She looks over at the Prince.
-Prince Lucas is sitting leaning against a wall, one leg bent up.
+Prince Lucas is leaning against a wall, one leg bent up.
 He's looking at a blank piece of paper he has in his hand, then he looks at Maya, then at Chaska.
 His eyes have an intense, fiery look to them.
 Chaska remarks, "The pressures of Princehood, Maya. Even in a town like this, it's tough." He walks over to Prince Lucas and sits next to him. They begin to talk in hushed tones.
@@ -2495,7 +2495,7 @@ He adds, "I'm sure you've already met Sheriff Eunice?"
 Maya grits her teeth and swallows hard, "Uh, yeah. She's...scary."
 Chaska replies, "It's part of her job. And her being a Malkavian helps. Probably." He pauses to let out a nervous chuckle.
 Maya nods, "Yeah." She looks over to Sheriff Eunice and the others.
-She sees what remains of Frank, wrapped in a white sheet. It's lying down on the ground, surrounded by Ravnos. Sheriff Eunice is there as well.
+She sees what remains of Frank, wrapped in a white sheet. It's lying down on the ground, surrounded by many Ravnos. Sheriff Eunice is there as well.
 Prince Lucas also looks over to the body and sighs, "Oh, Frank..."
 He then beckons Chaska and Maya to join him.
 Maya stops in her tracks and notices that she isn't quite dressed for a funeral.
@@ -2547,7 +2547,7 @@ Prince Lucas sighs, "No one does, Maya. I have met the Garou during my travels. 
 He continues, "Perhaps you will help uncover the real intentions of the Garou in this town. I suspect that they are here for more than just hunting down random Kindred and Ghouls."
 Maya nods, "I'm gonna find out what their deal is." Yet, her tone betrays her uncertainty.
 The Prince smiles and looks over at Sheriff Eunice, "I understand the Sheriff can be a hard woman to deal with, but she is just doing her job. Besides, she lost her husband some time ago."
-Maya replies, "Oh, what? I--I didn't even know she was married!"
+Maya replies, "Yeah, I heard something about that..."
 "I don't know the specifics and Eunice doesn't seem too keen on sharing that info with others. But, yes, she was once married to a mortal man. He was in the real estate business, if I'm not mistaken."
 "Any...any uh...kids?"
 "A 17 year old stepdaughter. Eunice and her don't seem close at all, however."
@@ -2645,7 +2645,7 @@ Maya sheepishly smiles, "Thanks, Keith."
 She looks at Kelly, who's pacing around, mumbling and shaking her head.
 Maya asks, "Is she OK, Prince Lucas?"
 Prince Lucas dismisses her concerns, "She'll be fine. She's just a bit on edge. She hasn't spoken to or seen her family in months, and making a phone call is risky due to certain...reasons. Personal reasons."
-He shrugs and adds, "We all have our burdens, Maya."
+He adds, "We all have our burdens, Maya."
 Maya nods and says goodbye to Keith and Prince Lucas. She flashes a quick smile to Sheriff Eunice and leaves on her scooter.
 Chaska joins the trio and watches her drive off. He whispers something to the Prince, who responds with a simple nod.
 Sheriff Eunice speaks up, "Now, with Frank gone, you're gonna need a new right-hand man. Any suggestions?"
@@ -2679,5 +2679,987 @@ Prince Lucas looks around and sighs, "It has been a...rough night, Chaska."
 "I've got your back. Always. Besides, this place could use a little love. After all, we've been through a lot of rough shit over the past few decades, huh?"
 "Hmph, tell me about it. Still, I just didn't see things turning out...like this." There is a hint of remorse in the Prince's voice.
 Chaska replies, "Well, think of this as a challenge. A test of your capabilities. Think of all the great things you could accomplish while leading this town! Think of how proud Cheveyo would be of you!"
-Prince Lucas softly chuckles and smiles when his Sire's name is mentioned, "That's
-<nolene meeting maya> <any news on cheveyo? found anything at all>
+Prince Lucas softly chuckles and smiles when his Sire's name is mentioned, "Have you heard anything from anyone about where Cheveyo might be, by any chance, Chaska? I mean, I have heard many rumors about where he may be, but no actual locations. Hmmm?"
+Chaska sighs, "I've been looking into it for a while, now. All I turn up is one dead end after the other." He shakes his head and sighs deeply, "I'm sorry." He pauses to gather his thoughts.
+Prince Lucas shakes his head, "It's alright, Chaska. I just have to keep...hoping that he's still out there, somewhere, somehow surviving..." He takes a deep breath. There are tears of blood forming in his eyes. He clenches his fists. His jaw is tightly clenched.
+His lips tremble as wrinkles form on his face. He lowers his head and stares at his boots, "I...I..." His voice trails off. A single tear of blood falls on his boot. It stains the leather. He sniffles and wipes it with his finger.
+Chaska asks, "What about the others in the garage?"
+Prince Lucas simply responds, "They were just ash by the time they were found. They...had no chance against the Garou surprise attack. It's a pity." He lets out a small sigh. His face has a distant, dreamy look on it.
+It is the look of one who is, in his own way, grieving the loss of those he cared about. It is also the look of someone who will not take this tragedy lightly and who is determined to bring those who have caused it to justice.
+Chaska cranes his head towards the auditorium and says, "So, I should probably schedule a meeting for tomorrow night. Gimme the addresses of all the Clan representatives and I'll take care of the rest."
+Prince Lucas nods, "Whatever you need, Chaska."
+Maya is on her scooter and on her way to meet Nolene and just hang out. The night, after all, is still young.
+The wind blows. Her undead heart is full of anticipation. She is anxious to get more involved with the Kindred of Plaintry.
+Yet, there is a certain uneasiness deep down in her chest that she cannot quite put her (retractable) claw on just yet.
+She accelerates down the lonely streets. Her tires screech. Her eyes are focused on the road. The wind blows, whipping her long, red hair in all sorts of directions.
+In a few minutes, she's in front of Nolene's quaint little occult shop. She hops off her scooter and opens the door to the shop. The bells jingle.
+Inside, the place looks fairly well-kept. Nolene is nowhere to be found.
+Maya calls out, "Nolene? Hi, it's me. Maya. You...here?"
+Nolene walks out of the backroom. She's wearing a striped blazer and trouser set along with some hoop earrings. She's carrying a small, leather-bound book in her hands.
+Maya greets her, "H--Hey, Nolene!"
+"Maya. How you doing, girl?"
+Maya chuckles, "Ah, great, I guess. Um...wow, Nolene, you look really nice in that. You uh...got a date or something?"
+Nolene scoffs, "Hmph, I wish. I was in court all evening." She grimaces.
+Maya remarks, "Wow, that's um...unfortunate." She flashes a sympathetic smile.
+Nolene shrugs, "Oh well, what the hell. Sit down, I'll grab us a drink and we can hang out."
+"Uhhh, OK. Thanks, I guess." Maya follows Nolene to a round table near the back.
+She points to the book Nolene is holding and asks, "So, what's in that book, Nolene? Anything interesting?"
+"Haha, just some random stuff from my stock. It's...boring, honestly."
+"Is it Kindred stuff?"
+"Heh, it's hard to tell, Maya."
+Nolene grabs 2 cups from a cabinet. She bends over to grab 2 bags of blood from a mini fridge. She then pours its contents into the cups and sets them on the table. She sits down opposite to Maya.
+She says, "Here you go, Maya. Drink up. I hope you like it."
+"Oh, huh. Thanks. I already...fed, but it'd be rude to say no. Thanks!"
+"You're a growing vamp. You need that strength, girl. The blood will be good for you. Trust me."
+Maya chuckles and sips on her cup, "It's so weird how we vampires are so...normal about this stuff."
+Nolene holds her cup with both her hands, "Yeah. I was freakin' the fuck out after my Embrace. But, I guess that's to be expected."
+Maya takes another sip of her blood, "Yeah, that's true. If there's one thing I'd change about being a vampire, it's not ever having to drink another drop of blood ever again. Hell, I'd even make it so that...lasagna is required for survival. Wouldn't that be wild?"
+Nolene giggles, "Good to see a bloodsucker with a sense of humor. I knew someone who else loved lasagna, but that was a long time ago."
+Maya leans forward, "Oh, who were they?"
+Nolene sips her cup and sighs, "Someone I cared about," her voice cracks as she continues, "Someone I loved." She looks down at the table and shakes her head.
+"I'm here if you wanna talk, Nolene." Maya offers her hand.
+Nolene smiles weakly, "His name was Jacques. He was the Sheriff of this town. We had been together for a couple of years. I hadn't been with someone ever since my husband died."
+Maya gasps, "I'm so sorry, Nolene."
+Nolene lets out a long, drawn-out sigh and says, "Yeah, well, Jacques ain't gone."
+Maya furrows her brows, "Wh--what do you mean?"
+A look of resentment comes across Nolene's face, "That fool abandoned the town when it needed him the most."
+"I...I don't think I follow, Nolene?"
+Nolene groans and leans back into her chair, "Back in '99. When the town was attacked by Wights." She pounds the table with her fist.
+Is that the official narrative they went with?
+Maya cocks her head but doesn't immediately say anything. Lucile told her what exactly happened during 1999- The Week Of Nightmares and the Methuselah rampage.
+Of course, after that, there had to be some kind of cover-up because what Nolene is saying is simply untrue. Or, was Lucile lying about the whole ordeal?
+Maya dismisses the latter thought from her head. Lucile probably had a good reason for keeping CERTAIN things from Maya, but she'd never lie to her about something so important. Right?
+Also, why didn't she ever tell Nolene anything? And, more importantly, why didn't Eleanor say anything?
+Maya shakes her head and says, "I--"
+Nolene clicks her tongue, "When we needed him the most, he skipped town. And I loved him. He left us. He left...me. All alone." Tears of blood stream down her face. She wipes them away with the back of her hand.
+Maya simply nods, "I see."
+She feels the urge to tell Nolene what REALLY happened that night- Jacques, the Toreador Sheriff of Plaintry, was violently destroyed by one of the Methuselahs. He simply stood no chance against that woman.
+And yet, Maya also feels compelled to not disclose this particular piece of information. Lucile and Eleanor wanted to keep things quiet about the whole incident.
+But why?
+Maya sighs, "So...what exactly happened to Jacques?" She sips her cup, which is getting empty.
+"I haven't seen that fool since '99, but I ever catch glimpse of him again, I'm gonna drive the biggest goddamn stake right through his heart!" She gets up from the table and storms off.
+"He abandoned us. He abandoned ME! Aaaarg!" She angrily kicks a chair, causing some of her dusty occult knickknacks to fall onto the floor.
+Nolene lets out an exasperated sigh, "He--he just left. No message, nothing. Just ran away when shit hit the fan!"
+Maya flinches a bit as a knickknack rolls to her feet, "And what about the Prince? Did he--"
+"Geoffrey was useless! He didn't have the guts to do nothing about it! He just came back from some trip with his stupid-ass friends and acted like everythin' was all fine and normal!" Nolene grits her teeth and punches a nearby wall. Her knuckles make a sickening thud.
+Maya slowly gets up, heads over to Nolene, and places her hands on Nolene's shoulders, "It's OK, it's OK. If you don't wanna talk about it anymore, then that's fine."
+"Yeah. I'm sorry about that."
+"It's OK, Nolene. You don't have to apologize."
+Nolene warmly smiles at Maya, "Thanks, girl."
+She takes a deep breath and continues, "I just don't get it. I mean, they was supposed to contain the situation. Geoffrey didn't do nothing and just pretended like everything was normal. It--It makes no sense!"
+"What was Geoffrey like?"
+Nolene bends down to pick up the knickknacks that had fallen over, "Oh? He was...not a bad guy or anything. I just wish he had a little more spine. Anyway, he used to be a professor at the UOP."
+"The UOP? You mean, like THE University Of Plaintry?"
+Nolene nods and blows some dust of a knickknacks, "But then he got fired and the whole damn place shut down a few months later."
+"Oh, right. A lotta older folk in this town remember the UOP fondly. I can't believe the former Prince was a Professor at that place. Huh." Maya thinks back to the many conversations she's had with this town's older folk.
+Nolene lets out an exasperated sigh, "Yeah, he was something, that's for sure."
+"It's a shame what happened to him and all the other Toreadors. I would have loved to meet some of 'em."
+Nolene twitches and scrapes her fingers across a sharp object, "OW! Damn!"
+Maya notices that Nolene is bleeding, "Nolene? What happened?"
+Nolene grimaces as she lifts up her bleeding finger, "Shit. Sorry, I guess I got...clumsy. Never mind."
+Nolene proceeds to pat the dust off her hand and lick the cut, "Ah, there. Who needs Band-Aid when you got tongue, hmm?"
+Maya giggles and shakes her head, "Haha. Yeah." She notices something is off with Nolene. Something she cannot quite put her finger on.
+Nolene looks at a nearby mirror and adjusts her afro. She spends the next minute or so, standing there, blankly looking at herself in the mirror, like she's...lost in thought or something?
+Maya asks, "Hey, uh...Nolene? Are you okay?"
+Nolene continues to stare at the mirror, "Hmm."
+Maya steps closer and snaps her fingers, "Nolene? Hi? Hello?"
+Nolene snaps out of whatever daze she was in, "Oh, Maya. Sorry. I was...I was...never mind." She shakes her head and sighs.
+"It's OK, Nolene."
+Nolene looks at Maya and smiles, "Y'know, I got a daughter."
+"Oh, do--does she know that you're a--"
+Nolene shakes her head, "I can't tell her that. No way, not now, not ever." She pauses for a few moments and says, "She's a paramedic. I sent her to live with some relatives when she was very young."
+"Yeah, I'd imagine having a vampire for a mom would be kinda awkward at PTA meetings..."
+Nolene softly laughs, "Heh, yeah. And her grandparents would probably pass out the second they saw me in the flesh."
+Maya furrows her brows and asks, "I don't get it. Why don't you wanna tell her? I mean, I get the Masquerade and all, but still. Your own daughter, Nolene."
+Nolene shrugs, "Well, I dunno. I...I guess I just wanna be a friend to her."
+Maya almost screams out, "She knows you??"
+"Yeah, she comes by the shop sometimes. However, I notice she's been kinda off lately."
+"'Off' in what way??"
+"She's always on edge. Always looking over her shoulder. Something ain't right, Maya." A look of worry comes across Nolene's face.
+Maya asks, "You want me to talk to her or something?"
+Nolene firmly states, "No."
+Maya's lips curve into a polite smile, "OK. But I'm here if you need me, Nolene."
+Nolene smiles and responds, "Thanks, girl."
+Nolene looks over to the corner of the room. She gets up and heads over to a shelf. She grabs a package and heads over to Maya.
+She hands the package to Maya, "Lucile ordered this a few weeks back. I guess it has something to do with her...experiments. Just came in a few hours back. Here ya go."
+Maya graciously accepts the package. It is small and wrapped in brown paper.
+She quickly unwraps the parcel and takes a look. There are a few vials of blood with an explicit warning to NOT consume it- the sticker of the skull and crossbones is in the middle of the label.
+Underneath that, there is a note. It says: "Lucile, take this blood and mix it with a full cup of water. Purified water is preferable, but not mandatory. Leave it out in the sun for exactly 7 hours, then say the incantations. Repeat this process 7 more times."
+There is an also attached receipt with the date and time. The payment has already been taken care of.
+Maya nods, impressed by the thoroughness of these instructions, "Huh. That's...cool."
+Nolene chimes in, "Yeah, Lucile's really good at that stuff, huh?"
+Maya smiles from ear to ear, "Yep, she's...the best. I'm glad I met her." She places the vial back in the parcel and wraps it up again.
+"Yeah, you 2 were meant for each other! Take it from someone who's been in love. Hold on to each other, tight." Nolene's eyes are filled with a hopeful glow.
+Maya blushes, "Ahh, thank you, Nolene. It means a lot to hear that."
+Nolene's expression changes as her eyebrows lower. She looks at Maya's brown eyes, "Those...eyes."
+"Um...what?"
+Nolene quickly shakes her head, "Ah, it was nothing. You got nice hair, Maya."
+Maya strokes her red hair, "Thanks. And your 'fro is pretty awesome, too!" She chuckles.
+Nolene softly smiles, "Aw, thanks. I try to maintain it." She sighs and sits down, "So, how has your night been so far?"
+"Ehhh, it's been alright, I guess. You know about the Garou attack, right?"
+"Yeah, I heard something about that. Werewolves, huh? Cray-zeee. I thought it was just us vampires." She takes a deep breath, "What happened, exactly?"
+Maya looks down at the floor, "I--I don't really know. I just found their handiwork. I mean, me and Dylan found Frank's body. His arm was torn off."
+She shudders and lets out a long sigh, "I'm not too keen on meeting a Garou anytime soon. I'm not the fighting type, y'know..." her voice trails off.
+Nolene replies, "Neither am I, but I do what I gotta do if things get too crazy." She gets up and walks over to a drawer. She rummages around in it, looking for something.
+She grabs a small shard of metal, "Here, take a look at this." She shows the object to Maya.
+Maya nods and takes the object, "What's this??"
+Nolene grins, "It's supposed to be a piece of a silver bullet."
+"Really? Sweeet! Does it do anything?"
+Nolene shrugs, "Honestly? I don't know. I just collect these things and sell 'em to people."
+Maya's face brightens, "Can you show me where you buy them from?"
+Nolene giggles, "It's a freakin' mess, Maya. Besides, my some of my suppliers are shady-ass types. They ain't the kinda people you wanna make friends with." She laughs nervously.
+"You sure know your way around these things, Nolene."
+"Eh, what can I say. I got a knack for the...unusual."
+"All of us Tremere have a knack for the unusual."
+Nolene gulps and weakly smiles, "Yeah...us Tremere. Sure."
+Maya tosses the shard of metal into the air and catches it, "So, do you need this or--?"
+Nolene holds up her hand, "Keep it. It's on the house, Maya."
+"Thanks, Nolene!" She pockets the shard and asks, "How'd you get it?"
+Nolene grimaces and says, "Some Malkavian sends me the randomest shit. It's like he thinks I'm his personal storage unit or something."
+"Huh, cool."
+"Yeah, that's one way of putting it."
+"So, who's he supposed to be?"
+"Dunno. We just exchange messages and chat on some occult forum every so often."
+"Cool. Well, try and keep an eye out for any more silver. If we gotta fight Garou, I'll need all the help I can get."
+"Will do."
+Maya scratches the back of neck and asks, "You said you were married. What happened to your husband, if you don't mind me asking. I'm sorry if that's too personal."
+Nolene shrugs, "Don't worry about it. It was a while ago, but the gist of it is he died in a workplace accident."
+"I'm so sorry, Nolene."
+"Yeah, well, I had to go through it all alone. I've had many bad days...and nights since then." She sniffles, "He was my first love and a good father to our daughter. He...he meant the world to me."
+"I'm sure he did."
+Maya hugs Nolene.
+Nolene smiles and says, "Thanks, Maya."
+"No problem, Nolene."
+Maya and Nolene sit there, sipping their cups of blood, enjoying each other's company. The night is still young.
+They spend a few hours talking about different subjects and laughing at their jokes.
+However, as the clock strikes 1 AM, Nolene gets up and stretches her arms. Maya follows suit.
+Nolene looks at Maya and says, "Well, you're welcome to stay as long as you like, Maya. But, I gotta close up the store."
+Maya asks, "So, where's your Haven, Nolene? Is it close to the shop?"
+Nolene chuckles and shakes her head, "It's in the basement of the shop. It's a pretty cozy place. I like it there. It's a bit messy at the moment, maybe I'll show it to ya another time?"
+Nolene walks to the door and holds it open, "See ya around, Maya."
+The bells jingle.
+Nolene waves goodbye and says, "Don't be a stranger, girl! You're welcome here anytime!"
+Maya waves back, "You too, Nolene. I'd love to have you visit our place!" She gets on her scooter and rides away into the night.
+Maya heads back to her Haven. She smiles to herself as she looks at the quaint cottage from afar.
+She speeds up and reaches her new place. She parks her scooter nearby.
+She notices a black SUV parked nearby.
+Eleanor is standing at the front door of her home. She is looking up at the moon, deep in thought.
+Maya greets her, "Eleanor! Hiiii! What are you doing here?"
+Eleanor greets her Childe, "Greetings, Childe. Where have you been?"
+"Ah, out and about, y'know. It's a beautiful night, isn't it?" She smiles.
+"Yes, it is. However, I came here for a different reason entirely."
+"Oh?"
+Eleanor doesn't say another word and walks to the backyard. She beckons Maya to follow her.
+Maya follows Eleanor and asks, "So, what's up?"
+"I would like to show you something."
+"OK..."
+Eleanor kneels down and points to the slightly disturbed patch of ground in the backyard, "Do you recognize this, Maya?"
+Maya nods, "So, this is where you buried those 2..."
+"Yes, Childe. The ground is a bit disturbed as you can see. Even now, these vile Methuselahs stir within the earth."
+"Is--is that normal? Like, is the soil supposed to do that?"
+Eleanor blandly responds, "Perhaps. Which is why we must apply a Blood Ward to keep them...pacified. It is the only way to ensure the safety of your Haven."
+"But, I'm not sure I can--"
+Eleanor holds up her hand, "Do not worry, Childe. It is a fairly simple procedure. I assume you have hunted tonight?"
+Maya nods.
+"Good, then, cut your finger and place some of your Vitae on the earth. After that, repeat after me."
+Maya follows her Sire's instructions. She cuts her finger with her sharp claw and drops some of her blood onto the disturbed patch of ground.
+Eleanor slits her palm with her fingernail and lets some of her own blood fall on the same patch of earth.
+She then says, "I call upon The Pyramid."
+Maya does the same thing and says, "I call upon The Pyramid."
+"The power of The Seven flows through me and binds me."
+"The power of the Seven flows through me and b--binds me."
+"The Order Of Hermes is my lamp."
+"The Order Of Hermes is my lamp."
+"The Magus shall protect us from harm."
+"Um...The Magus shall protect us from harm."
+Eleanor stifles a sigh and continues, "By the power of Fedoso, I bind these creatures, these fiends and the darkness they harbor."
+Maya nods and repeats the sentence.
+Eleanor adds, "Let that which is below, stay below. Let that which is under, remain under."
+"Let that which is below, stay below. Let that which is under, remain...under."
+Eleanor bends down and draws a circle with the mixed Vitae. She then closes the circle with some sharp lines and symbols.
+She adds more of her own Vitae to the circle and whispers something in an unknown language.
+Maya isn't sure if she's supposed to follow, so she just stands there, watching her Sire use the power of Blood Sorcery to keep these 2 Methuselahs in their below-ground prison (of sorts).
+Eleanor stands up and licks her palm. She looks at Maya and simply says, "Acceptable." She sighs and shakes her head.
+Maya lowers her head and scratches her arm, "I'm trying my best, Eleanor."
+"Be that as it may, your confidence is lacking, Childe. You must have confidence in yourself and in your abilities. You are a Tremere, after all." She crosses her arms.
+Maya quickly nods, "I know, I know. And I'm already starting to feel that Compulsion for Perfectionism, but I'm still new to all of this."
+Eleanor walks over to Maya and places her hands on Maya's shoulders, "That excuse will not last forever, Childe. At the very least, you should be able to raise your Auspex Levels as the nights go by."
+"Sure, I...I can do that."
+"Hmm. Will there be anything else, Childe?"
+"Uh, yeah, actually. What do you know about the Baali Clan?"
+Eleanor tilts her head, stares Maya down, and sternly asks, "Where did you hear of that Clan?" Her tone is icy and uncompromising.
+Maya stammers and steps back a bit, "Uh...um, you told me about it during our talks." A boldfaced lie (that she might be able to get away with due to Eleanor's...forgetfulness).
+The Elder Tremere rapidly blinks and rubs her chin, "I do not...recall ever telling you about Clan Baali."
+She pauses for a few moments and asks, "What else do you know of them?" She crosses her arms. Her eyes are focused on Maya.
+Maya avoids eye contact, "Uh, something about them being able to Re-Embrace Kindred?" She nervously chuckles.
+Eleanor's lips curve into a polite smile, "Yes, that is correct, Childe. They are the only ones capable of such a deed. Moreover, they are extremely dangerous and unpredictable."
+Maya mutters to herself, "You could say the same thing about the Lasombra."
+"What was that, Childe?"
+"N--Nothing. So, hypothetical question, if a Baali were to enter Plaintry, what would you do?" Maya asks, trying her best to sound nonchalant.
+Eleanor's expression changes as she furrows her brows, "I would, in all likelihood, destroy them." Her voice is grim and calculated.
+"Oh--oh, ok. Would you destroy a Lasombra, too?" Maya asks, still trying to sound casual.
+Eleanor doesn't respond.
+Maya scratches the back of her neck and lets out an awkward smile, "Just hypotheticals here, Eleanor. I'm not gonna go around looking for trouble or anything. Promise."
+"Trouble, my dear Childe, has a way of finding us Kindred." She pauses for a few beats and adds, "However, I trust you to not do anything foolish, Maya."
+Maya smiles and nods.
+"Is there anything else on your mind, Childe? Anything at all?"
+"Why didn't you or Lucile tell Nolene what really happened to Sheriff Jacques back in 1999?"
+Eleanor raises her chin a bit and says, "Ah, so you 2 have been talking about that, hmm?" She lets out a small sigh.
+"Yeah, and I don't get it. I mean, why lie to her about it? Why not tell the truth? She thinks he skipped this town and abandoned his duties."
+Eleanor replies, "I did not wish to cause her any undue distress. She has enough on her plate as it is."
+Maya shakes her head, "She HATES him, Eleanor. She used to be in love with him, now she has nothing but contempt for him."
+Eleanor replies, "Sheriff Jacques knew the risks involved--"
+"NO ONE did, Eleanor! He and those Nosferatu were sent on a suicide mission! And for what? To serve as a punching bag for 2 Methuselahs!" Maya's voice is raised. She is visibly upset.
+Maya doesn't allow Eleanor to speak. She continues, "I mean, you and Lucile barely survived those fuckers! I--It was thanks to Theodore that you're both here, right now." She sighs loudly.
+Eleanor simply nods. Her expression is blank. She doesn't say anything.
+Maya continues, "So, I just don't get it. WHY did you and Lucile keep it from her? At least give her some closure. Let her know that he didn't just leave her behind."
+Eleanor calmly replies, "I will give consideration to it, Childe."
+Maya rolls her eyes, "I guess I gotta keep my mouth shut about this when I see Nolene again?"
+"It would be preferable, yes."
+Maya groans, "Gah. Anyway, when do I get to meet Mr. Theodore? He did save you and Lucile all those years ago and he sounds like a pretty cool guy."
+Eleanor replies, "He is currently...busy at the moment."
+"Any idea when he'll be free? I really REALLY wanna meet the other Tremere in this town, Eleanor!"
+"In time, Childe. In time."
+Maya looks around and remarks, "It's just so sad, Eleanor."
+"What is?"
+"Jacques. H--He was destroyed right around here while you and Lucile watched. I can't imagine how horrifying that must have been for you both." Maya shudders in fear.
+Eleanor dryly replies, "Yes, it was quite traumatic, but we had to press on. Those Methuselahs had to be stopped, one way or the other."
+Maya asks, "What happened after all of...that?"
+"Lucile chose this cottage as her Haven. Theodore and a few other Tremere assisted in the renovations and paperwork."
+"I know that, but what happened happened, y'know? Like, behind the scenes and all that?"
+"It is improper to dwell on such things, Childe. Besides, the past is the past. We cannot change it. We can only learn from it." Eleanor's tone is blunt and uncompromising.
+Maya sighs, "So, you covered it all up, then?"
+"If that is what you wish to believe, then feel free to do so, Childe. Our entire existence is, after all, a cover-up," Eleanor blandly states.
+Maya grumbles, "Hmphhh. I guess." She gestures to the ground and asks, "So, how long will this Blood Ward keep those 2 down? Also, have you found a better place to move 'em to?"
+Maya looks down and frowns at the disturbed patch of ground, "It feels kinda...scary having them near our Haven."
+Eleanor replies, "We are looking at expanding the House of Hermes. It is not an easy task, but it is necessary now more than ever. As for the Blood Ward, it should hold for a few weeks."
+"Cool, cool."
+Eleanor looks directly at Maya and says, "However, I strongly recommend you learn how to apply a Blood Ward, Childe. It is a fairly simple procedure, but it is one that is quite useful."
+Maya nods, "I'll try my best, Eleanor." She looks to the side and plays with her hair.
+Eleanor replies, "I am certain you will, Childe." She turns around and walks away.
+Maya calls out, "Eleanor, wait!"
+Eleanor stops in her tracks, "What is it, now?"
+"Um...thanks. For everything, really. I mean it, Eleanor. Yo--You're a great Sire and I'm truly grateful for all you've done for me so far." Maya sincerely smiles.
+Eleanor simply nods, "Very well, Childe. Do not disappoint us. Good night." She walks away.
+Maya sighs and heads back inside. She throws herself on the couch and lays her head back.
+"Helluva night. Sheesh!"
+She looks at the clock and sees that she has a few more hours till sunrise. She yawns and stretches her arms. She gets up and heads downstairs to her bedroom.
+She grabs her laptop, undresses, and gets comfy on her bed. She puts on some music and starts browsing the internet.
+One thought nags away at the back of her mind: FBI Special Agent Björn Henrickson, the Baali (with his 8 feet tall shadow "buddy").
+She hopes he'll do the right thing and present himself to Prince Lucas, but let's be real, he won't.
+Was she wrong in withholding information from the Prince? From her Sire?
+Maybe.
+But, then again, she doesn't want to add to the growing list of problems. Especially since the Garou attack is still fresh on everyone's minds.
+She sighs and increases the volume of her music. She scrolls through a few job search sites.
+The sun is yet to rise. Maya has a few hours to herself. She types away on her keyboard, has multiple tabs open, and browses the web.
+She checks her email and notices no new messages (apart from the ones from various media outlets "seeking comment"). She batch deletes those and groans.
+She then goes back to another browser tab and opens up a forum website. She browses through the threads, looking for any interesting topics.
+It's the website she was (and still is) a part of. It's all to do with vampires. People here claim to have encounters (mostly sexual ones) with what they strongly believe to be vampires.
+Now that Maya is an actual vampire, she has to tread carefully when posting on these forums. She can't reveal too much, lest she violates the Masquerade.
+She chuckles and grimaces as she browses through the various threads.
+Maya debates closing her account entirely, but decides against it. She might need to use it for future purposes.
+She goes back to the main page and scrolls through the latest posts.
+After seeing the same claim for the 1000th time, Maya decides she's had enough Internet for one night. She closes her laptop and puts it aside.
+She lays back on her bed and stares at the ceiling, "Ah, Lucile...if only you were here. I miss you so so much."
+Maya grabs Lucile's Samsung Galaxy S8 Plus and decides to look through it. Lucile couldn't take it because the SI monitors nearly everything on nights such as these.
+She finds a lot of text messages from antique dealers all across the country. Apparently, that's how Lucile sources most of the blood needed for her Thaumaturgical experiments.
+Heh, go figure.
+A few "rare antiques" are expected to arrive in a couple of weeks. Maya assumes they're blood vials and such. They've already been paid for and nothing is priced below 3 digits.
+She also finds a few pictures of herself. There are also some selfies Lucile took with Maya. Maya giggles and smiles.
+For fun, Maya takes a selfie with Lucile's phone and sends it to herself.
+Maya spends the next hour or so looking through her girlfriend's phone. She laughs and smiles as she goes through the various texts, photos, and videos.
+"Ha ha ha ha! Oh my God, Lucile! You're so hilarious!" She wipes away a tear of blood from her eye.
+Maya puts the phone down and yawns. She looks at the time.
+Yep, it's almost sleepy time. The sun is slowly rising and Maya can feel the effects of the dawn. She's getting sluggish and tired.
+She puts Lucile's phone aside and closes her eyes.
+In time, she drifts off to the inevitable day-sleep. As do all the other Kindred in this part of the world.
+Fast forward to the afternoon...
+The sun is brightly shining and beaming down on Plaintry. The streets are bustling with activity.
+A bunch of cars are parked near The Gastronova restaurant.
+Tim, Bernice's assistant, is standing near the entrance and talking to someone on his phone.
+"Yes, Bernice. They'll be here soon. Of course, the VIP section on the first floor. Of course, of course. Sure, see you soon! Bye!" He hangs up and adjusts his yellow bowtie.
+He looks around and mutters to himself, "Who the hell is gonna bother, anyway?" He shrugs and walks inside.
+He makes his way to the first floor and watches as the staff quickly sets up the tables and chairs.
+He paces around the room, making sure everything is in order.
+He looks out the window and sees a few people milling about. He grumbles to himself, "Just come in already..."
+Eventually, Bernice's (former) campaign staff members start arriving. They pour into the restaurant and head upstairs.
+They sit down at the various tables and get comfy. Some individuals gasp and groan at the prices of some of the dishes.
+Tim approaches them and says, "Good afternoon, everyone. I hope you're all doing well today."
+A man in a blue aloha shirt and dark slacks shakes his head, "This is a send-off party, isn't it?"
+Another individual in a brown blazer and olive slacks scoffs, "We all know it's over, Tim. Why is Bernice even doing this, anyway?"
+Tim raises both hands in a placating gesture and attempts to calm down the disgruntled individuals, "Look, Bernice just wanted to do something nice, OK?"
+A person in a beige suit loudly asks, "Where is she, anyway?!"
+A man in a red flannel shirt and dark jeans smacks the table, "Does she really expect us...to just forget about what happened?!"
+Tim groans but does his best to keep his calm, "We've already been over this. It's no use pointing fingers or naming names, alright? Just...let it go." He lowers his head and sighs.
+"Maya fucking Weekes! That's who! Fuckin' chatty BITCH!" another voice bellows. People nod and grumble in agreement.
+Tim shakes his head, "There's no need to do any of that. And, please, keep it down. This is a respectable place." He gestures to the people downstairs. Some of them are looking upwards.
+Others are craning their necks to see what the commotion is. A few waiters are looking around and trying to determine whether stepping in and dealing with this is an official part of their job.
+"Yeah, we're not talking shit. We're stating facts, Tim!"
+A woman in a dark pencil skirt and off-white blouse laughs and asks, "Then, how else do ya explain why we're here today and not, y'know, trying to win an election?!"
+Tim rubs his temples, "What's done is done. We can't go back and change things now. Point is, we just gotta accept it and move on."
+A man in a polo shirt groans and asks, "Move on?! Easy for you to say, buddy! But some of us got reputations to uphold! You really think anyone's gonna give us a second look now?! No fucking way!"
+He looks down at his hands, which are clenching into fists. He lets out a sigh as a man next to him tries to calm him down, "OK, OK, easy now. Easy."
+Tim is getting agitated by the second. He angrily asks himself where Bernice is. He scratches his head and looks out the window.
+Nope. No Bernice yet.
+"Where is she?! Damnit..."
+A person removes a pair of earphones and says, "Hey, let's get something to eat." A few individuals nod their heads in agreement.
+A person wearing a faded brown suit asks, "What's a paneer?"
+"Cottage cheese, I think. Yeah, let's get a few plates. Hey, Tim! Bernice is paying for this, right?"
+Tim silently nods and goes back to nibbling on his fingers. He stares out the window, watching and waiting for his boss.
+People slowly make their way to the ground floor of The Gastronova, but still no sign of Bernice.
+30 minutes become 1 hour. 1 hour becomes 80 minutes. 80 minutes turn into an...hour and a half.
+Waiters and waitresses walk up and down the stairs, bringing and taking away plates of food.
+Tim does his best to maintain the illusion of a normal lunch. But, it's getting increasingly hard for him to do so.
+Some individuals look around, confused. Others simply shrug and go back to their pork satays.
+Bernice is the last to arrive. Eventually. "Fashionably late," as they say. She's resplendent in hot pink suit, ruby earrings, and white pumps. She's dressed to the nines. Her smile is beaming as she enters.
+She takes off her Versace sunglasses. Her makeup is impeccably applied. Her hair is combed, straightened, and shiny. It's as if she stepped straight off a high-end fashion show.
+The other people stop their conversation as soon as she enters. All eyes turn to the former mayoral candidate. Waiters and waitresses watch in awe, jaws hanging open.
+Customers from the ground floor look up at her. They look at one another, whisper, and talk amongst themselves.
+Some individuals in the crowd recognize Bernice. Some even take a quick picture or two.
+The tabloids would kill for that kind of stuff.
+Bernice takes it all in, the eyes on her, the attention, the muttering, and the envy. She relishes in it and takes a deep breath.
+She does a curtsy nod and confidently strides to the first floor. Tim is in the corner, arms folded, moping. He's barely eaten a thing. Bernice shakes her head and approaches her assistant.
+Tim doesn't make eye contact with his boss, "There you are! What took you so long?! We're almost done and--hey--"
+He stops his sentence and just stares at his (former) boss, "My god, Bernice. You look amazing."
+"Why, thank you, Tim."
+Even the others put their utensils down and just look at Bernice, almost mesmerized.
+Bernice gestures around the first floor, "So, is this everyone, Tim?"
+"A few said no. That's to be expected, but this is most of 'em, Bernice."
+Bernice slowly walks around the area and looks at her former campaign staff, "Oh, no, please continue. I was...held up." She chuckles.
+A man with a red shirt and chinos says, "We...uh were gettin' hungry, Bernice. And you're paying, so yeah."
+A few of Bernice's supporters from the ground floor cheer and clap at her. The rest either nod their heads, roll their eyes, or just ignore the spectacle.
+A woman with shaggy blonde hair approaches Bernice and eagerly shakes Bernice's hands, "I believed in you, Bernice. A--And I still do!"
+Bernice warmly smiles, "Thank you for your support."
+The woman responds, "Don't worry, I've already blacklisted that stupid redhead from my store. She's not gonna be getting anything from us anymore."
+The other individuals laugh at this, some give her a thumbs-up and cheer her on. Bernice maintains her smile and says nothing.
+Tim approaches Bernice and takes her to a corner, "They...really hate that redhead after what she said. Or did. You might...wanna, y'know, tell 'em to tone it down a bit?"
+Bernice shrugs and simply says, "Why would I, Tim? She sank my career with her tongue. Sure, I'm not as peeved as others are, but that's because I know how to control my anger."
+She stroke's her assistant's cheek with her manicured nail, "And they should probably learn that, too."
+Tim stammers and lowers his head, "It's just that...we don't want anyone trying anything funny. What if someone got the idea to go to her place and do some crazy shit to it? Or--or to her. I dunno..." his voice trails off.
+Bernice replies, "Hmm, I see what you mean, Tim. If such a thing were to happen, then we'll simply disavow and distance ourselves from it, won't we, darling?"
+Tim gulps a bit, "Yeah, yeah, of course. Just wanted to give a heads-up is all..."
+Bernice softly laughs, "You've done so, Tim. And, don't worry about the bills. I'll pay for everything on this lovely afternoon. Now, go, eat something."
+Tim nods and asks one of the waiters for a menu.
+Bernice sits down at one of the empty tables and takes in the ambiance of the restaurant. People are eating, drinking, and talking.
+A few individuals occasionally glance in her direction, some of them nod. Others smile. While others give her...suggestive looks.
+Tim approaches Bernice's table with his order of Lobster Thermidor. He sits down across from Bernice, "I'm...I'm really sorry this happened, Bernice."
+Bernice rests her chin on her clasped hands and looks around, "Yes, well, what can we do about it now? Life is a series of disappointments and regrets. One must simply press forward and adapt."
+Tim sighs and grabs a napkin to put over his lap. He pokes and prods his lobster with the fork and knife.
+After a few minutes, Bernice's order arrives. She's ordered a plate of Salmon Wellington. It's steaming hot and smells absolutely delightful.
+Tim asks, "Is it...Is it really over, Bernice?"
+"Hmm?" Bernice looks up from her dish, a billow of steam obscuring her vision, "Ah, the campaign, you mean. Well, of course it is. I wouldn't have withdrawn if I could still salvage something from the wreck."
+She pauses and adjusts her hair, "The truth is, it would have been far more humiliating and costly for the Party had I insisted on staying in."
+She sips some white wine from a round glass and continues, "Besides, this'll all die down in a couple of weeks."
+Tim swallows his food, "But the stigma, Bernice. Y--You slept with the woman writing a piece on you!"
+"All the more reason for my withdrawal, Tim." She takes a bite out of her meal and looks down. She's frowning, clearly annoyed at the situation.
+Tim squeezes some lime on his lobster and remarks, "You were...so close, too. I'm...I'm just really sorry about all of this."
+He then asks, "What about the donors, Bernice?"
+Bernice cuts up a small piece of her food and eats it. She replies, "I've been on the phone with them for the past few days...and nights. Many are quite disappointed. Some even want their donations back, in full."
+She takes a deep breath, "It's been difficult for them to accept this development."
+"I can imagine. Have you spoken to...Annette?"
+"Come, now, Tim. You're starting to sound like one of those tabloid journalists. You know better than that."
+Bernice sips some more wine from her glass, "The whole thing...was messy to begin with. She already had her side of the story out while we were still putting out the fires."
+Tim sneers, "And it all snowballed down from there..."
+Bernice and Tim spend the rest of their meal in relative silence. Bernice is interrupted by a supporter or 2 who wish to take a selfie with her. She, of course, obliges them.
+The afternoon slowly dies down. The lunch rush slowly comes to an end. After a while, everyone finishes up their food and gets up to leave. Some people linger and wish to speak with Bernice.
+Others simply wave, wipe their hands, and leave the restaurant.
+Bernice looks at her lipstick stained glass and smiles. Tim removes his bowtie and undoes the top 2 buttons of his shirt.
+"So, what now?" he asks as he looks around.
+Bernice leans forward, "I'll have to let the others go, of course. But, I'd like you to continue on as my assistant. I can't imagine doing this all alone, Tim. I simply cannot."
+Tim raises an eyebrow, "Of course, Bernice! But, what are you planning on doing next??"
+Bernice looks at her nails and casually replies, "I've got some plans. There's no need to panic, Tim. Everything will be alright, you'll see."
+Tim sighs, "If you say so, Bernice. If you say so."
+Bernice confidently replies, "Oh, I do say so, Tim. I do...say so."
+Tim asks, "So, how's the whole...thing with your parents, y'know?" He pauses for a second. He can sense her hesitation and discomfort when he brings it up.
+She shrugs, "Nothing new. Still the same old kangaroo court nonsense. Speaking of, I did get a very interesting call yesterday evening."
+"Oh, really?"
+"Yes. A very raspy voiced gentleman by the name of Titus from a law firm I've never heard of before."
+"Huh?"
+"Tenebris Legal. Yes, this man said he could have the cases against my parents tossed out in under a month."
+"Seriously?! You mean--whoa! That's amazing, Bernice!"
+Bernice takes out a napkin and dabs the sides of her mouth, "Yes, Tim. It certainly is. Maw-maw and pops are going to be pretty thrilled about it, I reckon."
+Tim smiles, "Well, this has turned into a pretty decent day after all! Good to hear something...positive for a change."
+Bernice places her napkin on the table and takes a final sip of her wine, "Still, that wasn't the only offer I received."
+Tim arches an eyebrow, "What do you mean?"
+Bernice looks around and lowers her voice, "An...FBI agent by the name of Higgins came to see me after I announced my withdrawal from the mayoral race. He was pretty vague about his offer, but it sounded equally promising."
+"You...don't sound convinced, Bernice."
+She shrugs and says, "Not entirely. Still, his offer is not something I'm completely opposed to."
+Tim nods, "Hmm. You uh...got a lot to think about, huh?"
+"Indeed, Tim. So, how have you been keeping? Have the police found any leads on who did that awful thing to poor Kendra?"
+He shakes his head and grunts, "Not really, no. They keep saying the same old shit and just making more empty promises. Like that's gonna nail the sick bastards who drained her!" He scoffs and crosses his arms.
+He then asks, "Y--You know what the cause of her death was?"
+"Exsanguination, Tim. Terrible. I'm truly sorry for your loss."
+Tim lowers his head, "Th--Thanks, Bernice. I just need something to do. Something to stay focused on, to get my mind off--" tears well up in his eyes.
+He sniffles and wipes away his tears, "It's not been easy these past few weeks. Not at all." His voice cracks. He sounds desperate and sad.
+Bernice simply nods her head and rubs her thumb across Tim's shaking hand, "Now, how about we get some dessert before we leave? Hmm, what do you say?"
+Tim shakily nods, "You d--don't mind? It's a pretty pricey place, Bernice."
+Bernice dismissively waves her hand and proudly says, "Let me worry about that. Now, go on. Choose something nice."
+"O--OK, sure. Sure, if you say so." He gestures for a waitress to come over to their table. He orders a piece of gold-sprinkled truffle cake. Bernice orders 3 Luxe Flavored Baklavas.
+The waitress smiles and nods, "Sure thing." She speedily walks away.
+Bernice chuckles, "One of my exes back in college introduced me to Baklavas." She licks her lips.
+Tim fidgets with his fingernails and tears off a bit of skin, "Oh?"
+Bernice nods, "Yes. I didn't like them at first, but he insisted. And, eventually, I came around to the idea." She smirks.
+Tim clears his throat, "Bernice, I uh...wanted to ask you something."
+Bernice leans back in her seat, "Go ahead."
+Tim stammers, "I--I don't know if this is the right time o--or place..."
+He looks around to make sure no one is within hearing distance. He leans forward and says, "I'd like to resume our...sessions, Bernice."
+Bernice purses her lips and gently smiles, "Ah."
+Tim gulps as Bernice's gaze becomes even more intense. He continues, "I've been thinking about it a lot lately. I--It helps me think straight when I'm with you. When you're--"
+Bernice interjects, "In charge." She maintains her look of confidence and her voice is level and calm as can be. She's clearly enjoying this.
+"Y--Yes. And, and I don't want you going easy on me, like before. I want...more." There is a certain hunger in his voice.
+Desperation, sadness, loneliness. One, more, or all of them, perhaps.
+Tim wipes away a bead of sweat from his forehead, "And...I thought, well, I thought maybe you could use the...y'know," he nervously laughs.
+Without skipping a beat, Bernice gently nods, "Of course, Tim. I'd be glad to pick up where we left off. And I'd be glad to see what you can do. For me." Her smile is warm, but her eyes are cold.
+The waitress arrives with Tim's cake and Bernice's Baklavas. She does a quick bow and leaves the 2 be.
+Tim emptily stares at the sprinkles of gold on his truffle cake, "I'm...I'm ready."
+A smile of satisfaction comes across Bernice's face, "Good. But first, I'll need to draw up a contract."
+Tim takes his first bite, "Why can't we just use the old one?"
+Bernice shakes her head and picks up her first Baklava, "The...old way of doing things is simply not going to work for us anymore, Tim. You must be more than willing, is that clear?" She takes half a bite.
+She savors the taste, and then says, "After...what happened, things might not be able to go back to being the way they used to."
+"Sure, I get that. I'll sign anything."
+Bernice nods and elegantly eats the next half of her Baklava. She smiles, "Excellent."
+"So, uh, should I come by tonight? Or will you--"
+"Hmmm, eager, aren't we? No, no. It's too soon. Besides, you're not my only client, Tim. You have to earn your place. But, rest assured, you'll have your chance. I promise you that."
+Bernice picks up the next piece, "Just not tonight, darling." She pops it in her mouth and winks at him.
+Tim nods and looks at the remaining piece of Baklava on Bernice's plate.
+Bernice breaks it in half and tells Tim, "Open up."
+Tim looks around to make sure no eyes are watching them.
+Bernice places the half-baklava on his tongue. Tim closes his mouth and waits for the command to chew and swallow.
+Bernice eats her half and nods her head, "Good. I'll see you when I'm ready, hmm? Now, finish up."
+Tim chews, swallows his piece, and nods, "Sure. Sure. Whatever you want, Bernice."
+Tim goes back to eating the rest of his truffle cake. He grabs a clean fork and offers Bernice a bite.
+She gracefully accepts. After a few more bites, Tim looks up and asks, "So, what now, Bernice? What do you plan on...doing now that the campaign is over?"
+She shrugs, "Oh, I've got plenty of ideas, Tim." Her tone is ominous, but confident.
+"Uh, whatever they are, I'll be there, Bernice. By your side." His eyes are filled with admiration and need.
+"You always have been, Tim." She wipes the corners of her mouth with a napkin and gets up.
+She reaches over and wipes his mouth, too.
+She adjusts her suit and fluffs her hair. She raises her head up high and walks to the middle of the room.
+Bernice grabs a champagne glass in her hand and gently hits it with a knife. She clears her throat and everyone's attention turns to her.
+Even the other customers stop their conversations and look up. The waiters and waitresses watch intently.
+"Ladies and gentlemen. Thank you for coming here on this lovely afternoon. I wanted to thank each and every one of you for your support and your continued generosity in these trying times." She pauses and takes a deep breath as her eyes glide across the room.
+"I must admit, it has not been easy. For any of us. We were so close. The polls were going our way. The crowds, the media, they all loved us and, yet, they were taken from us in the blink of an eye--"
+One of the former campaign staff members screams out, "More like the running of the mouth!"
+Bernice maintains her composure, "Yes, well, let us not get bogged down in the details--"
+"FUCK MAYA WEEKES!" another individual yells.
+Some people cheer at this, but the majority of the crowd simply groans, shake their heads, or grumble.
+Bernice takes a moment before continuing, "Well, as I said, let us not dwell on the past. For, we must look ahead. We must move forward. And we must not forget who it was that enabled us to make it this far."
+She places a hand over her heart, and raises her glass of sparkling champagne to all those who've still decided to linger around.
+She looks around the restaurant and nods her head, "To Plaintry and to the United States Of America! Cheers!" she raises her glass and the others follow suit.
+Tim applauds her, almost a bit too eagerly.
+The former campaign staff members are clearly uncomfortable, but they raise their glasses and take a sip of their drinks anyway.
+Bernice looks around the room, "It is, undoubtedly, with a heavy heart that I must let you go, but know this, I will always remember you." She lets out a smile that would probably make a baby laugh (or cry).
+Politicians...
+Some acknowledge her, some gently clap, while others record her. They're already uploading this to the usual places- Twitter, Facebook, Instagram, etc.
+Eventually, the crowd dissipates and they start to make their way out of the restaurant after saying their final goodbye to Bernice.
+She greets everyone and thanks them for coming. It was a good campaign while it lasted.
+That's what she tells herself, at least.
+Bernice asks a waiter to bring the cheque.
+The waiter blushes and looks at the waitress standing next to him. He nods his head, "Sure." He goes to retrieve the cheque.
+Tim is in the bathroom, washing up.
+A balding man with a drawn face approaches Bernice. He's wearing a navy blue suit and brown moccasins. He curtly bows his head and presents Bernice with the cheque.
+Bernice opens it, scans it, and doesn't even bat an eyelid. She reaches into her small purse and places a credit card inside the cheque.
+She nods and hands it over to the man.
+He hands it over to a waiter and stretches out his hand, "I'm Mr. Janus. Co-owner of The Gastronova. Pleased to meet you, Ms. Matthews."
+Bernice shakes his hand, which feels a bit rough and clammy, "Mr. Janus. This is truly a fine establishment you have here." She lets out a small laugh.
+Janus laughs as well, "Yes, we believe in providing only the best. And keeping...undesirables out." He lets out a smile that reveals a few rotten teeth and a few golden dental crowns.
+Bernice returns the smile, "You've done a great job so far."
+He chuckles, "Of course. It is a shame about your campaign. I was planning on voting for you. You would've been good for business."
+She chuckles and places a hand on her chest, "Well, it is what it is, Mr. Janus. I'm sure The Gastronova will continue to do very well."
+Janus nods and glances around, "Oh, of course. The Gastronova will be going strong for many years to come. Perhaps longer."
+Bernice asks, "Where is the owner of this fine establishment, if you don't mind me asking."
+Janus vaguely replies, "Mr. Grayson is...currently unavailable at the moment. But, rest assured, he conveys his best wishes. He will be hearing about your visit." That last part sounds ominous for some reason.
+Bernice's face remains neutral, "Of course. Well, I'll let you get back to work, Mr. Janus. And, again, it was nice meeting you." She extends her hand.
+Janus takes her hand and looks deep into her eyes, "It is a pleasure, Ms. Matthews. I do hope we see each other again." His gaze feels almost menacing.
+Bernice returns the look and replies, "Of course. I look forward to meeting this Mr. Grayson."
+"I'm sure he shares your enthusiasm, Ms. Matthews." He lets go of her hand, nods, and walks away.
+Tim comes out of the restroom and adjusts his belt. He holds back a burp and walks over to Bernice.
+He asks, "Everything alright?
+"It's quite alright, Tim."
+Tim nervously tugs on his earlobe, "So, how much was it all?"
+Bernice playfully says, "Take a guess, darling."
+"Uh...5 grand?"
+Bernice snickers and shakes her head.
+"$7500 or somewhere around that range?"
+"No."
+"N--No way. F--Five digits??"
+Bernice calmly says, "$19,500. Plus taxes...and other charges. So, $23,000 in total."
+Tim almost chokes on his own spit, "Wh--Wh--I didn't know it was gonna be THAT MUCH! Jesus Christ, Bernice!"
+Bernice shrugs and says, "It's nothing, Tim. At one law firm I used to work at, our regular dinner bills would be 6 digits. Or more."
+Tim nods, "Wow. I've got to say, that's really something. I mean, I can't even fathom--"
+A waiter returns with the cheque. Bernice takes her credit card out and puts it back in her purse.
+"A--Anyway, what now, Bernice? Where are you headed? Do you have some business to take care of?" Tim asks.
+Bernice shakes her head, "I know you're keen on picking up from where we...left off, Tim. But, I have other things I want to do right now."
+Tim looks around and asks, "Something else? What else is there?"
+Bernice nods, "I've made a few...personal appointments with some people."
+"OK..."
+Bernice softly chuckles, "I might even go and pay Maya a quick visit. A supporter of mine sent me her address. How...cute. How thoughtful of them. Heh."
+Tim asks, "Are you s--sure about that, Bernice?"
+"I'm not going to hurt her, Tim. I simply wish to talk to her."
+Tim scoffs, "Maybe ask that redhead why she ran her mouth like that. Where does she live, anyway?
+"Some apartment not too far off."
+Tim rubs his chin, "Oh? Hmm."
+Of course, neither of them know that Maya moved out of there a few nights back.
+Bernice elegantly makes her way to the exit, Tim in tow. They nod and wave at the waiters and waitresses. The people inside are still looking their way, and some even give Bernice a thumbs-up.
+One of the customers raises her glass high up in the air and nods at Bernice, "Keep fightin' the good fight, Ms. Matthews!" she yells out.
+Bernice simply waves and smiles.
+Bernice emanates an aura of elegant self-assurance where ever she finds herself. Even though the campaign is over, her life isn't. That's the image she wants to sell. She's always selling.
+Always.
+It's got her this far, why stop now?
+She and Tim part ways. Bernice makes her way to a vacant apartment and Tim heads to his own home. He doesn't have much planned for the rest of the day. He just wants to spend some time...alone.
+He hasn't quite gotten over the murder of his fiancé.
+He gets home and slumps down on his leather couch. He grabs a framed photo of Kendra and him and sighs. He runs his thumb over her image and mutters, "We'll find 'em. And when we do..." his voice trails off.
+Tears fall from his eyes. He doesn't wipe them away. He just stares at Kendra's smiling face. It was one of their many dates. She looked radiant that morning. And so beautiful.
+A schoolteacher loved by her students. Strict when it mattered, but nice enough to be friends with. He met her during a school board meeting. That's how the 2 fell in love. That's how they ended up together.
+She was an amazing woman. Truly.
+Tim sobs uncontrollably as he stares at her face. Her bright smile, her beautiful blue eyes, her soft cheeks. Her everything. He kisses her image and cries out.
+It's unlikely he'll ever find out the truth about what happened to poor Kendra. And even if he did, there's little to nothing that a simple mortal like him can do against an Elder vampire.
+It's just not possible. It's not.
+Later that evening...
+Arman awakens from his day-sleep. He lies on his bed and stretches out his arms. He yawns and scratches his chest.
+He then reaches over and checks his phone. Nothing out of the ordinary. He grunts and throws his phone aside. He gets up and goes for a quick shower.
+After about 10 or so minutes, Arman picks his outfit for tonight. He decides on a simple, sky blue, slim fit, 2-piece suit along with a beige shirt. Very...Mediterranean.
+He looks at his reflection and nods as he tugs on the lapels of his jacket, "Not too bad, if I do say so myself." He flashes himself a smug grin and leaves his bedroom.
+Rolf greets his master, "Did master sleep well?"
+"Ah, yes, thank you, Rolf."
+Rolf nods and awaits further instructions for the night.
+Arman casually walks over to his study. There's a small stack of papers he needs to finish looking over. Nothing urgent, but better to take care of it before anything else.
+He sits down at his desk and calls Rolf in.
+The Ventrue clicks a pen and begins reading over the documents. He nods and signs off on a few requests. He also adds some comments and notes, all of which are neatly written down.
+He's a very organized man.
+Arman looks up at Rolf and says, "I'm sure you have some idea of what we're going to be doing tonight?"
+"Ja."
+"Are you prepared?"
+"Always, master."
+Arman narrows his eyes, "And you have no...objections?" Of course, Arman doesn't care much for his Ghoul's opinion, he's just gauging Rolf's loyalty.
+Rolf shrugs and replies, "If it's what master wishes. It is my duty." There's an emptiness in his voice.
+Arman smiles to himself and seems satisfied with the response.
+Rolf asks, "Would master like to feed now or after...Cross dead?"
+Arman chuckles, "After, of course. Heh."
+Rolf nods, "Ja. I go get ready now."
+"Wear something...casual, Rolf. I'll need you to dispose of the bodies and the car after we're done. Something inconspicuous, please. I don't want you drawing even the slightest iota of attention."
+"Ja. Rolf always discreet." The Ghoul walks away and gets ready.
+Arman spends the next few minutes or so looking over his paperwork. He clicks his tongue and scratches his chin every now and then. He takes out his phone and texts Lenny.
+"Is he coming or did he change his mind??"
+Lenny takes some time to respond: "Of course he's coming. I told him you're a potential investor looking to diversify your portfolio. He's coming with his bodyguard."
+Arman's fingers glide over the screen: "Fair enough. Just have the 6 million ready once it's done."
+Leonard responds: "Gonna move some funds around tonight, don't worry. Also, we should probably wait a few nights before swooping in and buying Nimbus. Let things die down a bit."
+Arman replies: "Good point. Let them...simmer a bit."
+Leonard writes back: "Haha, of course."
+Arman hears his doorbell ringing, multiple times. It also sounds like someone's banging on it, repeatedly.
+Arman groans and quickly texts Leonard: "He's here."
+Leonard replies: "Good luck..."
+Rolf is at the door but waits for his master to arrive before opening it.
+The banging and the constant bell ringing continue.
+Arman arrives at the entrance. He quickly adjusts his hair and collar. He then nods at Rolf, who opens the door.
+Standing there is none other than Camden Cross, CEO and founder of a startup named Ensure. It's to do with dietary supplements or something.
+He's 24 years old. He's got an oblong face, clean shaven. His dark, shaggy hair reveals a bit of his ears.
+Camden is wearing an oversized t-shirt with a few Japanese letters scrawled along the front, and a pair of black cargo shorts.
+The young CEO has an obnoxious look plastered on his face, "Yo, yo, yo! Sweet mansion, my dude!"
+Arman stifles a sign and welcomes Camden and his intimidating bodyguard inside.
+Radko looks to be in his 40s. The bags under his eyes and the wrinkles on his face testify of a boss that's just too much to put up with and handle.
+His eyes are sharp and he has a slight stubble. His head is bald and covered in a tattoo of a spider web.
+Camden immediately opens his mouth and points at Radko's head, "He lost a dare, so I made him loose his hair and get a sweet tat! Hahaha, oh, man!" He laughs like a hyena and slaps his bodyguard on the arm.
+Radko simply lowers his head and says nothing.
+Arman leads them to his large living room.
+Camden looks around the place, his jaw hanging open. He nods and goes, "Oooooh, nice! Nice, very nice!"
+He runs over to the the paintings that adorn the wall and inspects them, "Holy shit, bro, this shit is ancient! I can feel the vibrations of fuckin' medieval times from it, dude!"
+Arman sighs and frowns a bit, "Yes, well, if you're quite finished admiring them, please, have a seat."
+Camden laughs, "So, you a friend of the Big L?"
+"Excuse me?"
+"Leonard, dummy!"
+Arman chuckles, "Ah, I call him Lenny. Yes, we're good friends. That's why he asked me to speak with you."
+Camden nods his head and rubs his chin, "Yeah, yeah, he did mention a potential investor. Said you're looking to...expand or whatever. Hey, Ensure's always looking out for new opportunities and shit."
+Arman politely smiles and extends his hand, "My name is Arman."
+"Camden. Camden Cross."
+Camden looks at Rolf and points, "Who's that meat sandwich over there?"
+Arman quickly interjects, "Oh, that's Rolf. My bodyguard."
+"Sweeeeet. I got my own Rolf, too. Hey, Radko! Say hi or something."
+Radko curtly nods and simply says, "Hello."
+Arman smiles, "Would either of you like something to drink? I've got some wine."
+"Hell yeah! Hey, Arman, you mind if I livestream this?"
+Arman shakes his head, "Actually, I do mind, Camden. I am a man who values his privacy, as I'm sure you can appreciate."
+Camden grins and pulls out his phone, "Gotcha. But, I'm still gonna take a few pics of your digs, dude."
+Arman clears his throat. Camden rolls his eyes and puts his phone away.
+Arman tells Rolf to go fetch some wine for the soon-to-be-deceased guests. Rolf bows his head and walks to the kitchen.
+Radko leans forward and whispers something into Camden's ear.
+Camden shrugs, "Chill, dude. Chill!"
+Arman perches an eyebrow, "Is something the matter?"
+"Nah, he's just reminding me about the Nimbus buyout. I put that on hold for now. You're a big shot investor and all, I can't fuckin' blow this, y'know?"
+Arman simply smiles and nods his head.
+Camden continues, "Besides, if the board is right about it, we'll have plenty of dough to buy some more companies, heh."
+"Why are you so interested in buying Nimbus magazine, Mr. Cross?"
+Camden shrugs and throws his hands up, "Just for laughs. I asked my Twitter followers if they'd wanna see Nimbus get bought on livestream. They lost their shit!" He laughs again.
+Arman's smile drops, "Ah, yes, I saw that video of yours. You're quite...online, aren't you?"
+"It's the future, man! You gotta be connected if you wanna get ahead. It's a fuckin' dog eat dog world out there."
+"Hmm, there is no disagreeing with you there, Mr. Cross. I see that you are a very ambitious man, hmm?"
+Camden slaps his thighs and howls, "Hell yeah! That's how I got Ensure where it is today! With hard work and determination, baby!"
+Arman nods and politely claps, "Bravo."
+Rolf comes back and places a silver tray with 2 wine glasses on the large coffee table.
+Camden grabs a glass and swirls it around, "Cooool. So, how old is she?"
+"The wine or the glass, Mr. Cross?"
+Camden cackles, "Both!"
+Arman grimaces a bit, "Well, about a decade old, give or take a year or 2."
+"Sweet!" Camden gulps the wine down in one swift motion.
+Arman looks over at Radko, "What about him?"
+Radko shakes his head.
+Camden adds, "Nah, he's like...Orthodox or something. Y'know how hard I had to try to get him to lase his hair off?"
+Arman sighs, "I can imagine. Would you like more wine, Mr. Cross?"
+"Sure! Hey, can I have a couple of brewskis, too? You got any Heinekens or Bud Light?"
+"I'm afraid not, Camden. I prefer things of a...higher caliber."
+"Whatever, dude, whatever. Suit yourself."
+Rolf brings over a bottle of red wine and refills the empty glass.
+Camden drinks the glass in one gulp. Again.
+Arman suggests, "You're supposed to...savor it, Camden. Sip it, enjoy it. Appreciate it." There's a condescending tone to Arman's voice.
+Camden makes a funny face, "I'll keep that in mind, dude. But I'm just not a slow guy. I'm like a fuckin' shark on Speed, man. I gotta keep moving, keep going."
+Arman smiles and nods.
+Arman clasps his hands together, "So, shall we discuss...business? I'm sure you didn't come all this way to drink my wine and talk about life, hmm?"
+Camden nods his head, "Damn! Straight down to biz, huh? Yeah, let's chat!"
+Of course, there's nothing to...talk about. Arman is just biding his time. Stalling, waiting for a perfect moment to strike.
+The Ventrue looks at his Ghoul and subtly nods.
+Showtime.
+Rolf stands within striking distance of Radko, who is just still as a statue and a bit tired from his boss's antics.
+Camden raises an eyebrow and asks, "Something up? Yo, I was thinkin', maybe you'd like to be on the board? We could use guys like you. Y'know, suave and shit!"
+Camden continues, completely oblivious to what's about to happen, "Y'know, you got that whole...vibe."
+Arman glances at his Ghoul and subtly shakes his head, "Vibe?"
+"Yeah, y'know, the 'mysterious guy who's only interested in money and business' vibe. We can market you like that!"
+"Hmph. Well, I am always open to new opportunities."
+Camden puts his feet up on Arman's coffee table, "So, how much you willing to throw at me?"
+Arman notices Camden's feet on his table but opts to not say anything about it, "Well, how much are you asking for, Mr. Cross?"
+Camden looks up at the ceiling, "Oh, uh...like 75 million."
+Arman blinks, "Excuse me?"
+"Yeah, that's like...a minimum investment, y'know? But, we're cool with any amount, man, we'll take whatever you've got." He laughs and scratches his neck.
+Arman asks, "Don't you think you might be valuing your startup a little too highly?"
+Camden shrugs, "It's about the future, dude. You gotta think about what Ensure is gonna be like, in the year 2020. And, hey, Nimbus might be a part of that future, too."
+He shuffles in his seat and continues, "So, if it goes well, we'll have a good fuckin' reason for investing in the future, right?"
+Arman takes a sip of his own, "Hmm, it is...certainly a bold idea. However, 2020 is a long way off, Camden. Tell me Ensure's plans for the next year, at least."
+Camden nods, "Yeah, yeah, sure. So, we're gonna do a whole, like, a health drink and vitamin combo for the general public, y'know. Maybe get into the powdered supplements market, too. Heh."
+"Is there a big demand for whatever it is your startup...sells?"
+"Hell yeah, dude! I'm in the middle of Silicon Valley, man! You got a lotta tech people there, y'know? Like, A LOT. Fuckin' A, there's a demand." He pauses. His face becomes a bit more serious.
+He narrows his eyes and asks, "Y'know, you look kinda pale around the neck, man. Maybe you need some Ensure in your life. And your eyes look all hollow, dude, it's kinda freaky."
+Camden chuckles, "Maybe you need a vitamin shot or something. Like, not right now, but y'know. In the future."
+Arman claps back, "You're not exactly in a position to be giving out medical advice, are you, Mr. Cross?"
+"Naaaah. I'm more of an...alternative medicine kinda guy, dude."
+"Hmph. No surprise there. Is everyone in your Silicon Valley milieu as...eccentric as you are?"
+"I guess so. What's a mil-i-eu?"
+Arman sighs and rubs his temples, "You did go to school, didn't you, Mr. Cross?"
+Camden snorts, "Yeah, but I dropped out of like half the classes so I could build apps and shit."
+"Oh, and how did that turn out?" Arman looks Camden directly in the eyes.
+Camden points to himself, "How do you think, dude? I'm gonna be in the 'Forbes 30 Under 30' list this year! Fuck yeah! Ensure is gonna be the big man on campus, wooo!" He slams his fist on the couch.
+Camden adds, "I got a whole fuckin' fleet of fancy ass cars. Teslas, mostly. I love Tesla's. They're like fuckin' sci-fi cars."
+Camden continues his...flexing, "I got a super hot girlfriend with a huge ass." He whistles. "And a jet. And a bunch of other shit. You get it, right?" He grins and shows off his teeth.
+Arman nods, "You've made quite the name for yourself...in such a short span of time. That, I suppose, is something to be proud of. But, I digress. Let's get back to business."
+"Oooooh. Like, what kinda biz?" Camden rubs his hands together. There's a glint in his eyes. He knows he's in for a good deal.
+Or so he thinks.
+"Nimbus, Mr. Cross. What exactly are your plans with it?"
+"I'm gonna cut the fat, digitize that shit, and fill it with ads. We could sell out content to some fuckin' insurance company or cement provider or whatever, and they'd probably pay us shit ton of dough, dude!"
+"That...is your grand plan?"
+Camden scratches his face, "Uh, yeah, mostly. I'll just figure it out after I buy the thing. But, my followers on Twitter said a 40% staff reduction was the best move, so, y'know, I'm gonna do that. That's the Camden Cross way."
+Arman chuckles, "Ah, yes, Cross Nation. Your online followers...they're quite important to you, aren't they?"
+"Hell yeah. They've got power, man! They're gonna make me rich beyond belief! I livestream on Twitch almost every day. I just walk around with my camera and do whatever."
+"I must admit, I am quite...out of the loop when it comes to these sorts of things."
+"My brand is called Cross Nation, so I do all kinds of cuh-ray-zee things in my streams--"
+"Like having a spider web tattooed on your bodyguard's head."
+Camden laughs, "Yeah, exactly!"
+"You know, Mr. Cross, it is indeed true that I am not as tech savvy as you are."
+Arman steeples his fingers and leans forward, "I prefer to do things the old-fashioned way. I prefer a...more personal touch in all my dealings, if you will."
+Camden does a fake yawn, "You sound like a dinosaur, dude."
+Arman lets out a slight sigh, "I just think that a startup like yours would be better served by a...more competent person. Or persons."
+Arman stands up and approaches Camden.
+Camden laughs, "Hey, I'm pretty damn smart! I built that fucking start--"
+Arman calmly says, "I'm afraid we're done here, Mr. Cross."
+"You're joking, right? Dude, you gotta be fucking kidding me! You know how long--" Camden springs up and pulls out his phone.
+Arman nods over to Rolf.
+The Ghoul grabs Radko from behind his neck and viciously smashes his head into a small table nearby.
+Rolf proceeds to snap Radko's neck, and the bodyguard goes limp.
+The Ghoul lets go of Radko and throws the body aside.
+Camden's eyes widen. He taps on his phone and cries out, "You--You motherfucker! I'll sue you, yo--you know who my father is?! You know who my fuckin' cousins are?!"
+Camden whimpers as Arman steps closer and places his hands on Camden's shoulders.
+"I do not care who...any of them are, Camden."
+Camden blinks and looks at his bodyguard's limp body, "Wh--why'd he kill Radko??" His lips shake and his eyes are frozen open.
+Camden tries to break free, but his efforts are in vain. He spits in Arman's face, "Luciano Donovan! My cousins will find you and they--they'll fuck you up!"
+Arman wipes the spit off and laughs, "I might've heard that name before. But it doesn't matter."
+Camden tries to wiggle free but Arman's preternatural grip is firm and unyielding, "Let fucking go of me!"
+Arman replies, "I'm afraid this is the end of...Cross Nation."
+Camden gasps as Arman reveals his fangs, "What the fu--"
+Arman pushes Camden's neck to side and pulls him closer. He bites down and sinks his fangs in.
+The Ventrue begins sucking Camden's blood out, no, he's guzzling it.
+Camden slowly wheezes as he feels his life slipping away, "Please...stop...please, no, please..." His voice is hoarse and he's struggling to speak.
+Arman has his mouth pressed up against Camden's neck. Rolf just stands and watches.
+Arman stops for a brief moment and says, "So, that's what it tastes like, hmm? Interesting."
+Camden is pale and shivering, on the brink of death. Arman sinks his fangs back in and continues drinking.
+Blood drips out from Arman's chin and onto the floor. Camden goes completely limp and his body slumps down.
+Arman lets the body hit the floor with a thud. He kneels down next to Camden and strokes his hair.
+"Hm. Such a waste."
+The Blue Blood turns around and sees Radko's dead body, head bloodied and neck snapped like a twig.
+"Rolf."
+The Ghoul replies, "Ja, master?"
+"Did you have to smash that man's head on that table? It was quite an expensive piece, all the way from Hong Kong. What were you thinking?"
+Rolf lowers his head, "Sorry, mein master."
+Arman sighs, "Yes, well, prepare to dispose of the bodies and the vehicle they came in. I think the car keys might be with the bodyguard."
+Rolf nods and goes to search the body.
+Arman stands up and wipes his mouth, "I suppose that's it for the night. Go ahead and--"
+Arman immediately feels a sharp pain in the pit of his undead stomach. He almost keels over and spasms. He falls on his knees and clenches his stomach. He tries to crawl to the nearest table for support.
+"Master? MEIN MEISTER (DE: MY MASTER)!" Rolf desperately calls out as he rushes to his Domitor's aid.
+Arman grits his teeth as he grips Rolf's shoulder for support. Arman makes a few guttural sounds and shakes his head from side to side.
+"Aaaaarghhh!"
+Rolf bends down and asks, "Master? Master, are you--"
+Arman's fingers dig deep into Rolf's shoulder.
+Just then, a river of scarlet vomit shoots out of Arman's mouth and splatters all over his precious floor and furniture.
+Rolf yelps as he's hit with a bit of blood splatter.
+Arman gurgles as he coughs uncontrollably. More scarlet liquid vomit mixed with what looks like ash come pouring out from his mouth and nose. He starts violently convulsing.
+Rolf immediately runs to the kitchen and retrieves a bag of blood. He rushes back and nearly slips on his master's vomit.
+Rolf puts the bag to Arman's lips, and says, "Master, DRINK!"
+Arman's hands are shivering. He opens his shaking mouth, and lets the blood slip inside. He clamps his mouth down and greedily sucks at it.
+Rolf rubs Arman's back, "Please, master, drink!"
+In a few seconds, the bag is empty. Arman's grip on his Ghoul's shoulder loosens and he seems to be coming around.
+Arman groans and rubs his chest, "Oh, god. I'm not doing that again."
+Rolf helps Arman up and leads him to a seat. Arman sits down and grumbles as Rolf wipes the blood and vomit off him. His suit is a wreck.
+Rolf asks, "What...happened, master?"
+Arman wipes his face with a cloth, "It's probably too hard for someone like you to understand, but it is the Bane of my Clan- Rarefied Tastes."
+Arman sniffs, "Why do you think I ask you to...procure all those young women for me? Hmm? It seems that those like them are the only ones I will be able to feed from for all eternity."
+"I see."
+"But you should know by now that I do not like to show weakness. Still, my curiosity got the better of me and I wanted to know what that wine tasted like." He gives Rolf a cold stare.
+Rolf nods, "It happens, master. Sometimes I eat many bars of chocolate. More than I should."
+Arman weakly chuckles, "Ah, Rolf. You are truly something."
+Arman leans back in his seat and grunts a bit, "Anyway, you better get to disposing of these bodies. Also, clean up the mess." Arman huffs and closes his eyes.
+Rolf nods and leaves him alone. He retrieves some bleach from the kitchen. He also grabs a mop and a bucket. He gets to work on cleaning up the blood and scarlet vomit. He doesn't ask his master any more questions.
+Arman just lays back and hums to himself.
+Rolf asks, "Would master like proper meal?"
+Arman shakes his head, "No, no. I'm quite fine."
+Rolf says, "Of course." He goes back to his cleaning.
+After a few minutes, Rolf's done. He goes to search Radko's corpse for the car keys. He finds it and holds it up.
+Arman orders his Ghoul, "Put the bodies in the trunk, drive as far away from here as possible, and...well, I'll leave the specifics to you, Rolf."
+Rolf responds with a simple "Ja," and gets to work.
+A few minutes pass and Arman is back in his study, at his desk, with a tablet in his hand. He's in the process of writing a couple of emails. He clicks send and leans all the way back in his chair. He stares at the ceiling and sighs.
+His eyes meet with Rolf, who is standing by the entrance of his study, with a stern look on his face.
+Arman raises a brow, "Yes, Rolf?"
+"I leave and go dispose of bodies and car. Will master be needing anything before I go?"
+"I think I'll be fine, thank you. Just make sure that NO ONE sees you, Rolf. I needn't remind you of that."
+"Of course, master." Rolf nods and exits the room.
+Rolf, so far, has been faithful to a fault. That is precisely why Arman keeps him around. And, even if he is not perfect, he will do anything he's told.
+Anything...
+After a few hours, Rolf returns. He took the bus and walked the rest of the way back to Arman's Haven.
+Arman asks, "Done? Was there any trouble?"
+"No, master."
+"Good. As far as the world is concerned, Camden Cross is simply...missing."
+"Ja. Good story, no?"
+"Perhaps. The media and the police will chase dead ends and empty leads for years to come. I'll leave it be as long as it doesn't...intrude upon my business."
+"Will it be a concern for master's business?"
+Arman replies, "As long as you disposed of the bodies and the vehicle without drawing any suspicion, there shouldn't be any problems. Hm. Not for now, at least."
+Rolf asks, "For now?"
+"These things, my dear Rolf, have a habit of rearing their ugly heads when you least expect it, hmm?"
+Arman picks up a few papers off his desk, "You are positive that absolutely no one saw you?"
+Rolf nods, "Ja. I took long route and avoided traffic, too."
+"Hmm, excellent. Did you notice anyone...or anything out of the ordinary?" Arman is desperate to make sure that all loose ends have been tied up.
+"Ja. No problems there, either."
+Arman shakes his head, "That's good. You know, Rolf, you are truly one in a billion. I could not have asked for a better...Ghoul."
+Rolf bows his head, "I could not have asked for better master."
+Arman smiles and says, "Bring the car around. I have that meeting at that rundown auditorium. I really wish we could do this at a better place, but alas, it serves its function and nothing more."
+"Ja. Should I clean the car first?"
+"No need. Just drive straight there."
+"Ja, master." Rolf heads out to bring the car around.
+Arman looks around and thinks to himself, "All in good time. Little by little, the pawns are being moved into place. Piece by piece," he chuckles to himself and rubs his chin.
+The car arrives and Arman makes his way out. He sits in the front and tells Rolf to drive slow.
+And the rest of the night passes by rather uneventfully.
+Chapter 14: A Week With Ms. Weekes
+The rest of the days (and nights) go on with nothing out of the ordinary happening. Or, at least, that's how it looks.
+It is now officially 1 week (7 nights, to be precise) since the Embrace of Maya Weekes into Clan Tremere. It has been...quite the ride for her.
+Plenty of ups and an equal number of downs, too.
+For most people, a week is just a week. But, for Maya, it's been an interesting rollercoaster of love, doubt, uncertainty, and...a smorgasbord of other emotions and feelings.
+On the one hand, she feels liberated. Free, even. She's also a little scared, nervous, and unsure.
+Is this...good? Is this normal?
+Has it been good or normal so far?
+Lucile and Maya continue to speak via their 90 second thing, but it gets increasingly harder as Lucile moves westward. Lucile says she has no idea on when she might be getting back.
+The other Kindred go about their Unlife as well.
+Arman and Ginny announce that they are now officially dating.
+For whatever reason, Prince Lucas gives Arman a bit of a cold shoulder. Looks like whatever Simon said to him about the Ventrue is worming its way through his mind.
+Maya's Sire, Eleanor, seems to be getting even more forgetful. Attempts to talk to her about it are met with silence (or scorn).
+Nolene and Maya become good friends. The 2 plan on going bowling, but Nolene's all wrapped up in her court case and she's pretty vague about what it's all about.
+Chaska becomes the de-facto right-hand man to Prince Lucas, and is generally around whenever he is. They get along rather well and they've known each other for years, so that's good.
+Maya awakens from her day-sleep. The sun has long set. She rubs her eyes and gets out of bed. She brushes her teeth and heads for a quick shower.
+She stands under the shower as the water runs down her cold, naked body. She just stands there for a few minutes.
+She thinks about all the decisions she's made, both the big and the little ones. Both in life and Unlife.
+And then her mind drifts off to...Lucile. Of course.
+Maya just wants her girlfriend back. That's all. She wants to hold her, kiss her, and be with her.
+She thinks back to what happened to her the last time she was with Lucile. That memory is still fresh in her mind. The (unfinished) Blood Bond between them still lingers.
+Maya can feel her dead heart act up. Her fingers rub against her throat. She thinks about all that could ever be between her and Lucile.
+All that will perhaps be.
+Her mind races, and she has very little idea of what comes next.
+After about 15 minutes or so, Maya steps out of the shower and dries herself off.
+She checks her phone and notices a message from Edgar, her former boss. It reads: "Maya. Got a great opportunity for you. You're not gonna want to miss this, trust me. Meet me @ Nimbus tomorrow evening. Just trust me on this, OK?"
+Maya sighs and frowns as she replies: "Nimbus?? Is this some kind of joke, Edgar?"
+Maya wasn't expecting it, but he immediately replies: "I know that Nimbus is probably the last place you wanna set foot in after what happened. I get it, believe me, I do, but this is important. I promise."
+Maya sighs and replies: "Fine. I'll be there. This better NOT be some kind of sick joke, Edgar"
+"It's not."
+Maya taps on the screen: "Will...she be there, too?"
+Edgar responds: "No. This offer is just for you, Maya."
+"Are you sure?"
+"I don't know if you heard, but Annette's got mandatory community service. A 100+ hours, IIRC. Don't be late, OK?"
+Maya's reply: "Fine. I'm only agreeing to this cuz my current job search is looking pretty damn grim."
+"I understand, Maya. Have a great evening."
+"You too, Edgar. Say hi to the kids for me."
+Edgar replies with a thumbs-up and heart emoji.
+Maya clicks send and tosses the phone on her bed. She finishes drying herself off and puts some clothes on.
+Maya slouches her shoulders and scratches her arm. She wonders what Edgar could possibly want, and why does he want to meet her at...Nimbus.
+She had no idea what awaited her.
+The Tremere Fledgling thinks to herself, "It better not be the past repeating itself..."
+She quickly snaps out of her grim thoughts and shakes her head.
+She grabs her laptop and turns it on. Like last time, she clicks on the link and patiently waits. She's given a random username and avatar.
+"://INIT..."
+Maya looks at the time. Last she heard, Lucile's supposed to be somewhere in Indiana by now. Or was it North Dakota?
+Maya rubs her chin as she tries to remember. She waits and waits and waits. Eventually, the session times out and the screen goes black.
+Maya angrily shuts the laptop and grunts. She just hopes Lucile comes home safe and sound.
+Whenever that is.
+A few tears of blood flow down Maya's cheek. She sighs and goes upstairs to her living room.
+She's about to head for the kitchen when she hears a knock on the door.
+She isn't expecting any visitors. Maya slowly walks over to the door and readies her claws.
+She then asks, "Who's there?"
+A distinctly Irish accent replies, "A friend."
+Maya's claws go back in, "Oh. What does this 'friend' want?"
+"Aye, I'm a friend of Lucile's!"
+Maya's eyes light up when she hears Lucile's name. She opens the door, revealing a person wearing a studded leather jacket and torn jeans. They have a stocky build and their hair is black, styled in a messy concave cut.
+Maya asks, "Hi. You are...?"
+The stranger extends their gloved hand and says, "O'Malley. Jean O'Malley. Clan Ravnos. Pleasure to meet you, Maya."
+Maya shakes their hand and asks them to come in, "You said you were a friend of Lucile? How is she? Is she OK??"
+"Aye, she's doing fine, love." Jean whistles and looks around the place, "Lovely little Haven you got. It's just as grand as she said it was."
+Maya's eyes widen, "You talked to Lucile? Where is she? Where is she right now??" Maya desperately wants to know.
+Jean winks at Maya, "Ah, you miss her, eh? Yeah, she misses you a lot, love."
+Maya asks, "How do you 2 know each other?"
+Jean replies, "I'm a courier for the Midwest. Well, most of it anyway. I like Lucile's ride; that red Chevy's a thing of beauty, y'know?"
+"Yeah, it sure is. Here, c'mon in, make yourself comfortable."
+"Aye." Jean walks in, removes their gloves, and plops down on the couch nearby.
+They ask, "You got anything to drink, love?"
+"I'm sorry, no. I didn't even...drink anything, too."
+"No bother, I'll find a warm body later."
+Maya nervously says, "I'm really sorry, Jean."
+Jean waves their hand is dismissal, "No worry about it, love."
+Maya sits down and asks, "So, tell me, Jean. How is Lucile doing? Is she alright? What's the situation out there?"
+Jean chuckles, "Lucile said you were a worrier, haha. As for the situation, it varies."
+"So, what are doing all the way up here, Jean?"
+"Here to hand over some wee flash drive to yer oul fella."
+Maya scratches her head in confusion, "'Yer oul fella'?"
+Irish slang is something Maya's not familiar with.
+"Aye. Prince Lucas. I'm also here to pick up a few packages and make some extra cash."
+"Oh, so how long have you been doing the courier...thing for?"
+"A wee while. Speaking of cash," Jean reaches into their pocket and pulls out a wad of crispy cash, "Lucile wanted me to give you this."
+Maya gingerly takes the money and asks, "Uh, thanks, but why would she want me to have this?"
+Maya counts the cash- $1,200. All fresh, crispy $100 bills that look like they came straight off a pile.
+Jean smiles, "She made $2,400 doing some deliveries. Wanted you to have half, she said you deserved it."
+"Wow, really?? But why?? Also, wow, Kindred couriers make THAT much?" Maya looks at the cash in her hands. She's not complaining, though. It's a good chunk of change.
+"Cause she loves you. And yeah, we couriers do make 4 digits. Minimum. But that's just me, it's not all about money, though," Jean's smile fades a bit.
+"That's...really generous of her. If o--or when you see her, tell her I said thanks."
+Jean nods their head, "Aye. Will do, love. Will do."
+Maya puts the money away and asks Jean, "So, did Lucile say anything else?"
+"Naw. She just wanted me to check on you. Make sure you were OK and safe. She...said that she might not be able to 'chat' every night due to time zone differences. She said you'd know what that means."
+Maya clicks her tongue, "Ah. Damn. That...sucks." She looks away and sighs. She tries not to let it get to her.
+Jean says, "Anyway, Lucile seems like a lovely lass. You 2 are quite a good match, eh?" they flash a cheeky smile.
+Maya smiles back, "I think so, too. I'm just hoping that she'll come back soon, y'know?"
+"Aye. We got to talking a bit. Lucile told me about herself and I told her a bit about me." Jean looks a bit concerned.
+Maya narrows her eyes, "Is everything all right, Jean?"
+Jean doesn't immediately respond as they stare blankly at the floor.
+"Jean..."
+Jean snaps out of their daze, "Ah, sorry, love. It's just, well, we were chatting and, y'know, I got to talking about meself. Not something I like doing very much."
+Jean pauses and clears their throat, "Anyway--"
+Maya asks, "Y'know, I actually wouldn't mind knowing a bit more about you, Jean. You seem like a...cool person."
+Jean laughs, "Cool? I've been called many things, love. But cool is probably not one of them. Most people call me a dryshite." They chuckle a bit.
+Maya looks confused, "Dry-shite? I feel like you're speaking a different language here, Jean. Haha."
+"If the accent didn't give it away, I'm Irish, love." They snort and cross their arms.
+"Oh, uh, right. Cool!"
+Jean slightly unzips their jacket, "I'm not used to telling random people about my...history. Not in a long while, at least." They sigh.
+"You don't have to if you don't want to, Jean."
+Jean shrugs, "Ah, what the hell. I'll give you the abridged version. I'll tell you the same thing I told your girl."
+Maya gently nods, "Whatever's comfortable with you, Jean."
+Jean nods, "I've been a Ravnos for close to 15 years now. Last I heard, my Sire got fuckin' charred. Shame..." they shake their head.
+"Was your Sire the one who got you into..." Maya gestures her hand around, "...the whole courier thing?"
+"Naw. That was something else entirely, love. The short story is I was a getaway driver for a Malkavian bank robber. The job went tits up after he killed the security guard."
+"Oof. Sounds rough. What happened to the robber?" Maya looks on with concern.
+Jean laughs, "He got the Sheriff's sword. The Prince in that city was a real law-and-order type of bastard. I, on the other hand, was offered a wee choice. I'm sure you can guess what that choice was, Maya."
+Maya slowly nods, "The sword or courier duty?"
+Jean points at Maya, "Bingo!"
+"Why'd they give you a choice, though?"
+Jean shrugs, "Hell if I know, but if it means not being on the chopping block, I'll fuckin' take it. This whole vampire thing has been quite grand...so far."
+Jean chuckles, "Besides, a Ravnos courier makes a lot of sense. We Daredevils are always on the move, never stopping. Our Clan Curse keeps us moving and moving. It's why we're still around, eh? You could say we're like a fuckin' bullet train."
+Maya smiles, "Heh, yeah. Wow, that's quite the story, Jean."
+Jean shrugs, "That's not even a quarter of it. If I'm in the mood, I'll tell you the rest--"
+Just then, a knock is heard on Maya's door.
+Maya springs up, "Huh, what? Who? Oh, hang on." She walks over to the door and slowly opens it.
+Eleanor and Nolene stand on the other side.
+Maya gasps, "Oh, uh...hey! C'mon in, I guess. Hi, Nolene! Hi, Eleanor. You 2 look...nice."
+Eleanor walks in and notices Jean lounging on the couch, "Ah, I see you have...a guest."
+Jean flashes the peace sign, "Aye. Name's Jean O'Malley! Lucile's told me all about you, Eleanor."
+Eleanor raises her chin a bit, "And who might you be, hmm?"
+"I'm a courier from the Midwest. Clan Ravnos."
+Eleanor gives them a quizzical look, "Oh, yes, right. How is Lucile keeping?"
+Jean nods and smiles, "She's doing fine. Told me to tell you to keep an eye on Maya over here."
+Eleanor simply glances at Maya.
+Jean chuckles and nods towards Nolene, "Hello there...um...?"
+Nolene steps forward and extends her hand, "Nolene. Clan T--Tremere."
+Jean shakes Nolene's hand, "Aye, another one, eh?"
+Nolene politely smiles, "Uh...yeah."
+She sits down next to Jean and looks around Maya's Haven.
+Eleanor puts her large purse on the table and takes something out. It's a large piece of paper.
+Maya asks, "What's that?"
+The Elder Usurper replies, "It is a copy of the Tremere Code. It is the oath that you must swear. The Code is a very important thing and, as your Sire, it is my duty to make sure you adhere to it."
+Eleanor hands the paper over to Maya.
+Maya quickly scans it as she whispers, "So...I'm supposed to recite ALL this?"
+Eleanor perches an eyebrow, "Will that be a problem, Childe?"
+Maya gulps, "N--No, not at all. Nope."
+Nolene chimes in, "Go easy on her, she's just a Fledgling."
+Jean nods in agreement.
+Eleanor sighs, "It has been 7 nights since your Embrace, Maya. It is therefore imperative that you take the oath."
+Eleanor sits down in an armchair.
+"Now, read it. All of it. Loudly. Do not falter and DO NOT skip any of it."
+Eleanor gestures to Nolene and Jean, "These 2 will serve as witnesses."
+Jean and Nolene nod.
+Jean says, "Aye. Why not?"
+Nolene smiles at Maya, "You got this, girl."
+Eleanor asks the 2 others, "Do you have any questions before we begin? Any objections or reservations?"
+Nolene says, "No. I'm good."
+Jean replies, "Naw."
+Maya clears her throat and looks down at the piece of paper that was given to her.
+She sheepishly smiles as her hands shake a bit.
+Eleanor gives her Childe a cold stare, "Is something the matter, Maya?"
+"N--No, just a...I can't believe it's been a week since my...Embrace. This is all a bit...surreal, right?"
+Eleanor nods, "Perhaps."
+"I can't even imagine what I'd be doing right now, had I not been Embraced by you, Eleanor. God, I don't even wanna think about it."
+Eleanor says, "Anytime you are ready, my Childe."
+"OK. Sure," Maya smiles at her Sire.
+Maya breathes in and breathes out.
+Nolene and Jean give her a nod.
+Maya straightens her back and begins, "I, Maya Weekes, hereby swear my everlasting loyalty to House and Clan Tremere and all its members. I am of their Blood, and they are of mine."
+A good minute or so later, and Maya ends, "I hereby swear this oath on this hallowed night. Woe to they who try to tempt me to break this oath, and woe to me if I succumb to such temptation!"
+Eleanor immediately rises up and approaches Maya. The Elder slits her own wrist and lets a few drops of blood fall onto the paper.
+Maya gasps as she sees the paper smoke and slowly break down into tiny particles. It soon dissolves and is completely gone.
+Maya asks, "What was that?"
+Eleanor doesn't respond.
+Maya asks again, "Eleanor?"
+Eleanor's eyes change color and she speaks, "Let it be so."
+A long, piercing howl erupts from everywhere and fills the air.
+The sound is so loud that Nolene and Jean are momentarily stunned.
+Maya grimaces a bit, but the howling eventually subsides.
+Eleanor's eyes go back to normal and she sternly nods, "Well done, Childe. I now hereby grant you the rank of Acolyte. May your service be of benefit to the Pyramid."
+Eleanor looks at Maya and warmly smiles, "You have come thus far, my Childe. There is still much ahead of you. There is still so much for you to learn. Stay vigilant and always keep the Beast under your control."
+Maya nods, "Of course, Eleanor." There is a slight look of disappointment on her face.
+Eleanor asks, "Is something the matter?"
+Maya shakes her head, "I just wish Lucile was here for this. She would've been...proud, I think. You know, that I...made it this far. 2 weeks ago, I didn't even know who this amazing woman was. I--"
+Maya chokes up a bit, "I just want her here."
+Nolene puts a hand on her shoulder, "Hey, we're here for you, girl. You're not alone."
+Jean adds, "Aye, Lucile will probably be back even before you know it. She's smart, strong, and capable, love."
+Eleanor says, "She will return, my Childe. She will return."
+Maya rubs her eyes, "Thanks, you 3. This means a lot to me. Really, i--it does."
+Eleanor puts her hands on Maya's shoulders, "I must leave now. In the meantime, continue your learning and training. Diligently perform any task given to you by the Prince and make every effort to uphold the Masquerade. Understood?"
+Maya replies, "Yes, ma'am. I mean, Eleanor." She awkwardly laughs a bit.
+Eleanor looks at Nolene and Jean, "You both have witnessed Maya taking the oath. Ensure that she does not deviate from it." Her tone is final and leaves no room for questions.
+Jean salutes, "Aye."
+Nolene smiles and waves, "Will do, Eleanor."
+Eleanor nods and heads for the front door, "I shall see you at the auditorium later, then?"
+Maya nods.
+Eleanor reminds Maya, "Make sure you hunt before attending the meeting. It is improper to attend such gatherings when the Hunger distracts you."
+"Of course."
+Eleanor leaves as Maya hears the engines of a SUV roar to life.
+After a few minutes, Nolene breaks the silence, "Daaaaaamn, girl! You in the big leagues now!"
+Maya asks, "Was your oath-taking the same?"
+"Uh, yeah, yeah."
+"Wow. That's pretty cool."
+Nolene shrugs, "Eh. It was a long time ago. Heh."
+Jean gets up and adjusts their jacket, "Well, as much as I'd love to sit around for a chinwag, I got places to be and sleepin' arrangements to make; y'know how it is for us Wanderers."
