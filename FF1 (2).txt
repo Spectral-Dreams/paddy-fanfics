@@ -3357,10 +3357,10 @@ Camden scratches his face, "Uh, yeah, mostly. I'll just figure it out after I bu
 Arman chuckles, "Ah, yes, Cross Nation. Your online followers...they're quite important to you, aren't they?"
 "Hell yeah. They've got power, man! They're gonna make me rich beyond belief! I livestream on Twitch almost every day. I just walk around with my camera and do whatever."
 "I must admit, I am quite...out of the loop when it comes to these sorts of things."
-"My brand is called Cross Nation, so I do all kinds of cuh-ray-zee things in my streams--"
+"My brand is called Cross Nation, so I do all kinds of cuh-ray-zee things on my streams--"
 "Like having a spider web tattooed on your bodyguard's head."
 Camden laughs, "Yeah, exactly!"
-"You know, Mr. Cross, it is indeed true that I am not as tech savvy as you are."
+"You know, Mr. Cross, it is indeed true that I am not as tech-savvy as you are."
 Arman steeples his fingers and leans forward, "I prefer to do things the old-fashioned way. I prefer a...more personal touch in all my dealings, if you will."
 Camden does a fake yawn, "You sound like a dinosaur, dude."
 Arman lets out a slight sigh, "I just think that a startup like yours would be better served by a...more competent person. Or persons."
@@ -3418,8 +3418,8 @@ Rolf asks, "What...happened, master?"
 Arman wipes his face with a cloth, "It's probably too hard for someone like you to understand, but it is the Bane of my Clan- Rarefied Tastes."
 Arman sniffs, "Why do you think I ask you to...procure all those young women for me? Hmm? It seems that those like them are the only ones I will be able to feed from for all eternity."
 "I see."
-"But you should know by now that I do not like to show weakness. Still, my curiosity got the better of me and I wanted to know what that wine tasted like." He gives Rolf a cold stare.
-Rolf nods, "It happens, master. Sometimes I eat many bars of chocolate. More than I should."
+"But you should know by now that I do not like to show weakness. Still, my foolhardy curiosity got the better of me and I wanted to know what that wine tasted like." He gives Rolf a cold stare.
+Rolf nods, "It happens, master. Sometimes I eat many bar of chocolate. More than I should."
 Arman weakly chuckles, "Ah, Rolf. You are truly something."
 Arman leans back in his seat and grunts a bit, "Anyway, you better get to disposing of these bodies. Also, clean up the mess." Arman huffs and closes his eyes.
 Rolf nods and leaves him alone. He retrieves some bleach from the kitchen. He also grabs a mop and a bucket. He gets to work on cleaning up the blood and scarlet vomit. He doesn't ask his master any more questions.
@@ -3543,9 +3543,10 @@ Irish slang is something Maya's not familiar with.
 "Oh, so how long have you been doing the courier...thing for?"
 "A wee while. Speaking of cash," Jean reaches into their pocket and pulls out a wad of crispy cash, "Lucile wanted me to give you this."
 Maya gingerly takes the money and asks, "Uh, thanks, but why would she want me to have this?"
-Maya counts the cash- $1,200. All fresh, crispy $100 bills that look like they came straight off a pile.
+Maya counts the cash- $1,200. All fresh, crispy $100 bills that look like they came straight off a bundle.
 Jean smiles, "She made $2,400 doing some deliveries. Wanted you to have half, she said you deserved it."
-"Wow, really?? But why?? Also, wow, Kindred couriers make THAT much?" Maya looks at the cash in her hands. She's not complaining, though. It's a good chunk of change.
+"Wow, really?? But why?? Also, wow, Kindred couriers make THAT much?" Maya looks at the cash in her hands. She's not complaining, though.
+It's a good chunk of change.
 "Cause she loves you. And yeah, we couriers do make 4 digits. Minimum. But that's just me, it's not all about money, though," Jean's smile fades a bit.
 "That's...really generous of her. If o--or when you see her, tell her I said thanks."
 Jean nods their head, "Aye. Will do, love. Will do."
@@ -3553,7 +3554,7 @@ Maya puts the money away and asks Jean, "So, did Lucile say anything else?"
 "Naw. She just wanted me to check on you. Make sure you were OK and safe. She...said that she might not be able to 'chat' every night due to time zone differences. She said you'd know what that means."
 Maya clicks her tongue, "Ah. Damn. That...sucks." She looks away and sighs. She tries not to let it get to her.
 Jean says, "Anyway, Lucile seems like a lovely lass. You 2 are quite a good match, eh?" they flash a cheeky smile.
-Maya smiles back, "I think so, too. I'm just hoping that she'll come back soon, y'know?"
+Maya smiles back, "Yeah. I'm just hoping that she'll come back soon, y'know?"
 "Aye. We got to talking a bit. Lucile told me about herself and I told her a bit about me." Jean looks a bit concerned.
 Maya narrows her eyes, "Is everything all right, Jean?"
 Jean doesn't immediately respond as they stare blankly at the floor.
@@ -3561,11 +3562,11 @@ Jean doesn't immediately respond as they stare blankly at the floor.
 Jean snaps out of their daze, "Ah, sorry, love. It's just, well, we were chatting and, y'know, I got to talking about meself. Not something I like doing very much."
 Jean pauses and clears their throat, "Anyway--"
 Maya asks, "Y'know, I actually wouldn't mind knowing a bit more about you, Jean. You seem like a...cool person."
-Jean laughs, "Cool? I've been called many things, love. But cool is probably not one of them. Most people call me a dryshite." They chuckle a bit.
+Jean laughs, "Cool? I've been called many things, love. But 'cool' is probably not one of them. Most people call me a dryshite," they chuckle a bit.
 Maya looks confused, "Dry-shite? I feel like you're speaking a different language here, Jean. Haha."
-"If the accent didn't give it away, I'm Irish, love." They snort and cross their arms.
+"If the accent didn't give it away, I'm Irish, love," they snort and cross their arms.
 "Oh, uh, right. Cool!"
-Jean slightly unzips their jacket, "I'm not used to telling random people about my...history. Not in a long while, at least." They sigh.
+Jean slightly unzips their jacket, "I'm not used to telling random people about my...history. Not in a long while, at least," they sigh.
 "You don't have to if you don't want to, Jean."
 Jean shrugs, "Ah, what the hell. I'll give you the abridged version. I'll tell you the same thing I told your girl."
 Maya gently nods, "Whatever's comfortable with you, Jean."
@@ -3592,7 +3593,7 @@ Eleanor raises her chin a bit, "And who might you be, hmm?"
 Eleanor gives them a quizzical look, "Oh, yes, right. How is Lucile keeping?"
 Jean nods and smiles, "She's doing fine. Told me to tell you to keep an eye on Maya over here."
 Eleanor simply glances at Maya.
-Jean chuckles and nods towards Nolene, "Hello there...um...?"
+Jean chuckles and nods towards Nolene, "Hello there...?"
 Nolene steps forward and extends her hand, "Nolene. Clan T--Tremere."
 Jean shakes Nolene's hand, "Aye, another one, eh?"
 Nolene politely smiles, "Uh...yeah."
@@ -3640,7 +3641,7 @@ Maya grimaces a bit, but the howling eventually subsides.
 Eleanor's eyes go back to normal and she sternly nods, "Well done, Childe. I now hereby grant you the rank of Acolyte. May your service be of benefit to the Pyramid."
 Eleanor looks at Maya and warmly smiles, "You have come thus far, my Childe. There is still much ahead of you. There is still so much for you to learn. Stay vigilant and always keep the Beast under your control."
 Maya nods, "Of course, Eleanor." There is a slight look of disappointment on her face.
-Eleanor asks, "Is something the matter?"
+Eleanor asks, "Is something wrong, Childe?"
 Maya shakes her head, "I just wish Lucile was here for this. She would've been...proud, I think. You know, that I...made it this far. 2 weeks ago, I didn't even know who this amazing woman was. I--"
 Maya chokes up a bit, "I just want her here."
 Nolene puts a hand on her shoulder, "Hey, we're here for you, girl. You're not alone."
@@ -3663,3 +3664,330 @@ Maya asks, "Was your oath-taking the same?"
 "Wow. That's pretty cool."
 Nolene shrugs, "Eh. It was a long time ago. Heh."
 Jean gets up and adjusts their jacket, "Well, as much as I'd love to sit around for a chinwag, I got places to be and sleepin' arrangements to make; y'know how it is for us Wanderers."
+Nolene nods her head, "Nice meeting you, Jean. You gonna be in town for a while, right?"
+Jean nods, "Not for long, I'm 'fraid."
+They point to Nolene's tattoos, "Oi, I love your ink, Nolene. Really great stuff, I love the way the roses swirl around your arm."
+Nolene smiles at Jean, "Thanks, I uh...like the studs on your jacket, Jean."
+Jean chuckles as they rub their jacket, "Aye, this oul thing? It's as old as sin, love. But it's a gift from a dear friend, so it's very special to me." Jean tucks their hands into their pockets.
+Nolene nods, "Oh, that's cool."
+Jean snaps their fingers, "Oh, right, Maya! Lucile wanted me to tell ya that she already paid the bills, so you're set for a bit." They chuckle and wink.
+Maya smiles and says, "Oh, uh...wow, OK. Thank you, Jean. For everything."
+"Aye, no worry about it, love."
+Jean asks, "Anything you want me to tell her? Hmm?"
+Maya's eyes get a bit moist, "Just tell her that I love her. And tell her to stay safe out there. OK?" Maya sniffles a bit. Her voice is a bit shaky.
+"Aye, will do, love. Will do." Jean puts a hand on Maya's shoulder. Their tone is warm and gentle.
+Nolene reassuringly adds, "Lucile will be back before you know it. Now, I gotta get going. I uh...got that court thing I have to get to." She awkwardly scratches her hand. "I'll talk to you later, Maya."
+Maya looks at Nolene, "Oh, okay. Cool. Yeah, I hope things go well. We on for bowling this week or...?"
+Nolene sighs, "I'd love to, but this stupid shit's taking a hell lot longer than expected."
+Maya narrows her eyes, "What is it about, anyway?"
+Nolene gets a bit uncomfortable, "I--I just don't feel like talking about it. I'm sorry, Maya, I really am. Nothin' personal."
+Jean asks, "Oi, why can't you tell her, Nolene?" They cross their arms and look at Nolene.
+Nolene quickly replies, "Uh, just...I'm already running late. Um...bye!"
+Nolene hastily walks off. Jean looks at Maya and shrugs.
+Maya waves her hand a bit and wonders to herself what's got Nolene all stressed out.
+Jean sniffs, "Well, that was interesting. Anyways, anything else you want me to pass on to Lucile? Anything at all, Maya?"
+Maya shakes her head, "Nah, not right now. But I appreciate the gesture, Jean. I really do. I just don't want you to neglect your duties and act as a messenger between me and her."
+Jean nods and smiles, "It's fine, love. I kinda like doing it, actually. It's...cute." They put their hands in their pockets. The leather of their jacket makes a crinkly sound.
+Jean exhales, "Anyways, I got deliveries to make. I'll see ya when I see ya! Peace." They flash Maya a peace sign and leave.
+Maya waves a bit as Jean gets in their vehicle and drives away. Maya watches the car disappear and then sighs.
+Maya stands outside for a few minutes, just thinking.
+Well, at least, Lucile's OK, so that's a plus. Maya figures she should probably go hunting.
+Besides, the Beast within is starting to get a bit antsy and it's better to satisfy its eternal urges sooner rather than later.
+So, the Tremere Fledgling grabs her bike keys, locks the front door, and gets on her bike.
+She drives down the road, the street lights passing by in a blur.
+Maya can't help but wonder what's next for her, though.
+Little did she know...
+Soon enough, she finds what might be her meal for the night. A young woman in her 30s milling about near a deserted building.
+Maya pulls into the parking lot and parks her bike. She gets off and casually walks up to the woman.
+The woman is looking into a puddle of water, brushing her long, brown hair with her fingers.
+Maya lowers her stance and looks around to make sure there are no other witnesses nearby. She quietly sniffs the air and picks up a few less than desirable scents.
+Maya approaches the woman, who is emptily staring at her own reflection in the puddle of water.
+Maya covers the woman's mouth with her hand and pulls her down. Maya's face is right next to her ear and she whispers, "Shhh. Hshhh!"
+Maya's fangs emerge and she puts her lips on the woman's neck. She bites down. Hard.
+The woman is caught off guard, but her screams are muffled.
+Maya's eyes are glowing as the Beast gets it fill for tonight.
+After mere seconds, Maya pulls away as the blood covers her lips. She quickly looks around to make sure she's not seen.
+The woman's breathing is ragged. She's still alive. Good.
+Maya tightens her grip on the woman's body and licks the wound shut. Very good.
+The woman's eyes are filled with a mixture of fear and dreamy bliss.
+Maya gently lets the woman fall to floor and checks to make sure that she's OK (or as OK as one can be after being bitten by a vampire).
+Maya sighs in relief as she feels the fresh blood making its way through her entire body. She feels at ease, knowing that the Beast has been sated for now.
+After a few minutes, Maya is back on her scooter. Since the meeting at the auditorium is much later in the night, she decides to drive around town for a while.
+She slows down as she comes to the busier parts of town. Amidst the crowd, she spots a familiar face.
+He sees her, too. He casually waves at her as he walks towards her.
+Special Agent Björn Henrickson.
+Great.
+He looks peppier than usual, but still quite pale, even more so than Maya.
+His eyes are empty and his smile is a bit off.
+Maya speeds up, and drives off, hoping that he won't bother her.
+But, alas, her luck runs thin as he strides towards her and places his hand on her scooter handle.
+Maya nervously gulps as she notices a few police cars not far away.
+Björn smiles at Maya, "Hey, you!"
+"Uh, hi...Björn."
+Björn smiles, "So, how's my favorite Tremere redhead doing?"
+Maya hushes him, "Shhh, there's people nearby! Y'know, the Masq--"
+Björn blows a raspberry, "Yeah, yeah, I know. Sheesh, Maya. You need to learn to loosen up once a while. Just cuz we're dead doesn't mean we can't have any fun."
+Maya gives him a cold stare, "I know how to 'loosen up', thank you very much."
+Björn stares at her, "You seem icier than usual. What's up?"
+Maya blandly replies, "Nothing."
+"Ah, come on. I'm your friend, Maya. What's wrong? And don't give me that BS about you having 'nothing' to say. Also, I'm FBI, so I can see right through most people's BS. Heh."
+Maya sighs, "Maybe we should go someplace private?"
+Björn laughs, "Sure! Hey, sweet ride by the way! Um...Vespa, right?"
+"Mm-hmm."
+Maya reluctantly asks, "You want a ride, Björn?"
+Björn responds, "Nuh-uh. Nice try. I prefer something with 4 wheels. 2 wheelers just ain't my thing."
+"Hmph. Suit yourself. What are you doing out here, anyway?"
+Björn whispers, "Maintaining my cover. I'm actually pretty good at this FBI stuff. Even after all these years. So, have you given my offer any consideration?"
+"What offer?"
+"'What offer'. Pfft." He leans into her ear, "The one where I get rid of Special Agent Higgins for you. Heh."
+Maya sharply looks at Björn, "Wha-- No! I--"
+Björn teases her, "Spoilsport. I have soooo many chances to waste that guy. The security at their HQ is quite laughable. You'd think the SI would invest in better--"
+Maya cuts him off, "Wait! You know where the SI is??"
+Björn rolls his eyes, "Duh. Yeah, but I'm not telling you because that would be boring."
+"Grrr. You are soooo annoying!"
+Björn shrugs, "Maybe, but I'm still the best friend you've got."
+"I doubt that."
+"Heyyy, c'mon. I thought we were buddies. I could feel a real connection there, Maya. We have a lot in common."
+Maya changes the subject, "So, did you find that thing or whatever it is that...belonged to your boss?"
+"Nope. Still looking. Maybe you can use your crazy-glowy-eyes thing to help me find it. Oooooh," he imitates a ghost.
+Maya shakes her head, "It's called Auspex. I don't suppose you Baali have access to that particular Discipline, hmm?"
+"Nope. But my Sire could go all invisible and shit."
+Maya parks her scooter nearby and walks with Björn to a nearby bench. She sits down with him and asks, "Obfuscate?"
+"Is that what they call it? Yeah, maybe."
+Maya curiously asks, "So, who's your Sire, then?"
+Björn softly groans, "SEC guy named Markham Reed."
+Maya furrows her brows, "There's vampires in the SEC???"
+Björn scoffs, "I guess so. It's...complicated."
+"What did you say his name was?"
+"Markham Reed."
+"I swear, I've seen that name in like, news reports and stuff."
+"Yeah, he's kind of a big deal."
+"Well, go on."
+Björn shakes his head and sighs, "Remember when the SEC moved on Flimont City cause of all the insider trading, market manipulation, and all that shit?"
+"Oh, right. I remember that. Wow, a decade ago, though?"
+"Yeah, it's been a while. Damn. Well, Markham Reed was an investigator sent over from DC. Hooo, boy. A lotta crazy shit was uncovered and the city hasn't been the same since then."
+"So, there's other Kindred in Flimont City? What are they like?"
+Björn winces, "I try to stay the hell outta their way, Maya. They're not worth the hassle, believe me."
+"Hmm."
+"So, about that offer. You seriously can't make one single, little, teeny-weeny exception? I'll even let you choose the method of killing."
+Maya ponders for a moment before asking, "Is Higgins that big of a threat?"
+Björn replies, "Well, he's SI. That's a big enough threat, no doubt about it."
+"And why do you even want to kill him in the first place?"
+Björn sighs, "To be honest, I just don't like him."
+"You met him?"
+"Haha, no. I just read his file. He's a true believer, Maya. Just...ugh. The SI sure does attract the nuttiest of the nuttiest, hmm?"
+Maya asks, "So, you're STILL an FBI agent?"
+Björn replies, "Sorta. Just as long as no one goes poking too deep into my background, y'know?"
+"I'm not gonna judge, Björn. I just don't understand how you can be FBI and still do...this."
+"Well, like I said last time, this FBI thing is good for getting in and out of places, especially if you know what you're doing and where to look. It's an asset, Maya. Don't knock it."
+"Hmm. Well, I'll consider it, OK?"
+Björn folds his arms, "He really, REALLY wants to talk to you, Maya. I'm sure you're smart enough to know about what."
+Maya asks, "How do YOU know what he wants to talk about, anyway?"
+"I've seen the video of you and Annette arguing." He whistles, "Damn, remind me to never piss you off. Hey, by the way, is Annette...y'know?"
+Maya grimaces and angrily replies, "I don't ever wanna hear that name again."
+Björn smirks at her, "Hmm. I bet. Y'know, I saw her picking up trash while wearing one of those Hi-Vis vests. She looked so...sad."
+Maya growls at him.
+Björn laughs, "OK, OK. I'll drop the subject."
+Maya sneers, "She's a bitch and I don't EVER want anything to do with her EVER again," she raises her voice a few octaves as she continues, "EVER!"
+Björn chuckles and attempts to calm Maya down, "Whoa, hey, slow down there. It's been more than a week, y'know. Maybe things have--"
+As he continues speaking, a pudgy teenage boy approaches the duo. He pulls out a notebook and shoves a pen into Maya's hand, "Can I have your autograph, miss??"
+Maya blinks a few times, "Um...what for?"
+The boy replies, "You're, like, super famous. I've probably watched that video of you and that brunette arguing 100 times now, it's awesome!"
+Maya stares at the boy with a disgusted look on her face.
+The boy notices the look and quickly takes a few steps back, "So, can I have your autograph??"
+Maya folds her arms and looks away from him, "Get out of here. Just go. Leave me alone." She gives him his pen back.
+The boy's face is filled with disappointment, "W--But, you're a celebrity! You could have a whole career and stuff out of this! Please, miss! PLEASE!"
+Maya raises her voice, "I SAID LEAVE!" she points to the side with her finger.
+The boy clutches his notebook and scampers away as fast as he can.
+Björn stares at Maya and snickers.
+He whispers, "Subtle. Real subtle." He gestures to the others who have caught wind of Maya's outburst. Some approach her, phones in hand.
+Björn notices this, gets up, and wipes his pants, "Lemme handle this."
+He approaches the small group, "Alright, people. I'm a federal agent. Kindly go home and wait for your autographs from some real stars."
+They frown at him as some try to get around him.
+He raises his voice and pulls out his badge, "FBI. You yokels know what that stands for? GO. She's part of an ongoing investigation." He walks off and hops back on the bench where Maya is sitting.
+Maya weakly smiles, "Thanks. I think."
+Björn shakes his head, "Heeey! No worries."
+"Hmmm."
+Maya stands up and says, "I gotta get going. Um...Björn?"
+"Hm?"
+Maya stares at Björn, "Did you present yourself to Prince Lucas yet, y'know, in accordance with the--"
+The Baali carelessly waves his hand, "Nah, I haven't. I'm not planning on staying long, anyway."
+"Hmph." Maya sighs, "I have other stuff to do."
+"I'm sure you do."
+Maya scratches her arm, "Um...thanks for helping me out there." She awkwardly smiles.
+"We bloodsuckers gotta stick together, right?"
+Maya doesn't say anything.
+Björn gets up and gives her a side-hug, "I'll take that as a 'yes'. See ya around, Ms. Weekes!" he winks at her as he walks away.
+Maya sighs and walks back to her scooter. She noticed someone left a...note wedged in the handles.
+It reads: "FUCK YOU for ruining Bernice's campaign with your big mouth."
+Maya groans and crumples up the paper as she tosses it away.
+A little boy nearby points to the discarded paper and says, "Lit-ter-ing! She lit-ter-ing!"
+Maya shakes her head as she gets on her scooter and drives off. She decides to slowly drive to the auditorium despite the meeting not being for another few hours or so.
+She takes the scenic route and drives slow. She stops to fill up some gas at a gas station.
+She notices a slender man rummaging through his heavy rucksack. He's on one knee and has his back to her.
+As she gets closer to him, she notices a few more of his belongings strewn on the floor.
+She asks, "Uh...hi. You need any help?"
+He looks at her, "Hmm? Oh, thank you, miss."
+Maya gets down and helps this man pick up his belongings.
+Maya introduces herself, "I'm Maya."
+"Torvald. Maya, hmm? Lovely name."
+Maya smiles, "Thanks. Torvald?? You're uh...not from around here?" She hands him a little book as they continue picking up his things.
+"No. I'm from the Netherlands. We're just passing through this lovely little town."
+Maya asks, "Really? We don't get many visitors here."
+He gives Maya a small smile and says nothing. He regards Maya for a few seconds and says, "Your hair. It's beautiful."
+Maya presses her lips into a smile as she puts a few odd trinkets back in his rucksack.
+Torvald says, "You remind me of someone I used to know."
+"Oh, really?"
+"Yes, she has red hair just like you. Her name is Sanne. It means 'Lily'. She took care of me when I was very small."
+Maya smiles at him. Torvald looks into her eyes and maintains a neutral expression.
+Maya is starting to feel uncomfortable as he stares into her eyes.
+She clears her throat and stands up, "I--It was nice meeting you, Torvald. But I really gotta go. Enjo--Enjoy your stay at Plaintry and, um...have a safe trip." She briskly walks away.
+Torvald warmly smiles at her and waves goodbye.
+He watches as she gets on her scooter. She looks at him with worry on her face as she speeds off.
+Torvald stands up and cleans up the rest of his things. He carefully puts them in his rucksack.
+Gunnar emerges from a nearby bathroom. He zips his pants and walks towards Torvald.
+Anja emerges from the nearby convenience store, holding an energy bar of some sort.
+Emi is behind Anja. She's holding a small bag of Cheetos and munching on them.
+Torvald notices the bag of Cheetos, "Emi, don't you think you should be consuming something...healthier?"
+Gunnar laughs, "She's 19, Torvald! Let her enjoy her youth!"
+Anja shakes her head and says nothing.
+Emi, with Cheeto dust all over her mouth, asks, "Who was that pretty woman with red hair?"
+Torvald looks away and narrows one eye, "The same question I have, cub."
+Anja dryly says, "We saw you speaking with her. Do you know her?"
+Torvald shakes his head, "No. Yet, I can't shake off that feeling of...familiarity. She reminded me of someone I knew long ago."
+He lowers his head, "However, I could feel the taint of the Wyrm all over her."
+He rubs his chin, "Anyway, that is not as important. We must focus on our task for tonight. Do you have everything you need?"
+Gunnar nods.
+Emi nods.
+Anja says, "We are ready to follow your lead."
+She finishes the last bite of her energy bar and asks, "Will the others be meeting us at the warehouse?"
+Torvald nods, "Yes. We've done enough...looking around. Now is the time to strike. Remember, no survivors. Everyone in there is a Wyrm-tainted leech."
+Gunnar grunts and places his hands on his hips.
+Emi solemnly nods her head.
+Anja breathes in and out a few times.
+Torvald puts a hand on Anja's shoulder, "I know you still have your doubts. But this is necessary."
+Anja huffs, "I am aware of that, Torvald."
+Torvald reassures Anja, "It is a sacred task, Anja. To have the opportunity to cleanse this town of all these Wyrm-tainted blood leeches in one night? It is almost too good to be true! But we are the ones who were chosen for such a sacred task."
+Anja says, "Hmph. It probably IS too good to be true."
+Emi shoves another handful of Cheetos into her mouth.
+Torvald simply shakes his head.
+Gunnar cracks his knuckles, "It has been a while since I have...fought." He chuckles.
+Torvald puts a hand on Gunnar's shoulder, "Yes. It has been too long, my friend. We must never forget our Rage."
+Torvald looks up at the moon and gestures towards it, "Behold, Luna! Behold the one who grants us our Gifts!"
+Gunnar looks up and smiles. Emi looks up at the moon as well.
+Anja looks up at the moon and puts her hand on her chest as she whispers something to herself.
+The Garou are ready and they are coming.
+Back to Maya...
+She parks her scooter near the auditorium. She notices that the front door is still locked.
+She decides to mill around the place for a bit.
+She pulls out her phone and scrolls through Pinterest. She likes doing that.
+After a while, she just stares at her phone screen, feeling a bit disappointed that there's no new messages or notifications.
+(Apart from all the unnecessary ones, of course.)
+She applied for a position that closely matches her qualifications but she's still waiting for a response.
+She looks around for a bit and notices someone walking towards the front door of the auditorium.
+She realizes that it's Sheriff Eunice. She's wearing her police uniform.
+The Malkavian Sheriff pulls out a bunch of keys from her pocket and unlocks the door.
+Maya calls out, "Um...hi."
+Sheriff Eunice turns to Maya, "Hmph. You're early. Don't you have anything else to do?"
+Maya nervously scratches her head, "Um, no. Not really."
+The Sheriff pushes the creaky door open, "Well, you're a bit of a scatterbrain, aren't you?"
+Maya retorts, "You could say the same thing about the Malkavians..."
+Sheriff Eunice narrows her eyes, "What did you say?" She stares daggers into Maya's eyes.
+Maya's voice is shaky, "Uh--Uh, I mean, we all have our...differences, I guess."
+Sheriff Eunice clicks her tongue and sharply replies, "Differences, pfft." She walks in without saying another word.
+Maya shakes her head and walks in, too.
+She looks around the place as Eunice goes to get some plastic chairs to lay out for tonight's meeting.
+Sheriff Eunice puts the chairs in the correct places.
+She notices Maya, "Well? Make yourself useful."
+Maya asks, "Sure. You need anything?"
+The Sheriff rubs her temples, "It's been a long night and my stupid step-daughter is pestering me about college."
+She exhales and adds, "And now, I'm talking about my problems with a Tremere..." She mutters something to herself.
+Sheriff Eunice points to the far side of the large room, "There's a mop and a bucket back there. Fill it up and get cleaning." She walks off, leaving Maya to her task.
+Maya sighs and shakes her head as she begrudgingly makes her way to the mop and bucket. She goes outside and fills it up with water. The nearby faucet is rusted, old, and creaky, but it works. Just barely.
+She heaves as she picks up the filled bucket and brings it back in. She then dunks the mop in the water and starts mopping. There's a lot of dried dirt and grimy stuff on the floor.
+"Yugghh..."
+Sheriff Eunice just stands there, arms folded, watching Maya as she does the mopping. She says nothing. She simply stands there. Just standing there, watching Maya. With her dead eyes. Just...staring at Maya.
+Maya conceals her frown and goes back to mopping. It's quite a large area she has to cover, so she takes a few breathers in between. She wipes her forehead.
+Thanks to her preternatural vampiric strength, she isn't feeling as exhausted or strained as she used to feel back when she was a normal human being. (But still, she's feeling it a bit.)
+She glances at Sheriff Eunice and sighs. She continues mopping as her phone vibrates and rings loudly.
+Maya puts the mop down and pulls her phone out of her pocket. It's a call. From a potential recruiter, perhaps?
+She answers it.
+"Yes, this is Maya Weekes."
+"Uh-huh. OK."
+She licks her lips and looks around as the person on the other line talks and talks and talks. Sheriff Eunice is looking at her. Maya shrugs her shoulders and politely smiles.
+The Sheriff remains as still and expressionless as a statue.
+"I see. Unfortunately, I am not willing to relocate at the moment, sir. Thank you for the opportunity, however." She ends the call.
+Maya breathes a sigh of frustration and puts the mop in the bucket.
+She puts her phone back in her pocket.
+Sheriff Eunice calls out, "What did I say about not using that thing. Turn it off! You know the SI is tracking everyone's phones these nights."
+Maya pulls her phone out and quickly turns it off.
+"Good. Keep working. The faster you do that, the better."
+Maya does a passive-aggressive smile as she rolls her eyes.
+Maya mutters under her breath, "Damn, another busted opportunity. Great." She puts both hands on the handle of the mop and starts moving it across the floor again.
+And again.
+And again.
+And again.
+Something tugs at the back of her mind. Something that tells her that this mopping isn't good enough. It tells her that she missed a spot here, there, and somewhere else. It drives her up the wall, this feeling. This urge.
+This Compulsion for Perfectionism, but Maya knows that it won't stay suppressed forever. She gathers her wits and decides to have a go at it for a second time.
+So, she begins mopping again, for a second time.
+She grits her teeth and grunts as if she's in a boxing match.
+She gives this rather mundane task all she's got, dancing across the floor, mop in hand.
+Sheriff Eunice comments, "You look like you're enjoying this." She leans on the wall, her arms crossed. She has a bit of an amused expression on her sullen face.
+Maya ignores the Sheriff and continues.
+The Sheriff doesn't say anything else as she watches the Fledgling put a hell lot of effort into this otherwise trivial task. Maya is just that good. Just that good. At...mopping.
+Yeah.
+Soon enough, the floor's as clean as can be and Maya breathes a sigh of relief and puts her mop in the bucket.
+She stretches her back, "That should do it, right?" she mutters as she rubs her lower back.
+The Sheriff shrugs, "Meh." She looks at the floor and goes outside.
+Maya goes to empty the bucket of dirty water and takes the mop back to where she found it.
+She sits on one of the nearby chairs and leans back a bit, waiting for the others to show up.
+Prince Lucas arrives, with Chaska following in tow.
+The Prince is wearing a long black coat, faded slacks, and a patterned neck gaiter.
+He warmly smiles at Maya and Sheriff Eunice, "Ah, you 2 are already here. Good, good." He tugs at his gaiter a bit.
+Chaska wears some sort of cowboy fringe shirt, with its tassels dancing as he moves. He's also wearing some dark jeans, a belt with a big, gold, round belt buckle, and boots that look like they belong on a movie set.
+He greets Maya, "Usurper. How are you doing tonight?"
+Maya smiles at him, "Hey, Chaska. I'm doing good. How 'bout you?"
+Chaska shrugs, "The nights are long and the nights are hard."
+Prince Lucas remarks, "Hmm. Indeed." He looks at the drying floor, "I see someone put in some extra effort to keep things clean." He chuckles a bit.
+Maya presses her lips into a thin line and blushes a bit.
+The Prince looks at the Sheriff, "Your doing, Eunice?"
+The Sheriff simply nods over to Maya.
+Prince Lucas simply says, "Ah. Good work, Maya. It's good to see that even a Tremere is not below such a menial task. But then again, we must all be prepared to do whatever is necessary for the good Kindred Society."
+He sits down on one of the plastic chairs and pulls out a toothpick from his pocket. He starts chewing on it.
+Chaska takes the seat right next to him, "Yup."
+Maya looks around and asks, "So, any idea when the others will be coming?"
+Prince Lucas responds, "You know how it is with the others, Maya. They'll take their sweet, sweet time and expect everyone to wait on them, no matter the occasion or how urgent it is."
+He groans and continues, "Anyway, any news on the Garou? Eunice? Anything?"
+Sheriff Eunice shakes her head.
+The Prince looks at Maya, "How about you? Did you come across anything interesting or unusual these past few nights?" He adjusts himself on the chair a bit.
+Maya thinks for a second before shaking her head.
+"Mm. Too bad."
+Of course, Maya didn't know that she had a chance encounter with the Garou earlier this night! To her, Torvald was just an out of towner she encountered at a gas station.
+40 or so minutes later, and the door to the auditorium swings open. In walk none other than the power couple- Arman and Ginny, arm in arm.
+Arman's hair is slicked back, and he wears a nice casual suit and a dress shirt with the top buttons open.
+Ginny wears a dull-grey, knee length, bodycon dress with a low neckline. She wears high heels that clack as she walks in.
+She walks over and takes the seat away from Maya. Arman sits next to Ginny.
+Arman greets the Prince, "My liege. Lovely night, isn't it?"
+Prince Lucas dryly responds, "Hm. Arman."
+He greets Ginny, "Ginny. How are things going?"
+Ginny smiles, "Fine and dandy, your highness. Fine and dandy."
+Prince Lucas glances at her for a few silent seconds before turning his attention to Chaska, "So, who else should we be expecting tonight?"
+Chaska replies, "The Elder Tremere and that Lasombra Ancilla."
+Maya interjects, "What about Dylan, where's he at? Is he gonna be coming or--?"
+"You can never tell with him," Arman snidely comments.
+Maya ignores him and continues, "Is Dylan OK?" She looks concerned as she hasn't heard from him since they last spoke.
+Chaska replies, "I spoke to him. He's picking up extra shifts at the Amazon warehouse." He adjusts his shirt a bit and scratches his cheek.
+Prince Lucas says, "I would still prefer he were here, but I understand that work often comes first."
+The Elder Tremere, Eleanor, walks in.
+She's wearing a dark dress and a shawl. Her long, grey hair is done up into a bun. Her pearl earrings and necklace add to her aura of wisdom and authority.
+She curtly nods at Prince Lucas, "Greetings." She proceeds to sit next to her Childe.
+Maya smiles at Eleanor, "Hi."
+"Childe. I trust you are learning something of value in these meetings. Normally, they are for Clan representatives only."
+Ginny clicks her tongue, "I still don't see why she has to be here."
+Eleanor glares at Ginny, "It was the Prince's decision to include the Fledgling in our meetings, and I expect that you respect it."
+Prince Lucas clears his throat, "Alright, ladies, that's enough. It's good that Maya's here. We'll need as much input from all present. Especially in these...troubled times. That said, we're just waiting on one more."
+So, a few awkwardly silent minutes pass until a slim, slightly short woman walks in. Her skin is warm and her eyes are dark and piercing. She wears a sleek maroon dress. She's carrying a small bag over her shoulder.
+Prince Lucas immediately gets up and greets her, "Ah, Ms. Steiner. I'm so glad you could make it."
+The Prince notices a man standing awkwardly close to Ms. Steiner. He's in his 40s with disheveled brown hair and dark eyes. He's wearing a plain long-sleeved shirt and black jeans.
+Ms. Steiner introduces him, "This is Selby. My Ghoul." She speaks with a slight Eastern European accent.
+She continues, "And, please, call me Agnieszka. I am quite tired of hearing my last name
