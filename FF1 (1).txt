@@ -9,7 +9,7 @@ The following events take place during the year 201X.
 The sun was beginning to set, casting a warm orange glow across the bustling streets.
 In the heart of the town, stood a café that was frequented by the locals (young adults in particular), who would often loiter around the area after school or work.
 This included 2 women, a brunette, and a redhead, both clad in casual wear, sipping on hot coffee and conversing as they leaned against the counter.
-"So, are you free this Saturday?" the redhead, a woman in her early-thirties, asks the other.
+"So, are you free this Saturday?" the redhead, a woman in her early 30s, asks the other.
 "I guess I could clear my schedule for that," the brunette, a woman slightly younger than the former, replies.
 She takes a long sip of her piping hot brew and asks, "What do you have planned, Maya?"
 "Ah, so, my friend at the town hall, she's invited me to this fundraising party for the mayoral candidate," the redhead, Maya, says with a grin.
@@ -25,7 +25,7 @@ Annette stares into her coffee cup, "If I had to pick, I'd want somebody with a 
 "Uh, sorry," Maya says, pensively. "But, I mean, who cares, right? Who's gonna hear? It's not like we're famous or something. Anyways, it's not like people in this town don't have deep secrets of their own."
 Maya looks around and goes on, "You know what they say about small towns like ours: 'The smaller the town, the bigger the secrets.'"
 "Secrets," Annette sighs, a slight venom in her voice when mentioning "secrets". "I'd like to uncover a few of those sometimes, Maya. I wanna know what makes the people here tick."
-"Yeah, I don't know about that," Maya says, sheepishly taking another sip of her coffee. "Like, that guy over there. What do you think he's hiding? Seriously, who wears a freakin' hoodie in this weather? It's like, eighty degrees."
+"Yeah, I don't know about that," Maya says, sheepishly taking another sip of her coffee. "Like, that guy over there. What do you think he's hiding? Seriously, who wears a freakin' hoodie in this weather? It's like, 80 degrees."
 "I dunno. He might have some kinda scar or tattoo that he's embarrassed of," Annette replies while staring at the man.
 "That, or something else."
 Annette immediately turns to Maya and stares at her, "Aw, c'mon, Maya, not the vampire thing again. Can't you just drop it? I'm getting kinda tired of hearing you say, 'Oooooh, There's vampires in this town' every other day. I'm surprised the people around here haven't kicked us out yet."
@@ -118,7 +118,7 @@ The Sheriff, for a split second, is taken aback, but regains composure and firml
 "Hmmm, very good. Now, I bid you a pleasant night." With that, the Prince walks away into the night, leaving the Sheriff to go her own way.
 Eleanor, the Tremere, now finds herself standing in a quaint cottage. It was dimly lit by the orange light of a lamp mounted on the wall.
 A bookcase, stuffed with old-school textbooks and archaic tomes. Nearby, the sound of potions brewing and all manners of quaint scents permeating the air.
-"Oh, I do love my lab. So nice, cozy, and secluded from prying eyes. Y'know Masquerade breaches and all, so that's a nice bonus, heh heh," a feminine voice speaks out as a woman in her late twenties appears in the doorway, a slightly bemused look on her face.
+"Oh, I do love my lab. So nice, cozy, and secluded from prying eyes. Y'know Masquerade breaches and all, so that's a nice bonus, heh heh," a feminine voice speaks out as a woman in her late 20s appears in the doorway, a slightly bemused look on her face.
 "Lucile, my dear Childe!" Eleanor replied, cheerfully. "I was hoping I would get to see you. There is something I need to speak with you about."
 With that, Eleanor briefly recalls the entire meeting at the auditorium a few hours prior.
 On receiving the new info (and the instructions that follow), Lucile is a bit taken aback, yet her tone remains calm and composed, "Oh, so you want me to uh...talk to this Maya girl," she asked nervously.
@@ -168,7 +168,7 @@ Ginny frowns, "Sheriff Eunice? Yeah, maybe, the woman's a stone-cold bitch. You 
 Arman smirks, "We just have to figure out her 'right price'. Everyone has one. It's what being a Ventrue is all about, figuring out the 'right price' and exploiting it to one's advantage."
 Ginny groans and says, "Ugh, I'm starving. This bagged and watered-down crap ain't doing it for me, Arman. Gimme the real stuff, straight from the source? I'd usually drop by Maya's or Annette's for a quick sip, but now Prince charming and that old timer say they're off limits until Maya's been vetted by the Tremere."
 Ginny scowls, "God, how I'd love to throw a wrench in that plan too."
-Arman raises his hand, snaps his finger and beckons a big man in his early thirties, wearing a tight t-shirt and jeans, to come over. "Rolf, why don't you bring one of the girls in here."
+Arman raises his hand, snaps his finger and beckons a big man in his early 30s, wearing a tight t-shirt and jeans, to come over. "Rolf, why don't you bring one of the girls in here."
 "Yes," Rolf, Arman's Ghoul and bodyguard, replies in a gruff, yet respectful tone.
 Arman turns his attention back to Ginny and says, "I have a plan in mind. I can think of only a few possibilities that could result in our desired outcome. All the pieces are in place, all we need is a catalyst. A moment's weakness, a misstep, and then we strike. The Thin-Bloods in this town will undoubtedly be a part of this...puzzle."
 A wide smile forms across his face, "But, for now, a...more promising drink, yes?"
@@ -486,7 +486,7 @@ Bernice, taking on a mildly seductive tone, says, "I'm really looking forward to
 Annette is taken aback by this and is blushing, "Uh, wow, thank you. That means a lot. I'm looking forward to getting to know you too, Bernice. Goodnight!"
 "G'night."
 Annette hangs up the phone and lets out a loud, exasperated sigh of relief. She goes into her room, where she takes a quick shower, and slumps into her bed.
-She's exhausted but happy with the fact that she's managed to score an interview with the mayoral candidate herself.
+She's exhausted but happy with the fact that she's managed to score an interview with the mayoral candidate herself!
 A few miles away, Lucile has returned back to her somewhat secluded cottage. She takes off her coat and shoes, and throws them on a nearby chair. She takes off her dress and walks into her bathroom.
 She turns on the shower and stands under the warm water. It was most certainly a wild night for her. She looks forward to telling her Sire how good of a pick Maya would be for Clan Tremere.
 After she showers, she slips into her black nightgown, walks into her "lab", and opens her fridge where she stores all sorts of vials of blood. She proceeds to drink them one after the other, feeling satiated.
@@ -5309,8 +5309,9 @@ Back to the ladies' room...
 Officer Jenn flushes the toilet. As she's washing her hands, the paramedic from earlier in the morning comes in. She looks exhausted, her eyes are heavy. Jenn looks over to her and says nothing.
 The paramedic just grunts and goes over to a sink. She throws water on her face and stares into the mirror, expressionless.
 Jenn looks around to make sure no one else is in the bathroom. She then grabs the paramedic's head and slams it into the wall, "You got some fuckin' nerve talkin' to my partner like that in the morning."
-The paramedic struggles, but Jenn tightens her grip. The paramedic grits her teeth, "What...what're you talking about?!" she says in an angry tone. "I...I--"
-Jenn grits her teeth, "Shut up, bitch! If you know what's good for you, you'll stay quiet, ya hear??" The paramedic groans.
+The paramedic struggles, but Jenn tightens her grip. The paramedic grits her teeth, "What...what're you talking about?!" she sputters in an angry tone. "I...I--"
+Jenn grits her teeth, "Shut up, bitch! If you know what's good for you, you'll stay quiet, ya hear??"
+The paramedic groans.
 She's too weak to resist, but she still tries anyway. "Listen up, you saw nothing that night? Understood?!"
 The paramedic groans and tries to wiggle free but it is to no avail. The paramedic lets out a soft cry, but Jenn ignores it. "And just so we're clear, I could have you arrested on drug possession with intent to distribute."
 Jenn clicks her tongue in mockery, "Would be a shame for such an outstanding citizen like yourself to be caught with some pot. It'd be even worse if you were smoking that stuff on the job. Heh heh. Yup, sure would be."
@@ -5329,7 +5330,7 @@ Jenn pulls out a lighter and clicks it a few times.
 The car's engine roars to life.
 She shakes her head and grunts. "Fine. Fine. Coming," she repeats to herself. "Damn, I really needed one right about now." Her hands start to shake, but only slightly.
 They drive over to the Nimbus building. It looks...the same. Well, except for the medium sized hole that a certain somebody's car made.
-As they walk into the building, they are greeted by a receptionist. A thin woman, in her mid-thirties. She looks very, very tired. The dark circles under her eyes are visible even with her glasses on.
+As they walk into the building, they are greeted by a receptionist. A thin woman, in her mid 30s. She looks very, very tired. The dark circles under her eyes are visible even with her glasses on.
 Officer Neil starts first, "We're here to collect witness statements and ask some questions," he says with a neutral expression. Jenn pulls out a pad of paper and a pen, ready to take notes.
 "Uh...okay," the woman responds as she rubs her eyes.
 "Um, lemme see. I was here, texting my ex when I saw the car hit the building," she starts to recall the events as best as she can.
@@ -7694,7 +7695,7 @@ Jenn plays along just to make sure Neil doesn't go rogue, "Sure. Someone who uh,
 Neil taps the dashboard with his finger as Jenn drives the squad car down the empty streets, "Had it out for 'em? Well, that doesn't narrow it down, Jenn. I mean, the McMahons said some crazy things that I uh...that some folks didn't necessarily agree with. Their whole obsession with gay people was kinda weird."
 "Hmmm. Yeah. You got a point," Jenn admits.
 He asks, "Y--You think some LGBT group torched their mansion?"
-She shakes her head and laughs, "Whoa! Don't go around saying that, dumbass! Last thing we need is every trigger-happy Bible-thumper in this town getting ideas."
+She shakes her head and laughs, "WHOA! Don't go around saying that, dumbass! Last thing we need is every trigger-happy Bible-thumper in this town getting ideas."
 Neil frowns, "OK. OK. I guess I got ahead of myself."
 Jenn chuckles and shakes her head.
 He continues, "Whatever it is, we'll get to the bottom of it."
@@ -8668,7 +8669,7 @@ The Prince raises his head slightly, "Anything else?"
 Maya quickly pulls her phone out from her pocket and hastily scrolls through the documents she downloaded from that subreddit a few nights back, "Uh, yes. 2 leaked PDFs, actually. It's connected to Vespire. Kinda. Maybe. Probably." Her hand shakes as she passes the phone over to Prince Lucas.
 His eyes quickly scan through the pages. His eyes then dart to Maya and he asks, "Where did you find this?"
 "On a uh...subreddit. Leaked by some weirdo who claimed to know 'stuff' about 'stuff'. Haha!" She nervously laughs.
-Lucas nods and hands the phone over to Dylan, "Interesting. What do you make of this, Dylan?"
+Prince Lucas nods and hands the phone over to Dylan, "Interesting. What do you make of this, Dylan?"
 The Thin-Blood shrugs, "Looks like architectural plans of some kind."
 Maya says, "There's another PDF, but it was full of business...gibberish."
 Arman leans back, "Hand me the phone, I might be able to decipher it."
@@ -10237,7 +10238,7 @@ They're far from done. But, for now, they decide to take a break. They're wrappe
 Whispering sweet nothings in each other's ears.
 Lucile places her head on Maya's chest and gently places her hand on her belly.
 Maya runs her fingers through Lucile's brown hair, gently. Lucile, meanwhile, gets comfortable on Maya's bosom. It's a very comforting spot. A perfect spot.
-The spot.
+THE spot.
 The place. The safe place. The place of safety, happiness, and contentment.
 Maya presses her finger against Lucile's lips, "Shhhhh."
 Lucile replies, "Hmmmm."
@@ -10283,7 +10284,7 @@ Brock, getting a bit impatient and worried as he can feel the sun coming up, sna
 He gets up from his chair, takes a set of keys, and carelessly tosses them over the counter to Brock. The keys fly into the air. They miss Brock and the counter and land on the floor.
 Brock, annoyed, sighs and goes over to pick up the keys.
 The person sitting at the desk doesn't even bother to help or look. He simply says, "Oh."
-Brock grunts and looks at the keys. It's labeled, '118'. Brock mutters under his breath, "Great service here." He walks over to the door leading to the room number.
+Brock grunts and looks at the keys. It's labeled: "118". Brock mutters under his breath, "Great service here." He walks over to the door leading to the room number.
 He puts the key in and turns the knob.
 The motel room is not exactly what one would call...clean. It's not too shabby either. Then again, for that price, one can't complain too much. Brock goes back down and retrieves Jon from his car.
 It also helps that this is usually the kind of place where questions aren't asked.
@@ -10304,7 +10305,7 @@ The last thing Brock wants (or needs) is to be indebted to a Warlock. So, this i
 He knows he has to make sure that the truth of what happened that night at the McMahon mansion NEVER gets out.
 Brock massages his temples and paces around the room. He's trying to come up with a plan. A plan to get Jon back. A plan to fix the poor man who had suffered a lot at the hands of his own family.
 A plan, perhaps, to get him back to normal...or a new version of normal.
-For a moment, a thought flashes into Brock's mind. Perhaps Dr. Collins could Embrace Jon into Clan Tzimisce. Prince Roxanne would have no issue as Dr. Collins is her Seneschal.
+For a moment, a thought flashes into Brock's mind- perhaps Dr. Collins could Embrace Jon into Clan Tzimisce. Prince Roxanne would certainly have no issue as Dr. Collins is her Seneschal.
 Then again, the Brujah might not be willing to take that risk. But, if he's Embraced, he might be of some use to the Flesh-Shapers.
 Brock looks at Jon and says to himself, "An accountant. Hmmm. We could definitely use his services, especially with the SEC breathing down our necks for the past few years. If he's Embraced, he'll...make a fine addition to our Clan."
 He cracks a quick smile. He likes this plan. It's hella risky, but it just might work. The only thing is getting Dr. Collins onboard. He doesn't seem too keen to Embrace new Childer.
@@ -10367,7 +10368,7 @@ Brock can now feel it. He can feel the lethargy kicking in as the questions swir
 Yet, none can be answered right now. At least, not by him. All he can do is just lie here besides Jon and wait for the inevitable.
 He's worried about what's gonna happen next. But, he knows one thing. If he's lucky, maybe he and Jon can have a future together.
 Who knows?
-For now, the gathering darkness of day-sleep is calling. He's not sure what tomorrow night holds, but he knows one thing. He'll wake up right there beside Jon, holding him tight and close.
+For now, the gathering darkness of day-sleep is calling. He's not sure what tomorrow night holds, but he knows one thing- he'll wake up right there beside Jon, holding him tight and close.
 Or at least that's what Brock hopes.
 He's determined to see this through. Even if it means risking his Unlife and everything he's ever known.
 Brock quietly drifts off, holding his boyfriend close.
@@ -12764,7 +12765,8 @@ A few tears of blood flow from her eyes and onto the floor as she stares at Fath
 Ginny stammers, "He--he visited Doctor Willie's private practice last week. He was gonna undergo heart surgery in a few days..." Her voice is trembling.
 Simon softly chuckles, "Attaching yourself to Kine like that is a weakness, Ginny."
 He gets on one knee and looks at her. His face is expressionless. His voice is calm and soothing. He tells her, "Do you remember when your Sire abandoned you? When he left you for the sun and the stakes to come?"
-Ginny slowly nods, tears streaming down her cheeks. Simon continues, "But I took you in. I taught you EVERYTHING you needed to survive in Kindred Society. I even gave you quite the...head start."
+Ginny slowly nods, tears of blood streaming down her cheeks.
+Simon continues, "But I took you in. I taught you EVERYTHING you needed to survive in Kindred Society. I even gave you quite the...head start."
 Simon pats her head and adds, "You've done well for yourself, Ginny. But this?" He gestures to Father Jones's corpse, "This is...a bump in the road, nothing more."
 Ginny sniffs, "Wh--what now? H--how are we gonna--?" She's struggling to form a complete sentence. Her voice is hoarser than usual.
 Simon snaps his fingers and beckons the twin sisters to come in. They rush to the scene. Their eyes widen when they see the body.
@@ -15298,7 +15300,7 @@ Tim nervously tugs on his earlobe, "So, how much was it all?"
 Bernice playfully says, "Take a guess, darling."
 "Uh...5 grand?"
 Bernice snickers and shakes her head.
-"$7500 or somewhere around that range?"
+"$7,500 or somewhere around that range?"
 "No."
 "N--No way. F--Five digits??"
 Bernice calmly says, "$19,500. Plus taxes...and other charges. So, $23,000 in total."
