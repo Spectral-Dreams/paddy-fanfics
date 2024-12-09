@@ -11,16 +11,23 @@ Intense Violence, Blood & Gore, Strong Language, Sexual Content/Scenes, Full & P
 FF1 (1) and (2) is my 1st fanfic, just split up for file size purposes.
 
 Probable Roadmap (subject to multiple changes)
+
 Late 2024- Early 2025: VTM: Shadows Over Plaintry (Early Access)
+
 Early 2025: Full Release for VTM: Shadows Over Plaintry
 
 Early 2025: Writing begins on VTM: The Golden Goose and VTM: The Den Of Snakes
+
 Mid 2025: Early Access for VTM: The Golden Goose and VTM: The Den Of Snakes
+
 Late 2025: --
+
 Early 2026: Full Release for VTM: The Golden Goose and VTM: The Den Of Snakes
 
 Early 2026: Writing begins on VTM: The Velvet Curtain and VTM: Aeterna Servitus
+
 Mid 2026: Early Access for VTM: The Velvet Curtain and VTM: Aeterna Servitus
+
 Late 2026: --
 
 2027 and beyond: Writing for WTA: Automata and other WOD-related projects (TBD)
