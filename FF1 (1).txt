@@ -2473,14 +2473,14 @@ It's now a little more tolerable and less reminiscent of neglect and indifferenc
 Prince Lucas walks in, wearing a leather coat, his hair slicked back and smelling of brylcreem and Aqua Velva aftershave, his trademark toothpick hanging from the corner of his mouth. His knock-off Ray-Ban sunglasses are perched atop his head.
 He's the epitome of cool, at least to himself.
 A desperate attempt to fit in, perhaps? Or maybe it's just his usual vibe.
-Accompanying Prince Lucas is Sheriff Eunice. The Malkavian's eyes are as empty as ever. Her face is expressionless, and her hair is tied into the tightest ponytail imaginable. She's dressed in a V-neck T-shirt and a pair of faded 3/4ths jeans.
+Accompanying Prince Lucas is Sheriff Eunice. The Malkavian's eyes are as empty as ever. Her face is expressionless, and her hair is tied into the tightest ponytail imaginable. She's dressed in a v-neck t-shirt and a pair of faded 3/4ths jeans.
 She keeps her gun concealed underneath her long, brown jacket.
 Prince Lucas walks up to the circle of chairs and takes his respective seat. A few minutes are passed in some rather awkward small talk. Prince Lucas tries but Sheriff Eunice doesn't seem interested in chin-wagging.
 Instead, she just stands nearby, unmoving. Still as a statue.
 As such, the room falls silent.
 Well, nearly silent.
 In walks Arman, accompanied by his Ghoul/bodyguard Rolf. Arman wears an expensive-looking gray suit, light blue tie, and custom made white shirt. His sparkly blue cufflinks and platinum watch glisten in the dim light.
-The Ghoul looks as though he just walked out of some kind of shady nightclub. He wears a tight T-shirt (2 sizes minus what would actually fit him), his corduroy pants are a bit worn out. His long, brown hair flows freely down to his enormous shoulders. His hairy arms are covered in tattoos- mainly geometric shapes and a few words in what appears to be German.
+The Ghoul looks as though he just walked out of some kind of shady nightclub. He wears a tight t-shirt (2 sizes minus what would actually fit him), his corduroy pants are a bit worn out. His long, brown hair flows freely down to his enormous shoulders. His hairy arms are covered in tattoos- mainly geometric shapes and a few words in what appears to be German.
 "Greetings. I hope I'm not too late. Prince Lucas. Sheriff Eunice."
 The Ventrue takes his seat and politely smiles. Rolf folds his hands and stands in the corner.
 "Good evening, Arman. We've got a few more coming in," Prince Lucas replies.
@@ -5683,7 +5683,7 @@ They take the stairs down and step outside. There are several cars parked in a l
 Torvald is wearing a plaid shirt and denim jeans. His hair is tied into a bun.
 Anja is wearing a short-sleeve top and denim shorts along with a fanny pack. She still looks tired.
 Gunnar is wearing a solid blue button-down shirt and cargo pants.
-Emi is wearing a gray T-shirt and dungarees, along with a large black backpack.
+Emi is wearing a gray t-shirt and dungarees, along with a large black backpack.
 Gunnar looks over to Emi and asks, "Emi? What's that you're wearing?"
 Emi looks down at herself and responds, "Huh? I mean, this? Isn't it what Americans wear?"
 Torvald chuckles, "Only in movies and TV shows, Emi."
@@ -5701,7 +5701,7 @@ The middle of the town itself is pretty much just a large intersection, surround
 The afternoon sun shines brightly overhead, lighting up the sky.
 Anja sighs and closes her eyes, for a moment, enjoying the gentle warmth of the sun.
 Torvald looks at a few of the buildings, the brick walls covered with vines, the wooden doors, the metal bars. He simply says to himself, "Tainted. Corrupted. Impure."
-Gunnar walks ahead of them, towards a group of teenagers, who are wearing band T-shirts, their faces painted. They're laughing as they listen to music from their loudspeaker. They're sitting on the sidewalk, feet kicked up and heads leaned back.
+Gunnar walks ahead of them, towards a group of teenagers, who are wearing band t-shirts, their faces painted. They're laughing as they listen to music from their loudspeaker. They're sitting on the sidewalk, feet kicked up and heads leaned back.
 Gunnar walks up to them, a big grin on his face. He can't help but be enticed by the loud music.
 Anja and Emi watch him as he approaches the teenagers, a little bit nervously.
 Emi excuses herself to a nearby public restroom, while Anja adjusts her black-rimmed glasses and continues walking.
@@ -7950,7 +7950,7 @@ Jenn turns to her partner and says, "Yeah. It's a real shame. You think it's fou
 Neil shrugs as pickle juice dribbles down his chin, "Who knows? Either way, there's gonna be an investigation. We should see what we can dig up, though..."
 Jenn nods, "Yeah. I got your back, partner."
 Neil pulls out his phone and scrolls through his picture gallery. He shows Jenn a picture of him and William McMahon, standing together and smiling.
-The McMahon patriarch is wearing a "Back The Blue" T-Shirt, while Neil is wearing his police uniform.
+The McMahon patriarch is wearing a "Back The Blue" t-shirt, while Neil is wearing his police uniform.
 "There we go, Mr. William and I at a town event, probably." Neil shows Jenn the photo and she can't help but smile, "I didn't know you guys were buddies, Neil."
 Neil clenches his jaw, "At least the McMahons knew what it took to keep this damn town safe and orderly."
 Neil slams his fist onto the table as he thinks about what he did to Dr. Sandoval, "This isn't how I expected this to go down. If people just learned to RESPECT the badge, maybe shit like this wouldn't happen. We'd have less work to do, but, oh no...they had to be stupid."
@@ -8121,7 +8121,7 @@ Jimmy nods in agreement, "Yup. That's Ventrue luxury for you."
 Jacob replies, "The beds were quite wobbly. Water beds, right?"
 Arman nods and smiles at Jacob.
 Brock places Jon on the large couch and goes to his room to get changed.
-He emerges wearing a black T-shirt and track pants, "I'm ready to leave this place behind."
+He emerges wearing a black t-shirt and track pants, "I'm ready to leave this place behind."
 He walks back into the living room and sees that everyone is getting ready to leave. The Flesh-Shaper shoves his stained clothes into his duffel bag, grabs his medical bag and heads out the door with the others.
 Simon stops him and says, "I know you're probably going to present yourself to the Prince, in accordance with the Fifth Tradition, but I suggest that you...forgo that for now."
 Brock sighs, "Right, right, right. You're all cooking up some plans here and all. Whatever, I've already made myself clear- I DON'T want any part of that. I'd like to get that out of the way, so I can focus on taking care of Jon."
@@ -9056,14 +9056,14 @@ Maya nods and replies, "Thank you so much for the uh, the history of this town's
 She looks at the Sheriff and then glances at Ginny, "Well, I--"
 Just then Prince Lucas's Ghoul, Frank walks in. He bends down to whisper something into his master's ear.
 The Prince's expression immediately changes.
-He stands up and announces, "I'm afraid we will have to resume this meeting some other time. A situation has arisen that requires my immediate...attention."
+He stands up and announces, "I'm afraid we'll have to resume this meeting some other time. A situation has arisen that requires my immediate...attention."
 As he's walking out, he turns around and says, "My Ghoul, Frank, will take care of any remaining matters. Please, don't let him give you any trouble, and don't give him any, either. I'll see you again soon. Good night, everyone." He gives Maya a stern nod as he departs.
 Frank is a short, hairy, man in his mid-30s. He's wearing a stained white t-shirt covered by an olive-drab bomber jacket. His gray corduroy pants look like they've come straight from the 90s. He has a long, scraggly beard, and his hair is greasy and unkempt.
 He looks over to Maya and awkwardly waves.
-He smiles, revealing a slightly chipped front teeth, "Hi. Name's Frank. Lucas's-- I mean, Prince Lucas's retainer. You're the new Tremere, right?" He extends his hand out. She takes it and shakes it.
+He smiles, revealing slightly chipped front teeth, "Hi. Name's Frank. Lucas's-- I mean, Prince Lucas's retainer. You're the new Tremere, right?" He extends his hand out. She takes it and shakes it.
 He says, "I've been authorized to act on behalf of Prince Lucas. He asked me to make sure that you're all settled in. Uh, where do you live?" He fiddles with his phone.
 Maya thinks to herself, "Uh, wow, it's really happening. I--I'm a vampire! A--A Kindred! Tremere! Whoa."
-She regains her composure, glances at Lucile, and replies, "Um...here's the thing, actually, Mr. Frank...Lucile asked me to move in with her. And I said yes, obviously," she smiles at her girlfriend.
+She regains her composure, glances at Lucile, and replies, "Um...here's the thing, actually, Mr. Frank. Lucile asked me to move in with her. And I said yes, obviously," she smiles at her girlfriend.
 Lucile nods and grins.
 Frank looks up from his phone and asks, "Oh. So, uh, that's...nice. Was there any help you needed from the Prince with your move?" He sighs and scratches his neck.
 "Now that you mention it, I might need some help moving my stuff from my old place. I mean, I'm only planning to keep a few things. A LOTTA stuff in that old apartment ain't mine."
@@ -9080,15 +9080,15 @@ The Ghoul nods, "Ah. The cottage. Yeah, we can do it. Oh, I'll also be bringing 
 "Oh, no, that's fine. I--I don't mind. This is great."
 Maya then looks to her Sire, Eleanor for approval, "Is that OK, Eleanor?"
 Eleanor curtly nods, "I shall come and assist as well. It is only appropriate."
-Just then Prince Lucas walks back in. His jaw is clenched tight and he has a look of cold fury in his eyes. He is accompanied by another Ravnos.
-Prince Lucas speaks, "Frank? A word, please."
+Just then, Prince Lucas walks back in. His jaw is clenched tight and he has a look of cold fury in his eyes. He is accompanied by another Ravnos.
+Prince Lucas calls out, "Frank? A word, please."
 The other Ravnos is a male in his 30s. He's wearing black jeans and a green button-down shirt with one of the sleeves rolled up. A soul patch sits on his face and his hair is short. His skin is a warm tan and he stands a foot taller than Prince Lucas.
 He's holding a thin brown box in his arms.
 Frank steps forward, "Y--Yes, Prince Lucas. What do you need?"
 "Wait for me outside." He gestures to the other direction. Frank nods and walks away as Prince Lucas follows.
 The other Ravnos stands there. He smiles and introduces himself, "Keith. I take it you're the new Tremere everyone's excited about?"
 Maya furrows her brow, "There's people excited about me?"
-"Haha, don't get your hopes up. Just a couple of curious locals and passers by. Y'know how us Ravnos are- always on the move, trading stories. That sort of thing. I'm sure you'll get used to it."
+"Haha, don't get your hopes up. Just a couple of curious locals and passers-by. Y'know how us Ravens are- always on the move, trading stories. That sort of thing. I'm sure you'll get used to it."
 Lucile and Maya give him a nod.
 He then adds, "So, what's your name?"
 "Maya."
@@ -9097,16 +9097,18 @@ He then adds, "So, what's your name?"
 "No worries. I was barely a Fledgling like you when it happened. Been running with Lucas and his...people ever since." He gazes off into the distance, tightening his grip on that brown box.
 "Ah. I see."
 "I don't know, even after all these years, I'm kinda just winging this vampire stuff."
-"That's ok, I'm still getting used to it, too."
+"That's OK, I'm still getting used to it, too."
 Arman can't help but interrupt, "Excuse me, Keith, what's in that box?" He's looking at the box.
-Keith is a bit startled by that question, "Oh! Uh, nothing, it's, it's just some stuff, is all." Keith clears his throat and continues, "N--Nothing that concerns you, anyway. I was told to open it when the Prince returns. He didn't say anything else."
+Keith is a bit startled by that question, "Oh! Uh, nothing, it's...it's just some stuff, is all."
+Keith clears his throat and continues, "N--Nothing that concerns you, anyway. I was told to open it when the Prince returns. He didn't say anything else."
 Prince Lucas walks back in, with Frank right behind him. The Prince looks over at Keith and nods his head.
 Keith hands the brown box to Prince Lucas and says, "I'll be going now. Maya. Nice meeting you. You ever need a place to hang out--"
 The Prince interrupts Keith, "That will be all, Keith. Thank you. Make sure the others are OK."
 Keith shakes his head, "Y--Yeah, sure. Goodnight, everyone." He waves as he pulls out a keychain with a fob attached to it.
 Maya smiles and waves goodbye.
-Prince Lucas places the box on an empty chair and takes Maya and Lucile to the side. He starts by asking, "I've been told...that Maya wishes to relocate to Lucile's Haven. Is this true?"
-Maya quickly replies, "Yes. I--I mean, L--Lucile asked me and my current apartment isn't exactly ideal for day-sleeping. Her place is a lot more...cozy." Maya is flustered and doesn't know how to articulate her thoughts to someone she just met.
+Prince Lucas places the box on an empty chair and takes Maya and Lucile to the side.
+He starts by asking, "I've been told...that Maya wishes to relocate to Lucile's Haven. Is this true?"
+Maya quickly replies, "Yes. I--I mean, L--Lucile asked me, and my current apartment isn't exactly ideal for day-sleeping. Her place is a lot more...cozy." Maya is flustered and doesn't know how to articulate her thoughts to someone she just met.
 Prince Lucas turns to Lucile and asks, "Lucile, are you certain about this? Your Haven is your home. I would understand if you didn't want any guests."
 Lucile politely replies, "I've made up my mind, Prince Lucas. My Haven is also Maya's Haven."
 "Frank told me that you require some...assistance moving?"
@@ -9115,26 +9117,26 @@ Prince Lucas looks over at Eleanor, "I've been told you will be coming along as 
 Eleanor stands up and dusts herself off, "Yes, my liege."
 Prince Lucas nods and looks at Maya and Lucile, "Very well. I'll make sure to send some of my people to help. I'm sure they'd appreciate...the change of scenery."
 Maya asks, "Aren't Ravnos always changing scenery?"
-Lucas lets out a soft chuckle, "Indeed we are, Maya." He nods and gives a reassuring smile.
+Prince Lucas lets out a soft chuckle, "Indeed we are, Maya." He nods and gives a reassuring smile.
 He then turns to Frank, "Frank, you'll be coordinating the move. Make it happen and make sure there are no violations of the Masquerade. As it is, that much noise this late at night is bound to attract the wrong kind of attention. Please, do get back to me once everything is set."
 "Yep." Frank shuffles out the door to go and make the necessary arrangements.
-Lucas looks at Maya, "He'll meet you at your old place, don't worry. IF for some reason, there is any issue, come to me immediately."
+Prince Lucas looks at Maya, "He'll meet you at your old place, don't worry. IF for some reason, there is any issue, come to me immediately."
 Maya nods and replies, "I--I will. Thank you, Prince Lucas."
 "Good. And remember, Maya. A favor is only a favor if it's repaid."
 Maya's mouth is agape as she tries to formulate a response.
 The Prince chuckles, "Don't worry, Usurper, we'll find a use for you." He laughs heartily.
 Eleanor steps forward and bows, "Prince Lucas."
-The Prince looks at her and simply replies, "Ah, Eleanor, there is something I wish to speak with you about." He beckons the Elder Usurper back to her seat and picks up that brown box on the seat.
+The Prince looks at her and simply says, "Ah, Eleanor, there is something I wish to speak with you about." He beckons the Elder Usurper back to her seat and picks up that brown box on the other seat.
 He then sits down next to Eleanor.
 Maya pokes her head in, "Um, Prince Lucas?"
 "Yes, Maya?"
 "I--I was just wondering what's in the box? Is it--is it a present or something?"
 The Prince laughs and doesn't reply. The others in the circle of chairs are just as curious. Except for the Malkavian Sheriff. She just stands there, motionless.
 Eleanor glances at Maya and says, "It is improper to ask questions about the Prince's affairs. Tsk."
-Maya's eyes dart to the Sheriff, then to Eleanor. Lucile then takes her hand and gives it a gentle squeeze.
+Maya's eyes dart to the Sheriff, then to Eleanor. Lucile takes her girlfriend's hand and gives it a gentle squeeze.
 Eleanor continues, "Whatever its contents are, Prince Lucas will divulge the details when the time is right."
 The Prince adds, "Indeed, Eleanor."
-He proceeds to flick open the lid. Inside is a curved knife. Its grip is encrusted with emeralds and the blade itself is made of meteoric iron, etched with a single, ornate symbol. Its pommel appears to be an elegantly cut diamond.
+He proceeds to flick open the lid. Inside is a curved knife. Its grip is encrusted with emeralds and the blade itself is made of meteoric iron, etched with a single, ornate symbol. Its pommel appears to be an elegantly-cut diamond.
 Some red liquid can be swishing around inside the diamond. The various encrusted emeralds glow and fade as Prince Lucas takes the dagger in his hand.
 "Wow." Maya is instantly mesmerized by the blade.
 Prince Lucas holds the blade close to him and asks, "You know what this is, don't you, Eleanor?" He delicately hands her the dagger.
@@ -9153,7 +9155,7 @@ Eleanor continues, "Dangerous in the wrong hands. I shall have to find some plac
 Lucile furrows her brow, "How 'bout we keep it at the House of--"
 Eleanor gives one stern glance at Lucile and she stops in her tracks.
 The Tremere Elder then whispers something in the Prince's ear.
-Lucas raises his hand and says, "It recently came in Keith's possession. Both he and I were unsure of its significance, assuming it has has any. So, I decided it was best to ask the Clan most known for its interest in matters of the...occult."
+Prince Lucas says, "It recently came in Keith's possession. Both he and I were unsure of its significance, assuming it has has any. So, I decided it was best to ask the Clan most known for its interest in matters of the...occult."
 He curtly nods to Eleanor.
 She replies, "You made the correct choice, my liege." She bows her head.
 Ginny scoffs, "Ugh, whatever. I'm going out for a smoke."
@@ -9163,7 +9165,7 @@ Eleanor whispers something to the Prince again and he looks over at Maya, "Maya.
 "I would like you to assist me in a small task. Would you mind?"
 Maya's eyes widen, "Um, sure. What is it?"
 Eleanor replies, "There are Blood Wards around this abandoned auditorium. Simple ones to keep any mortals or prying eyes away from the building."
-Lucile then adds, "There may be some additional wards to make the area more secure. I know that if any mortal steps on 'em, they'd be dizzy and sick outta their guts. Heh." She seems almost excited when talking about matters of the Blood.
+Lucile adds, "There may be some additional Wards to make the area more secure. I know that if any mortal steps on 'em, they'd be dizzy and sick outta their guts. Heh." She seems almost excited when talking about matters of the Blood.
 It is what she specializes in, after all.
 Eleanor continues, "Yes. We are not murderers. Should any mortal trespass, they will be merely inconvenienced, but no grave harm will be done to them."
 Maya is flabbergasted.
@@ -9197,12 +9199,13 @@ Eleanor is standing there, arms folded, as she observes Maya.
 Maya is visibly anxious and is having trouble focusing as she repeats, "L--Let it be so. L--Let...it...be...so."
 The Elder stares at her Childe with a vacant expression, "Acceptable, but there is still so much more you have to learn."
 She walks towards Maya and takes her by the hand, "One corner of the room is sufficient for now. Lucile can do the rest. Perhaps you might learn something from her, Maya."
-Maya's eyes dart around the room, "Uh, um, Ok? I--I don't understand. What was I doing wrong?"
+Maya's eyes dart around the room, "Uh, um, OK? I--I don't understand. What was I doing wrong?"
 "Uncertainty, most likely. The Tremere demand perfection. Simply put, your chant was acceptable, but your confidence was lacking."
 "Well, in my defense, I chose to specialize in Auspex and not Blood Sorcery."
-Eleanor waves her hand in dismissal as Lucile steps forward and says, "It's ok. Don't worry about it, sweetie. I know this kind of stuff can be VERY overwhelming at first."
+Eleanor waves her hand in dismissal as Lucile steps forward and says, "It's OK. Don't worry about it, sweetie. I know this kind of stuff can be VERY overwhelming at first."
 Maya sighs and shakes her head, "Yeah. W--Will I ever be as good as you?"
-Lucile looks over at Maya and says, "I believe so. You're a fast learner, and I'm sure Eleanor will make sure you get the proper...guidance." She narrows her eyes, "Right, Eleanor?"
+Lucile looks over at Maya and says, "I believe so. You're a fast learner, and I'm sure Eleanor will make sure you get the proper...guidance."
+She narrows her eyes, "Right, Eleanor?"
 "Be that as it may, knowledge of the basics of Blood Sorcery is imperative in the service of our Clan. Do not doubt yourself, Childe."
 "I--I'm sorry."
 "You have nothing to apologize for, Maya. Remember that. Know what you are. Understand the power that courses through your veins- the power of the Blood. Use it to your advantage. Do not fear it. Become one with it."
@@ -9211,10 +9214,10 @@ Lucile looks over at Maya and says, "I believe so. You're a fast learner, and I'
 Lucile presses her lips into a smile and goes from corner to corner of the auditorium.
 "So, what EXACTLY did I do wrong, Eleanor?"
 "It's a matter of focus. As I said before, our Clan demands and strives for perfection. This is especially true for the Fledglings. Perfectionism is our Compulsion- to fail is unacceptable."
-"Y--Yeah. Yeah. I--I guess I'll have to practice then, huh? Do you have any suggestions? Those books on Auspex have been a real eye-opener, uh...no pun intended, haha."
+"Yeah. Yeah. I--I guess I'll have to practice then, huh? Do you have any suggestions? Those books on Auspex have been a real eye-opener, uh...no pun intended, haha."
 "Mm. Books, is it? Well, there is no better way of learning such things than through experience. That is why I believe you should accompany Lucile as she places the Blood Wards. Watch how she does it. She is one of our best Thaumaturgists, after all."
 "Uh, are you sure?"
-Eleanor sighs, "Yes, Childe. I am sure. Now, go. But, please avoid distracting her. We wouldn't want her to waste her precious Vitae, would we?"
+Eleanor sighs, "Yes, Childe. I am sure. Now, go. But, please, avoid distracting her. We wouldn't want her to waste her precious Vitae, would we?"
 "No, of course not."
 Eleanor gives Maya a nod and departs from the auditorium, "I shall meet you at your old apartment, Maya. I have some other matters to attend to first."
 The Elder Tremere then takes the box and walks out the auditorium with it.
@@ -9227,12 +9230,14 @@ Dylan nods his head, "That's kinda neat, Maya."
 Maya nervously chuckles, "Oh, uh...thanks, Dylan!"
 Prince Lucas stands up, "It's been quite the thrilling night, but I think we ought to wrap things up, yes?"
 He extends his hand out to Maya and says, "I have some other things that I must attend to. Something has come up and it requires my immediate attention. Thank you for being here and welcome to our world, Maya."
-Maya pensively says, "Uh--uh, I should thank you for welcoming me in, Prince Lucas. You need any help with that problem you have?"
+Maya pensively says, "Uh--uh, I should thank you for allowing me in, Prince Lucas. You need any help with that problem you have?"
 The Prince doesn't reply as he warmly smiles. He leaves the auditorium with Frank right behind him.
 Maya watches the 2 men leave, then turns to Lucile.
-Arman chases after the Prince and says, "Goodnight, Prince Lucas. I hope to see you again, soon." The Prince dryly nods and waves goodbye.
+Arman chases after the Prince and says, "Goodnight, Prince Lucas. I hope to see you again, soon."
+The Prince dryly nods and waves goodbye.
 Maya looks at Lucile and asks, "So, are you all done? Is the uh, Ward...complete?" Maya points to the glowing circle of Vitae on the ground, "Done yet?" She scratches her head.
-Lucile smirks and shakes her head, "Oh, Maya, sweetie, I haven't even started yet. There's a LOT I can teach you." She lowers her voice, "If you're willing, that is."
+Lucile smirks and shakes her head, "Oh, Maya, sweetie, I haven't even started yet. There's a LOT I can teach you."
+She lowers her voice, "If you're willing, that is."
 Maya's eyes widen and she lightly nods, "Mmm. I'm--I'm willing."
 "Haha. Well, for now, just watch and learn, my poinsettia. Just watch and learn."
 Maya intently watches Lucile. As she's looking, her eyes dart around the room.
@@ -9264,7 +9269,7 @@ Lucile shakes her head, "Thank you, Mr. Arman. But, I already got one of my own.
 Dylan walks over to them. Arman groans as he sees the Thin-Blood approaching.
 "Um...goodnight and welcome to the...family, I guess." He chuckles as his eyes dart around the room.
 Maya replies, "Thanks, Dylan. I appreciate it. Since I'm new here, do you have any advice for me?"
-Dylan thinks for a moment, "I--I really don't. I'm just a Thin-Blood. I don't have the strength that the rest of you do. I mean, I'm still trying to figure this whole...being a vampire thing out. I think I'm just kind of stuck between the 2 sides."
+Dylan thinks for a moment, "I--I really don't. I'm just a Thin-Blood. I don't have the strength that the rest of you do. I mean, I'm still trying to figure this whole...being-a-vampire thing out. I think I'm just kind of stuck between the 2 sides."
 Arman scoffs, "Pfft. What a waste of potential. They often say that the thinning of the Blood is a sign of Gehenna."
 Maya's eyes widen, "I--I didn't know that."
 Lucile narrows her eyes, "Y--You don't really believe that, do you?"
@@ -9281,22 +9286,22 @@ Arman waves his hand in dismissal and scoffs, "Not all sunshine and roses, Maya.
 Arman lowers his voice, "A Tremere like you shouldn't bring themselves down to the level of the...Duskborn. Tsk, tsk," he clicks his tongue and shakes his head.
 Seeing that this conversation is going nowhere, Lucile clears her throat and simply says, "We have other places to be. Goodnight, Mr. Arman."
 "Hmm. Goodnight."
-Maya and Lucile wave goodbye to Arman as they leave the auditorium.
+Maya and Lucile wave goodbye to Arman as they get ready to leave the auditorium.
 On their way out, they both pick up their phones and quickly turn them off.
 Sheriff Eunice stands behind the duo and nods, "Good."
 The 2 women are startled and see the Sheriff in their peripherals. They turn around and see Sheriff Eunice standing there, arms folded.
-Eunice tilts her head and says, "Use it only when you have to. Same thing I tell my step-daughter."
+Sheriff Eunice tilts her head and says, "Use it only when you have to. Same thing I tell my step-daughter."
 Maya innocently asks, "Oh, y--you're married?"
 "Was married. He died." The Sheriff doesn't seem too shaken up or disappointed by the fact.
 Maya awkwardly chuckles, "Oh, s--sorry. I--I didn't--"
-Eunice says, "Save it."
+Sheriff Eunice says, "Save it."
 Lucile tries to comfort the Malkavian by putting her hand on the Sheriff's shoulder, but Eunice shoves it off.
 Lucile awkwardly chuckles, "Well, um, we...all grieve in our own way, Sheriff Eunice."
 "Hm."
 Maya asks, "You got any advice for me, Sheriff Eunice?" The Tremere Fledgling genuinely wants to know.
 Sheriff Eunice, without skipping a beat, bluntly and directly states, "I got a big sword in my trunk, don't make me use it."
 Both Maya and Lucile involuntarily recoil a few steps back.
-Eunice then asks, "You get a criminal record I should know about? Any outstanding arrest warrants?"
+Sheriff Eunice then asks, "You get a criminal record I should know about? Any outstanding arrest warrants?"
 Maya is caught off guard by that question, "Oh, uh, I...well--"
 The Sheriff steps forward right into Maya's face, "I'll check. You better hope it isn't a mile-long rap sheet. But you're a Kindred now, so you're held to...different standards. Hm. Well, be on your way then."
 She turns to Lucile, "I hope the Chevy's doing fine. You better not do anything stupid with it."
@@ -9305,9 +9310,9 @@ Lucile smiles, "Y--Yeah, it's f--fine. Thanks, Sheriff Eunice."
 Maya tugs at Lucile's sleeve and the duo quickly walk away, "Goodnight, Sheriff Eunice."
 "Goodnight."
 Maya and Lucile step out the auditorium, tightly holding hands as they walk into the cold, starry night.
-Maya lets out a heavy sigh, "Holy shit! S--She was scary! Y--You know her, right? Is she always like that?"
+Maya lets out a heavy sigh, "Holy shit! She was scary! Y--You know her, right? Is she ALWAYS like that?"
 Lucile nods and replies, "Y--Yeah. I've been lucky enough to avoid running into her. For a Malkavian, she's pretty...intense."
-Maya wipes the sweat from her forehead and replies, "That's one way of putting it. That was...an interesting night, huh?"
+Maya wipes the (partially bloody) sweat from her forehead and replies, "That's one way of putting it. That was...an interesting night, huh?"
 Lucile giggles, "Y--Yeah. You got to meet some of the more important Kindred here. It's a good start."
 "Yeah! I--I just wanna meet the rest, too."
 Lucile reassuringly says, "In time, sweetie. In time."
@@ -9320,15 +9325,15 @@ Arman sighs, "I...have something that belongs to him. Something deeply important
 Arman shakes his head, "I would rather give it to him in person, and you know that."
 He glances over to the pair and gives a quick smile and wave. Lucile and Maya wave back. Ginny simply waves with her hand.
 "Why are you so interested in him anyway?"
-"In all my time, I've never met a Kindred who somehow still manages to believe in...god"
+"In all my time, I've never met a Kindred who somehow still manages to believe in...god."
 Arman continues, "Jacob...intrigues me."
 Ginny groans, "Ugh. Fine, I'll tell him to swing by your Haven tomorrow night to get his 'precious' crucifix back. He won't say no." Ginny turns and walks into her car.
 Arman clears his throat.
 Ginny rolls her eyes, "What now?"
-"Are we still on...for our...?" He's trying not to give any hints within earshot of the other 2.
+"Are we still on for our...?" He's trying not to give any hints within earshot of the other 2.
 Ginny snickers and replies, "Yeah, sure." She shuts the door and tosses her cigarette near Arman's feet. The car peels out and Ginny drives off into the breezy night.
 Arman simply stands there, smiling. He turns around and sees Maya and Lucile. He politely smiles and heads into his own car. The engine roars to life and he pulls out as well.
-Maya and Lucile wave goodbye to Arman. They both are left standing there, holding hands, looking up at the stars.
+Maya and Lucile wave goodbye to Arman. They're both left standing there, holding hands, looking up at the stars.
 Lucile takes Maya by the hand and says, "We should get going, too."
 The red Camaro lights up and the headlights flash. Maya opens the passenger door and slides into the car.
 Lucile gets in and drives away from the old, abandoned building.
@@ -9344,7 +9349,7 @@ Lucile sways from side to side and joins in, "Don't cha wish your girlfriend was
 The 2 sing the next part together, "Don't cha wish your girlfriend was fun like me?"
 Lucile giggles as Maya struggles with a few other lines of the song.
 They both start laughing at the same time, "Well, I'm not that great at singing!" Maya laughs.
-"Ah, c'mon. It's ok, Maya. I love your voice."
+"Ah, c'mon. It's OK, Maya. I love your voice."
 Maya gives Lucile a flirty smirk, "Yeah?"
 Lucile smirks back, "Yeah." She squeezes Maya's hand and takes a left turn.
 After a while, Lucile mumbles, "Driving out, to the place where we first--"
@@ -9359,7 +9364,7 @@ Lucile laughs, "You've got much more to offer than just, y'know, impressing them
 "Really?" Maya's eyes light up, "Y--You think so?"
 Lucile smiles, "Yeah, sweetie. You're the most wonderful person I've ever met. I hope you realize that."
 "Aww. Thank you." Maya blushes.
-Maya then asks, "That Lasombra, Ginny. She's a bit of a--"
+Maya then says, "That Lasombra, Ginny. She's a bit of a--"
 Lucile sneers, "Bitch?"
 "M--Maybe. I dunno. But she was being pretty friendly with Arman."
 "Hah, yeah. Yeah."
@@ -9367,10 +9372,10 @@ Lucile sneers, "Bitch?"
 Lucile bursts out in laughter and almost loses control of the car, "What? Sleeping together?"
 Maya doesn't laugh, "I--I'm just curious. They seemed pretty close, I guess."
 "Yeah, arguing like an old married couple. Hahaha!"
-Maya doesn't laugh, "Do you think either of them like each other?"
+Maya questions, "Do you think either of them like each other?"
 Lucile shrugs, "It's best not to get up in their business, sweetie."
 Maya sheepishly laughs, "Y--Yeah, I know. I was...just curious."
-Lucile softly sighs, "Believe it or not, but a lotta Kindred got sex 'lives'. And not just Toreadors. Some of them more active than others. And spicier."
+Lucile softly sighs, "Believe it or not, but a lotta Kindred got sex 'lives'. Not just us, and not just Toreadors, either. Some of them more active than others. And spicier."
 "Speaking of, did you know the Toreador Prince?"
 "Who, Geoffrey? I met the guy a few times. Almost a decade ago. Sheesh, that long, huh." Lucile goes blank for a moment as she tries to remember what he looked like.
 Lucile regains her composure, "Old guy. Not, like super old, but about mid- to late-40s, I'd say. Balding. Neatly trimmed beard. Kinda looked like a butler. Hahaha. He was...weird."
@@ -9385,12 +9390,12 @@ Lucile regains her composure, "Old guy. Not, like super old, but about mid- to l
 Lucile looks at Maya, "His eyes. Uh...sorta like yours. Same brown color."
 Maya raises her eyebrows, "Oooh. Really? Haha, that's...cool." Maya squeezes Lucile's hand.
 Lucile looks at Maya's eyes again and smiles, "Yeah...cool. So, are you all settled in?"
-"S--Settled in? Oh, y--you mean our new Haven? Yeah, I'm excited. I just hope you won't mind having all my stuff cluttering up your place."
-Lucile shrugs, "Well, I'm a Tremere, Maya. We're used to...clutter. Besides, I'd LOVE to have your stuff in my, no, our place."
+"S--Settled in? Oh, you mean our new Haven? Yeah, I'm excited. I just hope you won't mind having all my stuff cluttering up your place."
+Lucile shrugs, "Well, I'm a Tremere, Maya. We're used to...clutter. Besides, I'd LOVE to have your stuff in my, no, OUR place."
 Maya laughs, "Thanks for this, Lucile. I--I mean it. I really appreciate you and Eleanor helping me through this. I'd be lost without you."
 Lucile looks at her and says, "Oh, sweetie, it's the least we could do. Now, where was your old place again?" Lucile pokes her head around and looks at the streets.
 "O--Oh, it's on...oh, wait, yep, take a...right." Maya starts looking out the window for her old place.
-"You sure you're ok, Maya?"
+"You sure you're OK, Maya?"
 "Huh? Oh, yeah! Yeah. Just...been a while since I've seen my old place."
 "Well, take it all in, Maya. It's the last time you'll see it."
 "I--I'll try, haha."
@@ -9398,7 +9403,7 @@ Lucile looks at her and says, "Oh, sweetie, it's the least we could do. Now, whe
 Lucile turns down the music and sees Maya's old apartment building. Given the direction the building faces (and the way the windows are shaped), it's hardly Haven material. The rays of the sun would likely obliterate anyone inside.
 Lucile parks her car nearby. Maya gets out and looks up at her old place.
 The walls are cracked. Mail meant for the other residents is piling up. A few of the lights are flickering. It's...not the greatest place.
-"Y--Yeah, this was it." Maya tries not to get emotional.
+"Y--Yeah, this is it." Maya tries not to get emotional.
 Just then, a large pickup truck comes rolling in. Frank steps out. He looks over at the 2 Usurpers.
 "Oh, uh, hey there, Frank!" Maya waves.
 Frank waves back and approaches the pair, "So, this the place? Hope we're not too...late?"
@@ -9412,7 +9417,7 @@ Keith chuckles, "Ah, she was...interesting."
 Keith is a bit nervous, "She wasn't SI. She...was something else. Had that uh...beady-eyed look. Like a disturbed person, you know."
 "Go on."
 "Wavy black hair, red and blue outfit. Said she received a phone call one day and that changed how she saw the world. She was probably off her meds or somethin'."
-Frank interjects, "We believe she was one of The Imbued."
+Frank interjects, "We believe she was one of the Imbued."
 Maya narrows her eye, "The what, now?"
 The Ghoul replies, "Hunters. Not affiliated with anyone or anything, but...still a threat; they know what we are and are a lot more scarier than SI goons due to their...unpredictable intentions."
 Keith continues, "Anyway, she kept trying to 'save me'." He does the air-quotes gesture.
@@ -9444,7 +9449,7 @@ Lucile asks, "Everything OK, Kelly?"
 "Yeah, yeah, just been a crazy night."
 Maya looks under her mat where she always leaves a spare key just in case. She unlocks the door and they all enter the apartment. Maya proceeds to flick on a light switch.
 Maya notices something strange about her old apartment building. Something...feels off. Is it because she feels things differently due to her Kindred nature?
-No, that's not it.
+No, that's not it. Or, is it?
 It's the apartment itself. Something about it feels off, like a thin layer of shadowy mist is engulfing this space. It's not normal.
 She shrugs and ignores it, "So, what's the plan, Frank?"
 Frank is looking around, checking the rooms. He strokes his chin and asks, "Wow, so how much of this stuff ain't yours, then?"
@@ -9457,7 +9462,8 @@ Maya walks over to her fridge and opens it. She peeks inside and finds some oran
 "Orange juice ok?"
 The Ghouls eyes light up just a bit, "I love OJ!" he excitedly replies.
 Lucile looks over and says, "Well, me and Maya are gonna start packing the important stuff."
-Keith and Kelly sit on the sofa. Kelly throws her head back and puts her feet on Maya's coffee table. Maya does nothing to object.
+Keith and Kelly sit on the sofa. Kelly throws her head back and puts her feet on Maya's coffee table.
+Maya does nothing to object.
 Kelly stretches her arms and legs and says, "Well, what exactly do you need us for? I mean, most of this stuff ain't even yours, right?"
 Maya chuckles and says, "I know, but..."
 "Yeah, but?"
@@ -9471,7 +9477,7 @@ Keith groans and changes the channel to a cooking show.
 Frank thanks Maya for the glass of OJ and leans against a wall as he brings the glass to his mouth, "Hmmmm. This is the stuff!"
 Maya laughs, "Glad you like it."
 She then says, "So me and Lucile are gonna go and start packing the important stuff."
-Keith replies, "Just let us know if you need anything, ok?"
+Keith replies, "Just let us know if you need anything, OK?"
 Kelly adds, "Don't take too long."
 Lucile goes into Maya's room and starts looking around. She finds Maya's laptop and a charger. Maya comes in and sees that Lucile is already going through Maya's closet.
 Maya scratches her arm, "I--It's not much, but, y'know."
@@ -9486,7 +9492,7 @@ Maya looks through the other papers and finds her degree certificate from Magnol
 "Ooh, cool!"
 "You should've seen my room back in MC3."
 "MC3?"
-"Magnolia City Community College. The nerds call it MC cubed, because you get one, two, three Cs."
+"Magnolia City Community College. The nerds call it MC cubed, because you get 1, 2, 3 Cs."
 "Haha. How was it there?"
 Maya nods, "Eh, definitely a lot cheaper than the other options."
 Maya pulls out a photo of herself in a graduation robe. She smiles and admires the picture.
@@ -9496,8 +9502,8 @@ Maya shyly chuckles and says, "I--I try to look nice for pictures, I guess."
 Maya sighs, "It was years ago." She touches her face, "I look a lot different now, huh?"
 Lucile looks at the picture and replies, "N--No, you don't. You're still...you."
 Maya grins, "You think so?"
-Lucile nods, "Y--Yeah. Yeah. As a matter of fact, you look sexier."
-Maya turns to Lucile and laughs, "Haha, I--I do?"
+Lucile nods, "Yeah. Yeah. As a matter of fact, you look sexier."
+Maya turns to Lucile and laughs, "Haha, I do?"
 Lucile bites her lip, "Mm-hmm. All nice and sexy." She playfully sways from side to side.
 Maya walks up to Lucile and embraces her, "So, uh, whatcha wanna pack first?"
 Lucile starts folding some of Maya's clothes and putting them in a large suitcase, "Well, I say clothes."
@@ -9511,22 +9517,23 @@ Maya is staring at the picture and smiles, "Yeah."
 Lucile puts the photo down and turns to Maya, "Oh, don't worry. She probably found someone else. You had to move on at some point."
 Maya nods and softly says, "Yeah."
 "Don't dwell on the past, sweetie. I mean, think about how much the future holds. For you. For us. There's so much more ahead."
-Maya says, "Y--Yeah. Yeah. There is, isn't there?" She sighs, "But I still wonder how she's doing. I--I'm sorry, Lucile, it's just--"
-Lucile hugs Maya and kisses her forehead, "Shhhhh. It's ok, Maya." She strokes Maya's head and Maya falls into Lucile's embrace.
+Maya says, "Y--Yeah. Yeah. There is, isn't there?"
+She sighs, "But I still wonder how she's doing. I--I'm sorry, Lucile, it's just--"
+Lucile hugs Maya and kisses her forehead, "Shhhhh. It's OK, Maya." She strokes Maya's head and Maya falls into Lucile's embrace.
 Lucile continues, "Yeah, I know what first love feels like, Maya."
 Maya sniffles, "Yeah? I--I know. You got me, didn't you?"
 "Oh, my sweet poinsettia."
 Maya asks, "You got any pics of that Malkavian...you used to see?"
 Lucile sighs, "I dunno, Maya. I try not to think about that too much, I mean, she was great and all, but it ended badly."
 "Yeah, I'm really sorry about that. Diablerie is bad news."
-"It's no joke, no wonder the Camarilla clamps down on it."
+"It's no joke. No wonder the Camarilla clamps down on it."
 "Yeah, I bet."
 Maya looks at her girlfriend, "We...should really finish packing. Wouldn't wanna keep those Ravnos waiting."
 "I know. I just want to spend a few more moments in here. This is the last time we'll be here, Maya. I...just wanna remember it."
 Maya softly groans, "T--This is where we first made love, right?"
 Lucile nods, "Made love. Hehe. Yep. It was amazing, wasn't it?" She playfully kisses Maya's forehead.
 Maya giggles and nods, "Oh, yes. It was so...amazing. I--" Maya is at a loss for words. She can't describe how good that night felt. She just smiles.
-She's reliving the moment in her head. The sensations, the way Lucile looked at her. Her skin felt so cold, but it was so soft and smooth. She remembered Lucile's fingers gently touching her.
+She's reliving the moment in her head. The sensations, the way Lucile looked at her. Her skin felt so cold, but it was so soft and smooth. She remembered Lucile's fingers gently touching her all over.
 She remembered the way Lucile's eyes lit up that night.
 After about half-an-hour or so, the duo are done shoving most of Maya's things into suitcases.
 The pile of clothes and other stuff is getting bigger by the minute. Maya's closet is nearly empty.
@@ -9544,8 +9551,8 @@ The sounds of the outside world just barely seeping into Maya's mind.
 Maya eventually gets up and turns her phone back on. She facepalms, "Oh, damnit!"
 "Huh? What's wrong?" Lucile springs up to Maya.
 "I--I forgot that I promised to meet my boss, Edgar." She sighs, "Damnit!"
-Lucile puts her hand on Maya's back and rubs it, "Oh, hey. Hey! It's ok. Don't worry about it. You go on and finish it, I'll stay back and make sure nothing goes missing." She winks.
-Maya is at a loss for words, "I--I dunno. What if..." she thinks to herself for a moment, "W--Well, actually, you're right."
+Lucile puts her hand on Maya's back and rubs it, "Oh, hey. Hey! It's OK. Don't worry about it. You go on and finish it, I'll stay back and make sure nothing goes missing." She winks.
+Maya is at a loss for words, "I dunno. What if..." she thinks to herself for a moment, "W--Well, actually, you're right."
 Maya quickly taps on her phone, asking Edgar to meet her at a small ice cream parlor nearby. She sends the text.
 Maya says, "I just wanna get this over with. See if I still have a job at Nimbus, wh--which is doubtful."
 "Alright then, Maya. I'll stay back here and make sure nothing gets lost. Just promise me that you won't breach the Masquerade. Edgar's a mortal, so watch your step."
@@ -9566,9 +9573,10 @@ Maya kisses Lucile on the cheek and heads over to the bathroom. She looks in the
 She fluffs her hair and touches up her face. She looks at herself for a long moment and sighs.
 She says she'll be back soon and heads out to see her old boss, Edgar.
 After about 5 minutes, Maya arrives at the ice cream parlor. Edgar is already inside. She opens the door and the bell rings. Edgar turns around and sees her.
-"Maya!" Edgar greets her warmly, "I was starting to worry, thought you weren't going to make it." He laughs and the pair hug.
-He asks, "It's...been a while, hasn't it. Are--are you doing OK?"
-Maya has a disappointed look on her face. She feels responsible for letting the magazine go to shit. Edgar just smiles.
+"Maya!" Edgar greets her warmly, "I was starting to worry. I thought you weren't going to make it." He laughs and the pair hug.
+He asks, "It's...been a while, hasn't it? Are--are you doing OK?"
+Maya has a disappointed look on her face. She feels responsible for letting the magazine go to shit.
+Edgar just smiles.
 He takes a quick scan of Maya's face and notices a little bit of discoloration around her neck and throat.
 He beckons to her outfit, "Going somewhere this late at night?"
 Maya takes her seat and nervously responds, "N--No, just uh, a, you know, 'little something' I gotta take care of. Before the night ends." She laughs.
@@ -9582,9 +9590,10 @@ Maya is taken aback, "Wh--What? W--Why?!"
 Edgar sighs as he asks a server to come over, "Probably has to do with the fact that we're finally selling."
 "You found a buyer? But--"
 "It's already done, Maya. Some Silicon Valley hotshot named Camden Cross. I think you've heard of him."
-Maya shrugs, "Yeah, I think. Maybe. I dunno. I--I just want to move on."
-The server comes over and his jaw hangs open. He seems to recognize Maya. Maya doesn't recognize the server.
-The server says, "Holy shit! You're that redhead chick from that video everyone's--"
+Maya shrugs, "Yeah, I think. Maybe. I dunno. I--I just wanna move on."
+The server comes over and his jaw hangs open. He seems to recognize Maya.
+Maya doesn't recognize the server.
+The server exclaims, "Holy shit! You're that redhead chick from that video everyone's--"
 Edgar silences the server by raising his hand. He growls, "I'll give you 40 bucks to shut up." He slips the cash to him.
 "60."
 Edgar growls again, "50 bucks." The server quietly sighs and pockets the cash.
@@ -9613,7 +9622,7 @@ Maya snidely remarks, "We were a family, Edgar."
 Maya sighs, "What choice do we have, Edgar? I opened my mouth an--and screwed everything up. People in this town ain't gonna look at me the same way, y'know."
 Edgar thinks for a moment and asks, "Why did you open your mouth in the first place?"
 Maya twiddles her fingers, "I--I was just tired of being disrespected and put down for having...an opinion."
-Edgar takes a spoonful of his ice cream and says, "Well, do you actually believe in that vampire stuff, Maya?"
+Edgar takes a spoonful of his ice cream and says, "Well, do you ACTUALLY believe in that vampire stuff, Maya?"
 Maya bites her tongue and thinks about how to answer him without outing herself. She says, "I've had time to...reassess some of my beliefs. I--"
 "Hmm. Well, you're hardly the first person in town to ask about vampires. Had an FBI agent by the name of, what was it..." Edgar tries to recall the name, "Higgins, yeah. He was pretty pushy."
 Maya tries to maintain her composure when she hears that the FBI is interested in speaking with her, "What did he want?"
@@ -9625,17 +9634,19 @@ Edgar smiles, "Of course."
 He says, "Speaking of, you've heard what happened to the McMahons, right?"
 Maya flatly says, "I'm not shedding any tears over those bigoted assholes. You know how hard life's been in this town thanks to their...obsession with people like me?!"
 "Yeah. I've always known you're not a fan of them, Maya, but..."
-Maya interjects, "But what?! No company and no organization in this town would hire me j--just because I'm attracted to women. That holier-than-thou clown William McMahon started all that hate. He and that shit-eating cousin of his, Mayor Duncan!"
+Maya interjects, "But what?! No company and no organization in this town would hire me j--just because I'm attracted to women! That holier-than-thou clown William McMahon started all that hate. He and that shit-eating cousin of his, Mayor Duncan!"
 Maya bangs on the table and lets out a heavy sigh.
 Edgar calms her down, "But Nimbus took a chance on you, Maya. We took you in and made you the person you are today."
 Maya glares at Edgar and grumbles, "That's 'cause you were short-staffed back then." She crosses her arms. She looks around and sees that there's nobody within earshot.
 She lowers her voice, "You know how much shit I had to put up with ever since I came back to this town? I couldn't even find a fucking place to rent cause the landlords would call me names or ask if I had a hu--" She stops herself from saying anything else.
-She thinks to herself. She sighs. She's still angry. But she's also scared. She wasn't ready to bring this all up after so many years.
-Edgar's a good man, though. More or less. Maya's mind is racing.
+She sighs. She's still angry. But she's also scared. She wasn't ready to bring this all up after so many years.
+Edgar's a good man, though. More or less.
+Maya's mind is racing.
 Edgar places his hand on her shoulder, "It's alright, Maya. Just...take it easy, OK?"
-Maya says, "I--I will, Edgar." She stares out the window. The moon glows. She says, "I--I guess I gotta find another job, huh?"
+Maya says, "I--I will, Edgar." She stares out the window. The moon glows.
+She softly asks, "I guess I gotta find another job, huh?"
 Edgar pensively nods, "It looks that way. But I am willing to write you a recommendation, Maya." He smiles. He knows she does.
-It's a no brainer at this point. He's always tried his best to look out for Maya.
+It's a no-brainer at this point. He's always tried his best to look out for Maya.
 Only because she looked after his kids when he wasn't around or was too sick. It's always been a bit of a thankless job, but he's never had a problem with it. His wife doesn't have a problem with it, either.
 Edgar's 2 kids loved Maya like a fun aunty. Maya's always been so kind and gentle. She never pushed them to do anything they didn't want to do and always made their time together a memorable one.
 Edgar says, "You were there for me and my family when no one else was. Y'know, the kids have been asking about 'aunty Maya' recently."
@@ -9655,7 +9666,7 @@ Maya sighs, "It's a long story, Edgar."
 Edgar strokes her hair and says, "You've got your whole life ahead of you, Maya. I'm sure your partner will be a part of it."
 Maya feels the slightest bit of relief from Edgar's reassurance. She hugs him again and thanks him for everything.
 She says, "I'll be going now. G--Goodnight, Edgar. And say hi to the family for me."
-Edgar smiles, "Yeah, OK. Goodnight, Maya. And remember, if you need anything, anything at all, just lemme know, ok?"
+Edgar smiles, "Yeah, OK. Goodnight, Maya. And remember, if you need anything, anything at all, just lemme know, OK?"
 "I'll keep that in mind, Edgar." Maya smiles as she waves goodbye to her old boss. Edgar smiles and waves back.
 The bell dings as Maya pushes the door open. It's cold outside. She heads back to her old apartment.
 Eleanor is in the hallway, arguing with the landlady. Maya immediately rushes over.
@@ -9667,7 +9678,7 @@ The landlady snarls at Maya, "What?! Who does this kind of thing at night?!"
 Maya takes a step back and almost trips over when she sees her landlord's plaque-ridden teeth.
 The landlady scoffs, "Ya can't just up and move whenever you feel like it, dummy! Also, where the fuck's my goddamn rent?! You said you'd pay it soon, ya dumb broad!"
 Maya stutters, "W--Well, something c--came up. I--"
-Eleanor interjects by using her Dominate Discipline. The Elder Tremere places her frail-looking hands on the landlady's shoulders and looks directly into her dark blue eyes.
+Eleanor interjects by using her Dominate Discipline. The Elder Tremere places her frail-looking hands on the landlady's shoulders and looks directly into her dark-blue eyes.
 Her voice deepens as she commands, "Listen to me, you fiend. You WILL waive the rent. And you WILL return Maya's deposit in full. Moreover, you WILL ignore all the noise and give us no more trouble."
 Eleanor's words are as cold as ice. The landlady is paralyzed for a brief moment. She then stammers and slowly nods, "I...will."
 Maya adds, "A--Also, tell her to go and fuck herself!"
@@ -9676,35 +9687,36 @@ The landlady slowly shuffles away, muttering something under her breath. She tur
 Maya smiles and laughs, "H--Ho--Holy shit, Eleanor! That was so AWESOME!"
 Eleanor looks at her and says, "Do not think too much of it, Childe." She walks past Maya and back into the apartment.
 The Elder continues, "I did it for the Masquerade."
-Maya gulps, "Y--Yes. But, thanks, anyways."
+Maya gulps, "Y--Yes. But, thanks, anyways!"
 Eleanor looks around Maya's apartment, "The furnishings seem adequate, but Lucile was right, this is no Haven."
-She points to the large windows, "The sun would likely destroy anyone unfortunate enough to be caught inside and the bathtub is hardly an option for day-sleep."
-"I know. I think I'm ready to move on from this place. I--" She sees Lucile holding a suitcase, "Lucile! Where are the other ones?"
-Lucile smiles, "Frank and the others have got it, don't worry, sweetie. I locked it up."
+She points to the large windows, "The sun would likely destroy anyone unfortunate enough to be caught inside and the bathtub is hardly an option for comfortable day-sleep."
+"I know. I think I'm ready to move on from this place. I--"
+She sees Lucile holding a suitcase, "Lucile! Where are the other ones?"
+Lucile smiles, "Frank and the others have got it. Don't worry, sweetie. I locked it up."
 Maya hugs Lucile and kisses her lips. Maya turns around and says, "You should've seen Eleanor there! She was like, 'you WILL go and have a little lie down' and the landlady just nodded and walked off!"
 Lucile chuckles, "That's Dominate for ya. Making mortals do our bidding."
 Maya says, "Well, she was a nasty old bitch. Refused to fix the place up when something broke and increased the rent when she felt like it."
 Eleanor says, "Dominate is not a Discipline to be taken lightly, Childe."
 Lucile replies, "Well, I mean, I know that, but it's kinda cool, y'know."
-"Hmm. I shall wait for you 2 downstairs. The other 2 Ravnos have already left for your Haven, Lucile. Frank is waiting downstairs."
+"Hmm. I shall wait for you 2 downstairs. The other 2 Ravnos have already left for your Haven, Lucile. Frank is also waiting downstairs."
 Maya nods, "OK. We won't be long. Just give us a moment."
 Eleanor nods and turns away. She heads down the stairs and waits for her Childer.
-Maya and Lucile look around one last time. They're all packed. Maya's clothes, her personal belongings, important documents, and anything else she owns.
+Maya and Lucile look around one last time. They're all packed- Maya's clothes, her personal belongings, important documents, and anything else she owns.
 Lucile looks around and pulls Maya in for an embrace. They hold each other tightly and look deeply into each other's eyes.
 Maya's hands slowly go down Lucile's back and settle on her hips. Lucile's hand slowly goes up Maya's back and settles on her hair. She gently strokes it.
 Lucile asks, "So, how'd it go with your boss? You still got a job or--"
 Maya sniffs, "N--no. It was all for nothing." She buries her head in Lucile's shoulder.
 "W--What?"
 Tears of blood roll down Maya's eyes, "Th--They're selling Nimbus."
-Lucile holds Maya close and sways from side to side, "Oh, sweetie...I--I don't know what to say."
+Lucile holds Maya close and sways from side to side, "Oh, sweetie. I--I don't know what to say."
 "I...I gave that place the best years of my life..."
 Lucile softly shushes her, "Hush, my poinsettia. Shhhhh."
-Maya sniffles, "I--I'm sorry, Lucile. I'm sorry. It's...just that they took me in when I had n--nothing and made me who I am today. And now, I'm just...back to--"
-Lucile kisses Maya's forehead, "Shhhhh. Shhhhh. You're not going anywhere, Maya. I'm here for you. I'll always be here for you."
+Maya sniffles, "I'm sorry, Lucile. I'm sorry. It's...just that they took me in when I had n--nothing and made me who I am today. And now, I'm just...back to--"
+Lucile kisses Maya's forehead, "Shhhhh. Shhhhh. Nothing bad's gonna happen, Maya. I'm here for you. I'll always be here for you."
 Maya sniffles, "I--I know, Lucile. B--But what about your courier job?"
 Lucile shakes her head, "It won't be for another few nights."
 Maya sniffles, "I dunno. I--I'm just scared, Lucile. I'm scared of--of failure."
-She sniffles again. "I don't want to lose you. N--Not when I just found you."
+She sniffles again, "I don't want to lose you. N--Not when I just found you."
 Lucile gently strokes Maya's hair, "You'll never lose me, Maya. And I won't ever let go of you, no matter how far apart we are."
 Maya cries, "I--I love you, Lucile."
 Lucile kisses Maya, "I love you, too, Maya."
@@ -9731,7 +9743,7 @@ Maya replies, "Yeah, it's down in the basement parking lot. I'll show you where 
 Maya presses "-1" on the elevator and it creaks and croaks its way down.
 The elevator reaches the bottom and the doors slide open. Frank is surprised to see the basement.
 It's quite spacious and well-lit. Colored pipes and wires run along the walls and ceilings. The walls are painted white.
-Frank is looking around and says, "Wow, this is...nice, compared to the rest of the place."
+Frank is looks around and remarks, "Wow, this is...nice, compared to the rest of the place."
 Maya snickers, "Yeah, they did the place up a week ago."
 "Huh. This is a lot nicer than the garage I usually work out of. So, which one's yours?"
 Maya pulls off the dusty cover of a nearby bike rack and points to her Vespa.
@@ -9771,9 +9783,10 @@ Maya and Lucile head back upstairs. Eleanor is simply looking at the sky, deep i
 She turns around and sees the pair. She says, "Good. Let us depart."
 Maya and Lucile ask Eleanor about that wooden box and the knife inside it.
 The Elder Tremere replies, "I have entrusted it with another Tremere."
-"Oh, cool," remarks Maya. She then asks, "But, I thought they were busy with their...Proving."
+"Oh, cool," remarks Maya.
+She then asks, "But, I thought they were busy with their...Proving."
 "Not this particular one, no, she is of a different House- House Goratrix."
-Maya says, "Oh, OK. But I thought it was just us in this town, The Children of the Pyramid."
+Maya says, "Oh, OK. But I thought it was just us in this town, The Children Of The Pyramid."
 Eleanor continues, "She will guard the box and the blade until I have ensured that it is safe to keep at the House Of Hermes."
 Lucile nods, "Ah, it's Nolene, isn't it?"
 Maya asks, "So, who is she, then? Can I meet her? I wanna meet other Tremere in this town. I know I can't meet someone from within our um...House, but..."
@@ -9795,10 +9808,10 @@ Maya gulps and says, "E--Eleanor. Are you OK? I--I didn't mean to--"
 Eleanor interjects, "I am fine. Now, come. We must leave at once." She says nothing as she enters her SUV and tells Laszlo, "Drive!"
 The SUV's engines rev loudly and the car starts moving. Eleanor sits in silence, looking out the window.
 Lucile looks at Maya and says, "Whoa. You, uh...OK? Weird." She shakes her head. She's wondering if something's going on. Something she doesn't know about.
-Maya whispers, "I--I'm sorry. Did I say or do something? Did she forget to...feed or something."
+Maya whispers, "I--I'm sorry. Did I say or do something? Did she forget to...feed or something?"
 Lucile sighs, "Actually, she's been forgetting more and more these nights. I've been having to remind her of basic things these past few weeks. She's...I don't know what to tell you, Maya."
 "But how is that even possible? Kindred can't deteriorate, like mortals do."
-Lucile shrugs, "Well, she IS an Elder Tremere, well over 300 years old. That and she was Embraced at a very old age."
+Lucile shrugs, "Well, she IS an Elder Tremere, well over 300 years old. That and she was Embraced at a VERY old age."
 Maya asks, "How old is she, like in terms of mortal years?"
 Lucile thinks for a moment and says, "She told me that she was 70-something when she got Embraced. Heh, maybe she forgot to add a decade...or two."
 Maya lowers her head, "Damn, that's...kinda messed up. Did she even give her consent for her own Embrace?"
@@ -9824,8 +9837,8 @@ Lucile raises her eyebrow, "Whoa, what?"
 "Yeah, like I said, they were the absolute worst. So, you'd excuse me if I don't shed any tears over their death. You know how hard it was just to find a goddamn place to rent? I was ready to pay, but they--they kept asking me weird questions, like why I was so short on cash. Why I couldn't afford a car. Why I didn't have a car. Why my hair was red. Where my husband or father was."
 "That's bullshit."
 Maya laughs, "You think THAT was bad, you should've seen the job interviews- some asshole had the audacity to ask me if I was a virgin and my hymen was intact. A--As if!" She rolls her eyes.
-She continues, "I was born this way, y'know? I can't help that I am who I am!"
-Lucile smiles, "I know, Maya. It sucks. I never understood why people would judge others like that."
+She continues, "I was born this way, y'know? I can't help that I am who I am! As a matter of fact, I freakin' love it!"
+Lucile warmly smiles, "I know, Maya. It sucks. I never understood why people would judge others like that."
 "Yeah. It's really fucking stupid, actually. I did a little digging of my own and found the fingerprints of the Mc-fucking-Mahons on everything. They were a part of everything in this town, including the town's newspaper and radio."
 Lucile says, "Well, they can't hurt anyone now, can they?"
 Maya shakes her head, "That's the thing, they weren't just random nutjobs picketing funerals, they were obscenely rich. Not like, 'oh, I got 100 bucks for a protest' rich, but 'I'm worth a small country' rich. Like, William McMahon had a goddamn yacht for fuck's sake."
@@ -9834,7 +9847,7 @@ Maya shakes her head, "That's the thing, they weren't just random nutjobs picket
 "Yeah, I hear you. How does a whole mansion full of people turn to ash? I heard Keith and Kelly saying the traffic on the night of the fire was so dense, the fire trucks had a hell of a time getting through."
 Maya replies, "Whoa, really? You think it was...intentional?"
 Lucile shrugs, "Judging by what you said, it wouldn't surprise me if someone..." She lowers her voice, "...took matters into their own hands."
-Maya's eyes widen, "You think someone killed them? That would explain the Feds crawling all over the place."
+Maya's eyes widen, "You think someone killed them? That would explain the feds crawling all over the place."
 "Well, the family were pretty extreme, so it's kinda plausible."
 Maya says, "But, no. The most I and a few others ever did was sign letters and stuff like that. Nothing this...drastic."
 "Yeah, but I dunno, something just doesn't seem right."
@@ -9850,13 +9863,13 @@ The car pulls up and Lucile is genuinely surprised to see Prince Lucas standing 
 Lucile's eyes widen and she quickly parks. Maya gets out of the car, smiling and waving at the Prince.
 Lucile joins Maya outside and they see Eleanor's SUV parked not too far from them. The Elder Tremere is nowhere in sight.
 Lucile whispers, "Uh, where's Eleanor?"
-Prince Lucas waves, "Oh, she said she had to take care of something in your...backyard. Might I add that this is quite a...lovely Haven you have here."
+Prince Lucas waves, "Oh, she said she had to take care of something in your...backyard. Might I add that this is quite a lovely Haven you have here."
 Lucile replies, "Oh, well, thank you."
 Maya looks at the Prince and asks, "So, uh, how'd your...thing go?"
 The Prince looks a bit frustrated, but also relieved (somewhat). He replies, "It could've been worse, all things considered."
 Maya asks, "What was it, if you don't mind me asking?"
 Prince Lucas takes a deep breath and says, "There was a...scuffle in a bar. A few of my people got into a fight with a few federal agents. Some of my people even used their Disciplines, but it was...not entirely successful. It caused a bit of a ruckus, but the matter has been resolved." He says that last part in an uncertain manner.
-Maya nods, "Oh. That's...crazy. Were there any violations of the Masquerade?"
+Maya nods, "Oh. That's...crazy. Were there any breaches of the Masquerade?"
 Lucile twitches a bit.
 The Prince smiles, "Good to see the Fledgling is taking her lessons to heart."
 Maya blushes and says, "Th--Thank you. I'm still trying to learn the ropes, so to speak. Y'know, learning as I go along."
@@ -9868,13 +9881,14 @@ Maya asks, "Alone?"
 The Prince raises an eyebrow, "Indeed. We have an important matter to discuss. Lucile, shall we?" He walks away from the cottage. Lucile follows.
 Maya stands by the car and watches them.
 Lucile clears her throat as she leans against a tree. The Prince leans against another tree, opposite of Lucile.
-She asks, "So, what is it that you want to talk about, Prince Lucas?" She hopes it's not what she thinks it is.
+She asks, "So, what is it that you want to talk about, Prince Lucas?"
+She hopes it's not what she thinks it is.
 She still wants a night or 2 to spend with Maya, to get to know her better and be there for her during this delicate period of transition.
 Prince Lucas gets to the point and says, "You will be leaving tomorrow night to begin your new...job."
 Lucile is taken aback, "B--But I thought--"
 "Please do not question me, Lucile. The flow of information has already been disrupted enough." He glares at her. He's not being rude, he's simply being...him. He's a bit of intimidating presence, despite his friendly demeanor.
 "As you well know, the Ivory Tower doesn't like disruptions, so to speak. Especially for such a critical node in the Blood Trade." He smiles. It's not a warm smile.
-Lucile lowers her head and mutters, "I understand." Her voice is a bit shaky. She's not entirely scared of the Prince but she knows the dictates of the Camarilla's Six Traditions.
+Lucile lowers her head and mutters, "I understand." Her voice is a bit shaky. She's not entirely scared of the Prince but she knows the dictates of the Camarilla's 6 Traditions.
 She pauses and glances to the side. She can see Maya staring at her, looking concerned.
 Prince Lucas says, "Don't worry, it'll only be for a few weeks until a...more adequate replacement courier can be found."
 "A--And where will I be going?" She looks directly into Prince Lucas's eyes. It's clear that there's no turning back now.
@@ -9882,7 +9896,7 @@ Prince Lucas says, "Don't worry, it'll only be for a few weeks until a...more ad
 Lucile sighs, "No, I guess I got the gist of it. Thank you." She shakes his hand. It's cold and firm.
 She goes back and sees a pickup truck rolling in. Keith and Kelly jump out of the truck and go to the front door.
 Maya asks, "Where were you 2? You had me worried sick."
-Kelly says, "We uh...took a longer route. It's a lot more scenic. Don't worry, your stuff's all ok, see?" She beckons over to Keith, who's holding one of Maya's suitcase.
+Kelly says, "We uh...took a longer route. It's a lot more scenic. Don't worry, your stuff's all OK, see?" She beckons over to Keith, who's holding one of Maya's suitcases.
 Lucile looks at the suitcase and says, "Here, lemme get that."
 The suitcases are carried and placed inside the cottage.
 Eleanor is waiting by the front door, "So, it is done, then?"
