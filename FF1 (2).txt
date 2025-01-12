@@ -936,7 +936,7 @@ Eunice takes her spot on the sofa, "You'd be surprised, Ginny."
 Ginny silently nods and prompts the Sheriff to go on.
 Eunice smirks (which she rarely does), "'She' has convinced herself that she sleepwalks and cuts herself sometimes. That's why there are these marks on her body and why she always seems so tired." Eunice has a dark glint in her eyes.
 "Heh. Devious."
-Eunice adds, "You know she was busted with pot when she 15?"
+Eunice adds, "You know she was busted with pot when she was 15?"
 She sighs and huffs, "Like I give a damn either way. That's why I ain't letting her go off to Harvard or wherever the fuck."
 Ginny incredulously asks, "You're gonna keep her here till she's what...50?"
 Eunice dryly answers, "If I have to, I will."
@@ -960,14 +960,14 @@ Ginny smiles, "You got issues with him?" She puts on a confident smirk.
 Ginny takes a risk, "You ever wonder what this town would look like under...different leadership?"
 The Malkavian Sheriff sternly asks, "What are you implying, Ginny?"
 Ginny chuckles, "Whoa, hey, nothing. We're just talking about uh...hypotheticals here."
-"Hmph. Sure, what kind of 'leadership'."
+"Hmph. Sure, what kind of 'leadership'?"
 Ginny posits a 'hypothetical' scenario, "Suppose something were to happen to Prince Lucas, who would be the most eligible candidate to take Praxis?"
 "Hmph." Eunice puts her hands together and looks around her Haven.
 She eventually answers, "If no one steps forward with a valid claim, then I guess I'd have to step up. Momentarily, of course. Until a suitable replacement is found." Her tone is light and carefree.
 "Yeah. That makes sense. Who'd be the new Sheriff, then?" Ginny prods.
 Eunice turns to look Ginny in the eyes and says, "I'd have to find someone. Why, you interested? Hmm?" Her eyes narrow as she says that.
 Ginny playfully shrugs, "Maybe."
-"Hm. If any vacancies do come up, you'd have my support, Ginny. I'll keep you in mind, Ms. Bane." The Malkavian Sheriff seems to have warmed up a bit.
+"Hm. If any vacancies do come up, you'd have my support. I'll keep you in mind, Ms. Bane." The Malkavian Sheriff seems to have warmed up a bit.
 Ginny states, "I, uh...I think we might have a common goal, you and I."
 "Sounds good."
 Ginny adds, "Prince Eunice Brynn kinda has a nice ring to it, doesn't it?"
@@ -1041,5 +1041,344 @@ Ginny dryly laughs, "Wow. Wow."
 "That so?"
 "I like to think I make my own decisions. Besides, the entire PPD is backing me up on this. I've even got the Mayor's support in case some bleeding heart tries to pin anything on me."
 "Hmph, impressive. Heh."
-"Yeah. Some of the people here think I'm a monster, but I don't give a damn what they
-<legal rep in case u run into trouble. titus, tenebris legal.
+"Yeah. Some of the people here think I'm a monster, but I don't give a damn what they think."
+Ginny shrugs, "So long as the Camarilla is happy with your service, it shouldn't matter."
+"Mm-hmm. Yep."
+Ginny makes a proposal, "I...might know a guy."
+Eunice softly chuckles, "Hmm, good for you."
+"No, I mean I might know a guy who could help you out with some of your uh...problems."
+Eunice sits up and looks at Ginny, "And what makes you think I'm interested in the first place?" She folds her arms.
+Ginny meets Eunice's dead stare, "I'm not stupid. I know how these things work. What you did to that homeless guy isn't gonna magically go away on its own."
+Eunice's expression doesn't change, "Go on."
+"So, there's this Lasombra coming to town. His name's Titus. He's got his own law firm called 'Tenebris Legal'."
+Eunice inquires, "What's he coming here for? And don't even think about lying to me, Ginny."
+Ginny gives her a vague answer, "To help with some stuff. Mostly Agnieszka's um...issues. He can help with the ones you have, too. Or the ones you're gonna have, heh."
+"What's the catch?"
+"He doesn't do pro bono." Ginny holds out her hands, "He believes it's beneath him. That said, he's definitely the best guy to turn to."
+Eunice laughs, "Heh. I'll keep it in mind."
+Ginny laughs, "Y'know, Eunice, I saw the video of what you did to that homeless guy. Ya really went to town on him! I like it." She lightly claps.
+"Hm. Well, it needed to be done. I...had no choice."
+Ginny adds, "Yep, and that's what I love about small town cops- you know how to play the game."
+Eunice concurs, "Yep, no big city politics holding us back."
+She adds, "Y'know, back in the big city, Internal Affairs used to have a nickname for me."
+"Oh?"
+"Mm-hmm. 'Miss Discharge' because I actually used my goddamn gun when I had to."
+"Huh." Ginny has a knowing smile on her face. She has a plan forming in her mind.
+Eunice continues justifying her brutality, "That guy was a junkie and a deadbeat. I got no sympathy for losers like him."
+Ginny says, "Yeah, I'm sure." She chuckles.
+"His sister, Gladys, has been asking questions she shouldn't be asking."
+Ginny leans forward and lowers her voice, "Want us to take care of her...as a favor?"
+Eunice shrugs, "That'd be great, but she moved out of her place and I haven't seen her since."
+"Oh." Ginny's voice trails off.
+Eunice goes on, "Anyway, I guess I gotta prepare myself for what comes next. Either way, I win. I'll keep your Titus guy in mind. He better play by the town's rules when he's here, got it."
+Ginny snickers, "I'll be sure to tell him." She winks at the Malkavian Sheriff.
+Ginny strokes her chin, "Hey, speaking of the rules, do the Ventrue still have their um...thing?"
+Eunice lowers her eyebrows and thinks for a few moments, "What 'thing' are you referring to."
+Ginny vaguely twirls her hand, "Ah, y'know, their...thing."
+Eunice sighs, "Why don't you ask your Ventrue boyfriend about that?"
+"I'm curious about the specifics."
+Eunice explains the arrangement, "Certain places and people are set aside EXCLUSIVELY for Clan Ventrue. It's been like that as far as I can remember."
+She sniffs and goes on, "They even tried to make certain methods exclusive, but no one was having it."
+Ginny tilts her head, "What kind of methods?"
+Eunice smirks, "Don't know, don't care. All I know is that if you ever feed on someone marked for Ventrue use or hang around in a place Ventrue claimed for themselves, then I'm gonna come and make you regret it. Badly."
+Ginny nods, "Yeah."
+Eunice offers some advice of her own, "Word of advice? Tell that boyfriend of yours to know his place. He's just a Clan rep in a small town."
+Ginny flatly remarks, "I'll make sure to pass on the message, heh."
+Silence lingers in the air for a few minutes.
+Eunice puts her finger in her ear and turns her finger round and round.
+Ginny raises her eyebrows at this, but says nothing.
+The Sheriff eventually wipes her earwax-covered finger on the sofa's armrest, "Augh." She scowls.
+Ginny smirks and remarks, "I wouldn't sweat it, Sheriff Eunice."
+She looks over to the picture of Eunice and her dead husband and asks, "So, did your husband know?"
+Eunice understands her guest's query, "Yeah, kinda. He thought it was a...condition."
+Ginny compliments her host, "Y'know, it's pretty impressive. You were able to be a wife, a Kindred Sheriff, and a cop all at the same time. Not everyone can pull that shit off."
+Eunice frowns, "Yeah. Wasn't easy, but I made do with what I had." She looks at the wedding photo, but shows no emotion or affection towards it.
+Ginny states, "You ever miss him?"
+Eunice takes a deep breath, "Maybe, I don't know."
+Ginny is genuinely curious, "Was he, like, your Touchstone?"
+Eunice gruffly remarks, "Touchstones are for the weak. You need to be stronger than that if you wanna survive the nights."
+Ginny is a bit taken aback, but she casually responds, "Yeah, I getcha." She crosses her arms.
+Eunice continues, "No. Matthew was...there. Then, he wasn't." She sounds really nonchalant and disinterested.
+She adds, "Sex was good, too." She smirks at Ginny.
+Ginny raises an eyebrow, "O...kay?"
+Eunice throws her head back and blows a raspberry, "I'll keep what you said about Prince Lucas in mind, Ginny."
+Ginny chuckles.
+Eunice smiles and nods her head, "Any other concerns?"
+Ginny scowls, "Maya..."
+Eunice sighs, "Yeah, I know. You know what Geoffrey's last request was?"
+Ginny focuses her gaze, "'Last request' before you took his head off...?"
+"He asked me to keep an eye on his daughter. Heh. Told me to make sure she's...OK." Her expression is cold and unemotional.
+"Huh. So, he figured it out."
+Eunice takes a deep breath, "Yeah, well, she's one of us now. Funny how that worked out, huh."
+Ginny asks, "Ya think she'll EVER find out?"
+Eunice shrugs, "Nah. Even if she did, there's not a damn thing she can do about it. I did what I had to do in accordance with our sacred Traditions."
+"I hear ya, Eunice. I just don't like Maya, y'know?"
+Eunice puts her hands up, "Hey, I don't give a damn what you think, or who you like or dislike, but if you want my support, you'll keep your personal opinions to yourself."
+She emphasizes, "If or when she slips up, I will be the one to deal with her. NOT you and NOT a moment sooner, got it?"
+Ginny silently nods. She knows better than to rile up or aggravate a psychotic Malkavian who runs a tight ship around these parts.
+She says, "Just keep Lucile's travel routes close, just in case Maya gets outta line."
+"Mm-hmm. You got it."
+"Anything else you wanna talk about, Sheriff?"
+Eunice sits back and folds her arms, "Not really."
+Ginny gets up from the crummy sofa and dusts herself off, "Well, if that's it, I guess I better head on out."
+"Uh-huh."
+The Malkavian Sheriff walks her Lasombra guest to the front door, "I'll keep this Titus guy in mind."
+Ginny taps the side of her head, "Don't forget the other stuff I told you about. And uh...ah, never mind."
+Eunice raises her chin, "Mmmm. I'm no tattletale, Ginny. Don't worry about it. It'll be our little secret. We're friends, aren't we?"
+Ginny slowly nods, "Yeah. Awesome."
+She takes a deep breath, "It was nice meetin' ya!"
+"Likewise, Ms. Bane. Goodnight."
+Ginny waves goodnight and gets in her car. She rolls down the window and adds, "Don't let the bedbugs bite ya too hard, Eunice." She winks.
+Eunice chuckles, "Hmph. Bye."
+Ginny's car engine roars to life and peels away from the curb.
+Ginny exhales heavily as she drives off. That was...easier than expected, all things considered.
+She'll tell Arman about it later. She needs to give him some space after what happened earlier tonight. So, she returns back to her Haven and makes a mental note to do some light cleaning lest it end up like Eunice's.
+Eunice closes the door and turns all 4 locks.
+She then looks up at the ceiling and smiles to herself. She throws herself back on the couch and closes her eyes.
+With her eyes closed, she hears a faint fluttering in her mind. She hears a man's deep and authoritative voice.
+It is the voice of her Sire, Absalom.
+"Eunice, my Childe."
+Eunice gulps. Very few things scare her, but Absalom's voice still sends uncharacteristic shivers down her spine.
+She gulps and answers with a rather meek tone, "Yes?"
+Absalom continues, "You are doing well."
+Eunice nods as her Sire's voice grows in intensity.
+He asks her, "Why do you run from us?"
+She answers, "W--What do you mean?"
+"Your attempts to 'tune-out' of the Malkavian Madness Network, as they call it, will always end in failure."
+Eunice doesn't answer right away, but Absalom doesn't pressure her. He patiently waits.
+She sneers, "The shit I hear...and see in there..."
+"Childe, that is no valid excuse. You are stronger than the madness. You must face it head-on."
+Eunice's nostrils flare as she groans in frustration. She hears another flutter in her mind and another.
+And another.
+A male's voice flares up, "Why do you refuse to talk to us, Eunice?"
+Another male voice says, "Yeah, what are you trying to hide? We're here for you. The Cobweb is a wonderful thing, but you gotta let your mind outta the cage."
+A chirpy female's voice barges in, "Thanks to the Tapestry, I don't even have to leave my Haven for meals! Heeheehee! Hahaha!"
+Another voice, this one a gruff and stern-sounding one, cuts in, "The Weavery is love. The Weavery is Unlife."
+Eunice grips the sides of her head and grits her teeth.
+Absalom's voice reverberates throughout her mind, "Do not reject the gifts of Malkav, for you are his Childe now. His Blood flows through our very minds. You must embrace it, for you have been chosen..."
+He pauses for dramatic effect and continues, "...and chosen, you now are."
+He keeps saying those words, but Eunice still has no idea what the hell he means by that.
+She screams out, "GET OUT! GET OUT! GET OUT!" She almost pulls her hair out as she flails around on the sofa.
+A man's voice laughs and says, "Heh heh, come on, Eunice. Let's hear what's bothering you..."
+Absalom's voice cuts him off, "My Childe, heed the sound of my voice. Let it guide you amidst the chaos..."
+The Malkavian Sheriff takes a few long breaths. In and out. Vampires don't need to breathe, but (in this case) it helps.
+Sort of.
+She does as her Sire commands and listens to his words and his words alone. Her eyes flutter as she does so.
+"I am far from you now, yet, I will always be here, Childe. Always."
+His voice is gentle and soothing. It is almost comforting, but Eunice still can't relax.
+Eunice asks, "W--Where are you?"
+"In the UAE. There is much to be done in these lands..."
+Eunice gulps again and stammers, "Where--where in the UAE?"
+Absalom lets out a hearty chuckle, "Al-Kushraf city. We are fighting the forces of the Second Inquisition. These particular Inquisitors are not like their American counterparts, Childe."
+Eunice prompts her Sire to continue.
+"They are vicious. Savage. They will not hesitate to level entire buildings for the sake of 1 Kindred. This is why I am pleased to know that you are now a Sheriff amongst your own."
+She feels a swelling pride in her chest at her Sire's words.
+She proceeds to ask him, "I--I thought you were still in Dubai..."
+"We were all chased out, Childe. I foresaw the attack, but by then...it was too late."
+"Was it the SI?"
+"Yes."
+Eunice gulps and tunes out a few more intrusive voices as they try to talk to her.
+She focuses only on 1 person who matters to her. Her Sire. Absalom.
+Absalom says, "The Serpents give us refuge in Al-Kushraf now, it is...sufficient."
+He offers her a bit of advice, "The Lasombra has your best interests at heart, Eunice. Heed her, my Childe."
+Eunice gasps, "B--But how did you--"
+"I see that town of yours in my dreams and visions, Childe...I see your destiny."
+She blinks a few times, "W--What?" She sounds like a frightened child.
+"I see what you will become." He does not disclose any more.
+Eunice shakily asks, "Is--is it a good thing or a bad thing?" She sounds anxious. Almost afraid. It's a bit unsettling.
+"There is no simple answer to that question, Eunice. Now, go, for the nights ahead are perilous yet full of promise..."
+Eunice's eyes shoot open as she awakens. She tightly holds her head as she feels a shooting pain in her mind. She lets out a pained groan.
+She's spoken to her Sire through the Malkavian Madness Network. It's been a while since she's done that.
+With that out of the way, Eunice springs up from her spot and heads upstairs. She checks on Zoey, who is still unconscious.
+Eunice takes a few more deep breaths and makes her way over to Zoey.
+Her fangs extend as she crouches down next to the bed. She looks over the teenage girl's neck and licks her lips. She doesn't even hesitate as she bites her. Hard.
+Zoey softly whimpers. but is ultimately powerless to fight back.
+Once Eunice has had her fill, she grabs Zoey's diary and hastily scrawls the words: "Slept off again. Not really interested in the whole college thing. Maybe Eunice is right?"
+A wicked smirk forms across the Malkavian Sheriff's face as she continues to write. She finishes and adds a small "zy" beside the words.
+She then locks the door and goes to her own bedroom.
+She's had enough of Zoey's whining and complaining. No Harvard for her, no sir. Eunice has already decided that.
+She crawls under the covers and waits for the dawn. She's had a very long night and needs to get some shut-eye.
+There's also the matter of what Ginny said- there's certainly a lot for Eunice to think about.
+She does her best to ignore the little voices as they pester her in her mind. They eventually subside as the sun rises.
+Meanwhile, far far away from the town of Plaintry...
+A group of volunteers have just finished wiping off a swastika symbol that's been spray-painted on a gravestone. They are now moving on to the next spot.
+The lead volunteer tells Lucile, "This is not who we are as a community."
+Lucile sighs, "I know...I know..." She looks disappointed and disgusted that someone would do this to her mother's final resting place.
+One of the volunteers angrily says, "This is how people will see us now."
+"Thank you for doing this, it means a lot." Lucile places her cold hands on one of the volunteer's shoulders and smiles at them.
+She asks for some privacy as the volunteers move on to the next location.
+She then turns her attention to her mother's gravestone.
+It reads: "Maureen Goldstein. Loving mother, wife, and friend. May you find peace in death as you did in life."
+Lucile kneels down and lightly rubs the top of the gravestone.
+She takes a look around the cemetery.
+The cemetery is located just outside the city limits. It is a small but beautiful plot of land surrounded by a wrought iron fence. The rickety gate is locked and secured by a chain and padlock.
+As Lucile makes her way through the rows of graves, she can't help but feel a sense of sorrow and despair wash over her.
+Each grave is unique, but certain ones were targeted.
+Lucile sighs as she sits down across her mother's grave. She lets out a sad smile and looks around to make sure no one is within earshot.
+She takes a deep breath and says, "Mom, I--I met someone. Her name's Maya. She's the most beautiful and incredibly fascinating woman I've ever met. I--I just can't stop thinking about her. Every time I close my eyes, I see her face."
+A small tear of blood forms in the corner of Lucile's eye. She quickly wipes it away with the back of her hand, "She's got lovely red hair, sweet brown eyes, and great curves. Heh."
+Lucile shakes her head and continues, "I wish you were here to see her, mom. You'd love her. Definitely. You...and dad."
+She sniffles and goes on, "We're kinda going through a rough patch right now. It was my fault, really. We agreed on there being no secrets between us, but...well, she found out. Heh."
+Lucile chuckles softly, "I should've told her. But I love her. I love her more than those latkes you used to make. Haha."
+She adds, "Anyway, I'm sorry. I'm sorry I wasn't there for your funeral. I'm sorry I can't go and visit dad in the nursing home. I--I miss him so much."
+Lucile's voice breaks when she thinks about her dad, "I doubt he'd even recognize me. I heard his Alzheimer's is worsening. I wish I could've seen him before it got this bad. But I don't think I'm ready. Not yet."
+She looks down as more tears of blood hit the grass.
+She shakily asks, "Will I ever be ready to see him after all these years? Will Avraham Goldstein even recognize his own daughter?"
+Lucile brushes her thumb across her mother's name, "I--I still try to keep dad's monthly payments going. The nurse at the home said he's been eating well and exercising, so I guess that's a good thing. Right?"
+She looks up at the night sky, "You and dad were the best I could've asked for. I hope you're proud of me. I'm doing the best I can with the cards I've been dealt."
+Lucile takes a moment to compose herself, "I see myself having a future with Maya, y'know. A real future."
+She takes a deep breath, "But, on nights like these, I dunno...I just dunno what the future holds. It's like everything around is a mess and there's no way out."
+She looks up at the sky again, "I just wanna say that I love you, mom. And dad. You supported me through some of the toughest moments in my life. You did your best and I'll never forget that."
+Lucile pauses as she gathers her scattered thoughts, "I've been spending a lot of time on the road recently. I've seen an America that I've never seen before. It's scary."
+She adds, "The more I see, the more I wonder about what kind of world we're living in- broken, backward, stricken."
+The Tremere lowers her voice, "I've seen homeless encampments that stretch on for miles while dozens upon dozens of homes lie vacant and empty. I've seen people--kids getting beaten by the cops."
+She closes her eyes and shakily adds, "I've been forced to feed on homeless people when my Hunger got the best of me."
+Her face is a blank stare and her voice is cold, "I feel so filthy and...cruel. Like I'm just some sort of animal. This immortality thing ain't all great, y'know."
+She repeats, "It ain't all great. We gotta do things we don't wanna do."
+Lucile wipes her nose and then says, "I wanna be better than this. I know I can, but--"
+She stops herself from saying more and spends a few moments in quiet contemplation.
+Lucile speaks up again, "Damnit, there I go. Kvetching again. Heh, sorry, mom. It's just been a while since I've properly spoken to anyone. This damn courier job can get tiring after a while."
+She goes on, "Maya's a lovely gal. She's a um...vamp like me, so that's kinda cool."
+She smiles, "You'd like her. I think she'd like you too."
+The Tremere looks at her mother's gravestone again and continues, "Once I'm done with this whole courier schtick, me and Maya are going on a vacation to Canada. I know dad always wanted to go there and I want to honor his memory."
+She sniffles again, "Anyway, I've got a few deliveries to make, so I've gotta go."
+Before getting up, she lovingly strokes the top of her mother's gravestone and whispers, "I love you, mom. Goodbye."
+As Lucile gets up and walks away, the wind gently blows and the leaves of nearby trees rustle in the wind.
+She's done speaking to her mother's gravestone.
+As Lucile walks out and heads for her red Chevy, which is now dented in the front, a man approaches her.
+"Lucile Goldstein?" His voice is gravelly and deep.
+Lucile looks the man over- he's wearing a long tan coat. His hands are deep in his pockets and his face is obscured by the shadows cast by his fedora hat.
+Lucile looks up at the stranger, "Uh...yes?"
+The stranger simply says, "We found the bastards who did this to the cemetery." He sounds like he has a slight southern drawl. A hint of New Orleans in there. But it's subtle.
+He sounds like he's doing his best to mask it.
+Lucile keeps her guard up as she looks around to make sure no one can hear them.
+She asks, "Who are you?"
+The stranger keeps his hands dug deep in his pockets and explains, "I'm a Nosferatu. Down in...the sewers." He lowers his voice on the last part.
+Lucile squints as she tries to notice this man's concealed features, "That's--That's cool. Were you aware of the assholes who did this? If so, why didn't you move against them sooner?"
+The Sewer Rat scoffs at her question, "You know how the Masquerade works, Usurper..."
+Lucile glowers at him, "Oh, so you know who I am--"
+He interrupts her, "Knowing is my job, Ms. Goldstein."
+Lucile shakes her head, "Lucile is fine."
+The Nosferatu stands still and goes on, "They were easy enough to find." He sounds really pleased. Heck, he almost sounds gleeful.
+Lucile folds her arms and leans against her car, "What I don't get is why didn't you do anything sooner? Also, w--who are they?"
+The Nossie lets the question linger in the air for a while, "They weren't a threat to the Masquerade back then, so we just let 'em slide. It's...what we do around here." He shrugs. It sounds like he's done this sorta thing before.
+Lucile sneers, "Are you fucking kidding me? You let a bunch of Nazi assholes run around this place?!" Her voice gets a bit higher and her volume increases. She quickly looks around to make sure no one else hears them.
+The Nosferatu sighs, "You'll just have to trust us on this. Look, we're sorry about what happened here."
+Lucile eyes the Sewer Rat from head to toe. She grits her teeth and asks again, "You still haven't told me who they are!" Her tone is accusing and aggressive. She wants answers and she wants them NOW.
+The Nossie shakes his head, "Neo-Nazis. Do you really need any more info than that?" He doesn't seem in the info-sharing mood.
+He takes a few steps closer to her, but keeps a few feet of distance between them, "Now that they've fucked up, we're taking action." His tone is stern and cold.
+Lucile remarks, "So, that's how things work in Kindred Society, huh? Just let a bunch of Nazi fucks run around and wreak havoc? How...lovely." Her tone is biting and sarcastic.
+She's pissed at the way the Kindred in the city did nothing about this.
+The Nosferatu shakes his head, "You don't look dumb. Stop acting like it. This is how it's been for centuries."
+Lucile sharply exhales, "What did they do to piss you all off, anyway?"
+"They entered our Domain. That's all I'll say."
+She quickly says, "So, that's how it is, huh? It only matters when you're personally affected? Nice." Her voice is dripping with contempt. She's pissed.
+More pissed than when she first got here.
+The Nosferatu takes a few menacing steps closer, "Look, you know how these things are, Lucile. Don't act dumb.
+Lucile maintains her composure and lifts her chin, "What are you doing here, anyway? If any mortal sees your pretty face, it's a Masquerade breach." She's trying her best to make eye contact, but his face is obscured.
+"I'm looking for a meal topside. Sanitation workers get...stale after a while. And the city ain't payin' 'em as much, so yeah."
+"Hmph."
+The Crawler turns his head over to the group of volunteers who are still cleaning up the place.
+He remarks, "I think I just found tonight's meal. They won't see me coming. And neither will you..."
+He then turns his attention back to Lucile, "We're gonna take care of the problem, OK?"
+Lucile says nothing.
+The Nosferatu takes a few more steps towards the Tremere courier.
+Lucile quickly puts her hand in her bag, but the Nosferatu raises a withered hand, "I know you've got a weapon on you. Just put it away, please."
+His hand is covered in boils and open wounds. The sight of it makes Lucile grimace.
+He quickly shoves his hand back in his pocket, "Look, you got packages for our Primogen, and she'd 'preciate it if you gave it to her ASAP. Understood?" His voice is calm. His tone is assertive.
+Lucile slowly takes her hand out of her bag.
+He adds, "Find the Luxon Car Park building. Ask for a John. He's expecting you."
+He lowers his voice, "Be discreet when you meet him. The password is 'Absimiliard', heh. Got it? Good."
+Lucile slowly repeats, "Absimiliard. Creative, real creative."
+The Sewer Rat ignores her remark with a shrug and attempts to make small talk, "So, where exactly you coming from?"
+Lucile indulges this guy, "A little town called Plaintry."
+The Crawler lets out a gurgled laugh, "Ah, that place. It's been in the news a lot lately...some redhead chick just can't seem to stay outta trouble."
+Lucile points a finger at him, "Hey, you watch your tone, mister!"
+He takes a few steps back, "Whoa, hey, hey, calm down. Sheesh, woman. That redhead is a walking Masquerade breach, y'know."
+Lucile says, "That...redhead is my girlfriend. And she's a Tremere like me." Her tone is firm and defensive.
+"Whoa, crazy plot twist, huh. Look, all I'm saying is that we've heard all the stories and the gossip coming from that town of yours."
+"Mm-hmm."
+The Nossie takes a good look around the place, "Look, as much as I'd love to stand around and make small talk, I gotta bite someone. And fast. Keepin' appearances up ain't easy when you're a fucking Horror like me."
+He taps the side of his head with his withered hand, "We might know stuff about that town of yours. If you're interested, I can...share. Some stuff. For a price." He chuckles to himself.
+Lucile sighs and remarks, "What do I have to do for it?"
+"You're a courier, right?"
+"Duh..."
+"Your jalopy looks a little beaten-up. A little birdie told us that there's some parts for Chevy Camaros up in Borough Park. It's the place where you go to get good, authentic stuff, not that shoddy knock-off crap."
+Lucile sighs, "What exactly do you want?"
+The Nosferatu lets out a garbled chuckle, "Ah, all business, huh? That's good, that's good. A few friends of mine need to move some really sensitive shit around."
+Lucile scowls, "What makes you think I'm the one for the job, there's plenty of Kindred couriers around here."
+He points his hand at her again, "We've seen the way you drive and I've gotta say--you got a real way around the wheel. And you seem to have the ability to...stay out of sight when necessary."
+She sneers, "Hmph. Is there anything you people don't know..."
+"Plenty, and it makes me feel all sad on the inside. Anyways, if you take the job, I'll tell you a few things about that town of yours."
+He takes a few more steps closer and lowers his voice to a whisper, "I'll tell ya...things about your Sire. Things she probably doesn't even know." He chuckles to himself.
+Lucile's expression instantly darkens, "How do you--" She stops herself before saying anything she'll regret later.
+He taps the side of his head twice, "Knowledge, Ms. Goldstein, is power. And we Nosferatu are the most powerful Clan there is." He snickers.
+Lucile doesn't respond, so he adds, "I have some idea of what it's like to be a Tremere and to be stuck in that shitty little town, heh."
+Lucile says, "It's not as bad, I mean--"
+The Nossie makes an observation, "You're eager to get back to whatever-her-name-is, aren't you?"
+Lucile gasps, "But, how did you--"
+He sniffs, "It's all over your face. You miss her. Why didn't you take her along, anyway? Would've been a nice...date thing. Y'know, see the sights, take her out for some 'fine' dining and then fuck her brains out in some seedy motel."
+Lucile grimaces and quickly glances around, "Because she was recently Embraced." She lowers her voice to a hiss.
+"Ah, you're afraid she might lose her bearings. Yeah, shit happens like that with Fledglings. Tragic."
+Lucile sternly states, "I didn't--I didn't want anything bad happening to her. I love her and I--I wouldn't be able to live with myself if I knew I'd let something happen to her..." She lets out a choked sob.
+The Crawler sighs and shakes his head, "It's...hard to get people to love ya when you look like me. But, beauty in the eye of the beholder and all that, haha."
+He continues, "Y'know, actually, there are quite a few people, mortals, who are into freaky stuff. Not sure how I feel about that. Ah, whatever, at least someone's gettin' laid down in the sewers." He laughs.
+Lucile lowers her chin as the Sewer Rat's words make her reflect upon her own experiences, "I..."
+"You miss her, don't you? You miss the touch of her skin and her great body..." He makes an obscene gesture.
+She scowls, "Yeah, but--" She averts her gaze.
+He grumbles, "2 couriers would've been better than 1, y'know. Speaking of, if you take the job, it's 4 digits, 5 if you're good. You do this and I'll tell ya more about whatever you wanna know. Got it?"
+Lucile crosses her arms and takes a deep breath. She looks back up at him.
+She doesn't immediately register his generous offer, "Whoa, wait, back up. 5 digits?"
+With his withered hand, he gestures to her car, which is also badly-scratched on the sides, "It'll help you fix your jalopy. We all know you can't do the job without it."
+"So, who am I taking it to, and when?"
+"You'll know 'em when you see 'em, Lucile. Just look for...the most beautiful of the Kindred." The last part is dripping with sarcasm.
+Somehow, Lucile has a feeling he isn't talking about Toreadors who spend way too much time (and money which they probably don't have) on their appearance.
+Or a Tzimisce, maybe?
+He takes a few steps closer, "Here's the address..." He then rattles off the details to her.
+Lucile repeats it back to him, "OK, so tomorrow evening, then?"
+"Yup. It's a simple job, really. You couriers are more vital than you think, y'know."
+Lucile rolls her eyes and sniffs, "So, I get to hear stuff about my Sire. Good, bad?"
+The Sewer Rat shrugs, "That's for you to decide, pumpkin pie. I just report the facts and leave the judgin' to those more capable of it. And that ain't me, haha." He cackles to himself.
+Lucile frowns at him.
+He adds, "Just get the job done and get your jalopy fixed up. There'll be plenty of time for talk AFTER you do what we ask. Not a moment sooner."
+The Nossie lets out another gurgled chuckle, "We're transactional people, y'know. Scratching backs and all that crap."
+Lucile mutters to herself, "I wouldn't wanna scratch that back for a million billion bucks."
+The Crawler lets out a sharp exhale, "Y'know, you topside Kindred might find this hard to believe, but we Nosferatu DO actually shower. Sometimes together, if we're lucky, heh."
+He gesticulates, "What we lack in beauty and...sexiness, we more than make up for with our wit, street smarts, and our incredible knowledge."
+Lucile lets out an exaggerated sigh, "OK, OK, I get it, geez..."
+Somehow, the image of a fully-nude Nosferatu taking a shower has now found its way into Lucile's mind. And she's trying her damndest to get the image outta there, but she can't.
+The Nosferatu takes a look up at the sky, which has become darker, "Look, I keep talking to you, I might Frenzy. It's been a pleasure, Ms. Goldstein. Rest assured, we'll deal with those Nazi cocksuckers."
+Lucile sighs and opens her car door as she sees the Sewer Rat stalk his way in between the graves.
+He throws his deformed hand up and simply waves goodbye.
+Lucile smirks and shakes her head. She can't help but wonder what kind of secrets these Crawlers are sitting on.
+She'll find out tomorrow, apparently.
+She takes a final look around at the cemetery. Her green eyes fall on her mother's grave as she softly says, "Bye, mom." She sniffles again.
+The wind is now blowing a bit more fiercely. Lucile has no choice but to leave her mom behind for the night.
+She has work to do and moolah to make.
+(Most of which would likely go to maintaining and/or fixing her car, which has taken quite a beating as of late).
+With the address now firmly planted in her mind, the Tremere courier climbs inside her car and speeds away.
+As she does, she looks in the rearview mirror at the cemetery and its surrounding area.
+She tells herself, "I just can't wait for all this to get over, so I can finally go back to Maya..." her voice trails off.
+As Lucile drives on, she thinks about the past few nights. All the craziness and the...unexpected shit. But, most importantly, she thinks about her girlfriend, Maya.
+"My poinsettia. I--I'm sorry I didn't tell you earlier. Really, I am. I was just so caught up and I--I'm so sorry, Maya...please forgive me. Please..."
+She keeps repeating that to herself as she drives to the Luxon Car Park to drop off a certain package for a certain Nosferatu Primogen.
+Tears of blood stream down the (relatively) young Usurper's cheeks as she speeds away, towards her uncertain destiny.
+And who knows what'll happen tomorrow evening?
+A lot, that much is certain.
+Good?
+Bad?
+Both?
+Neither?
+Only time would tell.
+All the Tremere courier knows is that she just wants to go back home and be with her beloved Maya.
+Lucile wants to be with the one she loves...forever.
+That's the goal. Her goal.
+Maya definitely feels the same.
+This little...spat that they recently had is just that- a little couples' spat. Communication issues; it happens.
+Maya can't stay mad at Lucile forever. She won't. But, they do need to give each other some space and time to reflect.
+To cool down and calm down.
+After all, a couple is only as good as how well they can sort through and communicate their differences.
+Lucile's undead heart still aches for her poinsettia, the love of her Unlife.
+So, she diligently carries on with her Camarilla courier duty, hoping it won't drag on for
+<chapter 19: Box Of Lies, bjorn atk maya, nolene revealed as tremere using presence, hey asshole!, arman invite ginny to mcmahon memorial, simon goes instead.
+sun risen beaming down on the town of p, which goes about its life. schools still closed due to recent happenings and the fact that many still haven't quite processed it. the day seems gloomier than usual.
