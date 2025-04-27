@@ -2,17 +2,19 @@
 
 Yeah, this is the place where I'll store my stuff. Updates will come when they do. Many more fics (mostly long) are planned for the next few years (yes, years).
 
-All of the fanfics will be released for FREE on QuoteV (or AO3, idk, haven't properly decided yet).
+All of the fanfics will be released for FREE on AO3, QuoteV, and a gitBook page. Mirrors and maximum accessibility is what I aim for.
 
 Standard Content/Trigger Warnings apply (but are not necessarily limited to):-
 
-Intense Violence, Blood & Gore, Strong Language, Sexual Content/Scenes, Full & Partial Nudity, Alcohol Consumption, Smoking, Human & Animal Death, and so on.
+Intense Violence, Blood & Gore, Strong Language, Slurs, Bigotry/Hate, Sexual Content/Scenes, Full & Partial Nudity, Queerphobia, Alcohol/Substance Consumption, Smoking, Human & Animal Death, and so on.
 
-FF1 (1) and (2) is my 1st fanfic, just split up for file size purposes.
+FF1 (1) and (2) is VTM: Shadows Over Plaintry
 
-Probable Roadmap (subject to multiple changes)
+(1) is the full thing
 
-Late 2024- Early 2025: VTM: Shadows Over Plaintry (Early Access)
+(2) will likely be the version with commentary (TBD)
+
+Probable Roadmap (subject to multiple changes):-
 
 Early 2025: Full Release for VTM: Shadows Over Plaintry
 
