@@ -16,7 +16,7 @@ ILHC: "Understood. Utilize eastern weaponry to maintain deniability in this matt
 OBED: "Copy that. In the meantime, I'll double our digital surveillance efforts. The new LVNDR system shows great promise, but its power requirements are exorbitant and unlike anything I've ever seen. We'll need a greater operational budget."
 ILHC: "Of course. Money is of no object to the Israeli High Command. You just need to ask, Commander Gallant."
 OBED: "Thank you for your continued support. Neutralizing the blank bodies should help in our endeavors to fight the terrorists back at home."
-ILHC: "Precisely. They still talk favorably about your Unit's destruction of the Al-Jamal residential towers in Dubai. We have no doubt that many blank bodies were neutralized on that evening."
+ILHC: "Precisely. They still talk favorably about your Unit's destruction of the Al-Jamal residential tower in Dubai. We have no doubt that many blank bodies were neutralized on that evening."
 OBED: "That's good to hear. Someone there made the mistake of making one phone call too many."
 ILHC: "Indeed. As for LVNDR's power requirements, it is best that you siphon from the local power grid if need be. It should make things easier, I'm sure."
 OBED: "Copy that."
@@ -157,7 +157,7 @@ The woman chuckles and shifts in her seat, "Wow. A lotta bratty expat kids aroun
 Svetlana shrugs, "Da, many. But, they are not all as you call them- they are still children."
 The woman snickers, "Well, whatever it is that you're doing, it must be paying off, huh? I mean, you've got a fancy phone like THAT! Whoa, maybe I should become a babysitter, haha!"
 Svetlana puts in, "This was gift, not connected with job or anything. From...friend, I think."
-The woman slyly smiles, "'Friend', huh? Do babysitters have many friends?" 
+The woman slyly smiles, "'Friend', huh? Do babysitters have many friends?"
 The Banu Haqim chuckles, "I hope that I do. Without friends, Un--err...life becomes meaningless."
 "Oh, sure, sure, whatever you say."
 An awkward silence hangs in the air.
@@ -441,7 +441,7 @@ The Caitiff racecar driver known as N0S4A2 maintains their stance, not moving or
 There's a faint sense of mystery and foreboding reflected on the helmet's surface, something that makes the spectators' blood rush.
 There are some scattered murmurs in the crowd, but for the most part, they stay quiet and let the racer be.
 A skinny dude jumps over the fence and lunges towards N0S4A2, trying to get their helmet off and unveil their secret identity to everyone.
-N0S4A2 is quick to grab that guy's arm. He viciously twists it, causing a sickening and audible crack to emanate. The guy cries out in agony as he gets shoved into the fence by his broken arm, which is now at a weird angle.
+N0S4A2 is quick to grab that guy's arm. They viciously twist it, causing a sickening and audible crack to emanate. The guy cries out in agony as he gets shoved into the fence by his broken arm, which is now at a weird angle.
 He starts screaming for help, but N0S4A2 goes back in their car and slams the door shut.
 There's a 100,000 dirhams reward for anyone who can unveil the Caitiff's identity, and they know that.
 There's been attempts to unmask them for a very long time now, and this isn't the 1st time something like this has happened.
@@ -796,7 +796,7 @@ Paul answers, "He was down in the basement of this place with Absalom. They and 
 John folds his arms and disinterestedly asks, "Like what?"
 Paul is in an answering mood, "Absalom over there is helping set up a few routes for the Circulatory System. The Blood Trade in this part of the world is pretty damn lucrative and is a major source of revenue for the Ministry."
 John sighs, "Hmm, fun."
-Paul shrugs, "Apparently, Absalom has experience with this sort of stuff. He told me he used to run a Blood Bank back in Chicago in the uh...1970s, yeah."
+Paul shrugs, "Apparently, Absalom has experience with this sort of stuff. He told me he used to run a Blood Bank back in Chicago since the uh...1950s, yeah."
 Paul concludes, "So, yeah, Seth was looking over a few details and the whole thing is set to start um...next week, assuming everything goes smoothly."
 John asks, "What else does the Ministry do around here?"
 Paul replies, "The Ministry has been working with some powerful groups here in Al-Kushraf- old money types, influential Sheikhs, blah blah blah. They're good at passively maintaining the Masquerade and keeping the peace, I guess."
@@ -823,15 +823,15 @@ A sudden power cut strikes the lounge, the lights are out and everyone is engulf
 The only light coming from the area is the cityscape outside. Everyone's enhanced vampiric vision kicks in. A few murmurs and grumbles are heard.
 "This is the 5th time it's happened just this night!"
 "Puh! A city like this ought to have a more stable power grid!"
-"Inexcusable! The Emir will be hearing about this..."
+"Inexcusable! The Sheikh will be hearing about this..."
 John and Svetlana exchange looks and wait. Paul is also on edge, looking around. His hands are shaking.
 Seth clears his throat and says, "As I was saying, all rise."
-Some banging sounds come from the elevator doors. The metal has been bent and distorted.
+Some banging sounds come from the elevator doors. The metal has been slightly bent and distorted.
 Everyone's attention is now fixed on the doors. Seth calmly asks, "Can someone please open those? Thank you." He is unfazed by these turn of events.
 Joyce and Tristan go over to pry the elevator doors open. With some effort, they get them open.
 Mr. Bean, Absalom, and Sebastian look on with great curiosity. Paul nervously gulps.
 Svetlana and John stay put.
-An angry Scottish accent is heard, "Aye, fuckin' leccy issues again? It's been all over the gaff since last night!"
+An angry Scottish accent is heard, "Aye, fuckin' leccy issues again?! It's been all over the gaff since last night!"
 Tommy, the Nosferatu Primogen, is wearing his mosaic-patterned porcelain mask along with a sharp black suit.
 He strides over to the center of the lounge and looks around. His sickly eyes are furious. He is in a foul mood, it seems.
 "Sorry I'm late," he curtly says, his tone is sharp, "Had a wee bit of an issue with the leccy down in the sewers."
@@ -846,24 +846,24 @@ Absalom scratches his eyebrow, "Yes, Mr. Bean, she is indeed very real. But, thi
 Mr. Bean tenses up, "But this is THE place--"
 The power is suddenly back on. The lights are back and the elevators are functional once again. Everyone in the room lets out a collective sigh of relief.
 Seth continues, "If there is no further delay, the inquiry may now begin."
-Edwin, Seth's Ghoul, drags a lectern into the lounge and sets it up for his Mr. Yahya.
+Edwin, Seth's Ghoul, drags a lectern into the lounge and sets it up for Mr. Yahya.
 Yahya thanks the Ghoul and places a heavy tome on the lectern.
 He opens the tome and says, "Let us begin. Before we start, however, a few rules must be adhered to."
-He begins reading a passage from his book, "We stand here in this great and majestic city as Typhon's chosen and the blessed. Our duty is not to ourselves, but to Typhon."
+He begins reading a passage from his book, "We stand here in this great and majestic city as Typhon's chosen and the blessed. Our duty is not to this world, but to Typhon."
 The Setites in the room, Seth included, all reply, "All praise be to Typhon! May Apep lead us to our rightful destiny!"
 "Blessed be Typhon!" Seth exclaims.
 Mr. Bean joins in by shouting, "Blessed be Typhon!"
 Svetlana, John, Paul, and the rest of the non-Setite Kindred present are just sitting or standing there, awkwardly wondering what the hell is going on.
 Seth, noticing the confusion, says, "This, my uninitiated friends, is a part of who are. I understand it might be unsettling for some, but the Ministry does have its traditions."
-Mr. Bean excitedly adds, "Yep, yep!
-He pauses for a moment before continuing, "Typhon has granted us a great purpose. We are to be the Serpent's fangs. Its eyes. Its will made manifest."
+Mr. Bean excitedly adds, "Yep, yep!"
+The Typhonist High Priest pauses for a moment before continuing, "Typhon has granted us a great purpose. We are to be the Serpent's fangs. Its eyes. Its will made manifest."
 Seth gestures to the Setites, "The Followers of Set will lead the way for all Kindred and the mortals, too. Please, don't be alarmed by such displays, friends. It is all part and parcel of our existence."
 He turns to the Toreador Primogen and says, "Now, Sebastian, come forward."
 Sebastian rises from his seat and confidently makes his way towards the center of the room, a smug grin plastered on his face.
 Seth turns to John's Childe, "Svetlana of Clan Banu Haqim, of the Blade of Haqim. Please, come forward."
 John whispers, "Hey, Svetlana, you gonna be OK?" His concern is genuine and heartfelt.
 Svetlana nods, a look of steely determination on her face, "I will be fine."
-Paul pats her on the shoulder, "You got this girl, don't worry."
+Paul pats her on the shoulder, "You got this, don't worry."
 "Thank you," she quietly says, rising from her seat.
 She strides towards the center of the room. Her gait is sure and steady, not a trace of fear or doubt in her.
 Yahya begins by asking, "Sebastian of the Clan of the Rose, you have been brought forward a serious charge of assault against the one named Svetlana, of the Clan of the Hunt. Is this correct?"
@@ -891,7 +891,7 @@ Yahya raises his finger, "There shall be no swearing or invectives during these 
 Sebastian groans, "Uh, right, right. Whatever, I'm sorry. So, anyway, a woman just barged in and acted like she owned the place!"
 Svetlana growls, "Liar!"
 "Order, order! You will have your turn, Assamite. Sebastian, please, continue," Yahya sternly says.
-Sebastian clears his throat, "So, I told her to get outta my place. That's when this crazy Slavic Assamite went and slapped me! Like, for no reason!"
+Sebastian clears his throat, "So, I told her to get outta my place. That's when this crazy Slavic Assamite got up and slapped me! Like, for no reason!"
 Svetlana angrily retorts, "For no reason? I know what you were doing and I am not gonna sit idly by and let you insult that poor woman!"
 Yahya stands up and bangs the lectern with the palms of his hands, "ORDER! ORDER! You will be civil, both of you!"
 Svetlana and Sebastian glare at each other.
@@ -902,7 +902,7 @@ Paul pulls John back down, "Not helping, buddy. Not. Helping."
 Yahya shakes his head and ignores John, "And this woman, who was she? Is she a threat to the Masquerade in any way? Do we have reason to dispose of her?"
 Svetlana indignantly replies, "Of course not! She is perfectly innocent woman! She did nothing wrong. Sebastian is the one who was harassing her!"
 Yahya remains unsatisfied, "That, Saracen, is not what I asked. Does this woman have any connections or affiliation with our enemies?"
-"No," Svetlana responds.
+"No," Svetlana firmly responds.
 Yahya folds his arms, "I see. Then, she poses no threat to the Masquerade, are you certain of this?"
 Svetlana confidently nods, "Da. She is just ordinary woman who wanted to be there for fashion photoshoot before Sebastian started calling her names."
 Yahya nods, "Good, good. At least we have some...understanding of the situation. What I am about to ask of you next is extremely important. This question will decide the fate of the matter at hand."
@@ -912,7 +912,7 @@ Svetlana takes a few seconds to formulate an answer, "Da. Sebastian said vile an
 Yahya ponders this for a few moments before asking another question, "And, if given the opportunity, would you do the same thing again?"
 Ooooh, tough one, eh?
 Svetlana looks back at her Sire and Paul for a moment.
-The former is looking at her with great concern, but he gives her a nod that says, "Don't worry, whatever you do is the right thing."
+The former is looking at her with great concern, but he gives her a nod that says, "Don't worry, whatever you do is the right thing. I'll support you no matter what."
 Paul nods and gives her a subtle thumbs-up, pressing his lips into a thin and sincere smile.
 Svetlana resolutely replies, "As Banu Haqim, I have Clan Compulsion for Judgment. I am compelled to punish those who trespass against others. As a Kindred, I believe I have duty to help and protect others, and I will not apologize for doing the right thing."
 She adds, "And, if given the opportunity, da, I would do same thing again."
@@ -922,7 +922,7 @@ Yahya nods and strokes his beard, "Interesting. What say you, Degenerate?"
 Sebastian scoffs, "That's BS. With all due respect, but you're missing the point that Svetlana here is part of a group of Banu Haqim extremists known as the Blade of Haqim."
 He snidely adds, "So, her definition of 'justice' and 'right' is not the same as the rest of us...civilized and refined people."
 John scoffs and rolls his eyes.
-Yahya exhales sharply, "Yes, I have heard of the Blade of Haqim and their...interest in a certain conflict that rages far away from our little oasis, seemingly with no end in sight."
+Yahya exhales sharply, "Yes, I have heard of the Blade of Haqim and their...interest in a certain conflict that rages far away from your little oasis, seemingly with no end in sight."
 He leans in and narrows his gaze, "That does not, however, absolve you of responsibility in this matter. As a Primogen, you must conduct yourself with more decorum."
 Sebastian declares, "It was a private institution, I had every right to kick her out of there!"
 Svetlana retorts, "Nonsense! Tell him what you called her! Tell him that word you said, Sebastian!"
@@ -930,7 +930,7 @@ Yahya's brows furrow.
 Sebastian smugly smiles, "Oh, you mean the so-called 'slur' I used?"
 Yahya interjects, "A slur? My rules regarding swearing and invectives remain in effect, Aesthete."
 "It wasn't a slur, sir. It was a mere expression, a harmless observation, something a woman like herself is probably very familiar with," the Toreador Primogen explains.
-Yahya proposes, "If that is the case, then you will certainly have no issue repeating this particular word in front of all these fine people, yes?"
+Yahya proposes, "If that is the case, then you will certainly have no issue repeating this particular word in front of all these civilized and refined people, yes?"
 Sebastian looks around, his face growing paler and his confidence quickly dissipating, "Uh, well..."
 The Setite Ancilla presses, "Come now, do not be shy. After all it is only, in your words, 'a mere expression, a harmless observation.'"
 Svetlana glowers at Sebastian with her green eyes, adding to the pressure mounting on him.
@@ -944,7 +944,8 @@ Yahya sighs, "Sebastian, if what you said is as harmless as a pinprick on dead f
 The Toreador Primogen grits his teeth, "OK, fine. If you want me to say it, I'll--I'll say it!"
 Yahya holds his finger up, "Actually, I would prefer it in writing."
 He snaps his fingers and orders, "Fetch me a blank sheet of paper, quickly!"
-Edwin springs up and runs off, returning a few seconds later with a blank sheet of A4 paper. Yahya thanks him and accepts it, placing it down on the lectern in front of him.
+Edwin springs up and runs off, returning a few seconds later with a blank sheet of A4 paper.
+Yahya thanks him and accepts it, placing it down on the lectern in front of him.
 He takes a fountain pen and unscrews the cap, holding it up to Sebastian, "I would appreciate it if you would write out what it was you said in the most...accurate and correct way you can."
 The Toreador Primogen steps forward, hands shaking. He bends over and writes the slur down.
 The paper is so old that it nearly tears, the words are scribbled on, the letters are sloppy, but the slur can still be clearly made out.
@@ -965,13 +966,13 @@ Absalom remains in the middle of the Svetlana and Sebastian. He looks to his lef
 Mr. Bean has an almost unsettling look on his face, a slight and crooked grin, as if expecting something.
 The Malkavian Elder simply says, "As Primogen for Clan Malkavian, I abstain."
 Mutters and murmurs erupt, as well as a few snorts. A few Setites scoff and sneer at the Malkavian. Sebastian folds his arms in satisfaction, while Svetlana glowers at him with contempt.
-Yahya firmly nods, "So, it is a stalemate, then, hmm? To think I came all the way from Cairo for this... Well, then."
+Yahya firmly nods, "So, it is a stalemate, then, hmm? To think I came all the way from Cairo for this...well, then."
 He addresses everyone, "You have voted, and as Typhon is our witness, it is so. No further action is to be taken, no 'damages' are to be paid." He emphasizes "damages."
 Sebastian's eyes widen and his jaw drops in disbelief, "Wait, what?" He quickly approaches the Setite Ancilla.
 Yahya holds up a stern finger, "Do not approach me any closer, Bullfighter. I do not appreciate your presence so near my person."
 Sebastian stops and stays put, "What is the meaning of this? She slapped me! She assaulted me, ME, a Primogen of Al-Kushraf city!"
 Yahya regards the Toreador Primogen coolly, "And I have weighed her actions against the word you uttered. While you did nothing illegal or punishable in any way, the manner of your behavior was inexcusable."
-He proceeds to explain, "As a Primogen, there is a higher expectation for decorum, for manners, for propriety. As a Primogen you must understand that we Kindred walk a fine line between Unlife and Final Death, especially on perilous nights such as these."
+He proceeds to explain, "As a Primogen, there is a higher expectation for decorum, for manners, for propriety. You of all people must understand that we Kindred walk a fine line between Unlife and Final Death, especially on perilous nights such as these."
 Sebastian groans and begrudgingly accepts the outcome. The others also appear satisfied, if only by the fact that this ordeal has been concluded.
 Yahya summons Svetlana, "Angel of Caine, come here, please," he motions her forward with a gesture.
 She does so. The Setite Ancilla exudes a certain gravitas about him.
@@ -980,7 +981,7 @@ Svetlana is about to object, but he cuts her off, "Ah, ah, ah. As Kindred, you k
 He sharpens his gaze, "The Masquerade must be preserved, or we are ALL doomed to face an uncertain and unsightly fate. Am I understood?" he sternly asks her.
 Svetlana, in a very passive-aggressive sort of way, replies, "Da. Clear as crystal."
 Seth steps forward, "Ah, Mr. Najjar, what would we do without your wisdom, hmm?"
-Yahya claps back, "This Domain plays a very dangerous game by not having a Prince and a Sheriff. I understand that Ms. Sybil once claimed Praxis over this city, but it has been years since anyone has heard from her."
+Yahya claps back, "This Domain plays a very dangerous game by not having a Prince and a Sheriff. I understand that Ms. Sybil once claimed Praxis over this city, but it has been decades since anyone has heard from her."
 Seth replies, "This place has been running fine, Mr. Najjar. We have had our share of difficulties in the past, but we have handled them with utmost care. And discretion."
 Yahya scribbles something down in a book of his, "Be that as it may, where is Ms. Sybil? I understand that you and your Sire were quite close to her, no?"
 Seth shrugs, "To be honest, none of us know. It's likely she was Beckoned off to some remote part of the world."
@@ -990,7 +991,7 @@ He looks down at his cane for a moment, "Regardless of rumors and hearsay, we go
 Yahya, unimpressed, snorts and scribbles something down, "So you say, so you say."
 He looks around and says, "Well, my work here is done. I don't suppose there is any other matter you wish for me to address while I'm here, hmm?" He looks at Gallagher for a moment before returning to Seth.
 "None. Thank you for coming, Mr. Najjar. You're a true scholar," the Setite High Priest bows.
-Yahya shakes his head, "You know I am far more than that. If I were you, I would exhaust every available resource in locating Ms. Sybil. Many laughed at her when she claimed Praxis over this city, for it was nothing but desert, empty tombs, and parched lands."
+Yahya shakes his head, "You know I am far more than that. If I were you, I would exhaust every available resource in locating Ms. Sybil. Many laughed at her when she initially claimed Praxis over this city, for it was nothing but desert, empty tombs, and parched lands."
 "And now look at what it has become!" he wildly gestures to the outside.
 "Wealth and power! She was shrewd in the art of manipulation, I must give her credit for that," Seth nods.
 The High Priest shifts his gaze elsewhere, "Wherever she is, Typhon continues to watch over her. But, in the meantime, we carry on, as we have always done."
@@ -1036,4 +1037,482 @@ Svetlana remains silent.
 Seth replies, "That's the interesting thing. He...wanted to speak to someone who would provide closure for a certain matter.
 John is all ears now, "Go on, go on."
 Svetlana leans forward, intrigued.
-Seth elaborates, "He was pretty vague in his letter, but it turns out he witnessed
+Seth elaborates, "He was pretty vague in his letter, but it turns out he witnessed...something a few years back. He wants to speak to someone about it."
+Svetlana interjects, "That is very vague." She has an intrigued yet concerned look on her face.
+Seth concurs with a small chuckle, "Yeah. He requested a Kindred who used to live in Dubai, and, well...I thought of you, Svetlana."
+Svetlana gasps and looks to her Sire for guidance, "You want me to go to Dubai to meet a Salubri? But, I have--"
+John holds up his hand, "Look, Seth, she's not too interested. Why can't I go?"
+Seth turns to the Assamite, "Because I have more work for you. Speaking of, did you find anything interesting about our elusive Caitiff racecar driver last night, hmm?"
+John nods, "Yeah. I actually got 'em to speak to me. It's nothing much to go on, but N0S4A2 doesn't like being followed and they sure as hell don't like anyone snooping around their stuff, either."
+Seth smiles, but there's no warmth behind it, "Well, that's good to hear, John. Really. I knew you'd come through."
+John scratches his nose, "So, what do you want me to do?"
+Seth explains, "Certain arrivals in this city have set off alarm bells, especially those coming from nearby, if you catch my drift."
+Svetlana is listening, but says nothing.
+Seth goes on, "Word on the street is that they're Israeli intelligence. Mossad, I think. Which means they're likely with the SI and have very...recent knowledge of the events that transpired in Dubai."
+John replies, "Well, we don't want that. Especially after Dubai."
+Seth avoids eye contact, "Indeed, indeed. A repeat of Dubai would be catastrophic for all Kindred. Just...look around, John. Ask around the seedier parts of this city, if...you're up to it, heh."
+John remains composed, "Yeah, sure."
+The Typhonist turns his attention to Svetlana, "And, you...Svetlana. Ready to return to Dubai?"
+Svetlana hesitates, "Uh...I cannot keep taking nights off from my babysitting work. I have already taken too much time off. People might get suspicious. I can go there, da, but not for long."
+She is looking for a compromise.
+Seth equably concedes, "Fair enough, Svetlana. You will go with Absalom and Mr. Bean tomorrow night. It's only a 2 hour drive from here."
+Svetlana gasps when she hears who Seth will be sending her with.
+Seth focuses his gaze on her, "Ah, do not worry. I'm just sending you in for a little meeting. You'll be back here before you know it. Besides, Absalom and his Malkavians also came here after Dubai was attacked, right?"
+Svetlana is still apprehensive, but she gives in, "Da, alright, I will go, Seth. But only for 1 night. I have children relying on me."
+Seth softly chuckles, "Wow, you really take your job seriously, huh?"
+Svetlana sits up, "Of course I do. Their parents are not exactly best at raising them." She speaks her mind on this matter.
+Seth nods, "Well, if you say so, Svetlana. But, do not let your guard down while in Dubai, yes? If the forces of the SI are crawling around THIS city, they could be anywhere."
+Svetlana gives a confident smile, "Of course not, Seth. I am skilled in combat and will not be caught unawares."
+Seth smirks, "Yes, yes, I am sure you are. Those 2 daggers of yours, heh."
+John clears his throat, "Will there be anything else?"
+Seth shakes his head, gets up, and walks away, "No. Nothing. Thanks for doing this for me. You won't regret this. And, uh, do stay safe out there. Also, may Typhon watch over you both."
+John simply says, "Hmm."
+Svetlana nods and forces a smile.
+So, there's a Salubri in Dubai who wants to talk. About what is anyone's guess. Maybe the Clan wants a seat in the Primogen Council of Al-Kushraf?
+Maybe it's something else entirely?
+Or, maybe this is just a case of someone who knows something and wants to share.
+Either way, Svetlana will find out tomorrow night.
+As she and Sire mull things over in their heads, Gallagher, the former Sheriff of Dubai, approaches them.
+"As I live and don't breathe. It's the half-Mexican and his Soviet plaything. Or wait, is it the Soviet chick and her half-Mexican boy toy."
+Gallagher has got a nasty grin on his face, he folds his arms as a way to assert dominance.
+He goes on, "Heads still screwed on, huh? Shame."
+Svetlana shoots him a scathing look, "You are no one, Gallagher. Even Prince Angela said you are nothing...NOTHING but violent and cruel man!"
+Gallagher snorts, "Pfft. That's the thing, all of you were too busy sucking that Gangrel's massive tits to even see the shit that was coming. You didn't even care when it finally hit you in the face."
+His expression is flat and devoid of any emotion. His eyes are cold and dead, as if his very being, his essence was sucked out a long time ago.
+John folds his arms and looks up, "What do you want, Gallagher? You have no authority here."
+The Setite spreads his arms, "Ah, I'm just checkin' up on some old friends in this fucking place, Johnny boy. What, a man can't visit his old friends every once in a fucking while?"
+He grins and winks at Svetlana, "Hey, Svetlana, I think I saw your younger sister downstairs, offering free blowjobs to anyone who would come down. Want to join her?"
+John and Svetlana growl.
+Svetlana furrows her brows and snarls, "How dare you."
+Her claws pop out of her fingertips.
+Gallagher laughs, "Oh, don't even think about it, Russian doll. This is Elysium."
+John, his temper flaring, his hands balling up into fists, his blood boiling, stands up, "Fuck off already. We never got along in Dubai and we never will get along here. Leave. Us. Alone."
+Gallagher smirks and holds his hands up, "Yeah, yeah, have fun, you 2. And welcome to Al-Kushraf city. Fuckin' weirdos."
+He turns away and goes to bother his fellow Setites about this and that.
+John and Svetlana let out a sigh of relief.
+Her Sire sits back down, "He's a piece of shit. These...these Setites tend to have a way of getting under people's skin."
+Svetlana dryly nods her head, "Hmm, da. I hope he does not cause trouble for us here, John."
+John clicks his tongue, "Eh, he has no authority here. Let's hope it stays that way."
+"Da."
+"So, Svetlana...ready to go back to Dubai tomorrow?"
+Svetlana inhales and exhales, "I...cannot say I am looking forward to it, especially since I am going back without you."
+John dismissively waves his hand, "Look, I love having you around. But, you're no longer a Fledgling. You're a Neonate- you're gonna need to leave the nest sometime, right?"
+He smiles and chuckles, "Besides, it's just a simple meeting with some Salubri guy. They're a weird bunch, but they're harmless. You'll be fine."
+"It is not the Salubri I am worried about, John. It is those Malkavians I will be travelling with tomorrow night."
+"Ah, I see what you mean. Is Mr. Bean's uh...vision still on your mind?"
+Svetlana nervously gulps, "Da. What...what did he see about me, John? I must know, but--"
+"A part of you is worried that it might be something really bad? Am I right?"
+"Da, John. You are."
+John nods, "Look, if the vision is truly a bad one, then...we'll cross that bridge when we get there, alright?"
+"Are you sure? Wh--what if--"
+A few tears of blood begin to run down her cheeks.
+John gently strokes her back, "Hey, hey. I know you're worried, but let's not get ahead of ourselves, OK?"
+He adds, "Besides, Mr. Bean is a weird guy, maybe his vision is all just a load of horseshit, heh heh."
+Svetlana wipes her sanguine tears and sniffs, "Da. Horse...shit."
+John laughs, "There, there, all better?"
+She manages a smile, "Da."
+"Good. Now, how about a nice, long hug to make up for the one we'll be missing tomorrow, hmm?"
+"I would very much like that, John."
+The Banu Haqim Sire and the Childe tightly hug each other, a moment shared between 2 that feels like forever.
+John breaks away, "Hey, I know it's been a few years since your Embrace and all, but you are the best damn Childe a guy...a guy like me could ever ask for."
+He tucks a lock of her blonde hair behind her ear, "You really are the best among us, Svetlana. Hold on to your Humanity. Do not let the Beast take over. Ever."
+Svetlana solemnly nods, "Da. Always. We are the Blade of Haqim. I will not falter. I will not be weak."
+She is strong, but there is a hint of vulnerability in her voice.
+John tightly squeezes her shoulder, "That's right. You'll do fine tomorrow night, Svetlana. Take your daggers in case you run into trouble."
+"Da, and John?" She has an expectant look in her green eyes.
+John understands, "Ah, yes. I made a promise and I intend to keep it. Once we find someone for you to Diablerize, I will let you do it."
+"Do you really mean that, John?"
+He places his hands on her shoulders, "Of course I do. Diablerie is in our Blood, Svetlana. It's who we are as Banu Haqim. Some shy away from it, but I say that we embrace it."
+Svetlana is elated, "You do? Truly? I--"
+He cuts her off, "Don't worry, you'll be ready soon enough. And I promise you: it will be an unforgettable experience. Your 1st ever taste of another Kindred's Vitae."
+Svetlana's eyes light up, "I am looking forward to that night, John."
+"As am I, Svetlana. As am I. Now, c'mon, let's get outta here. I still have to get a SIM card for my phone. You did yours yet?"
+"Da, finished. We...should keep in touch, no?"
+"We'll keep it limited. With the SI listening in on everything, I don't want them knowing what we're up to."
+"Hmm, true, true."
+Another power cut hits as the 2 Assamites wait for the elevator to arrive.
+Tommy loudly remarks, "Aye, the leccy is all over the gaffe tonight!"
+Svetlana is getting tired of these power cuts, "What is the issue?"
+They wait a few more minutes for the elevator to arrive.
+When the elevator door opens, they step in and prepare for the long descent.
+At the lobby area, Absalom and Mr. Bean agree to pick Svetlana up at Elysium. For whatever, reason, she doesn't want either of them knowing where her Haven is.
+Mr. Bean just won't take his eyes off her, it's like he's so fascinated by her, but...what is the nature of his fascination?
+John says goodbye to Absalom and Mr. Bean, then tells Svetlana he'll be waiting for her in the parking lot.
+"Da, I will come. Just give me 1 moment."
+Absalom regards the Assamite Neonate with his startlingly cold, startlingly blue eyes.
+Svetlana feels nervous under his gaze, so she politely says, "It is very nice to see you again, Mr. Absalom."
+"You are too kind, Childe. It is always my pleasure, Childe," the Elder Lunatic replies.
+Mr. Bean gets jittery and rubs his hands together, "Road trip! Road trip! Yay! I can't wait--I can't wait to get to know you better, Assamite."
+Svetlana feels really taken aback by Mr. Bean's frequent fidgeting.
+Absalom places a hand on his shoulder and tells Svetlana, "Understand that his visions overwhelm him at times. I try my best to calm him, but sometimes even I cannot help him."
+The Malkavian Elder adds, "Sometimes he needs to...let go. Just go with the flow, as they say. It's not always a good thing, though."
+Mr. Bean chimes in, "Yeah, yeah, not always a good thing, hahaha!"
+Svetlana attempts to try her luck, "What was the nature of your vision, Mr. Bean?"
+Mr. Bean adamantly shakes his head like a child who's just been told he's not allowed to have dessert, "No, no, I can't tell you that yet. It's...classified! Yeah, classified!"
+He adds, "Not until the right time. The right time. Yeah, you--you'll see, hehehe."
+Absalom curtly nods, "As he said. We're sorry. Then again, it could very well be nothing, Childe."
+The Assamite nervously nods, "Well, I understand, I understand. Thank you. Stay well, Mr. Bean."
+Absalom is very thankful to Svetlana for not trying to dig too deep into the matter.
+Mr. Bean flashes the Assamite a mischievous grin and gives her a double thumbs-up.
+The 2 Malks leave the place via the main entrance.
+Svetlana follows John into the parking lot.
+John reassuringly says, "Hey, don't worry. You'll do great tomorrow night. You uh...you handled yourself pretty well tonight, huh?"
+Svetlana isn't so sure, "Hmm. Sebastian will continue to be terrible person, John."
+John raises his eyebrows, "Well, there's not much we can do about it. Believe me, I'd love to--"
+"Maybe we should Diablerize him," Svetlana suggests, her tone is very cold and serious.
+"Whoa, whoa, whoa, slow down, Svetlana. Look, don't let it get to you, alright? The guy is just a jackass. Besides, I'll decide on who you Diablerize, OK?"
+Svetlana concedes with a curt nod of the head.
+At Seth's Haven, a few hours later...
+The lights are dim, as always. Edwin does some light cleaning of the shelves, a little dusting here and there.
+He hears footsteps approaching, and turns around to see who it is.
+It's Seth, with Gallagher following in tow.
+Edwin smiles and puts down the feather duster, "Oh, hello, sir. I was just doing some light cleaning around the house."
+Seth smiles, "How very kind of you, Edwin. I appreciate it."
+Gallagher snort-chuckles, "Hey, put on a French maid costume when doing it, hahahaha!"
+Edwin maintains his composure, "No, I...I prefer to do things properly."
+Gallagher is about to respond, but Seth interjects, "That's enough, Gallagher. Edwin, leave us. Thank you."
+The Ghoul picks up the feather duster, "Of course, sir. See you later." He leaves the living room.
+Seth and Gallagher stand there, in silence, for a few seconds.
+The former Sheriff of Dubai smirks, "Ah, so, how's everything going? According to plan I assume?"
+Seth plainly nods and invites his guest to take a seat, "Of course. Sit, Gallagher."
+Gallagher grunts, "Sure. I ain't gonna say no to a drink, either."
+Seth smirks and calls his Ghoul back, "Edwin!"
+He comes briskly walking, head lowered in reverence, "Sir?"
+Seth lazily motions, "I drink for my friend here. I wouldn't say no to a drink, too. You know where it is."
+Edwin returns with a tray, 2 delmonico glasses, and a wine bottle filled with blood. Human blood.
+Seth leans forward and pours the blood into the 2 glasses, "Here you go." He hands 1 glass to Gallagher, while keeping the other for himself.
+Gallagher inspects the blood and crassly asks, "So, this from that cult of yours, Seth?"
+Seth remains unfazed, "Of course. The devotees themselves give their blood, willingly, without any coercion whatsoever." He speaks of his cult's devotion to Typhon (and to himself) with pride.
+Gallagher takes a sip, "Hmm. Tastes good. And strong. Jesus, what ARE you feeding them down there, huh?"
+Seth takes a small sip of his devotees' blood, "We grow our own food, Gallagher. We are completely self-sufficient. That's the way of the Serpent." He takes another sip.
+He adds, "Anything else on your mind, hmm?"
+Gallagher reaches forward and pours himself some more of the blood, "Nah, just a little bored, that's all. Boring in here, boring outside." He sighs. He has a look in his eyes. It's a look that doesn't seem entirely his.
+Seth narrows his eyes, "Once a Sheriff, always a Sheriff, huh?"
+Gallagher grunts, "Fuck. Yeah, something like that. No action's making me bored, that's for sure. That's why I'm here."
+Seth smiles, "Well, don't worry. Action is coming."
+Gallagher's eyes light up, "Ah, a little surprise, hmm?"
+"Yes, something like that. You know that you can always come to me with any questions you might have, Gallagher. I am more than willing to help...counsel you."
+Gallagher sarcastically asks, "What, like a fuckin' therapist?"
+Seth shakes his head, "I offer something far more valuable than those...people. You know who is in this room with you right now, Gallagher?"
+The former Sheriff of Dubai narrows his eyes, "The High Priest of this Domain? A leader of a massive cult right in this city?" He tries to mask his confusion with sarcasm. It doesn't work.
+"Exactly. My followers trust me. They know that I'm the best at what I do. They know that I am the true voice and conduit of Typhon."
+"So you've said. What's the whole deal with your uh...cult anyway? I--I mean, is it even a cult?"
+Seth answers, "It doesn't matter what label a bunch of petty and pathetic mortals have for it. Let's just say that they are devoted to the true cause, and have been for years."
+"And, what cause is that?"
+Seth chuckles and doesn't answer, choosing to maintain the mystery surrounding his followers.
+"They trust me, Gallagher. They would not blindly follow a false prophet, a false teacher."
+Gallagher snorts, "Really? You, Seth Steale, the real effin' deal, huh?"
+Seth spreads his arms out, blood sloshing about in the glass, "Of course. I have sacrificed a lot to get to where I am right now, Gallagher. I have done things...things you cannot even begin to comprehend."
+"Yeah, yeah. And, what sacrifices have you made, exactly, hmm?"
+Seth is quiet. He drinks from his glass of blood.
+Seth responds with a question of his own, "I sense you're troubled, Gallagher. I sense you're troubled about something that's not on the surface. What's on your mind, old friend?"
+Gallagher sighs, "Oh, what's on MY mind, huh?! Well, for starters, those 2 fucking Assamites!"
+He has a wild and unhinged look on his face.
+Seth calms his buddy down, "Easy, Gallagher. Easy. What is it about them that...vexes you so much?"
+Gallagher growls, "They shouldn't exist. If Angela had let me do my job, maybe, just maybe, we wouldn't have this problem! But no. She wanted to be some 'benevolent Prince' and let the 2 of 'em off the hook. And, now, look where it got us!"
+Seth indifferently says, "We cannot change the past. John and Svetlana may still be of some use to us."
+Gallagher guzzles down the blood in his glass, "Yeah, and then, what? What happens when they get in our way? When they try and take our hard-earned territory? Huh?"
+Seth takes a sip of his glass of blood, "Gallagher, relax. It won't come to that."
+Gallagher points out, "Yeah, well, those Hunters you sent after 'em clearly fucking failed, so--"
+Seth calmly takes another sip of the blood, "It was a test, Gallagher. They passed. It doesn't mean they'll pass the next ones I have in store for them."
+"Jesus, Seth. Don't tell me that you're throw more at those 2! For what, exactly?"
+Seth has a smirk on his face, "Don't worry, old friend. I have everything under control." There is a cool confidence in the High Priest's tone.
+He goes back to the matter at hand, "Something troubles you. It's not physical, it's not mental, either. No, it's...spiritual in nature, isn't it?"
+Gallagher roughly sighs and looks to the side, avoiding eye contact with Seth.
+He doesn't say a word, but he doesn't have to. Seth reads him like a book.
+Seth adds, "I have sensed it, Gallagher. You want to rebuild your connection with Typhon, don't you?"
+Gallagher responds, "I wanna rebuild my fist's connection with somebody's fucking face, b--but yeah, I...I wanna do that, too. I wanna get back in touch with the big Serpent, y'know?"
+He looks back at Seth, a hint of desperation in his eyes, "You said you'd be able to help me with questions of a spiritual nature?"
+Seth graciously nods in the affirmative, "Always, my friend. Always. You, like me, are a Follower of Set. We are one and the same. I will be more than pleased to help you; nothing would bring me greater joy."
+Gallagher exhales a long breath and leans back on the sofa, "That's good. That's real good. After--After I um...got pulled back from the Wassail, things were...different for me, y'know?"
+Seth suggests, "Why don't we start at the very beginning, hmm? It would be good to go over things, again."
+Gallagher replies, "I guess. Like what, for example?"
+Seth calmly replies, "I am sure you have been having a hard time keeping yourself centered."
+"Yeah, I guess."
+Seth stands up and rifles through some papers on a side table near a window, "Here, take a look at this."
+He hands Gallagher what looks like a thank-you note.
+Gallagher perches an eyebrow, confused, "A thank-you note?"
+Seth explains, "It came with the blood you're enjoying, Gallagher. A devotee at the compound wrote it."
+Gallagher reads the note out loud, "'To our esteemed and respected High Priest, Seth Steale. May our path be ever illuminated by the great Serpent, and may the Serpent's light be always within us."
+He continues, "We offer you this gift of our purified body and soul. This is not an empty gesture, but a sacred pledge to the almighty Typhon and his great High Priest."
+Seth adds, "Do you see what she meant?"
+Gallagher shakes his head, "Not really."
+Seth declares, "She was a poet when she first came to me. She was covered in tattoos and piercings from head to toe. She was as disturbed and...twisted as they come."
+He softly laughs, "But now, she has been purified by Typhon. She has been freed from the shackles of modernity, and has found her true self, her true nature, in Apep's light."
+He goes on, "We are the Serpent, Gallagher. We are Liberators. Our goals in this world gone astray are many."
+Gallagher puts the note on the center table, "And what are you liberating people from?"
+Seth plainly says, "The shackles of modernity. All this excess, this tolerance, this...notion of Humanity."
+"Really? All of that? Jesus, Seth, you've uh...you've got your work cut out for you, huh?"
+Seth smiles and slyly responds, "With Typhon's grace, I persist and will continue to persist until the final night."
+Gallagher sighs, "And, what's next for us, eh? How long are you planning to maintain the status quo in this city? The way things are going, it won't be long until someone comes knocking."
+Seth shrugs, "Don't worry. A change is coming, Gallagher. Do you remember what I promised you?"
+"A twofold restoration."
+"Exactly. Have faith that everything will work out well in the end. Have faith that we will take what belongs to us, and that we will see a new era in this land."
+Gallagher has an uneasy look on his face, "Jesus, Seth. I sure hope you're right."
+"Has Typhon ever let you down, hmm? Has Typhon ever failed you in your hour of need?"
+Gallagher thoughtfully nods, a distant look on his face, "No. No. But...that's not really the point, is it?"
+Seth counters, "And, what is 'the point', my friend?"
+Gallagher angrily grunts, "I don't know, man! I...don't...know."
+Seth offers more blood to his guest, "Easy now. Easy. Let's go back to what we were talking about. Why are you struggling so much with your faith, hmm?"
+"A LOT of reasons. After that Gangrel Aussie bitch gave me the boot, I lost myself."
+He goes on, "I tried everything to feel something, to--to feel powerful again. The worst thing is that it didn't fucking matter in the end, y'know?"
+The former Sheriff adds, "I beat fuckers to a pulp, I tried 'roids, and all of that shit...I thought it would help, but it didn't."
+Seth contemplatively nods, "And, now, all of that is in the past. What are you doing now? Are you feeling it? Do you feel connected to Typhon, to the Serpent?"
+Gallagher exhales a deep sigh and nods his head, "No. Maybe, I--I dunno, man. It's just all a big fucking wreck and all I wanna do is punch, shoot, and kill my way out!"
+Seth places his hand on his shoulder, "Calm yourself. It's going to be OK. Tell me a little more about your past, Gallagher."
+"You already know, Seth. I don't see the point in--"
+Seth raises a finger, "Ah, ah, ah. Maybe there's something we missed the 1st time around, yes?"
+Gallagher sighs and begins going over his past.
+When he still drew breath, he was a Pinkerton thug. He did it all- union busting, strikebreaking, intimidating workers, and so on.
+"I was good, Seth. Real fucking good. I was saving America from proto-commies and shit! But, then, the whole world changed."
+Some shady individual, thought to be a Brujah at the time, Embraced Gallagher.
+Upon learning of the Clan he initially thought he was Embraced by, Gallagher sought out the truth, and that led him down a very dark path.
+"I didn't want any part of m--my old life! I wanted to distance myself from my former employers at the Pinkerton Agency and he--help the people I once worked against. It's the only way I thought I could be true to my new Brujah self, y'know?"
+Gallagher was a different man. For a moment, it seemed like this Brujah thing made him happy, made him feel like a hero.
+"For a moment. It didn't fuckin' last, though."
+Gallagher's old and brutal life began to creep up on him. His past caught up with him. Things began to unravel and his Sire revealed that the whole thing was a lie.
+"I was betrayed. I was betrayed by the very person who had Embraced me!"
+The revelation was a shock to the newly Embraced Setite, a revelation that shook him to the core.
+All this time, he had been living as a Brujah, imbibing Brujah ideals, teachings, and ways of Unlife. He had been living a lie.
+A farce.
+"I--I felt so...so broken. It was like I lost everything at once. I lost my shit when he told me that it was all some elaborate Setite trick. That I was some fucked-up actor, doing all this shit for kicks."
+Seth calmly replies, "I understand how that must have felt for you, Gallagher."
+Gallagher nods his head, a single bloody tear running down his cheek, "It felt like I was being played for some kind of fool."
+Gallagher lost his shit and brutally beat his Sire and sent him into a Torpor from which he still hasn't woken up from.
+He went on, "I was so angry, so furious! I lost control and acted on instinct. It was an instinct I've never had before, and, it--it scared the shit outta me, a--and everyone around me!"
+He even turned against the Brujah who he had developed close friendships with. He not only reverted back to his old Pinkerton ways, he doubled down.
+Furiously. Violently.
+"I went around the streets, beating and killing anyone who needed a good beating or some killing...or destroying. I was out of control, but I...loved every goddamn second of it."
+Seth nods along, remaining composed and neutral, "Go on."
+Gallagher goes on, "I was out in the middle of nowhere, trying to figure out what to do with all the bodies...and I heard this noise."
+The lover of Gallagher's Sire had called a Blood Hunt on him.
+"I was cornered, but it was OK. I could do it, I knew I could do it. I had a knife in my hand, and a stake in the other. But...something happened."
+As he was about to stab the lover of his Sire, thundering words echoed in his mind: "I have a plan and a purpose for you. Far from these shores. Far from these lands."
+Gallagher fought off those who would seek to destroy him. He went into hiding for a few years and eventually decided to try his luck far from his current shores.
+That's how he'd eventually land up in the UAE. Prince Angela, the Dove Prince, was in need of a Sheriff for her Domain of Dubai, and so he took the job.
+"And, there I was. I was the Sheriff. The fuckin' Sheriff."
+"The Sheriff of Dubai."
+"Yeah. That's what they called me, Seth. That's...what they called me."
+Seth observes, "Yet, it didn't work out as planned?"
+As Sheriff under the Praxis of Prince Angela Angela Whiteford, Gallagher was vicious and violent.
+The Gangrel Prince would have a hard time keeping him under control. She had the patience of saints and saw the good in everyone, even in a creature as repulsive as Gallagher.
+The rest of this man's story intersects with Svetlana's Embrace, and is best kept for another night.
+Gallagher even confesses to beating his mortal girlfriend, a 40-something from Saudi Arabia, so badly that she's currently in a coma.
+"I uh...I hit her. So fuckin' hard, man. It's like the Beast, it just took over--"
+By the end of this pseudo-counselling session, Seth recommends that Gallagher practices mindfulness.
+Yep, that's it.
+The High Priest says, "When you are ready to rededicate your Unlife to Typhon, come to the compound and we'll continue. For now, stay well, Gallagher."
+The former Sheriff nods and quietly leaves Seth's Haven.
+In lieu of actual solutions, all that Seth offers is obscurantist woo-woo and quasi-religious blather. But, what can be expected of a literal cult leader?
+Nothing.
+Back in his place, Seth mulls over all the things he has just learned.
+He is confident that his grand and great plan will come to fruition. He can't wait.
+Edwin raps his knuckles on the door, "Sir? Sir? Mr. Seth? Are you in there?"
+"Of course. Where else would I be?"
+Edwin lowers his head, "Apologies, sir. Sometimes it is quite hard to see with all this low lighting."
+"Hmm. I can't help it."
+"Of course, sir. The uh...Hunter-net.org forums are abuzz with chatter. And you have a few messages. I didn't open them, s--sir."
+Seth dryly says, "I'll need some time alone, to meditate on all that has been said. But, thank you, Edwin. Get the computer ready and wait."
+"Of course, sir. As always, I will be here for you when you need me."
+Seth lets out a small laugh, "Yes, Edwin. You will be."
+The Ghoul scurries off to do as his Domitor has told him.
+40 or so minutes later...
+Seth sits in front of the computer, squinting at the dim screen.
+He logs in to his special Hunter-net.org account.
+USERNAME: ScalyHand06
+PASSWORD: Typhon2468
+Wow, what a...strong password!
+The High Priest notices a notification: "1 New Message(s) from FRH05."
+The message from this person reads: "So, you're the one we should be thanking for helping us out with the leeches and rots in Dubai? What kind of a name is ScalyHand06, anyway?"
+FRH05 adds: "Anyways, your reputation on this website precedes you. Your expertise is very much appreciated, and your assistance in the matter was truly invaluable. Thank you."
+Seth writes back: "Happy to help. What do you want, FRH05?"
+FRH05: "You're still in the UAE, correct?"
+ScalyHand06: "You do know about Rule 1, correct?"
+FRH05: "I have all 4 Rules memorized. You don't have to remind me."
+Seth snarkily types back: "Good for you."
+FRH05: "We need a favor. We're ready to bring the Reckoning to the other parts of the UAE. After Dubai, Al-Kushraf is a good place to start."
+ScalyHand06: "A wise choice, I suppose. Why not Abu Dhabi?"
+FRH05: "Because I feel a dark and foreboding cloud, a barrier of sorts, hanging over that city. And I don't feel good about what will happen if we go there."
+Seth has a wry smile on his face: "Interesting. What makes you say that?"
+FRH05: "A few members of this site haven't logged in for weeks. They said they were going to Abu Dhabi, but I fear the worst has happened to them."
+ScalyHand06: "Dead?"
+FRH05: "Or worse. Al-Kushraf, however, seems to be free of any sort of supernatural maleficence."
+ScalyHand06: "I see. So, you were the one who acted on the information I provided, yes?"
+FRH05: "Yes. I led the raid on Dubai and cleansed it of all that is vile, vicious, and unclean."
+Seth nods, approvingly: "Well done, FRH05. Well done, indeed. So, what are you proposing now?"
+FRH05: "You help us with the cleansing of Al-Kushraf, and we'll owe you one."
+ScalyHand06: "A tall order. What kind of a favor would you owe me, anyway? Hmm?"
+FRH05: "We're Imbued, but we know how the world works. Favors are the currency of this world. We'll call in a favor to you whenever you need it."
+ScalyHand06: "Interesting. I like that. How many are we talking about here?"
+FRH05: "How many what?"
+ScalyHand06: "How many people do you have under your command or however you usually organize yourselves."
+FRH05: "Enough to put the fear of gods into the rots and leeches."
+Seth softly chuckles: "Wow, that many, huh?"
+FRH05: "After DXB, many are eager to strike back, to take back what was taken from them. We have the power and the numbers. We just need the expertise."
+Seth nods: "OK. OK. I can respect that. What kind of expertise do you require?"
+FRH05: "On this website, you have a reputation as someone who knows quite a bit about the supernatural and other things. You are familiar with the supernatural, yes?"
+ScalyHand06: "Of course. I have more knowledge about it than any other person on the planet."
+FRH05: "Spare me the ego trip, ScalyHand06. Can you help us or not?"
+ScalyHand06: "Yes, but Al-Kushraf is a lot more complicated than Dubai. It's not an intricate spider's web; there are a few major strands, and 100s of smaller ones."
+FRH05: "That is why we need your expertise."
+Seth thinks it over and types back: "Fair enough, you did quite a decent job on clearing DXB out, but I understand a few of them got away. Care to elaborate?"
+FRH05: "NO."
+Seth shakes his head and takes a few moments to look away from the computer screen. He blinks a few times and looks back at the screen.
+FRH05: "If you agree, we will make it worth your while."
+ScalyHand06: "Deal. But, you don't move a single inch in Al-Kushraf city without consulting me first. Understood?"
+FRH05: "Of course. You are the expert here."
+Seth has a smile on his face: "Very good, FRH05. I am looking forward to working with you. Again."
+FRH05: "Likewise, ScalyHand06. A personal question, if you don't mind?"
+Seth rolls his eyes: "Shoot."
+FRH05: "What was your Imbuing like?"
+Seth's hands hover over the keyboard, and he is unable to type anything. He remains motionless for a few seconds.
+He types back: "You know the rules. No details about personal matters. 'Post only minimal information about yourself.'"
+FRH05: "Fine. I suppose that's fair. Sorry."
+ScalyHand06: "No issue, why would you ask such a question, anyway?"
+FRH05: "Curiosity :-)"
+ScalyHand06: "That's what got the cat killed in the end, heh. Just make sure your curiosity doesn't get you killed, FRH05."
+FRH05: "We'll see, won't we? Goodbye, ScalyHand06. And thank you for helping us in our...necessary task."
+ScalyHand06: "Yes, goodbye, FRH05."
+Interesting. Hunter activity in Seth's Domain?
+He can't just wind 'em up and unleash them like he did in Dubai. A little tact is required. He's gonna have to keep them on a very short and VERY tight leash.
+Seth decides to make a few calls.
+His short-term goal is to get rid of the Second Inquisition presence in the UAE. This is a critical component of his long-term plan.
+As for the Imbued, he'll have to manage, somehow, to keep them in line and make sure that they don't interfere with or find about about his grandiose plans.
+If they do, and Seth doesn't have enough leverage to make sure they're on his side, they could cause a lot of trouble.
+That would be most unfortunate.
+Chapter 7: Closure
+The sun begins its ever so grandiose and glorious ascent above the horizon.
+The Kindred in this particular part of the world prepare to be taken in by the slumber of the day. Their bodies, and minds, crave it.
+The night before was an eventful one for Svetlana and John.
+The beams of that great and fiery star shine down on the city of Al-Kushraf.
+The city is bathed in this orange-yellow glow, making it look like something out of a movie.
+Cars, trucks, and other vehicles zoom around the vast metropolis. Blissfully unaware mortals go about their lives, working, shopping, fucking, and all that other fairly mundane stuff.
+The afternoon is brutally hot, and the sky is clear, but there's a light breeze blowing, keeping the air moving.
+It's not a perfect day, but it's not a particularly terrible one either.
+Just another day in a Middle Eastern metropolis run by self-interested dickheads.
+Eventually, the laws of nature dictate that the sun must set, and night must shroud the earth in darkness.
+The Kindred begin to awaken from the long and peaceful slumber of the day.
+Their immortal bodies are still tired, still weary. It will take some time for them to return to their full states of "consciousness".
+A gentle and almost playful whisper enters Svetlana's mind, "Setlana...Setlana."
+She stirs and lazily opens his eyes. She blinks a few times and looks around to see what (or who) is calling her name.
+It's an all-too-familiar voice, a voice that Svetlana has been hearing for quite some time.
+But, how? How is it even possible?
+Svetlana sits up rubs her messy face with her cold hand. She elaborately stretches her arms, and then she runs her hands through her long and tangled hair.
+She looks around at her surroundings. Yep, same ol' same ol' bedroom.
+The Assamite Neonate gets up and picks her clothes out for tonight's "important" job.
+She's really missing out on her actual job, what with all the errands she runs for Seth and all.
+She wonders, sometimes, what will happen when she eventually gets someone to Diablerize.
+Will she actually do it? Will she actually go through with it?
+John, the other Assamite, is sound asleep in the bed, his body twitching and his alarm clock going off.
+He lazily mumbles something to himself and pulls the covers over his cold body, wishing for a few more moments of "sleep".
+Svetlana picks out a pair of bootcut jeans, a blouse with geometric patterns, and a pair of ankle boots.
+She looks in the mirror and checks herself out. She is, more or less, satisfied with her appearance.
+She ruffles her blonde hair a few times and shakes her head.
+On the way out, she grabs her 2 daggers. She keeps the obsidian dagger in her purse and conceals the ceramic one inside her boot.
+Cool!
+She has no idea what to expect once back in Dubai, so she figures it's best to be prepared.
+Svetlana heads for the front door.
+Like many a vampire, she goes through the whole rigmarole of finding a person, making sure they're all secluded and alone, and then, the blood-sucking begins.
+Vampires, as a whole, can be either very brutal, or very gentle, depending on their natures (and other factors).
+And how much they let their inner Beast dictate their actions.
+There are vampires who suck the blood of their victims during sex and other softie-fluffy, intimate ways.
+There are others, however, who viciously tear apart the bodies of their victims.
+Some drink out of bags meant for blood donations. Others go for little cute kittens and other pets. Some drink out of little cartons, like you'd drink orange juice or something.
+Svetlana stalks the dark nights for her prey, making use of her Obfuscate Discipline (when the need calls for it, that is).
+She does it like a true Banu Haqim: silent, subtle, and quick. Her green eyes glow in the darkness. It is an eerie sight.
+She has hunted all kinds of prey during her Unlife: people who she finds out on the street, people who are asleep, drunkards tumbling out of a bar, and so on.
+It doesn't matter what their circumstances are, she'll make sure that their blood keeps her sated. It's survival. She's been through a lot in the past, so it's best to keep a low profile.
+The Hunger of the Beast is eternal, it can only be sated for a moment, temporarily. Then it comes back. Always. It comes back. And it grows. It grows.
+Once Svetlana has done what she needs to do to sate her eternal Hunger, she makes her way to Elysium to meet with Absalom and Mr. Bean.
+She would've preferred to travel with somebody else, because those 2 Malkavians creep her out to no end. Especially Absalom. His very presence can be construed as terrifying.
+The Assamite feels uncomfortable and somewhat threatened whenever he looks at her with those cold and calculating eyes. Like she's some specimen or something.
+As if she's being studied and observed for future...something.
+Mr. Bean is sitting in the driver's seat of a simple rented car with tinted windows. The car is white and looks very ordinary, much like most vehicles that people rent. Or steal. Or both.
+Mr. Bean is wearing exactly what he wore last night. It's a good thing vampires can't smell or anything. Otherwise, this situation would be downright gross.
+It's a 2 hour drive from Al-Kushraf to Dubai, so the Assamite figures that the sooner they get there, the better.
+Absalom sits in the front, which means that Svetlana has the entire backseat to herself. It's not so bad, to be honest. It's better than sitting next to one of them, and listening to whatever insane babble comes out of their mouths.
+Svetlana looks out of the car window and sighs.
+Absalom looks over his shoulder, "Ready?"
+Svetlana nods, "Da. Let us go...back to Dubai."
+Mr. Bean starts the car up and giggles, "Oooooh, road trip! Hey, how about we uh...play a game?"
+"Nyet."
+Absalom calmly tells Mr. Bean, "It would be wise for you to play the game where you keep your hands on the steering wheel and eyes on the road. I would be quite distraught if something unfortunate happened, wouldn't you say, Svetlana?"
+"Da. That would be bad, very bad."
+Mr. Bean just shrugs, "Ah well, more for me I guess!"
+This is gonna be an...interesting drive.
+Absalom looks outside at the city passing by in a blur. He makes some sort of "tick tick" sound with his mouth and nods to himself. It's clear that something is on his mind.
+Something or the other is ALWAYS on the mind of a Malkavian.
+Absalom breaks the awkward silence, "Did you know that Mr. Bean here was living as a Caitiff till I discovered him and took him in, Svetlana?"
+Svetlana raises her eyebrows, "Oh? How did you discover him?"
+Mr. Bean pipes up, "He--he's like a fucking master at the Auspex Discipline, Svetlana! That's how he was able to see through me, li--like an x-ray machine!"
+He pauses and then says, "X-ray machines!" He snort-giggles, "Yes, Absalom is like an x-ray machine, Svetlana!"
+Absalom continues, "I noticed his Malkavian heritage. He was floundering amongst the Clanless, lost and without purpose. He didn't even know his true Clan, which was...disappointing."
+Absalom chuckles, "But, do not underestimate him. Mr. Bean is very clever, he is very, very clever. He sees things, Svetlana. It overwhelms him at times, but that is how his Malkavian mind works."
+Mr. Bean grins from ear to ear, "Yesss...ohhh, yessss. It is all there, it's all up there." He makes a clicking sound and points at Svetlana. He smiles a knowing smile.
+Svetlana looks at him through the rearview mirror, "I see, how...interesting." She sounds mildly annoyed. And a little freaked out, to boot.
+Mr. Bean takes a sharp right turn and slows down a bit.
+The road leading into Dubai is, by far, the busiest. There's a long line of traffic up ahead.
+Svetlana breaks the tense silence, "What were you in mortal life, Mr. Bean?"
+He gladly answers, "A worship leader at one of the largest Pentecostal churches in Al-Kushraf city!"
+He pulls out his phone from his pants, "It was great, it really was. The whole congregation adored me, and I adored them."
+Absalom merely looks out the window, not paying much attention to the conversation.
+"Do you miss it?" Svetlana asks, her curiosity peaked.
+"The worship or the people?" Mr. Bean asks.
+She answers, "Both?"
+Mr. Bean pulls up a video and hands the phone to Svetlana, "Here, it's mortal me."
+He looks the same as he does now, except his hair isn't bleached in the video and his clothes are not all over the place.
+In the video, he jumps up and down, guitar in hand, and belts out lyrics. There's an energy, a sparkle, and a lightness in his voice. He looks genuinely happy and at ease with the world.
+"Are you ready, church? Ready to trade in your sorrows? Ready to trade in your sickness? Ready to trade in your shame? Ready to lay it all down for the JOY OF THE LORD?"
+The congregation responds with a loud and resounding "AMEN!"
+The Assamite gives the scratched phone back, "Do you still do singing and all?"
+Absalom stifles a chuckle.
+Mr. Bean's eyes shift from side-to-side, "No, not really. I'm on sabbatical from it."
+He chuckles and continues, "I--I mean, after I went 'missing' and all, they found someone to replace me."
+Svetlana furrows her brows, "'Missing'?"
+Absalom explains, "Traffic is moving. I will tell her. It would appear that Mr. Bean's Sire wiped his mind, leaving only memories of a vague nature and purpose in his Unlife."
+He rests his cheek on his palm, "But, I suspect that the process went far more awry than his Sire intended. There were...unforeseen consequences, shall we say."
+Svetlana inquires, "Do you know who Mr. Bean's Sire is?"
+Absalom responds, "No. We are still looking for them, but I am not optimistic about finding them anytime soon."
+"How did you discover him?" Svetlana asks, her green eyes curious, but also confused.
+"I went to where the Caitiff are known to...gather themselves. I used my Auspex Discipline to sift through all the...Trash there, and found this gem."
+Svetlana raises her eyebrows, "All Caitiff are garbage?"
+Absalom blandly replies, "They are unpredictable and dangerous, Svetlana. Abandoned by their Sires, they flounder about and act like unruly and barbaric fools."
+Mr. Bean nods along, "Yeah, I'm glad I'm out of that Caitiff cesspool, lemme tell ya that much!"
+Absalom adds, "They do not care to develop or use their Disciplines; instead, they go about their Unlives like the barbarians and savages they are. They do not show an inkling of interest in determining their Clan."
+Absalom has a bitter, and yet, thoughtful look on his face, "These degenerate vagabonds of our kind do not appreciate the gifts we have been given by Caine. Instead, they waste it on..."
+He catches himself mid-rant and sighs deeply, "As long as they do not cross paths with us or other Kindred, it does not concern us much. Still, I am glad to have found a Seer amongst the Caitiff."
+Absalom has an almost mischievous smile on his face, "Enough about that. How are you keeping, Svetlana?"
+Svetlana says, "Fine, but I do not share in your disliking of Caitiff. I think you fear something which you do not know, Absalom. You fear that, perhaps, the Caitiff are stronger and wiser than you."
+Absalom lightly scoffs, "I have walked this planet for centuries, Assamite. Very little, if anything at all, can intimidate or disturb me anymore. It is quite possible that your experiences are very limited to that which you know and that which you alone have experienced."
+The hot wind blows his long hair as the car chugs along, "Soon, you will come to the realization that, at times, things are not as they appear to be, Childe of John."
+Svetlana coolly remarks, "And I suspect you have not experienced anything like that which I have. And, I think that you DO fear the unknown, Absalom. That which you cannot control scares you, no?"
+Absalom maintains his composure, "And I suspect you are misinterpreting the intent and the context of my words, Child of John. As for 'fear', that is for mortals who lack our powers. Do not confuse a lack of 'fear' for a lack of vigilance and caution."
+Svetlana passive-aggressively says, "I will keep in mind, da."
+Mr. Bean repeats, "Da. Haha! Russian, right?"
+Svetlana plainly nods, "I also speak Ukrainian and very little of Arabic."
+Absalom changes the topic, "Do you have any idea who this Salubri is? Did Seth tell you any more about him?"
+She answers, "No, but it seems we will soon meet this person. I was hoping he would tell you more."
+Absalom says, "Hmm, then he told me what he told you."
+Svetlana muses, "Perhaps Salubri Clan wants to be part of Al-Kushraf city's Primogen Council. They sent delegation to Dubai, but after the attacks they also fled."
+"A fair point, I suppose," the Elder Malkavian says.
+Mr. Bean cuts in, "So, do those Salubri, like, have 3 eyes and shit?"
+Absalom nods, "Yes, Mr. Bean. Their 3rd eye is not for show, however. They are very capable, and, at times, their abilities can rival the mightiest of Cainites."
+"I have only heard small stories about Saulot's Progeny," the Assamite comments.
+Mr. Bean keeps his hand on the steering wheel. On occasion, he looks at the rearview mirror and flashes Svetlana a goofy smile.
+Absalom has a distant look on his face, the wind continually blowing his long hair all around.
+Svetlana inquires, "How have Salubri been treated in this land?"
+Absalom grimly answers, "They have been Hunted down, especially by you Assamites, for their Vitae. It is said to be sweeter than honey. However, it is a great taboo to commit Diablerie."
+A mischievous smile forms on his face, "This taboo, like most things, can be circumvented, as you Banu Haqim are no doubt aware."
+Svetlana twitches when she hears that.
+The Elder leans back on the headrest and closes his eyes for a few moments.
+The remainder of the drive to the city pendulums between awkward silence and weird conversations.
+The closer to the city they get, the more and more traffic they have to deal with.
+There are roadside checkpoints set up here and there. A few armored vehicles zoom by, and so does a lot of other traffic.
+Svetlana asks where they're supposed to meet this Salubri.
+Absalom dryly answers, "Near the vigil to the victims of the Al-Jamal residential tower explosion."
+Svetlana audibly gasps when she hears those words.
+That...that place. That place was where it all began for her.
+Mr. Bean loudly comments, "Damn. I--I heard the whole thing went BOOM! BLAM! I uh...I can't believe it!"
+Svetlana starts to shake and nervously says, "I...I was there."
+She closes her eyes and tries to take some deep breaths to calm herself down, but it doesn't work.
+Mr. Bean, ever inquisitive, asks, "What do you mean by that?"
