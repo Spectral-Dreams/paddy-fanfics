@@ -27,7 +27,7 @@ The boss smiles, "Just the attitude I like. Listen, take a look at this. Here." 
 Clifford leans back in his seat and gives Markham an appraising look, "Indeed. Thoughts."
 Markham spends a few more moments silently going through the letter. It alleges that 2 day-traders in Flimont City are engaged in rather suspicious and shady activity.
 Everything from market manipulation to insider trading to tax evasion is apparently going on there, and all of it seemingly ties back to 2 individuals- Luciano Donovan Jr. and his close friend since school, Paul Cho.
-The letter is very vague on the details, but it also makes several specific points that can be checked for fact.
+The anonymous letter is very vague on the details, but it also makes several specific points that can be checked for fact.
 Clifford leans forward and places his chin on his hand, "What do you think of this, Markham?"
 Markham replies, "I'm familiar with most of it. Luciano Jr. and his family have been active in the investment scene for decades."
 Clifford chuckles, "Heh, yeah. His dad, Luciano Donovan Sr., used to sit on the advisory board for the SEC. Crazy, huh?"
@@ -535,7 +535,7 @@ The Ventrue Prince directly asks, "You got a Ghoul, Collins? If not, I recommend
 "Yes, I do. His name's Brock. He's a good guy. I trust him with my Unlife," the doctor speaks of his Ghoul with pride and warm approval.
 The bond between a Kindred and their Ghoul is quite strong, almost too much so for the latter.
 Clarice holds up a finger and winces, "I...sense an unusual presence lingering nearby."
-Markham pushes the front door open and dryly says, "Sorry I'm late. I was stuck in traffic, it's crazy in this city. I've never seen anything like it." He has a suitcase in one hand.
+Markham pushes the front door open and dryly says, "Sorry I'm late. I was stuck in traffic, it's crazy in this city. I've never seen anything like it." He has a briefcase in one hand.
 His hair is slightly messier and his clothes are a bit wrinkled. There are bags under his eyes. He looks like he hasn't slept in a few days. He looks a bit worse for wear.
 Sheriff Velma steps forward and escorts the weary Baali to a seat, "This is the one I told you about, Prince Antonio."
 Prince Antonio struts forward to get a better look at this guest in his city, "Ah, I see. So, Markham, is it? Tell us what Clan you belong to. And more importantly, what's the nature of your business in my city?"
@@ -584,7 +584,7 @@ Sheriff Velma sighs and stands by the Baali's side, "As I was saying. If you did
 Pedro interjects, "Fucked up shit."
 Sheriff Velma sharply exhales, "That's...1 way of putting it."
 Markham sternly repeats himself, "I'm not into that, I'm not interested in any of that, and I sure as hell am not part of the goddamn Sabbat. I'm here to do my job and then I'll leave. That's it. If you don't want me here, I can leave right now."
-He stands up and picks up his suitcase, "Good evening, Prince Antonio."
+He stands up and picks up his briefcase, "Good evening, Prince Antonio."
 "Wait, wait, wait," Prince Antonio steps in front of the SEC investigator, "Now, hold on a sec. We didn't say anything about kicking you outta town."
 Markham stares at him for a few moments, "Oh."
 "Sit down."
@@ -1051,7 +1051,7 @@ She looks at her hair and combs her fingers through her scraggly mess. She could
 Mauve makes it a point to ask her benefactor if he'll be able to take her to a nice salon sometime this week.
 But, she's been hesitant about getting too involved with LDJ. He's already done a lot for her and she doesn't wanna lose out on this safe, clean, and nice Haven.
 She knows the price she has to pay. Mauve isn't stupid, and she's seen what this fast, reckless, and ultimately meaningless lifestyle can do to people. She's seen it firsthand, and it's a terrible thing.
-After she showers, she puts on something a little more presentable- a beige button-down shirt, tapered black pants, and a pair of white flats.
+After she bathes, she puts on something a little more presentable- a beige button-down shirt, tapered black pants, and a pair of white flats.
 She accessorizes with a few rings and a handmade bracelet that was given to her by a homeless teenager in this city as a symbol of friendship and appreciation.
 She looks at the bracelet worriedly, wondering to herself if that poor kid is still alive, and if she'll ever see her again.
 Mauve checks herself in the mirror. She's still the same old Mauve Lilac. The same old Mauve that's been through the wringer and back.
@@ -1141,7 +1141,7 @@ Paul is busy reading Mauve's laptop and looking through her spreadsheets and fin
 Luciano greets her as she comes in, "Yo, Mauve! Get in here! We got some fresh pies from Peppy's!"
 For obvious reasons, Mauve declines in an overly polite and apologetic manner, "Oh, um, sorry, Mr. Donovan, but I'm OK." She repeats this line, just for good measure.
 Luciano chuckles, "Hmph, whatever."
-Paul frowns at her, "You look like a supermodel on one of those magazines. Do you even fucking eat, Mauve?" His tone is accusatory and aggressive.
+Paul frowns at her, "You look like a skinny supermodel on one of those magazines. Do you even fucking eat, Mauve?" His tone is accusatory and aggressive.
 Mauve shrugs and sits down on a chair opposite him, "Oh, well, I--I don't really eat much, Mr. Cho."
 Paul sighs and helps himself to another slice of pizza, "So, uh, let me get this straight: the numbers just sorta pop up in your head and tell you what to do, huh? That's fucking wild, man."
 Mauve wordlessly nods and wistfully watches on as these 2 guys enjoy something as simple as pizza. A part of her longs for mortal food and drink, but another part reminds her that she cannot have such things ever again.
@@ -1179,4 +1179,324 @@ As soon as Paul is out the door, LDJ looks at Mauve and sighs, "Heh. Paul's a go
 Luciano chuckles, "Heh. I hope you're right about this one. I mean, you've been on a roll recently, and it's been...perfect. No computer can even come close to doing the freaky shit that you can, Mauve."
 The Seer looks at him with a faint smile. It's getting harder to stay positive and happy. She's tired, mentally drained, and has to deal with the numerous voices constantly rattling off inside her troubled mind.
 She knows how important her role is, but she also knows that this situation is precarious. It's only a matter of time before someone gets wise to what she's doing and exposes her.
-That someone could very well be Markham, who she is yet to come into contact with. But, there's a twist to all this that
+That someone could very well be Markham, who Mauve is yet to come into contact with. But, there's a twist to all this that is bound to make things...interesting in the coming nights.
+Anyways, Mauve musters up a wide smile and looks at her benefactor with a big and somewhat genuine grin, "Thanks, LDJ."
+Luciano smirks, "Right. I'm gonna head out. Be good, Mauve."
+He turns around and tells her, "I'm off to get my dick sucked by a princess. Ciao!"
+Mauve forces a chuckle at the lame joke and waves him off. He leaves the Haven without saying a single word to her. Just like Paul, he never even bothers with a proper goodbye.
+It's like people like him are above all that.
+Paul is fidgeting and getting all twitchy in the car, he's rapidly blinking, and he keeps looking at his phone. He's way too hyped up.
+Luciano enters the car and starts it, "OK, your dealer still in that nasty, infested dump? Fuck, I hate that place, man." He rubs his face and grumbles, "Seriously. Fucking bums, all of 'em. Fucking losers."
+Paul seems a little too distracted, "Oh, heh...yeah, he still hangs out there."
+"Hmph."
+Many minutes later...
+The duo stop at a neighborhood that is quite simply derelict and depressing. The houses are broken and abandoned. Windows are cracked and shattered, and paint is peeling.
+The very epitome of urban decay. They're filled with broken folk and empty husks. Luciano makes his way to a decrepit house, pulls up in front of it, and gets out.
+Paul sneers at a few old guys in army jackets passing a needle between them, "Fuck me. This is the kind of shit I'm talking about, man."
+He closes his eyes and rubs his face, "It's fucking degrading." He opens his eyes and stares at LDJ, "I hate junkies."
+LDJ scoffs, "You're a junkie, too. It's just that you wear a suit and are worth millions of bucks, so no one notices." He goes to the front door and knocks a few times.
+He waits, his face contorted in disgust. Paul doesn't like it here. He feels ashamed. He looks at the old men nearby.
+1 of them passes out and begins frothing at the mouth. Another one starts crushing some white tablet and snorts it all up his nose.
+The last guy seems to be on a phone call, yelling at someone about something related to the VA (Veterans Affairs).
+Another few moments of waiting, a lanky woman opens up the door. She's wearing a dirty red-brown button-down shirt and black slacks. Her cheeks look like they're hollowed out and her eyes are sunken in.
+She's gaunt and extremely pale, "Uh, hi, Paul. And...Paul's friend. What a pleasant surprise."
+She ushers the duo in, "Come on, come in, guys."
+The inside of the house is just as tragic as the outside. There are people of all ages, sexual orientations, skin tones, and genders sprawled all over the place. The place is filled with a putrid and unmistakable smell.
+Marijuana, heroin, MDMA, crack, ecstasy, and meth and whatever else. All kinds of drugs. There are several people here either high or getting there.
+A burly man is hunched over a Bunsen burner, spoon in trembling hand. There's a small glass tube containing a green liquid. He's about to drop the liquid into the glass vial.
+Another man is emptying contents of an orange pill bottle onto a grimy table and singing the United States National Anthem. A teenage boy is rocking back and forth, humming a Britney Spears tune.
+A middle-aged woman is on her hands and knees, her jaw slack, and eyes dazed.
+Luciano derisively spits, "Jesus fuck. Where do all these sad sacks come from?"
+Paul is not interested, "Like I c--care. C'mon, let's just get what we came here to get and leave this shithole before someone fucking burns it down. Shit..." He grimaces and continues to mutter under his breath.
+The woman leads the guys into the kitchen. There's a small glass table with some cushions as chairs. She grabs a bottle of vodka and 2 shot glasses.
+"Drinks, boys? Marco says this one's all the way from the former Soviet Union. Heh."
+Paul declines, as does Luciano.
+Marco is the dealer. He comes sauntering out of a room with some old-ass cellular phone in hand, "What's up, Paul? My favorite customer. Haven't seen you in a while."
+He looks at Luciano and smirks, "Hello there, Mr. Donovan. Long time no see, huh?"
+Marco is in his late-30s. He's of medium build and average height. His hair is bleached around the sides and dyed at the top. He looks like he sleeps well, for a drug dealer.
+He's wearing bermuda shorts and a t-shirt with a suggestive image of a woman licking a lollipop. He's all smiles and high spirits.
+Luciano scoffs, "Yeah, sure. Y'know, Marco, I always thought you were a fucking sleazebag."
+Marco pouts, "Me? Sleazebag? I'm like you, Luciano Donovan Jr., a legitimate businessman! Ain't nothing sleazy about hookin' up rich boys with their blow, y'know what I mean?"
+"Hmph," LDJ isn't amused, "Get the fucking candy, Marco."
+Marco chuckles, "Of course. But first, you gotta pay me up front, eh? I don't do fucking charity and you boys CAN afford my...very affordable prices. Hell, you boys could afford this 'hood and many of these poor folk around. And then some more, haha."
+He looks over his shoulder and nods at an old woman who's watching TV. She stands up and goes to get the good stuff for Mr. Cho.
+Marco helps himself to the shots of vodka that the lanky chick poured for the 2 guys. He downs each of them in succession and scowls at the stinging taste of the alcohol.
+He downs the drink and slams the glass down. His voice is a little slurred, "So, you're gonna shoot up, Paul? I love watching my customers enjoying themselves. It's a great stress reliever. Especially for Yumi here."
+Paul reaches into his suit pocket and pulls out a ziploc bag. He pulls out a large, rolled-up bundle of cash.
+He callously tosses it over to Marco, who tosses it over to Yumi. She chuckles and pulls out a money counting machine that is surprisingly clean and well maintained. It counts the bills with great speed.
+Yumi nods over to Marco. He gently claps his hands and smiles widely, "That's what I like to see! Mr. Cho's always good for his money. Heh. We got ourselves a gentleman right here, don't we?"
+His voice is brimming with charm and sleaziness. He's clearly a professional, and a very good one at that.
+Yumi takes a few $100 notes and slips them inside her bra, "Heh. Thanks."
+Luciano points at her and is about to say, "Hey, she took--"
+Marco shrugs, "It's her cut, none of your business." He chuckles and adds, "C'mon, boys, I know you love my merchandise!"
+Luciano dryly states, "I don't snort that stuff, man. It's all for my best pal over here."
+Marco leans against a wall and folds his arms, "Hmm, that so? Not even a little bump to take an edge off, brighten up those colors? Get rid of the stress that plagues the son of Luciano Donovan Senior?"
+Paul sputters, "F--Fuck off. Don't pretend that you give a shit about us, Marco. W--Where the fuck is it, man?"
+Marco holds out his hands in a placating gesture, "Calm down, speedy. I got grandma measuring it, weighing it, and maybe stuffing a bit of it up her ass. We're just talking, eh?"
+"Yeah, well, I don't fucking like it when I don't get something I fucking paid for!!" Paul is getting twitchy again.
+Marco retorts, "C'mon, this isn't fuckin' KFC. Quality takes time. If you want your snow fast, you can try asking someone else, but I'm all about that quality product, you feel me?"
+Paul sighs and calms down.
+After a few moments, the old woman comes back with what looks like a pound of cocaine, wrapped up in a brown paper bag.
+Marco hands it over, "There we go! Now, I hope to see you again reaaaaal soon, Mr. Cho."
+Paul sets the bag on the table and bites his lip, "I--I need to make sure that it's--"
+Marco politely bows his head, "Of course. Hey, Yumi, get a razor blade from the bathroom, please."
+Yumi complies and comes back with a bathroom razor blade. Paul snatches it from her, cuts out some good bits of the snow, and measures it out.
+Paul sniffs a few times and bends over to get some of the cocaine into his nostrils. He closes his eyes and inhales deeply.
+Luciano asks, "You OK there, buddy?"
+Paul makes a few snorting noises and shuts his eyes in satisfaction of the product that he's just shelled out $8500 for.
+(Most people here don't even make that much in 6 months.)
+He nods and tells LDJ, "Y--Yeah, I'm good."
+Luciano asks again, "You sure?"
+Paul rolls his eyes at this.
+Marco steps in, "Hey, hey. If my buddy says he's good, then he's good."
+Luciano sighs and shrugs, "Yeah, c'mon, let's get outta this dump before the cops show up, heh."
+Marco protests, "Hey, I'm a legitimate businessman. Hell, I got a few cops as customers in here getting blasted on some blow, hahahaha!"
+Luciano shakes his head in derision, "You keep saying that like it means something."
+"Yeah, you won't believe who's running me outta business these days, man!"
+Paul asks, "Who? The Cholos?"
+"Nah, man! Fuckin' Purdue Pharma and that OxyContin shit. It's a fucking travesty, y'know?"
+Marco continues whining, "Here I am- a legitimate businessman being pushed out by a goddamn pharma company! Yumi here is practically hooked onto that Oxy shit and she got it prescribed to her. Legally! Gah! Imagine that!"
+Luciano snickers, "Hmm, I think I should buy me some shares in Purdue Pharma. C'mon, Paul, let's leave before your dealer starts crying like a little baby."
+Marco scowls and yells, "Fuck you, Donovan Junior! You're just jealous I'm raking in the cash while you're still living in the shadow of your daddy."
+Luciano narrows an eye and toughens up, "The fuck you say to me, you dope peddlin' piece of--"
+Paul clutches his bag of cocaine tightly and pulls Luciano back, "N--Not here. We--We gotta go, man."
+He looks over at Marco, "T--Thanks, Marco. The usual price, next time, eh?"
+Marco waves them off, "Yeah, yeah. Usual price. Now, get outta here."
+Yumi escorts them to the front door. Paul almost steps on someone's wrist. He notices what look like bite marks on that person's thin and pale skin.
+(Vampires have been through here, and they've forgotten to lick the wounds shut. Not good.)
+He forces himself not to look back at the drug-infested house.
+Yumi's lips are quivering. She licks them a few times and asks, "Hey, y--you know any--anywhere I can get a doc to prescribe me some Oxy? I need 80 milligrams, I heard they--they were making a 160--"
+Luciano stops her, "What do we look like to you, bums? Ask your boyfriend in there. Crazy bitch."
+Paul gets in the car and says, "That's enough, man."
+Luciano scoffs, "Jesus, Paul. Next time, you come to this dump alone."
+Paul protests, "But, Luciano! I can't, man! I need you here! You're my best friend, my bro before all the hoes! I trust you, Luciano. With everything."
+Luciano grimaces and taps the wheel a few times, "OK, yeah, I get it, man. Stop acting like a faggot. Sheesh."
+Paul grins, "Remember that deal we made when we were 16?"
+"Heh, yeah, never to share our money with chicks, right?"
+"Yeah, haha," Paul chortles. He shoves the bag of coke into the car's glove compartment.
+Luciano starts the car up, "God, when I get richer, I'm buying this place up. I think a mall or a theme park would be perfect for this neighborhood."
+"Fuckin' A," Paul agrees and carelessly adds, "Maybe a hobo-themed amusement park! People would eat that shit up!"
+"Hmm, yeah," Luciano jokes, "And, a hobo-themed mall. With hobo merch and shit, haahahahaha!"
+They drive off, laughing and joking with each other. Their problems and fears (as far as they have any real ones) temporarily forgotten.
+Meanwhile, the poor, neglected, and forgotten souls in Marco's joint continue to languish in filth, misery, and pain.
+Some will try to get high, others will try to escape into a temporary place of comfort and safety. The rest will continue to pass the night in a daze of depression and despair.
+Yumi pulls out an orange pill bottle from her pant pocket and empties the last few tablets of Oxy that she has on her. It's all the 10 mg variant, so she won't get much of a high, but it's the best she can get at the moment.
+She swallows them all and settles down on a nasty mattress, she throws her head back and moans softly. She's already on the road to getting high.
+This is the Flimont City they don't talk about in the media and in the tourist guides. This is what they so effusively call "Wall Street 2.0"
+If such issues are ever brought up, it's from a moralistic and/or law-and-order perspective.
+In reality, these people (through no fault of their own) have no voice, no freedom, no rights, and no protection. The vast majority of them are treated as either expendable or worse.
+To be a homeless person in a place like this, well, that's a fucking death sentence.
+Many of the folk in that drug den likely work 2 or more jobs, but are nevertheless constantly denied or turned down for better opportunities (assuming such even exist in such a place as F-City).
+They have no proper home and no safety net. They eke out a miserable existence and have no hope for the future.
+Meanwhile, the rich and powerful continue to live it large, off the tears, sweat, and blood of such unfortunate souls.
+The white-collar crooks and well-dressed thieves continue to bleed this already dying city dry. The government and the police, in particular, aid in such sordid deeds.
+Whether it's through truncheons, legislation, tasers, or lobbying, Flimont City is being ripped apart and broken from the inside out. A festering cesspool of misery and backwardness that is being perpetually and conveniently forgotten by those supposed to be in charge of it.
+Luciano eventually shows up at the upscale and fancy mansion of none other than Sophie. It's one of the most extravagant properties in all of Flimont.
+It's an imposing edifice that is located on a sprawling estate in the rich and posh northern area of F-City. This opulent mansion is reminiscent of the ones back in Western Europe.
+It has a tall fountain, a nice garden, a few gazebos, and a large pond in front of it. There's also a long winding road leading up to it.
+Luciano parks his car and is driven to Sophie's front door via a golf cart. The 2 men on the vehicle don't say anything or ask anything of him. They know better than that.
+This is all part of protocol, and he is well familiar with its terms.
+Sophie is already standing outside, hands clasped behind her back. She's wearing her gown and some very light makeup.
+She hopes that Luciano has already broken things off with Angie, but that doesn't seem to be the case.
+Luciano gets off the golf cart and gives his aristocrat girlfriend a hug. He sways from side to side and follows it up with a light peck on the cheek.
+Sophie pulls him inside her mansion and has her butlers serve the duo some red wine. She has them pour out the alcohol into expensive crystal goblets. It's something that dates back to the late 19th century.
+Yummy.
+Sophie dismisses her butlers and leans forward to give her boyfriend a nice, wet, sloppy, and passionate kiss. Luciano smiles, pleased by all of this. He can already see where this is going.
+He melts into the kiss, their tongues swirl around each other. This kiss goes on and on; it's very intimate and very wet. It's hot. Sophie knows what her man likes.
+Luciano breaks away and sharply exhales. He looks around her mansion.
+It's bright, there are a lot of white-and-cream colored furniture, and it all has a distinct air of snobbishness about it. It's all very pristine. Just like her. And she hates messes or anything of that kind.
+Luciano takes a light sip of the wine and winces at its earthy and tangy taste. "Aah!"
+He sighs, "My Sophie, you do know how to please a man, huh? So...classy, so...fancy. You are truly my princess." He smiles widely.
+Sophie puts her hand on her chest and slightly bows her head, "Oh, Luciano baby. My prince...you know just the right words to say to make a woman melt."
+Luciano smugly absorbs her compliment, "Yeah, I am the prince, aren't I? The prince of fucking Flimont City."
+(That title is best reserved for the actual Kindred Prince of Flimont City- Antonio "Tony" Black of Clan Ventrue).
+Sophie drinks some of the wine and cuts to the chase, "So, did you break things off with that negro yet? I do not know why you still insist on seeing her, Luciano, baby."
+Luciano sighs, "Look, it's nothing, OK. You know this. It was a one-off mistake." His voice has an air of finality to it.
+Sophie shakes her head, "If you say so. Those poinsettias you sent are really lovely. And I like your suit, my sweet prince. Did you get it custom-made?"
+She's already next to him, fiddling with the buttons and the belt.
+Luciano softly chuckles and leans back, "Heh. Oh, yeah, this shit's custom-made."
+Sophie kneels down in front of him and begins unbuckling his belt. Her movements are slow and sensual, just the way he likes them.
+Luciano sips some of the wine again and puts it aside on a nearby table, "Oh, shit. I'm hard as fuckin' rocks..."
+Sophie licks her lips and grabs his dick. She runs her fingers through his pubes, "Oh, yes. Yes, my love..."
+One can utilize one's own imagination to fill in the blanks as to what happens next.
+Chapter 4: Paging Dr. Collins
+The next night...
+The sun rises and it ultimately falls. It's an inevitable and natural process of life on this blue ball.
+The Kindred prepare to rise from the darkness of their daylong slumber, a strange and unnatural process that they must go through on a daily basis. Their undead bodies are completely unsuited for the light of day, and thus must they rest their Unliving bodies.
+The sun would obliterate most of them in seconds, or perhaps minutes, should they ever foolishly or accidentally expose themselves to the sunlight.
+They'd burn, reduced to little more than charred, stinky, and rotten ashes scattered across the landscape. It wouldn't be pleasant. And, of course, that would be IT for them.
+Final Death, or perhaps worse. A fate that most Kindred would rather avoid on nights such as these.
+The newly-appointed Tzimisce Primogen, Dr. Collins, awakens from his day-sleep. He's in a set of simple pyjamas that is a bit worse for wear.
+His eyes flutter open and he stretches his body. He looks around his Haven and begins to collect his thoughts.
+His Haven is a duplex house located in a quieter part of Flimont City. The floors are carpeted, there are paintings on the walls, and it's pretty much the usual interior decor for the area.
+It's all very clean, very neat, and very precise.
+Apart from his bedroom, there's also the study, and that's where the Primogen keeps a few things of importance to him- archaic tomes, magazines and publications related to science and medicine, a few bags of chilled blood, and so on.
+As an actual doctor, he has ease getting access to blood, among other things.
+For now, the good Tzimisce doctor heads for a quick bath. He undresses and sits in the warm water for a few minutes, trying to collect his thoughts and come to grips with the tasks before him for tonight.
+Dr. Collins steps out of the water and towels himself dry. He heads to the bedroom to pick out a proper outfit for himself.
+It's the usual- a formal shirt with a stiff collar, navy blue wide-leg pants, socks with a small print on them, and nicely-polished shoes. The ensemble is topped off with a warm but tasteful jacket.
+He checks himself over in the mirror. The Primogen is all suited and ready for business. And the business he's in is now of the political kind.
+But, he cannot neglect his clinic. Being appointed as Primogen was not wholly unexpected for Dr. Collins. He had his own fair share of intrigue in the past.
+He's seen a thing or 2 and dabbled in the political side of things more times than he can count on his Tzimisce hands and feet (which, by the way, are perfectly normal, for his Clan, at least).
+His position as Tzimisce Primogen was cemented last night when the prior Primogen "disappeared." This could mean anything from being Beckoned away to being destroyed.
+Regardless of all of this, Dr. Collins is now in Galeb's position of power. There's a new Tzimisce Primogen in town and everyone has to deal with it, no matter their feelings about the whole thing.
+The bell rings, a charming, soothing chime. He opens the front door and is greeted by his Ghoul, Brock.
+Brock is a young, muscular man sporting a brown mullet. He's wearing a tight-fitting suit with a yellow button-down shirt underneath it.
+Dr. Collins looks at his Ghoul from head to toe, "Brock...going somewhere tonight?"
+Brock chuckles, "Uh...no. Not exactly. Err...I see you're awake. Sleep well, doc?"
+"Mm-hmm. Come on in. There's some things we need to talk about."
+Brock smiles and steps in to his Domitor's Haven. He takes a seat at a couch. It's very comfy and plush. He lets out a satisfied grunt.
+The good doctor sits on the opposite couch and steeples his fingers, "I've been appointed as the Primogen for the Tzimisce Clan."
+Brock nods in approval, "OK. Good for you. I know it's not my place, but Galeb was kind of an asshole."
+Dr. Collins doesn't chide his retainer for the remark, "He was, wasn't he? Heh. Anyways, Brock, we'll have to meet with the Prince and the other Primogen, make our presence known in Flimont."
+"Sure thing. What about the clinic, can you still do that alongside your new duties as Primogen?"
+Dr. Collins thoughtfully nods, "That's what I wanna make clear to the others tonight. My duty is ALWAYS to my patients, but now I have additional obligations and duties to fulfill as a member of the Court."
+"I understand. And, what do we do about Galeb? Do you have ANY idea what happened to him?"
+Dr. Collins sighs and shifts in his seat, "No clue. I've...looked everywhere I can possibly look and think of. N--Nothing."
+Brock can't help but pick up on a tinge of insincerity in his master's voice, but he doesn't push the issue. It's better for him if he doesn't get involved in broader Tzimisce Clan affairs.
+Brock speaks up, "OK, so, we'll go see the Prince, maybe some others from our Clan, and let 'em know that we're ready to play ball, right?"
+Dr. Collins dryly says, "Yeah, but I want to see a few of my patients tonight. The others will just have to wait."
+Brock shrugs, "Sure thing. And um...hey, doc?"
+"What is it?"
+Brock bites his lower lip and looks a bit nervous, "I was thinking about what we talked about..."
+"And?"
+Brock takes on a more resolute demeanor, "Yeah, yeah, I'm ready to take the next steps to become a plastic surgeon."
+Dr. Collins warmly smiles, "Good! Great, even! Y--You sure about this?"
+Brock eagerly nods, "Yeah, doc. I've always been so fascinated by the human body and I guess this whole Tzimisce Flesh-Crafting thing is kinda rubbing off on me, heh."
+Dr. Collins equably affirms, "I'm happy for you, Brock. In the 7 years that you've been with me, you've always shown me your keen interest and willingness to help. And I appreciate all of it."
+Brock's expression softens, "Aw, doc, come on. I'm just doing what I have to in exchange for eternal youth and...all the other awesome things."
+Brock smiles widely and adds, "Oh, by the way...doc. There's something I've been wanting to tell you for--for a long time now--"
+He's interrupted by the doctor's pager sharply ringing and beeping, "Excuse me." Dr. Collins takes it off his belt, checks the number, and frowns. He knows who it is and why he's paging the doc.
+The doctor rises up and heads to the landline phone.
+Wes, the receptionist at the clinic answers, "Dr. Collins, you there?" He sounds a little flustered and tense.
+"Wes. What's wrong?"
+Wes shakily answers, "Uhhhh...there's...there's this girl here and I'm pretty sure she's an addict or something, but she won't leave! We got other patients waiting for their appointment with you and she won't leave!"
+Dr. Collins grunts, "I'll be right there. Just hold her off."
+Dr. Collins can hear some muffled voices and a loud scream on the other side. The line goes dead. The doctor hangs up.
+He looks over at his Ghoul, "Well, whatever you wanted to say to me will have to wait, Brock. There's some stuff going on at the clinic that I gotta take care of."
+Brock smiles a sad and knowing smile, "Oh, I understand, doc. I get it. Go on. I'll uh...meet you there."
+"Hmph," the doctor starts to leave but stops, "This thing you had to tell me, is it important?"
+Brock exhales and shakes his head, "Nah. It's alright. We'll catch up later."
+Brock leaves his master's Haven and walks off into the evening.
+20 minutes later...
+Dr. Collins arrives at his clinic. It's a very modest facility in the inner-city area of Flimont, away from all the ritzy and high-class parts.
+The waiting room is quite small. It's got some tables with some magazines scattered on them and a few plastic chairs.
+The floor is tiled. There's an old CRT monitor and a radio playing some tunes from 1968. There's all kinds of medical-related fact sheets, charts, and posters plastered on the aging walls.
+There's an old CAT scan poster, some bite-sized information about blood clots, and some info about STDs. There's even an anti-drunk-driving poster from last century.
+This place is starting to show its age, if the barely-noticeable cracks on the walls and the creaky tiles weren't a dead giveaway already.
+Wes, the receptionist, is sitting at a desk. He's wearing a long-sleeve dress shirt with a clip-on tie.
+He's a mortal 19-year-old with a round face and messy hair. He's working for the doctor in the hopes of saving up enough money to go to a medical school somewhere in the near future.
+He doesn't know of Dr. Collins's true nature, but he looks up to the Tzimisce and hopes to follow in a similar line of work when he grows older. He admires him and sees him as a great role model.
+One of the best doctors out there. He believes that Dr. Collins can fix just about anything.
+Dr. Collins already drank from a bag of blood on the way here, so his Hunger is sated (for now, at least).
+Yumi is at the front of the clinic, her hands are shaking and she's sweating bullets. She's also looking around the place and talking to herself. She seems to be quite delirious and is mumbling things under her breath.
+Wes looks a little frightened, as do the other patients. There's an inconsolable baby wailing in his mother's arms. The rest of the patients are keeping their heads down. They're all quite nervous.
+Yumi paces around and bites her thumb, teeth chattering and body trembling. Her face is pale, her hair is disheveled, and her eyes look like they're popping out of her head. She looks like a wreck. And she sounds like one, too.
+"I--I--I just want a little Oxy, OK? You--you work for the doc, right? Can you go back to where he keeps his meds and get me a b--bottle. I want the 80 milligrams." Her voice is raspy. She sounds desperate.
+She's clutching something inside her pocket; it looks like a pill bottle. The contents are rattling around inside.
+Dr. Collins puts his cold hand on her shoulder. This causes her to flinch and shriek, "WHO THE FUCK ARE YOU? LET ME GO!" She shrieks even louder. Her cries echo throughout the clinic.
+Dr. Collins is about to try and calm her down when she hisses at him, "Hey, hey, you're the doc, right? You prescribe OxyContin, right, right?"
+Dr. Collins firmly answers, "I don't prescribe poison to my patients. I'm going to have to calmly ask you to leave. Now, alright? If you have an ailment, make an appointment and fill out the proper forms." He says this in a low, even tone of voice.
+Yumi starts to tear up. She can see that no one here wants to help her. Not even the doctor himself, "I--I--I just...I need it, man. I fucking need it. My body h--hurts when I don't take it. I'm fine when I pop a pill, doc, please--"
+She literally gets on her knees and clasps her hands together in a praying fashion. She's crying and begging now, "Please, please, please..." She sobs and whimpers.
+Dr. Collins is taken aback by this display of desperation and despair. He's seen plenty of addicts come into his clinic before, but nothing like this.
+She sobs and sobs and sobs, tears rolling down her eyes and staining the floor with their salty wetness. She continues to beg for some of the OxyContin.
+The other patients look at her with sympathy and worry. They feel sorry for her and wonder what this OxyContin stuff is.
+Dr. Collins sighs deeply, "Look, girl. I have other patients who need me. The most I can do is look you over and MAYBE, MAYBE prescribe you some Tylenol."
+Yumi's breath hitches and her voice trembles, "N--No. No, no, no, no, no, no! That's not gonna help me, doc! I--I--I need the fucking Oxy! Please!!"
+She gets up and howls at him, "I NEED THE FUCKING OXYCONTIN! I NEED IT! I NEED IT!!" She starts to shriek hysterically.
+Dr. Collins puts his hands on her shoulders, "You have to calm yourself down. Now."
+Wes shakily inquires, "S--Should I call the cops, doc?"
+Upon hearing this, Yumi bolts out of the clinic, not bothering to look back or even acknowledge the doctor's words. She runs off, her heart racing and tears rolling down her cheeks.
+She cries out and keeps running. Her head is pounding and her vision is blurring. She's getting dizzy and disoriented. She falls down and lands on some gravel.
+After a few moments, she gets up and stumbles along. She bumps into a few people walking around and disappears into the night. Dr. Collins shakes his head and goes back inside his clinic.
+Wes lets out a sigh of relief, as do a few of the patients who've been seated there for close to an hour.
+Dr. Collins apologizes to the other patients for the inconvenience, "I'm so sorry about all of that."
+A patient asks, "Is OxyContin dangerous?"
+The Stoker sighs, "It's a Schedule II narcotic. It's a whole lot more than 'dangerous'. Now, come on, let's take a look at you."
+The patient counters, "But other doctors prescribe it--"
+Dr. Collins raises his hand, "I'm not other doctors. I took an oath, as did they. But I have more respect for human life than to give you something that'll ruin it."
+Another random patient scoffs, "Yeah, right. You just want to keep us hooked on your Tylenol and cough syrup crap. Oxy's a wonder drug--"
+Dr. Collins bitterly claps back, "Wonder? Wonder?! Did you just see the girl who was here?! How does that look like 'wonder' to you?!" He's raising his voice now.
+He angrily spits, "OxyContin is poison, fucking poison!"
+The patients are all shocked and stunned into a wordless silence by the doctor's justified outburst.
+Wes looks up at the doctor with fear in his eyes. The good doctor never loses his temper like this. This is most unusual. But then again, that OxyContin-crazed girl was quite something else.
+Dr. Collins firmly declares, "I'll see you 1 at a time. Wes, send the 1st one in!"
+Wes gulps and nervously nods. He calls out a name and forces a professional smile, "Come on, sir. Let's see if we can get that nasty infection fixed up, shall we?"
+Dr. Collins heads to his office to check over his medical notes and prepare for his upcoming appointments.
+The other patients line up and the doctor takes a look at them, 1 after the other. They're mostly dealing with the usual- colds, allergies, and other common ailments.
+One of the patients has a sprained ankle. Another has a nasty rash on his stomach.
+After a few hours, Brock arrives at the clinic, after most of the commotion has died down. He's greeted by a concerned Wes, "Brock!"
+"Wesley! What's up?"
+Wes almost too-excitedly recalls the earlier events. He's wildly gesticulating and embellishing certain parts. He seems to be reliving the incident through his animated and vivid retelling of the events.
+Brock frowns, "OxyContin? Jesus."
+Dr. Collins sees the last patient off and walks over to the duo, a weary and forlorn expression on his face. He doesn't even say anything, he just stands there, arms crossed.
+Brock asks, "Doc, how come you don't prescribe that stuff?"
+"I'm in contact with this doctor in a small coal mining town in southwest Virginia and he's got a lot of--a lot of horror stories to tell about Purdue's so-called 'wonder drug'."
+Brock asks, "So, it's not legit stuff?"
+The doctor dryly answers, "It's...a lot more complicated than that, Brock."
+Wes queries, "If it's not legit, then how come others are handing it out like it's candy? Another doctor I know practically prescribes this for everything- even if it's not serious!"
+The doctor shakes his head, "It's a huge problem, Wes. It's...an epidemic..." The Flesh-Shaper has a distant and almost sad look on his face. He continues, "It's...I think it's worse than anything we've seen before."
+The young receptionist can't believe what he's hearing. How could a pharmaceutical company do such a thing?
+Brock sighs, "Yeah, well, I'll leave you guys to it. I--I gotta go to my classes now." He waves the 2 men goodbye and heads out.
+He looks over his shoulder, "Meet you later, doc?"
+"Sure, sure."
+Wes looks up at the doc, "So, how do you know Brock? Are you, like, or something?"
+Dr. Collins replies, "He's...a friend, Wesley."
+He softly mutters to himself, "The son I never had."
+Wes asks, "Hmm? What was that?"
+"Nothing, n--never mind. Get back to work. And don't worry, I'll write you a good recommendation letter when you apply to medical school."
+Wes smiles, "Thanks, doc. You're the best!"
+"Hmm. I've been doing this for a long time, kid."
+Dr. Collins was Embraced in the 1960s. He was born in the 1900s, so he was about 60-something when the fangs of his Sire pierced his throat and changed him forever.
+He served as a medic on the Western Front during the Second World War and he met Elizabeth "Lee" Miller in France back in the 40s.
+After the war, Dr. Collins returned to the USA and continued to treat people. But it wasn't long before a middling career in New York City would come to a premature end.
+He was Embraced and he became a part of a Clan of alien vampires who crafted and shaped the bodies of others (and themselves) into strange and otherworldly forms.
+Some of it, however, is downright grotesque, but Dr. Collins wants and has no part in any of the nasty excesses of his Clan.
+He quickly learned how to wield the powers of his Clan, as well as some other things. His life was completely upended, but he adjusted well enough.
+He had a short-lived stint in Magnolia City during the 1980s before reestablishing himself as a General Practitioner in Flimont City during the late 90s.
+He had to make his way in the world of the Unliving. It wasn't easy, but he eventually made a name for himself and built a decent enough reputation in Kindred Society over the decades.
+As he's in his office, reminiscing over his long and eventful life (and Unlife), there's a knock on his door, "Doc? It's me. You got a visitor."
+Dr. Collins plainly answers, "Who?"
+"Uh...it's the Purdue Pharma salesman. Again. I tried telling him you were not here, but he is--is pretty pushy."
+Dr. Collins sighs, "Let him in."
+This particular salesman from Purdue Pharma (!) is pretty pushy and has been nagging Dr. Collins for weeks on end about the supposed benefits of OxyContin.
+This man is wearing an expensive gray suit with a blue tie. He's got dark hair combed to the side and brown eyes. He has a puffy face and bags under his eyes.
+His name's Fred and he's in his 20s. He's one of Purdue Pharma's rising stars in the sales team, or so he thinks.
+"Dr. Collins!" He excitedly exclaims, "How's my favorite doctor doing tonight?"
+Dr. Collins is as dry as ever, "Fred. Here to bribe me with more useless things again, huh?"
+Fred doesn't get offended by this remark, "Aw, c'mon, doc! You know you love those pens and coffee cups. How about some free OxyContin samples, eh?"
+He pulls out a scroll pen and hands it to the vampire, "Why don't you hold onto this, hmm?"
+It's a scroll pen that touts the supposed benefit of Purdue Pharma's "miracle" drug. If Yumi was anything to go by, then everything on that scroll pen is a steaming pile of bullshit and lies.
+Dr. Collins grudgingly takes the pen, "Thanks. Now, you can leave."
+"Ahhh, ah, ah, doc! Let me tell you a little more about this awesome stuff called OxyContin!"
+Dr. Collins takes off his thin-framed glasses and scrunches the bridge of his nose, "Why do you have to be so fucking obnoxious and pushy?"
+"I--I'm not being obnoxious, doc. I'm just here to let you know all about OxyContin and--"
+Fred leans closer and lowers his voice, "--you know that patients can sue you for not prescribing them painkillers, right?"
+Dr. Collins shakes his head and retorts, "And what if I prescribe my patients a Schedule II narcotic and they turn into addicts because of it?"
+Fred counters, "But less than 1% get addicted--"
+"That's bullshit. They DO get addicted. I've seen one a few hours back."
+The salesman gets angry, "Well, it's--it's not our fault that some people choose to abuse OxyContin, is it? I mean, Flimont City has a reputation for such things."
+Dr. Collins angrily spits, "Get out of my clinic. Now."
+Fred frowns and throws his hands up, "Alright, alright. Jesus. No need to get testy. But, seriously, you're making your own patients suffer. Needlessly. And we at Purdue are more than happy to help...alleviate that suffering."
+"Like in hell you are. How are you alleviating anyone's suffering? Go on, tell me, by bribing doctors around the country with beautiful women, fine wines, paid vacations to fucking Hawaii, and pens?!"
+The salesman scowls, "You're such a fucking buzzkill, man."
+"I'm trying to keep people from dying, Fred. Damnit!"
+The young man shakes his head in derision, "They're not dying, but they will if you keep going down this road and refuse to even listen to us. I mean, think about it, doc. Just think about it."
+Dr. Collins bluntly states, "Listen here, Fred. I AM the doctor here, OK? I have years and years and YEARS of experience treating people, helping them get better, and seeing them leave my clinic with a smile on their faces."
+He continues, "Now, you're telling me that I'm supposed to write out some prescriptions for that Oxy shit because YOU and some fucking paid shills at your goddamn company say so?!"
+The doctor concludes with a scoff, "Yeah, right. Not happening, kid."
+Fred sighs, "What will change your mind, doc? Anything."
+"Don't show me a silly pen with random charts and unsourced information on it. Show me the 500-page studies, the clinical trial data, the research, and the proof behind it."
+"I--I'm not sure I have access to that kinda stuff, doc."
+Dr. Collins rolls his eyes and points to the door, "Get. Out. Of. My. Office. Now!"
+Fred rolls his eyes and leaves Dr. Collins' office, muttering under his breath.
+Dr. Collins shakes his head and goes back to work.
+Fred is just a cog in a far bigger and nastier machine. He just regurgitates whatever's been passed down to him from his superiors at the sales rep meetings.
+A new sportscar was promised to anyone in Fred's particular group of pushy salespeople who manages to get a certain amount of doctors to prescribe their "wonder drug" to their patients.
+Such perverse incentives, naturally, have resulted in a number of unscrupulous doctors across the city writing out prescription after prescription for this highly addictive drug.
+These sales reps are literally being incentivized to hook as many people as possible on this shit.
+And the Sacklers are the ones rolling in the dosh, while people like Yumi and countless others become enslaved to their opioid drug and wind up dead or worse.
+In other words, it's all pretty fucking messed up and it's being facilitated by people like Fred, who don't really know any better.
+For Fred, it's how he earns his bread and keeps a roof over his head.
+Thankfully, the Tzimisce Primogen is a man of principle and ethics and
