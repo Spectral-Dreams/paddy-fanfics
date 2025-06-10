@@ -815,7 +815,7 @@ Svetlana shakes her head and lets out a heavy sigh, "Hmm. Even I still cannot pr
 John's hand is shaking. He puts it down, and leans forward. He is visibly distressed and very upset.
 Svetlana can't blame him, "I am sorry to have told you."
 John replies, "No, no, no, not at all. It's um...good that you told me. I'm just so sorry, Svetlana. You know, when me and Abdullah found you, you were barely holding on."
-He goes on, "Your torso was bleeding and lodged with shrapnel, you had severe head trauma, and you were bleeding from the head a bit."
+He goes on, "Your torso was bleeding and lodged with shrapnel and--and glass, you had severe head trauma, and you were bleeding from a lot."
 He lets out a very shaky breath and looks at his hands. They're slightly trembling, "Abdullah was hesitant at first, heh. But, I knew we couldn't just leave you there to die. So...I Embraced you."
 Svetlana can't even begin to process what it all means. She's still trying to put her head around it.
 The world she left behind, the world she died in, is still alive and thriving in spite of all the horrors she's witnessed. It's a bitter pill to swallow.
@@ -845,7 +845,7 @@ A few others, however, hurl abusive language at her and fire her on the spot.
 "Goddamn unreliable fucking Russians! I should've known better!"
 "You know, sweet cheeks, maybe you and I can come to an alternative--"
 Svetlana cuts that call, not in the mood for creepy offers from some random man who needs to learn some manners.
-As she enters her bathroom, another power cut hits Al-Kushraf. The lights in this begin flicker on and off.
+As she enters her bathroom, another power cut hits Al-Kushraf. The lights begin flicker on and off.
 Once the power returns, she prepares to take a much needed shower. It'll wash all the stress and tension off her body and give her some time to reflect on what she has learned last night.
 She looks down at her hands and thinks back to that Mossad agent she killed a few hours prior. The SI, in all likelihood, will send people after her for that. She's on their radar now.
 They'll find her. Soon. How soon, however, remained to be seen. And that thought scares her.
@@ -911,10 +911,10 @@ Abdullah muses, "Perhaps you both did. Just...be wary of their gifts. They never
 John nods along, a serious and somber look on his face, "Mmm-hmm. Yeah, I just hope it isn't too heavy of a--of a price. So, the Setites. Yeah, I've uh...never felt entirely comfortable with them."
 Abdullah cuts in, "No one should be. Their ways are manipulative and they use lies and half-truths to their benefit. And, of course, we Assamites abhor such things."
 They talk and continue walking, enjoying the ambience of the plaza.
-Abdullah is happily doing most of the talking, but John's mind is elsewhere. It's something that Svetlana said about him being a good man. He isn't necessarily a good man.
-No, not at all.
+Abdullah is happily doing most of the talking, but John's mind is elsewhere. It's something that Svetlana said about him being a good man. He wasn't always a good man.
+It's a lot more complicated than he lets on.
 The good man is the person he became long after his Embrace. In his mortal life, he was a pretty awful man.
-Until the fangs of Fatima Ibn Rashid entered his neck and sent him into his first death, John was an average citizen in 1960s Magnolia City.
+Until the fangs of Fatima Ibn Rashid entered his neck and sent him into his first death, John was a relatively average citizen in 1960s Magnolia City.
 But, that is a story for another night.
 Elsewhere, a top-secret chat commences between 2 parties.
 OBED: "Mossad assets confirmed as KIA near Dubai Marina. Bodies intercepted en route to morgue. Witnesses neutralized. Blank body activity confirmed."
@@ -924,8 +924,8 @@ ILHC: "Has the LVNDR system yielded any results?"
 OBED: "A few, yes. I am having my people sift through them manually. Actionable intelligence should be forthcoming soon."
 ILHC: "You better hope so. Your next report better contain results. Do not let us down, Commander Gallant."
 OBED: "The blank bodies will be neutralized, b'ezrat HaShem."
-ILHC: "Did the Mossad assets utilize the CEDP kit? There is no way that 2 trained field agents could have been killed by such simplistic and savage creatures." 
-OBED: "Given all the troubling reports regarding the CEDP, I felt it would be unwise to issue such drugs to field agents, given its recent...incidents."
+ILHC: "Did the Mossad assets utilize the CEDP kit? There is no way that 2 trained field agents could have been killed by such simplistic and savage creatures."
+OBED: "Given all the troubling reports regarding the CEDP, I felt it would be unwise to issue such drugs to the newly-arrived field agents, given its recent incidents."
 ILHC: "This is unacceptable, Commander Gallant. They should not have died tonight. We have already been over this- the CEDP is 100% safe and effective, especially in combat scenarios."
 OBED: "I am sorry, but the reports keep coming in. Frequent reports of anemia and heart palpitations after using it."
 ILHC: "Commander Gallant, please listen. Discard and disregard those reports. You must continue to trust and rely on the CEDP for future missions."
@@ -933,7 +933,7 @@ OBED: "Of course. It is not my place to doubt the Israeli High Command. But, I h
 ILHC: "A bad batch, most likely. These incidents will be remedied soon. Please do not pay heed to such trivial things in the future. I would not trust the reliability of such reports."
 OBED: "Right. My most sincere apologies."
 ILHC: "Commander Gallant, you have done wonders for Israel, for us, but we worry that you are crossing lines that were never meant to be crossed."
-OBED: "Once again, I am terribly sorry about not issuing the CEDP kits to clandestine assets. I will say the Kaddish for the 2 deceased agents."
+OBED: "Once again, I am terribly sorry about not issuing the CEDP kits to the clandestine assets. I will say the Kaddish for the 2 deceased agents."
 ILHC: "Do better next time, Commander Gallant. Do not make us regret our choice of choosing you to lead a Unit as prestigious and secretive as Unit 8211."
 OBED: "I am loyal to the very end, I have no regrets. I take my duty to Am Yisrael very seriously."
 ILHC: "We know. What of the unusual event earlier in the morning? International outlets are having a field day with the man who presumably immolated himself in the early hours of the morning."
@@ -941,13 +941,13 @@ OBED: "Most unusual, indeed. Blank bodies are creatures primarily of self-preser
 ILHC: "Either way, it is one less abomination in this region. How fares the LVNDR system?"
 OBED: "Power-hungry as ever. Now that we siphon from the local power grid, it appears to be performing better."
 ILHC: "We are glad to hear that. The system is far from complete, but we have no doubt that it will assist your Unit in their righteous task."
-OBED: "Amen. I do not understand its complexities all too well, but my subordinates are quite enthusiastic about it. I find that the more enthusiastic one's people are, the less likely that they will let me down."
+OBED: "Amen. I do not understand its complexities all too well, but my subordinates are quite enthusiastic about it. I find that the more enthusiastic my people are, the less likely that they will let me down."
 ILHC: "Very much so. How do your Lieutenants fare?"
 OBED: "They are eager for action. In light of recent happenings, I think it is time to initiate a new operation primarily focused around Al-Kushraf. Do I have your permission to proceed?"
 ILHC: "Proceed. Have you decided on a name for this operation?"
 OBED: "Operation Sheva (HEB: Seven)."
 ILHC: "The Israeli High Command approves of this operation. What are the parameters and goals of this operation?"
-OBED: "Our goals are clear and simple: to locate and eliminate all blank bodies in the city of Al-Kushraf. Our targets are currently unknown, but we can find them soon enough."
+OBED: "Our goals are clear and simple: to locate and eliminate all blank bodies in the city of Al-Kushraf, UAE. Our targets are currently unknown, but we can find them soon enough."
 ILHC: "May God be with you and your entire Unit, Commander Gallant. Goodbye."
 OBED: "May HaShem continue to protect Am Yisrael from all her enemies."
 Operation 7 is now in effect. The forces of the Second Inquisition are readying themselves and their assets to make a major move against the Kindred of Al-Kushraf.
@@ -987,7 +987,7 @@ An African woman looks up from her desk and greets Edwin, "Hello, Edwin! How is 
 Edwin replies, "He is doing fine. He is currently resting now. He shall join us in the night. Will you be there, Dembe?"
 Dembe, like Edwin, hails from Uganda. She's in her late-20s, with a dark complexion and light-brown eyes.
 She has a small beauty mark on her left cheek. She has a bit of a hippy vibe about her and she dresses in loose-fitting shirts and tight jeans.
-Dembe nods, "Of course, Edwin! I will never miss what the High Priest has to say."
+Dembe nods, "Of course, Edwin! I will never miss out on what the High Priest has to say."
 She hands Edwin a small envelope, "This arrived for Mr. Seth 3 days ago, but I thought it best to wait for you to get here."
 Edwin thanks her and politely leaves the building.
 He heads to his Domitor's 2nd Haven.
@@ -1020,22 +1020,22 @@ They hope to see the High Priest later this evening and receive a fresh revelati
 Edwin smiles and waves back. He enjoys visiting this vivarium. It is a calming place, filled with beautiful, deadly, and intelligent creatures.
 He puts on some special gloves and prepares some food for the snakes. He feeds them, ensures that they are comfortable, and spends some time glossing over the many slithery and colorful reptiles that inhabit this place.
 There is something unnatural about the ways these snakes move. Even their hissing is so eerie, so uncanny.
-It is a weird place to be sure.
+It is a weird place filled with weirder creatures, to be sure.
 Edwin finally heads back to the main building. He can't help but feel that there's something...no, someone watching him.
 He whips his head around and notices, from the corner of his eye, a man in the garden.
 His eyes widen, and he whips his head around again.
 He quickly walks over to this man, a stern and angry look on his face.
-The man has a dark complexion and frizzy hair. He's wearing a loose white robes and brown sandals. Almost everyone wears something similar.
-Edwin hisses at him, "What do want now, Waleed?"
+The man has a dark complexion and frizzy hair. He's wearing a loose white robes and brown sandals. Almost everyone around the cult wears something similar.
+Edwin hisses at him, "What do you want now, Waleed?"
 Waleed looks distressed, "I--I need to make another phone call, please?"
-Edwin quickly takes Waleed to the side and angrily says, "Do you know how much trouble I will get in if my Domitor finds out that I'm helping you make phone calls to the outside world?"
+Edwin quickly takes Waleed to the side and angrily says, "Do you know how much trouble I will get in if my Domitor finds out that I'm helping you make phone calls to the outside world?! Do you?!"
 Waleed asks, "Please? It's important, I need to know. It is my son. We have been estranged for so long. I just found out that he has been diagnosed with cancer, please, Edwin."
 Edwin frowns and reluctantly nods, "Fine. M--Make it quick. I already feel like I am in too much trouble."
 Waleed steps closer and puts a hand on Edwin's shoulder, "Thank you, Edwin. Typhon will bl--bless you."
-Edwin glowers at Waleed, but he decides not to say anything about it. Instead, he hands another cellphone to Waleed and stands aside as the man quickly dials a number.
+The Ghoul glowers at Waleed, but he decides not to say anything about it. Instead, he hands another cellphone to Waleed and stands aside as the man quickly dials a number.
 It takes a while, but Waleed eventually speaks to a close friend of his, "...Is my son in the hospital? Is he, Ahmad?"
 Waleed paces around and hunches his shoulders as he continues to talk.
 He curses and his eyes widen, "They--They are? Oh, god!"
 He pauses and then nods, "Yes, yes, yes, yes. Thank you, Ahmad. Yes, I will try. It's just that I can't...not now. Yes, goodbye and please tell my son that I will visit him soon."
-He hands Edwin the phone, and profusely thanks the Ghoul, "A thousand thank yous, my friend!"
+He hands Edwin the phone, and profusely thanks the Ghoul, "A 1000 thank yous, my friend!"
 Edwin wordlessly pockets this small flip phone, curtly nods, and saunters off into the distance.
