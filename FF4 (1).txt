@@ -2156,7 +2156,7 @@ The Banu Haqim Sire and Childe say their goodbyes and part ways.
 Chapter 5: Smile
 Somewhere else in Al-Kushraf city...
 A highly-secure and encrypted chat commences between 2 parties.
-OBED: "Data-gathering operation at Palm Springs Mall, Al-Kushraf compromised. Project files for HB-sensors have been deleted by mysterious and unknown person(s)."
+OBED: "Data-gathering operation at Palm Springs Mall, Al-Kushraf compromised. Project files for HB-Sensors have been deleted by mysterious and unknown person(s)."
 ILHC: "Not good."
 OBED: "There is no doubt about that. But, there is evidence of blank body involvement. I believe that our presence here is known by our enemies."
 ILHC: "Chatter is abuzz about blank bodies being driven from Dubai. There is nothing that indicates our involvement in such an operation."
@@ -2190,8 +2190,7 @@ An empty void characterizes the slumber of the day, a place of nothingness and v
 If dreams and visions do ever occur during the day-sleep, they are mere echoes and figments of such.
 And just as the sun must rise, so too, it must set. When that great fiery ball has sunk beneath the tall buildings of this city, the Kindred begin to stir and awaken.
 The night is their time, and they thrive in it. It is when they come "alive", when the stars begin to shine, when the shadows become dark, and when the moon illuminates the earth.
-Svetlana stirs in her day-slumber, tossing and turning, but not wholly awake yet.
-She sees...that little child's face.
+Svetlana stirs in her day-slumber, tossing and turning, but not wholly awake yet. She sees...that little child's face.
 Again.
 Then, that innocent face is overtaken and consumed by a great fiery inferno, leaving nothing but ashes.
 And the poor little girl is gone.
@@ -2233,7 +2232,7 @@ A smile dances on the Assamite's pale face.
 She feels a rumbling within her. Her Beast demands that its eternal Hunger is sated. NOW.
 Svetlana mumbles to herself and prepares to leave her Haven. She steps out and locks the door.
 Svetlana walks down the streets of Al-Kushraf. She keeps her head down as she walks, trying not to draw attention to herself.
-Her green eyes dart around and licks her lips, sizing up a few potential meals for tonight.
+Her green eyes dart around and she licks her lips, sizing up a few potential meals for tonight.
 Her gaze finally lands on a lone man. He's tall and wearing a sharp blue suit, probably heading to a bar or a club.
 He looks twitchy but otherwise harmless.
 She stalks the man down like a predator stalking its prey. She quietly approaches him from behind and looks him over.
@@ -2252,17 +2251,15 @@ The man slumps down and lies against the wall. His eyes are half-open and glazed
 The Assamite checks his pulse and makes sure he's still alive.
 He is. Svetlana presses her lips into a thin line and hurries along without saying anything to him.
 This is her reality now.
-She makes her way to her destination.
+From there, she makes her way to her destination.
 It's a pretty snazzy-looking photo studio in the heart of the city's central district.
-Mohaimen Studio is near a number of other famous photo studios and fashion houses.
-It's a huge building, with a lot of windows and a really big front door.
+Mohaimen Studio is near a number of other famous photo studios and fashion houses. It's a huge building, with a lot of windows and a really big front door.
 There's a massive digital display out front, looping between many different models showing off various outfits and poses.
 A few people are milling about, but no one seems to be inside yet.
 The Assamite looks at everything in awe, jaw hanging open.
-A woman in a fancy red and white blazer and pencil skirt opens the door.
-She speaks with a few other people and nods along, exchanging giggles and handshakes.
+A woman in a fancy red and white blazer and pencil skirt opens the door. She speaks with a few other people and nods along, exchanging giggles and handshakes.
 Well, this has to be it.
-Svetlana walks inside and is greeted by a large, spacious waiting area. There are several couches, a few chairs, a coffee table, and a counter with a few magazines stacked upon it.
+Svetlana walks inside and is greeted by a large, spacious waiting area. There are several couches, a few chairs, a coffee table, and a counter with an assortment of magazines stacked upon it.
 The Toreador Primogen, Sebastian, walks out of a door, carrying a few large camera bags.
 He beams at Svetlana and nods, "Ah, Svetlana! Good to see you! You came! How's your night going so far?"
 The Assamite smiles back, "I am having good night, Sebastian. What about you?" She notices the camera bags he's carrying.
@@ -2282,11 +2279,10 @@ Svetlana nods and thanks the Toreador, "I will give it my best."
 Sebastian chuckles, "You better. Anyway, I um...I gotta take care of some last-minute stuff. It's gonna be a big night, so just relax and hang out here, OK?"
 "Da. OK."
 He walks towards the other room, "Great! You're a sweetheart and an angel! Thanks, Svetlana!"
-She looks around the waiting area.
-Many women are idly lolling about, leaning against the walls, or chatting it up.
+She looks around the waiting area. Many women are idly lolling about, leaning against the walls, or chatting it up.
 There's also a few men, but most of them here are women, most likely looking to make a bit of extra cash on the side.
 (This city is pretty fucking expensive to live in!)
-She takes a seat in one of the empty couches and pulls out her phone, her new, fancy iPhone.
+She takes a seat in one of the empty couches and pulls out her phone- her new, fancy iPhone.
 (Not to mention, free).
 She unlocks it and stares at the screen for a few seconds. She's still adjusting to the UI and the way it works, but she's a fast learner, so it's not that much of a problem.
 It's only been a few hours since she got her hands on this phone, but it's been pretty useful so far.
@@ -2321,7 +2317,7 @@ Svetlana breaks it, "What is your name?"
 "Svetlana."
 Lindsay leans in a little closer and asks, "So, ya think you've got what it takes to make it as a model?"
 "Da. I was invited here by...Sebastian. You know him?"
-Lindsay in genuinely surprised by her question, "OF COURSE WE DO! Everyone around here does! Seb's like--like this visionary fashion designer. He really pushes the limits, y'know?"
+Lindsay is genuinely surprised by her question, "OF COURSE WE DO! Everyone around here does! Seb's like--like this visionary fashion designer. He really pushes the limits, y'know?"
 "Oh. I did not know that. I met him...at meeting and he told me that I have potential."
 Lindsay nods, "Yeah, yeah, sure. I bet he did."
 Svetlana furrows her brow, "Why do you say that?"
@@ -2345,16 +2341,16 @@ Svetlana skims over the contents and is surprised that she doesn't really have m
 Just first and last name, current address, age, sex, occupation, and other such personal data.
 It also has an entire section for "Model ID" which seems to be just for the Agency's own records and database.
 It clearly reads: "DO NOT FILL. FOR AGENCY USE ONLY."
-Svetlana shrugs and clicks the pen shut after she writes down what she's supposed to write. It doesn't take long. She then waits patiently for her turn. 
+Svetlana shrugs and clicks the pen shut after she writes down what she's supposed to write. It doesn't take long. She then waits patiently for her turn.
 While waiting, she scrolls around on her new phone, reading news articles on the local scene and such.
 The reports of those 2 dead Hunters are nowhere to found, surprisingly.
 Lindsay comes back and looks around, a harried look on her face.
 Svetlana looks up at her, "What is wrong?"
-Lindsay grabs her purse and curses under her breath, "My...work. I gotta go, like, right now. Fuck! I--It was nice meeting you, Svetlana. And, y'know, good luck with this, remember me if you do make it big, huh? Catch you later!" She waves goodbye.
+Lindsay grabs her purse and curses under her breath, "My...work. I gotta go, like, right now. Fuck! I--It was nice meeting you, Svetlana. And, y'know, good luck with this. Remember me if you do make it big, huh? Catch you later!" She waves goodbye.
 "Uh...da, sure! Have good night!" the Assamite calls back as the other woman quickly exits the waiting room.
 The woman from earlier comes and points a remote at the bulky, white air-conditioners mounted on the ceiling.
-She presses a few buttons and frowns when the air conditioning system doesn't respond.
-Svetlana watches her press more buttons. Nothing.
+She presses a few buttons and frowns when the air conditioning system doesn't respond. Svetlana watches her press more buttons.
+Nothing.
 The woman bangs the remote a few times with the heel of her hand and grunts, "Aaaaah! God damnit, why can't one fucking thing go my--my way for tonight!?"
 After hitting the remote control some more, she turns it around and fiddles with it, probably looking to see if the batteries need changing or if the remote control's just faulty. She finds nothing of note.
 She finally breathes a sigh of relief when the AC responds. She chuckles to herself and sets the remote on the counter.
@@ -2373,7 +2369,7 @@ What if she bungles the whole thing? What if she messes up her makeup? What if s
 What if...what if...what if? Her mind races with all these questions and more.
 Svetlana hears another worried woman ask, "Does--does this make me look fat? I know Seb can be pretty picky when it comes to his models, I don't wanna risk it."
 Another woman rolls her eyes, "I think you look fine, darling. It's just a photoshoot. If you don't get it, you don't get it. There's plenty of other opportunities."
-"Yeah, but this is Sebastian we're talking about! He--he's one of the up-and-coming names in the business! And he personally invited me here. I just...I can't screw this up!" the woman nervously rubs her hands.
+"Yeah, but this is SEBASTIAN we're talking about! He--he's one of the up-and-coming names in the business! And he personally invited me here. I just...I can't screw this up!" the woman nervously rubs her hands.
 Svetlana looks down at the carpeted floor and sighs.
 Just then, a tall woman in her 30s with dark-brown skin, voluminous afro hair, and an elegant above-knee-length sequins dress, steps into the waiting room.
 All eyes fall on her, some mumble and mutter a few words to each other.
@@ -2381,10 +2377,10 @@ The tall woman looks visibly nervous. She briskly walks over to the empty seat n
 She sits down and whispers, "Hello."
 Her accent has a subtle French touch that is almost unnoticeable, unless someone listens very, very closely.
 Svetlana responds, "Hi." She turns to her right and sees the woman sitting next to her.
-She's quite tall, with elegant legs, wide hips, thick lips, trimmed eyebrows, and immaculately applied makeup.
+She's quite tall, with elegant legs, wide hips, thick lips, trimmed eyebrows, and immaculately-applied makeup.
 "I am...Camille," the other woman quietly introduces herself.
 Svetlana extends her hand, "I am Svetlana."
-Marie gently shakes Svetlana's hand, "You are...also here for photoshoot, non (FR: no)?"
+Camille gently shakes Svetlana's hand, "You are...also here for photoshoot, non (FR: no)?"
 "Da."
 Camille nods and pulls out her phone from her small clutch bag, "I...uh...I--" She struggles to find the words to say.
 The Banu Haqim patiently waits for Camille to find the words she wants to say.
@@ -2422,7 +2418,7 @@ Svetlana stifles a giggle as her eyes widen in surprise. The 2 people are too bu
 She quietly shuts the door and leaves the horny duo to their own kissy-kissy devices.
 Svetlana returns to her seat and sits down next to Camille.
 "Hello."
-Camille nervously smiles, "Hi! Haha, where did you go?"
+Camille nervously smiles, "Hi! Where did you go?"
 Svetlana shrugs, "To bathroom. To...check that everything is all good with me."
 Camille laughs, "You mean, like, how you look?"
 "Da."
@@ -2453,8 +2449,7 @@ The very pissed off and incensed Banu Haqim gives him a tight slap on his face.
 Everyone around the waiting room gasps in surprise at what happened.
 Sebastian grunts in pain, holding his cheek, "YOW! WHAT THE--!?"
 Svetlana says nothing and leaves, pushing aside a shocked Sebastian, who's still holding his cheek.
-She storms out of the studio and into the dark streets of Al-Kushraf.
-She takes a few deep breaths to calm herself down.
+She storms out of the studio and into the dark streets of Al-Kushraf. She takes a few deep breaths to calm herself down.
 You can't talk to people like that and expect to get away with it. Sebastian learned that the hard way tonight, but this racist outburst of his isn't new, nor is it a secret amongst the Kindred, or his Clan.
 The ease with which he uttered that particular slur makes it seem like it's something that he uses often. The Aesthete probably doesn't even give it much thought.
 He probably thinks he's being "hip" or some daft shit like that.
@@ -2466,7 +2461,8 @@ There's a Lasombra by the name of Titus of Tenebris Legal who helps Seb bury any
 The only thing that the Toreador Primogen and the Lasombra lawyer agree on is that people (mortals, mainly) are trash and should be thrown away when they are no longer of any use.
 Back inside, the muttering has ceased and a tense and foreboding silence hangs in the air. Everyone is quiet, unsure of how to proceed.
 What should they do?
-Should they just sit there and wait? Should they leave? Should they speak up? Or...should they do something else?
+Should they just sit there and wait? Should they leave? Should they speak up?
+Or...should they do something else?
 Sebastian heaves with rage and and barks at everyone present, "WHAT THE FUCK ARE YOU ALL LOOKING AT, HUH?! WE'LL CALL YOU WHEN WE'RE READY! JUST WAIT HERE!"
 He goes to the bathroom and angrily looks in the mirror. He sees a reddening mark on his pale face where Svetlana slapped him. He rubs it, but it's not going away anytime soon. His cheek stings.
 He washes his hands a few times, thinking that he's gonna catch something from Camille. He splashes water on his face, trying to calm himself down.
@@ -2501,8 +2497,8 @@ Svetlana seethes with rage and disgust at that remark. She turns around and give
 Camille starts bawling again, sobbing uncontrollably. Svetlana tries to calm her down, but it's useless.
 She feels bad for her and hates to see her new friend in such a sorry and broken state.
 After walking for a few blocks, the duo enter a small café.
-This café has red and white checkerboard flooring, smells of fried food waft through the heavy night air. There are a bunch of mismatched chairs and tables.
-It's a quaint, little place, tucked away in the corner of the city's central district. It's not fancy, nor is it super hip and trendy, but it's got its charm.
+This café has red and white checkerboard flooring, smells of fried food wafting through the heavy night air. There are a bunch of mismatched chairs and tables.
+It's a quaint little place, tucked away in the corner of the city's central district. It's not fancy, nor is it super hip and trendy, but it's got its charm.
 In a way, it seems to resemble an average American diner, judging by the decorations and décor inside.
 The only person inside is the owner, a middle-aged man with a receding hairline and a handlebar mustache. He's fair-skinned and clad in a messy thawb and a stained apron.
 He smiles and awkwardly greets the duo, "Howdy...pardners. Please, please, take a seat. Uncle Sam will be with you beauties shortly."
@@ -2530,8 +2526,7 @@ Svetlana politely declines, "Nyet. Is OK. You enjoy."
 Camille nods and goes back to clearing out her plate. She stops to take a few sips out of her tall glass of strawberry milkshake.
 After a few moments, she finishes her meal and pays for it.
 It all comes up to 23 dirhams. Not bad!
-The Banu Haqim stands up and they both leave the diner.
-They walk around the city for a little while, just taking in the sights and sounds of Al-Kushraf.
+The Banu Haqim stands up and they both leave the diner. They walk around the city for a little while, just taking in the sights and sounds of Al-Kushraf.
 Camille's demeanor has noticeably changed since then, she seems a lot more relaxed and happier now. She even smiles every now and then, which is nice to see.
 They both eventually arrive at Camille's apartment building.
 It's a long and dark-gray structure that stretches far across the entire block, with a few balconies and such.
@@ -2596,7 +2591,7 @@ The Caitiff racecar driver known as N0S4A2 maintains their stance, not moving or
 There's a faint sense of mystery and foreboding reflected on the helmet's surface, something that makes the spectators' blood rush.
 There are some scattered murmurs in the crowd, but for the most part, they stay quiet and let the racer be.
 A skinny dude jumps over the fence and lunges towards N0S4A2, trying to get their helmet off and unveil their secret identity to everyone.
-N0S4A2 is quick to grab that guy's arm. They viciously twist it, causing a sickening and audible crack to emanate. The guy cries out in agony as he gets shoved into the fence by his broken arm, which is now at a weird angle.
+N0S4A2 is quick to grab that derpy guy's arm. They viciously twist it, causing a sickening and audible crack to emanate. The guy cries out in agony as he gets shoved into the fence by his broken arm, which is now at a weird angle.
 He starts screaming for help, but N0S4A2 goes back in their car and slams the door shut.
 There's a 100,000 dirhams reward for anyone who can unveil the Caitiff's identity, and they know that.
 There's been attempts to unmask them for a very long time now, and this isn't the 1st time something like this has happened.
@@ -2610,7 +2605,7 @@ The audience roars, "N0S4A2!" over and over as their favorite driver breezes pas
 A blue Porsche overtakes N0S4A2's IROC-Z.
 N0S4A2 veers away from them and spins out for a few moments before getting back in the groove.
 They keep speeding up, and eventually, their opponent's blue Porsche starts to lag behind, their tires screeching across the track.
-The race comes down to N0S4A2 vs 5 others, all of which are driving a bunch of fast and powerful vehicles.
+The race comes down to N0S4A2 versus a few others, all of whom are driving a bunch of fast and powerful vehicles.
 It's an even race, with each vehicle being equally fast and equally impressive in terms of both horsepower and handling.
 Those who are lagging behind make the decision to activate their NOS, temporarily giving themselves a massive power and speed boost, allowing them to reach even higher speeds and make much better time than normal.
 John watches from a distance with a certain awe, but the sudden burst of speed and the intense light produced by the NOS results in a nasty crash.
@@ -2625,20 +2620,20 @@ Once again, the crowd goes absolutely wild with excitement, "N0S4A2! N0S4A2! N0S
 N0S4A2 skids to a stop and waits for everyone to arrive, their engine revving and making all kinds of interesting sounds as they patiently wait.
 Swarms of enthusiastic people descend on the track. Cameras are everywhere as they film N0S4A2's arrival. People excitedly jump the fence, and they all try to get a glimpse of their favorite driver.
 The Caitiff sits in their car, still and calm, unmoving and unaffected by all the ruckus that's going on outside.
-Their visor reflects the frenetic chaos that is unfolding in front of them, with people fighting for a glimpse of N0S4A2 as if they are a rock star or an actor or some such.
+Their visor reflects the frenetic chaos that is unfolding in front of them, with people fighting for a glimpse of N0S4A2 as if they are a famous rock star or an actor or some such.
 People incessantly bang on the window of the IROC-Z, shouting for the Caitiff to get out and give them an autograph.
 After a few seconds, N0S4A2 revs their engine and honks their horn to get the attention of the crowd, who slowly disperse.
 A couple of police sirens are blaring in the distance as N0S4A2 exits their IROC-Z, and a hush falls over the crowd.
 "Yalla! Yalla! (AR: Go! Go!) The police are here!"
 A group of fancy-schmancy police cars speedily drive onto the scene. They quickly get out, and, just as quickly, the crowd starts to scatter, everyone dispersing in the opposite direction, as far away from the police as they can.
 John quickly walks to his car and gets in, hoping he can follow the elusive Caitiff without drawing too much attention to himself. He doesn't want the police to notice him and potentially cause him some trouble.
-A couple of police officers begin rounding up people who are still here and dragging them to the waiting cop cars.
+A couple of police officers begin rounding up people who are still here, and dragging them to the waiting cop cars.
 John is out of dodge and a couple of feet behind his mysterious target. He looks on with interest as he sees N0S4A2 effortlessly blend into the chaos.
 It's amazing to him how they are able to move and slip between the cracks without causing so much as a single distraction.
 John gulps and keeps a safe distance, hoping to at least find something out about this driver that would make their identity clearer.
 Maybe even make the mysterious Caitiff trip up and reveal their true nature.
 The way N0S4A2 twisted that guy's arm and shoved him into the fence is still fresh on his mind. John shudders at the memory. It was like nothing he had ever seen.
-He never witnessed someone do such a thing without flinching or stopping. That definitely confirms that N0S4A2 is Kindred, only a vampire's innate preternatural strength could do that.
+He never witnessed someone do such a thing without flinching or stopping. That definitely confirms that N0S4A2 is Kindred; only a vampire's innate preternatural strength could do that.
 The Assamite takes note of N0S4A2's physical appearance (as best as he can) as they swiftly make their way down the dark and desolate roads of this vast metropolis.
 The IROC-Z comes to a sudden stop and N0S4A2 gets out of their vehicle.
 John slams the brakes, tires screeching to a stop.
@@ -2658,7 +2653,7 @@ He quickly adds, "But, people are looking for you, buddy! Powerful people! You c
 N0S4A2's voice is so muffled and distorted by their helmet that John can barely make out what they are saying. It's almost like hearing someone speak through a wall or something.
 John frowns, "You'll what?"
 N0S4A2 wordlessly gets back in their car and drives away.
-John shakily laughs to himself, "Well, I got 'em to speak, but why are they so protective about their identity? It's not like the Caitiff have a reputation to protect or anything like that."
+John shakily laughs to himself, "Well, I got 'em to speak, but why are they so protective about their identity? It's not like the Caitiff in this city have a reputation to protect or anything like that."
 He stands up, feeling confused. Who the hell are they? What do they have to hide?
 Why all the cloak-and-dagger stuff, anyway?
 John shrugs these questions off as he rolls a shoulder and gets in his car, "Eh, I did what I came here to do. Seth just has to understand that there are some mysteries in this city that aren't worth investigating, or solving, or whatever."
@@ -2704,7 +2699,7 @@ ILHC: "Impossible. The drugs use all-natural ingredients and should be having an
 OBED: "This is what I thought, too. But I had my people go to the infirmary for some routine tests. The medical staff said the drugs aren't even registering in their bloodstream."
 ILHC: "Disregard. It was, in all likelihood, a bad batch. Continual usage of the CEDP is necessary, Commander."
 OBED: "I've heard the same rumors from the rest of the Unit, and I've also had my people undergo the usual tests. Same result. There are no traces of the drugs, at all."
-ILHC: "The Combat-Enhancing Drug Protocol is confirmed to 100% safe with 0.00001% risk of side effects. This is standard protocol, and you are to continue its usage, Commander Gallant. That is an order."
+ILHC: "The Combat-Enhancing Drug Protocol is confirmed to be 100% safe with 0.00001% risk of side effects. This is standard protocol, and you are to continue its usage, Commander Gallant. That is an order."
 OBED: "Understood. But I will keep you updated on this. Something is clearly amiss."
 ILHC: "Nothing is amiss. These worries of yours are misplaced. The CEDP is working perfectly and as intended."
 OBED: "Alright. I'll take your word for it."
