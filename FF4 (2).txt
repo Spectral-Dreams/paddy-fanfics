@@ -1196,11 +1196,11 @@ John fills her in on what happened earlier tonight. He explains how he was able 
 She stands there and lets her Sire go on, "I--I had no other choice, Svetlana. I had to kill 'em. I'm sure you understand."
 Svetlana nods, "Da, I understand. What are we to do now, John?"
 John inhales sharply, "I...as I said, we'll need to rally whoever's left, get some extra support, and take the fight to these fascist bastards. There really aren't any other choices, heh."
-Despite being rather tired, Svetlana solemnly promises, "I am ready, John. We will fight them together. We will Judge them all."
+Despite being rather tired, Svetlana solemnly promises, "I am ready, John. We will fight them together. We will Judge them all." There is determination in her tone.
 John squeezes her shoulder tightly, "Yes, yes, we will. I'm glad you're on board. We'll need all the help we can get. There's not many of us left in this city. After Dubai, I can't exactly blame the others for leaving."
 Svetlana clicks her tongue in frustration, "Hmph, they should not have left us like this. But, I will stay and fight. For you, John. For our Clan. For the Blade."
 John smiles and hugs his Childe tightly, "Thank you, Svetlana."
-He breaks away and tells her, "I have to be extra cautious from now on. Don't text or call unless it's absolutely urgent. Also, if you have to, use your Obfuscate Discipline to avoid being seen by cameras and shit like that."
+He breaks away and tells her, "I have to be extra cautious from now on. Don't text or call unless it's ABSOLUTELY urgent. Also, if you have to, use your Obfuscate Discipline to avoid being seen by cameras and shit like that."
 He adds in, "Kinda wish I had Obfuscate instead of Celerity right about now, heh."
 Svetlana nods, "Da, I will be careful. You should go now- sun will be up soon."
 John presses his lips into a thin line, nods, and leaves. He looks at her apartment door for a few seconds and then walks away.
@@ -1230,10 +1230,10 @@ ILHC: "Commander Gallant. SITREP?"
 OBED: "4 rookie operators confirmed KIA. They were sent to apprehend the blank body by the name of John Suarez for interrogation. Lieutenant Hilda Klein wanted a live one for interrogation purposes."
 ILHC: "Not good. First, you lose 2 Mossad assets in Dubai. Now, 4 good men and women are dead. Were these rookies on the Combat-Enhancing Drug Protocol regimen?"
 OBED: "They had only begun to utilize it. As such, the effects on the body were not as pronounced as they could have been. This is my fault. I take full responsibility for this."
-ILHC: "That's very noble of you, Commander Gallant. However, it does not change the fact that we lost a lot of good people tonight. Have you at least recovered the bodies."
+ILHC: "That's very noble of you, Commander Gallant. However, it does not change the fact that we lost a lot of good people tonight. Have you at least recovered the bodies?"
 OBED: "Negative. The blank body used a nearby payphone to call the police. The bodies are currently in the city morgue, but authorities remain reluctant to investigate the matter as far as intel indicates."
 ILHC: "You'll need to make arrangements to retrieve those bodies ASAP. The last thing we need is for the media or any other malicious actor to get a hold of this story and run with it. It would cause an international fallout."
-OBED: "I know that. I've already dispatched Lt. Klein and a team to retrieve the bodies. Maximum use of force authorized. I will also make sure to send a message to the local authorities that they are not to investigate this matter any further."
+OBED: "I know that. I've already dispatched Lt. Klein and a team to retrieve the bodies. Maximum use of force authorized. I will also make sure to send a subtle message to the local authorities that they are not to investigate this matter any further."
 ILHC: "Very good, Commander. At least your crisis management skills are commendable. And what of the blank body? Any luck tracking him?"
 OBED: "Not very much, no. He knows we're on to him. I have the LVNDR system prioritizing the search for him, but he's been off the grid for hours now. We don't even know if he's still in this city."
 ILHC: "Blank bodies are creatures of habit, Commander Gallant. Unless they have extraordinary resources at their disposal, they will seek out that which is safe and familiar. No, he is still in the city."
@@ -1261,9 +1261,122 @@ In addition to all this, he is also fluent in Hindi, English, Hebrew, and a bit 
 He is also a semi-devout fella who prays when required. He keeps a kippah on his balding head at all times and observes the Sabbath, unless it's an emergency (or if he doesn't feel like it).
 Under his command are 4 Lieutenants. Equally depraved, violent, and ruthless, they each oversee a specific aspect of the Unit's operations.
 Lt. Maximillian Veifer oversees the Unit's digital operations and has extensive experience with explosives; he bares the most responsibility for planting and setting off the bombs at the Al-Jamal Residential Tower in Dubai 5 years ago.
-He had a glowing career in the Shin Bet, essentially baiting and goading people into saying things that would be considered subversive or anti-state. He was then transferred to Unit 8211 on the recommendation of a colleague.
+He had a glowing career in the Shin Bet, essentially working as a provocateur baiting and goading people into saying things that would be considered subversive or anti-state. He was then transferred to Unit 8211 on the recommendation of a colleague.
 Lt. Hilda Klein is the field leader. She dispatches, leads, and commands the various teams on the ground. She is known to be ruthless and efficient in her work.
 She's been involved in numerous raids and operations throughout the years. Seemingly bored with her desk job at the IDF, she requested a transfer to the Occupied West Bank, in an effort to inject some "excitement" to her life.
 When there, she earned the moniker: "Raider of Ramallah." She kidnapped and disappeared innocent people and even destroyed a few Kindred (Tzimisce, mainly) in and around the West Bank.
-As a macabre display of her strength, she wears the fangs of the vampires she personally destroyed around her neck as a necklace. It's as grotesque as it looks.
+As a macabre display of her strength, she wears the extracted fangs of the vampires she personally destroyed around her neck as a necklace. It's as grotesque as it looks.
 She was then transferred to Unit 8211 after a superior officer recommended her for the position. Her main role is to make sure that everything goes according to plan when on the field.
+Next up on this rogues' gallery is Lt. Shem Davidai. He's the head of counter-intelligence operations at Unit 8211. He is responsible for keeping tabs on the Unit's enemies, both human and otherwise. He's also the resident tech expert.
+He is also responsible for hacking into the phones, computers, or other devices of the Unit's targets and finding out whatever he can about them. Using proprietary spyware that's decades ahead of any nasty thing on the market, Lt. Davidai can get the information he needs.
+Last (certainly not least) is Lt. Liora Raz. She specializes in PSYOPS, disinformation, media manipulation, etc. She's also the Unit's "face" as she is the one usually tasked with talking to the higher-ups and spinning the Unit's actions, justifying them in their eyes.
+She's a skilled propagandist (basically a liar) and Commander Obed recognizes this and utilizes her hyperbole and lies to the best of his ability.
+In time, the Blade will Judge all of them. For now, however, these scum go about their duties- hacking, spying, and murdering their way through the city.
+Chapter 12: Escalation- Part 1
+Before sunrise, Lt. Klein and a small team raided the city morgue. In predictable Israeli fashion, they violently shot their way through, killing about a dozen medical examiners and morgue workers.
+Once they were done, the bodies of the 4 goons were quickly loaded onto the back of a nondescript truck and then driven away.
+The retrieval op was cold, deadly, merciless, and efficient. The Emirati authorities were quick to sweep everything under the rug. All they know is that the assailants wore heavy tactical gear, concealed their faces with balaclavas, and carried some serious firepower.
+To throw the authorities off their scent, Lt. Klein also ordered the team to grab a few other random bodies. 1 of those bodies happened to be the poor woman that Gallagher beat into a coma.
+After succumbing to her wounds, her body was sent to the city morgue for an autopsy. It's now been retrieved and is on the truck, too. A few hours later, the truck is in a secret facility.
+A few low-level thugs dump the unneeded bodies into a mass grave, but they keep the ones belonging to the 4 Unit 8211 agents. These are taken to another part of the facility and wrapped in body bags.
+Their belongings, such as their clothes, etc. are stored away for now.
+These items will be given to their respective families or close friends. The 4 agents were young, single, and stained with innocent blood from Israel's most recent incursion into Gaza.
+As the sun rises, the city is bathed in this warm light. The mortals awaken and get ready for another day of hard work. The streets are buzzing with activity. The buses are full, people are walking around, going about their usual routines.
+Later that night, at a swanky hotel...
+Seth called the Primogen Council to a hotel in the northern part of the city. They are all seated around a large table. He stands up, "Good evening, everyone."
+He is met with silence. After a few seconds, the Malkavian Primogen, Absalom, nods in his direction, "Good evening, High Priest." His blue eyes are as cold and intense as ever.
+The room is dimly-lit, in accordance with Setite needs. Mr. Bean sits next to Absalom and fidgets with the end of his cheap blazer. His expression remains impassive. He's not sure what's going on.
+The Toreador Primogen, Sebastian, and the Nosferatu Primogen, Tommy, sit next to each other. Tommy glowers at Sebastian through his mosaic-patterned porcelain mask.
+Sebastian grimaces and moves his chair a few inches away.
+Tommy shakes his head and mutters something under his breath.
+Mark, the Ventrue Primogen sits next to Absalom and raises his hand, "Seth?"
+Seth gestures for him to continue, "Yes, Mark?"
+The Ventrue Primogen states, "This meeting is for Primogen only, right? What are the...others doing here? And why aren't we at Elysium? This place doesn't have that uh...pizzazz."
+The Banu Haqim Primogen, Vizier Mohammed, straightens up. He whispers something to the woman next to him. Ms. Kawasaki wears a permanent scowl on her face. She's twitchy and looks around, like she's gonna get jumped at any moment.
+Vizier Mohammed tries to calm her down. She grunts and goes back to her silent staring contest with the floor.
+The Harpy, Paul, of Clan Toreador is also present. He's seated right next to Ms. Kawasaki. He looks at her and smiles, but she doesn't react in the slightest.
+Seth clears his throat, "You have a point, Mark, but this isn't Elysium, so it's fine."
+Sebastian asks, "So, what the hell did you gather us here for, huh?"
+Seth doesn't waste time and begins, "Our enemies are on to us. Last night, John Suarez, who I'm sure you're all familiar with, was attacked by 4 Second Inquisition operatives."
+Gasps (some louder than others) are heard.
+Mark's the first to ask, "Wait, what? How? Are we sure?"
+Absalom plainly responds, "The Second Inquisition is always a concern. Their reach is long. It was only a matter of time before they found us here."
+Tommy's Scottish accent gets thicker when he states, "Fuckin' wallopers, the whole lot of them. Aye, they're everywhere, ain't they?"
+Seth calmly adds, "Indeed, the SI is a problem, but one we can handle. I'm confident about it."
+Vizier Mohammed speaks up, "You are sure it was them, yes? Perhaps it was--"
+Seth holds a finger up, "Yes, I am sure it was them. I don't see why Mr. Suarez would lie--"
+Ms. Kawasaki cuts in, "Those fucking Blade fanatics...you can't just take their word for it!" Her teeth are gritted and her expression remains tense.
+Absalom turns to her and says, "You would be wise to watch your speech, Assassin." His eyes burrow into her very being.
+Ms. Kawasaki scoffs and turns her head aside. She sarcastically says, "I...apologize."
+Vizier Mohammed squeezes her shoulder and whispers to her, "Ms. Kawasaki, please. You are embarrassing me."
+He looks at Seth and prods, "Have you been able to confirm the veracity of John's allegations? I know we are of the same Clan, but I have always found those of the Blade to be rather...unpredictable and prone to volatility."
+Seth's eyes narrow, "No, no, I personally haven't had a chance to confirm his story yet. But something interesting happened early in the morning."
+Mark pipes in, "Why haven't you confirmed the story, Seth?"
+Sebastian cuts in, "Yeah! After what that Slavic bitch did to me, I don't trust a single fucking one of these Assamite assholes."
+Vizier Mohammed takes offence, "Mr. Gorsky! The Blade of Haqim is but a small faction of our great Clan! We are not all the same, nor are we agree with their teachings. Please, have a little understanding."
+Ms. Kawasaki snickers.
+The Toreador Primogen waves his hand dismissively, "Whatever. Point is: I don't like crazies running around our city. Conversely, I don't like the prospect of SI agents running around, either. That's bad for business, especially mine."
+Ms. Kawasaki rolls her eyes and shakes her head, "Pfft. You fucking fashion weirdos."
+Vizier Mohammed shoots his charge a stern look. She folds her arms and sinks back into her chair.
+Mark clears his throat and says, "What happened in the morning, Seth? Was it related to last night?"
+The Typhonist High Priest nods, "Possibly. A few bodies were stolen from the city morgue. About a dozen people were killed, too."
+Tommy exclaims, "Fuckin' 'ell! Do we know who did it?"
+Seth shakes his head, "We do not. My...people are currently trying to find out more. But, it is most likely the Second Inquisition retrieving their people's bodies. Gotta give 'em points for dedication to the cause, heh."
+Paul speaks up, "Well...they seem to know what we are. How's John doing, by the way?"
+Ms. Kawasaki scoffs, "Who cares about that little--"
+Seth interjects, "He's doing fine, actually. A bit shaken up, but not quite stirred yet."
+The Toreador Primogen blandly inquires, "And what about that Slavic bimbo bitch? She still kicking?"
+Seth narrows his eyes, "Yes, Sebastian. She's fine." His amber eyes linger on the Toreador Primogen for a few moments.
+Absalom leans forward, "What is this, then? You gathered us here for a purpose, High Priest. What is it?"
+Seth responds with a question of his own, "Ah, Absalom. Have you uh...seen anything in regards to the SI? As I understand, you had an intense vision right before the Hu--SI drove you and the others out of Dubai, yes?"
+The Malkavian Elder sighs deeply. He rolls his broad shoulders and lowers his head. His piercing blue eyes look away from everyone.
+Mr. Bean, who has been silent for the whole duration, looks at him with a raised eyebrow.
+Absalom takes a moment to collect himself, then replies, "There was a vision...yes. But, by the time we could do anything about it, it was already too late. I fled to this city, whilst others fled to Abu Dhabi or elsewhere."
+Seth queries, "Just out of curiosity, in your vision, did you ever get a good look at the um...faces of the people who came to Dubai and caused all the damage?"
+The Malkavian Elder shakes his head and rubs his tired face, "No, no. All I saw were flashes of fire, explosions, gunfire, and blood. I also saw many doves flying into walls with the force of bullets."
+He looks around the room, "I saw a black cloud, or some kind of fog. It was moving along the ground and engulfing everyone, including us."
+Tommy asks, "What happened after?"
+Absalom continues, "I saw Prince Angela, down in the sewers. She and the other Gangrel were being chased by...something unusual, something I could not determine."
+His eyes flicker around the room. Everyone's rapt with attention. Even Ms. Kawasaki has her undivided focus on the Elder Malk.
+He adds, "I saw her...extending her hand, as a gesture of peace, to the ones who would eventually destroy her. Her face was radiant and beautiful as it always was. She was wearing an crown, made from green leaves. I believe she was about to say something."
+The Malkavian Primogen goes quiet and his lips quiver slightly.
+Mr. Bean whispers, "Are you OK, Abs?"
+The Elder nods, "Even now, I do not understand most of it. It has only been a few weeks since that happened, yet, it feels like an eternity has passed since the destruction of the Dove Prince and the others."
+Tommy leans forward, "You didn't see anythin' about us, did ye?"
+Absalom shakes his head, "No, I did not."
+Mr. Bean stifles a snicker and smirks.
+Tommy notices this and points, "Oi! Bleached hair! You got something yous wanna share with us, pal?"
+The young Seer shifts in his seat, "Uh, no, no. I was just...thinking about stuff, is all."
+Absalom quickly intervenes, "I apologize if Mr. Bean's behavior is inappropriate. He is my charge and I ought to take better care of him. Perhaps I should ask him to--"
+Seth waves his hand, "No, no, no, no. It's OK. Let him stay. Ms. Kawasaki, you're also more than welcome to stay, if you so choose."
+Ms. Kawasaki looks at him and shrugs, "I'm fine. I just wanted to make sure the Second Inquisition isn't a problem anymore. I fought a couple of them...years ago. Not in this part of the world, but SI is SI wherever the fuck you go, y'know?"
+Sebastian rolls his eyes and groans.
+Mark exhales sharply, "Yeah, we're not gonna be able to get rid of the SI anytime soon, are we?"
+Seth counters, "Actually, I believe this latest development could help us get rid of the SI threat permanently. At least in this city. Or, so I hope."
+Paul's eyebrows shoot up in surprise, "Really? W--What did you have in mind?"
+The High Priest's eyes light up, "The Second Inquisition in this part of the world are Israeli operatives, or at least a significant portion of them are."
+Vizier Mohammed speaks up, "And how does that affect us, High Priest?"
+The High Priest explains, "This is a golden opportunity for us to take advantage of. I'm sure you're all aware of the Blade of Haqim's views on the State of Israel, yes?"
+Sebastian grunts, "Pfft. More sand monkeys shooting at each other and throwing rocks like fucking baboons. Just nuke 'em already and be over with it. Jesus."
+Seth faintly chuckles, "I can't exactly disagree with you, Sebastian, but I'm not talking about the mortals, not right now. No, I'm proposing that we use the Blade of Haqim to get rid the Second Inquisition in this..."
+He pauses for dramatic effect, "...country. Permanently."
+Mr. Bean's eyebrows arch up, "Wait, what?"
+The Nossie Primogen looks at the Seer, then at Seth, "Did someone drop yous on the head after your Embrace? These are no some amateurs we're talkin' about here! Furthermore, there's no enough of these Blade people to fight the entire focking SI!"
+He stands up and bangs the table, "It's fockin' suicide, mate; your head would 'ave to be complete mince to come up with this daft plan!"
+Tommy sits back down and shakes his head, "Ach, fuck. And here I was thinking you were a smart Setite, Seth. But no, no, now I see that you're a right idiot."
+Seth remains remarkably composed and calm. He raises his hand, "Before you all pass a premature judgment, please let me explain further."
+Tommy clicks his tongue, "Oh, please. This better be worth our time."
+Seth begins, "As far as I'm concerned, the Second Inquisition would fall easily. If we picked our battles wisely, chose when to strike, how to strike, and where to strike, we could eliminate them without any problems."
+He adds, "Furthermore, we have a number of resources and assets at our disposal--"
+The Ventrue Primogen shakes his head, looking unsure, "Who's 'we'? Y--You don't expect us to, like, foot the bill for this crusade, right? Now, look, I want the SI gone as much as the next guy, but things like this don't come cheap."
+He nervously chuckles, "I'm Ventrue, I should know, heh! Anyway, yeah, I just...uh, wanted to get that out there."
+Seth assuages his fears, "You won't have to foot any bill or spend any money, Mark. The Ministry stands ready to take care of that."
+Tommy clicks his tongue and makes a gurgling sound, "Aye, Sethie boy! Your Clan would 'ave more luck finding Nessie in the dunes than supporting the Blade. I know enough to know they won't agree to what you're proposing here."
+Seth stifles the annoyed sigh threatening to escape him. Instead, he calmly replies, "It will require a certain amount of convincing, yes. But, we can handle that. We have to. For all our sakes."
+He points to the Nosferatu Primogen and sternly says, "And I expect you to contribute something to this in a meaningful way."
+Tommy grumbles, "Ach, aye, sure, mate. I'm actually starting to like these Blade of Haqim lot."
+Sebastian mutters, "Yeah, cuz you voted to support that dumb blonde bitch the other night--"
+Tommy picks up on this and chuckles, but it sounds more like gravel being crushed, "Hey, hey! I got a simple motto for me Unlife. You know what it is, pal?"
+The Toreador Primogen shoots him an exasperated look, and rolls his eyes. He goes back to preening himself.
+Tommy states, "Nae be a walloper. In your case, it would be: nae be a racist walloper."
+Seb grunts and shoots the Nossie a baleful and angry look, "Don't you fuckin' go there, you ugly, sewer-dwelling
