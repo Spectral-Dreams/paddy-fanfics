@@ -1790,9 +1790,9 @@ Dr. Sarah interrupts him, "Hey, it's good to hear you again. Heard something goo
 Dr. Collins mumbles, "Yeah, I'm not so sure about that, Sarah. Listen, I was wondering if you're free right now--"
 "Oh, no, right now's a really bad time."
 Dr. Collins lowers his head, "Hmm."
-Sarah sighs, "I have a lot of catching up to do with you. How 'bout I make myself free tomorrow? I don't really like talking about...these things over the phone. You never know who's listening in."
+Dr. Sarah sighs, "I have a lot of catching up to do with you. How 'bout I make myself free tomorrow? I don't really like talking about...these things over the phone. You never know who's listening in."
 "Good point, Sarah. Yeah, come by the clinic tomorrow. We'll talk more. I hate to admit, but I'm in a tough spot here."
-Sarah softly gasps, "What happened?"
+Dr. Sarah softly gasps, "What happened?"
 "It's...like you said, this is something best discussed in-person. Goodnight, Sarah."
 "Hmm, sure. 'Night, Collins!"
 Dr. Collins sharply exhales. He sits in his chair and mulls over the conversation he just had with the his fellow Tzimisce.
@@ -2692,7 +2692,7 @@ Markham plainly says, "I have a different sleep schedule."
 "Well, lucky you. Yeah, Luciano Senior is as nasty as they come."
 Markham cuts in, "I'm not looking for the whole story here, just some highlights and something that might help shed some light on his son's activities and behaviors."
 "Hmm, sure. Luciano Donovan Senior. He's about...what, 70-something the last time I bothered to check. It's a lot and my memory ain't the best, but I'll go over what I--I can with you. Bartender!"
-Luciano Donovan Senior is a pretty repulsive figure. He was close friends with Fred Trump (no surprise there), he supported the Presidential Campaign of Ronald Wilson Reagan in the 1980s, and had ties to borderline fascistic organizations.
+Luciano Donovan Senior is a pretty repulsive figure. He was close friends with Fred Trump Senior (no surprise there), he supported the Presidential Campaign of Ronald Wilson Reagan in the 1980s, and had ties to borderline fascistic organizations.
 He was a regular at some of the more prestigious golf courses and country clubs. He's made several...questionable investments that would've bankrupted most other men, but he seems to always be able to ride the wave.
 Although it remains hard to prove, it's alleged that he personally routed money and other resources to right-wing death squads in Latin America, most of whom are now defunct (or under a different name).
 His connection to those groups remains tenuous at best and it's unlikely that the anyone in the States is ever going to pursue the matter.
@@ -2703,7 +2703,7 @@ Nicky snorts, "That, my friend, barely scratches the surface with this guy. Last
 Nicky grimaces in disgust, "The apple doesn't fall too far from the tree, Markham. LDJ is truly his father's offspring. He's a greedy, short-sighted, and entitled SOB, and that's putting it VERY mildly."
 "Does he do drugs?" Markham asks.
 Nicky shrugs, "All rich pricks like him do drugs o--or worse. Point is, even if the FCPD discovered a pound of blow on LDJ's lap, they wouldn't touch him because he's the son of the city's 'big man.' You understand?"
-Markham nods. It's true- a rich brat like that is a staple in the system. What about the mother? She seems...absent from all of this."
+Markham nods. It's true- a rich brat like that is a staple in the system, "What about the mother? She seems...absent from all of this."
 Nicky downs his drink in a single gulp and stifles a belch, "Oh, sh--shit. Her. Well, didn't you do your homework? She died...in an..."
 He does the air-quotes gesture, "'Accident' a few years ago. Her fancy car conveniently lost control and went off a cliff."
 "Somehow, I get the impression that nothing's been tied back to Luciano Sr. in regards to it."
