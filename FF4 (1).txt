@@ -1,4 +1,4 @@
-Vampire: The Masquerade- The Den Of Snakes
+Title: Vampire: The Masquerade- The Den Of Snakes
 By: Paddy
 Writing Start Date: May 2nd, 2025
 Writing End Date: in progress
@@ -5897,7 +5897,7 @@ Seth Steale sleeps his day away in the comfort of his 2nd Haven. Surrounded by h
 To the untrained eye, he looks like a corpse- pale, stiff, unmoving, and utterly devoid of any semblance of life or movement.
 Edwin, on the other hand, walks around the compound. He's got an apple in his hand- it's not from the cult's organic food stock, but from a local shop.
 He munches on the crunchy and juicy fruit, relishing the sweet flavor that explodes on his tongue. The sun is high above and it's almost noon. He politely nods towards a few cultists and exchanges banal pleasantries where required.
-Seth's Ghoul has got this strange feeling in his bones. After what his master made him do, he feels very uneasy, disturbed, and distraught. His mind is full of questions and doubts, yet his loyalty remains true (as expected).
+Seth's Ghoul has got this strange feeling in his bones. After what his master made him do, he feels very uneasy, disturbed, and distraught. His mind is full of questions and doubts, yet his loyalty remains true (as is to be expected).
 He continues to walk the perimeter of the compound and he keeps his guard up. A few of the mercs glower at him, but don't really do much else. He stops by to say "hi" to Dembe.
 She's at the reception area, filing her nails and preening herself. She's wearing a t-shirt and jeans.
 Edwin has been told that she's a university dropout, but that's really all he knows about her. She looks up from her work and shoots him a smile, "Hello, Edwin."
@@ -5921,15 +5921,15 @@ Edwin clears his throat, "Ms. Archibald, I'm here at the request of brother Seth
 Victoria Archibald looks to be in her late-70s. Her face is wrinkly, her lips are thin. Her graying hair is loose and messy. She wears a flowery blouse and a simple blue skirt. Her feet are bare and covered in blisters.
 She's relaxing on her double bed, her back against the headboard, "Hmm? Oh. hello, Edwin darling. I--I'm doing fine by Typhon's graces. Just a bit...tired." Her eyes are half-closed, and she seems very tranquil and comfortable.
 The cultist coos, "Sister Victoria, allow the Serpent Water to wash over you. Permit it to heal your every ailment, pain, and discomfort." Her voice is sickly sweet and saccharine.
-"You are too kind, darling. Thank you, dear." Victoria closes her eyes and takes a deep breath, her lips parted.
+"You are too kind, darling. Thank you, dear," Victoria closes her eyes and takes a deep breath, her lips parted.
 Edwin grimaces, kind of taken aback, at the fact that this cultist is dabbing dirty water on this rich old lady's forehead, but he says nothing. He takes a seat on a nearby chair.
 Victoria opens her eyes and says, "I--I apologize for my state, Edwin. I would rise to greet you, but alas, my wretched body will not allow me to."
 Edwin calmly says, "It is alright. Seth wanted me to come in and check on you. We...he missed your presence at the last sermon."
 Victoria groans and turns to face the Ghoul, "Typhon's will be done, then."
 The Ghoul awkwardly laughs, "Indeed, sister. Typhon's will be done."
-Victoria slowly and laboriously gets up and tries to take a few steps, but her legs give out. The cultist quickly catches her before she falls. She gently guides her back on her bed, then sits beside her.
+Victoria slowly and laboriously gets up and tries to take a few steps, but her legs give out. The other cultist quickly catches her before she falls. She gently guides her back on her bed, then sits beside her.
 The cultist is very touchy-feely with the old woman. She strokes her face and arms, whispers sweet nothings and lies, and gently combs her hair with an unclean brush.
-Unlike other cultists, Victoria is a special somebody who gets the privilege of staying in a house of her own. She's a remarkably wealthy woman with ties to the British aristocracy, and her money is no doubt used to fund the cult's operations.
+Unlike other cultists, Victoria is a special somebody who gets the privilege of staying in a house of her own. She's a remarkably wealthy woman with ties to the British aristocracy, and her money is no doubt used to fund certain parts of the cult's operations.
 To Edwin's understanding, this means she gets more or less whatever she wants, whenever she wants. Barring certain limitations, of course.
 Her house is very homely. The wooden floor is covered in a very worn-out rug. There's a wooden TV cabinet, a small coffee table, a desk, a fridge, and a bathroom. The walls are white.
 There are pictures of Victoria's adult children, and the only window in the room has a pair of royal maroon curtains that are closed.
@@ -5938,7 +5938,7 @@ Victoria sighs and smiles, "I--I'm so pleased to see you, Edwin. How is our belo
 The Ghoul sits upright and forces a tight smile, "He...fares well. He is currently resting--"
 The cultist lady cluelessly chimes in, "Why don't we ever see the High Priest during the day? Is it because his form is so powerful and holy that it simply can't take the daylight?"
 Victoria is annoyed by her interruption, because she's the type that doesn't like being talked over or interrupted. She doesn't really like the woman, and she knows she's a bit of a weirdo, but it's better than staring at the walls all day long, so she entertains the notion.
-Edwin nods, "Hmm, yes. The light of this world...um...it simply is incompatible with Seth's...with the High Priest's sa--sacred form. You would do better to ask him yourself, sister."
+Edwin nods, "Hmm, yes. The light of this world...um...it simply is incompatible with Seth's...with the High Priest's sa--sacred form. You would do better to ask him yourself, sister. Provided he...is in the mood to give you an answer."
 That's certainly 1 way to explain how the Setites Abhor the Light more so than any other Clan.
 The cultist nods, her eyes glazed over. She mumbles, "Praise be to Typhon, and blessed is the voice of Apep." She stands up, bows her head, takes her bucket of sicko water, and leaves.
 Victoria sighs in disgust, "Puh...good riddance. Such rabble are only fit to pick the fruits, clean the mess, and keep the grounds tidy."
@@ -5954,7 +5954,7 @@ She arrogantly declares, "I am the one who makes it possible for him to carry ou
 She stops and begins to cough profusely, her voice straining, "Ah, pardon me, my dear Edwin. But I do have an opinion that I feel compelled to share."
 "What is it, then?"
 Victoria's throat is parched, so she groans and struggles to drink from the nearby glass of water on the nightstand. She spills some water and sighs, her lips dry and cracked.
-"I would appreciate it if you could pour me some more water, my dear. A--Actually, why not fetch some Serpent Water."
+"I would appreciate it if you could pour me some more water, my dear. A--Actually, why not fetch some Serpent Water?"
 That's disgusting.
 Edwin grimaces at her suggestion, "Why don't I make you some chicken soup and we can discuss your grievances in further detail?"
 Victoria smiles, "How very...kind of you, Edwin. I do believe it's time for me to eat something."
@@ -6006,7 +6006,7 @@ The Ghoul walks out of the old woman's house with a strange feeling. He looks up
 He can't believe such vile drivel even exists, yet...here she is. Living and breathing it. In truth, Seth's been trying to off her for months, but he first wants her to sign over all her assets to him. It's a real pain in the ass.
 Victoria Archibald, from Edwin's understanding, saw a great increase in her (already) mountainous wealth during the Thatcher years. Her husband conveniently died of food poisoning, leaving her in charge of a vast conglomerate of companies that dabbled in many fields.
 These days, however, her adult children are in control of most of her family's vast empire and holdings, yet she still gets some significant say and leverage, but it's mostly all smoke and mirrors.
-Seth even allows her attorney to visit her from time to time. Normally, outside visitors are strictly forbidden for cult members, but the rich devotees are always given a few leeways by the High Priest himself.
+Seth even allows her solicitor to visit her from time to time. Normally, outside visitors are strictly forbidden for cult members, but the rich devotees are always given a few leeways by the High Priest himself.
 Such are the ways of our current world where class dictates just about every facet and aspect of "civilized" life.
 Class relations can even be found in a secluded cult compound that's supposedly devoted to the worship of Typhon. This is truly the reality that a Ghoul like Edwin finds himself in.
 Such, after all, is the price he now pays for a taste of immortality.
@@ -6016,7 +6016,7 @@ She has no idea that he's a vampire part of a Clan of manipulators, corrupters, 
 As Seth blissfully sleeps the remainder of his day away, the mortal cultists continue to toil, pick fruits, clean up, and take care of other various and sundry matters. All is as it should be in the High Priest's compound.
 Afternoon becomes evening, thus signaling that it is now time for the Kindred in this particular part of the world to rise from their day-long slumber.
 While the sun retreats, Edwin naps on the sofa, snoring lightly. His sleep is interrupted by a sudden jolt and a strange sense of urgency that he can't explain. He can sense it, he can sense his Domitor beginning to rise from the pull of his void-like slumber.
-It's a strange sensation that only certain Blood-Bonded retainers can truly experience- this primal connection and deep bond between the Kindred and their Ghoul.
+It's a strange sensation that only certain Blood-Bonded retainers can truly experience- this primal connection and deep bond between the Domitor and their Ghoul.
 It's more apparent in those that are close together than those that are far apart. And even after all Edwin has seen over these past few nights, he remains faithful to a fault. A part of him will always be loyal to his master.
 He's known nothing else for years on end now.
 A few minutes after sunset, the door to Seth's room is slowly and silently unlocked. Seth's movement is sluggish and languid as he leaves his room and slowly makes his way to the couch in the living area.
@@ -6045,7 +6045,7 @@ Seth puts on his chasuble from last time, smooths over any wrinkles, and leaves 
 Seth clears his throat and holds his arms wide, "Brothers and sisters! Welcome, welcome! I hope that the morning was kind to you all, hmm? Yes?"
 The cultists reply in unison, "Yes, High Priest."
 Seth smiles and paces around, "Good, good. It's good to hear you've been hard at work. Toiling under the sun, growing your own food, and serving the Serpent, yes?"
-"Yes!" They reply again.
+"Yes!" they reply again.
 He raises his voice, "Who has been faithful, my brothers and sisters?! Who amongst you has been truly dedicated to the will of Typhon?"
 Almost all the cultists excitedly raise their hands and jump up and down in an attempt to get the High Priest's attention. The guards have a hard time maintaining a straight face at all this, but they maintain a stiff upper lip, and focus on keeping things in order.
 Seth points towards 1 devotee in the front row, "Ah! You, yes, come here."
@@ -6058,13 +6058,13 @@ She catches her breath, clears her throat awkwardly, and starts, "Well, err...it
 She speaks at a mile a minute, but Seth places his icy hand on her shoulder and shoots her a tight look. She immediately catches herself and calms down, taking another deep breath. Her lips are curled into a tight smile, and her eyes are bloodshot and wide.
 "So, so, I was pretty much going through the motions, mired in my despair. That's when...I met you, High Priest. You gave me the clarity of Typhon's purpose! And with it, the resolve and conviction to act on it, my beloved High Priest."
 Seth calmly smiles as he stands besides her.
-She continues, "You convinced m--me to th--throw off the shackles of modernity and...and embrace a life of pure simplicity and...purity! That is Typhon's divine will, after all, yes?!" She turns towards the audience to ask her rhetorical question.
-They all shout "yes" and raise their arms up high in response.
-She goes on for about 10 more minutes, breaking down nearly every detail of her past life. It's definitely TMI for some of the people assembled here. This whole spectacle is getting a little tiresome.
+She continues, "You convinced m--me to th--throw off the shackles of modernity and...and embrace a life of pure simplicity and...purity! That is Typhon's divine will, after all, yes?!" she turns towards the audience to ask her rhetorical question.
+They all shout, "YES!" and raise their arms up high in response.
+She goes on for about 10 more minutes, breaking down nearly every detail of her past life. It's definitely TMI (too much information) for some of the people assembled here. This whole spectacle is getting a little tiresome.
 Even Seth himself seems to be getting impatient. His smile is strained, and it's pretty clear that he's got other matters on his mind.
 He walks behind Anne, stands close behind her, puts an arm around her, and gives her a small shake, "Sister Anne! Thank you so much for that...wonderful testimony. I'm sure it is a lesson for everyone, especially the newer members." His voice is kind of forced.
 He sounds kind of irritated, actually.
-He then sends her off, holds her arms up, and proclaims, "Now, my brothers and sisters! It's been a while since I've done this--"
+He then sends her off, holds his arms up, and proclaims, "Now, my brothers and sisters! It's been a while since I've done this--"
 Gasps of anticipation, murmurs of excitement. They've been waiting for this moment.
 The Setite nods, "--so, let's do this right. You're excited, aren't you? I can feel it..." He takes on a more serpentine and slithery demeanor and tone as he says that last part. The crowd can feel it too. It's quite weird, but it works.
 For them, anyway.
@@ -6082,7 +6082,7 @@ Seth holds out his wrist and looks Theo right in the eye, as if taunting the man
 Seth mockingly goads, "Would you like to have a go, brother McClain?"
 Theo holds out his hand, "Uh...nope. But, I'm interested to see how you're gonna uh...survive this one. That snake looks pretty nasty, doesn't it? You've uh...got balls, heh." His voice is shaking.
 Seth smiles, "I've been handling snakes for quite a while. I am Typhon's favored one."
-"So I've heard." Theo crosses his arms, pushes his glasses up his nose, and keeps his eyes locked on Seth. It's pretty damn intense. His heart is beating out of his chest, he can hear it ringing in his ears, and it's like he can taste the adrenaline coursing through his veins.
+"So I've heard," Theo crosses his arms, pushes his glasses up his nose, and keeps his eyes locked on Seth. It's pretty damn intense. His heart is beating out of his chest, he can hear it ringing in his ears, and it's like he can taste the adrenaline coursing through his veins.
 The undercover journalist raises his chin and waits. Seth extends his wrist to the snake. The serpent looks like it's going in for the bite. Theo clenches his fists, the crowd goes silent.
 Seth looks on with an unblinking, serpentine look on his face. And, boom! The snake viciously bites into its prey's cold wrist. A collective gasp goes out amongst the crowd as the High Priest remains standing with a stoic expression on his face.
 He lightly winces. Him being a vampire means the snake's venom has no effect on his system whatsoever, so it's really just a formality. A fun, weird, and entertaining formality. A ruse.
@@ -6119,12 +6119,12 @@ Gallagher just stands there with a big grin on his face and a raised eyebrow. He
 With some effort, Seth pulls the western taipan away from his throat and covers it quickly so no one can see the wound mending. His face twitches as he says in an ominously calm voice, "Y--You--shall--not--harm--ME!"
 He hisses, and the snake quickly cowers and recoils in fear under his intense and serpentine glare.
 Gallagher just chuckles at his fellow Kindred's display. That's how vampires can intimidate animals. Seth gives the deadly taipan back to its handler, who is very quick to remove it.
-The High Priest proceeds to extend his arms to either side of his body. He triumphantly and boldly declares, "Witness the might and power of Typhon! Witness the...wonder!" His voice booms across the hall.
+The High Priest proceeds to extend his arms to either side of his body. He triumphantly and boldly declares, "Witness the might and power of Typhon! Witness the...wonder!" his voice booms across the hall.
 Everyone is watching in silence, barely breathing, barely even thinking. A few people look like they're going to pass out and drop.
-Victoria remains surprisingly calm and expressionless, despite her initial reaction. She just watches on with a blank look, her body slouching, and her hands twitching a bit. Her lips are cracked and dry.
+Victoria remains surprisingly calm and expressionless, despite her initial reaction. She merely watches on with a blank look, her body slouching, and her hands twitching a bit. Her lips are cracked and dry.
 Seth shoots her a smug look, his arms still stretched out, and takes a step forward, "I AM Typhon's most favored one; I am the instrument of Apep! Witness me and rejoice, my beloved Herd!"
 He dramatically holds his arms aloft and takes a few more steps, the crowd now getting excited and louder. He holds his chin up high and begins to spin around with his arms out.
-The devotees all cheer him on, shouting "Typhon!" over and over again as Seth begins to jump up and down on the stage and prance about like a slimy preacher at a seedy tent revival.
+The devotees all cheer him on, shouting "Typhon! Tyhpon!" over and over again as Seth begins to jump up and down on the stage and prance about like a slimy preacher at a seedy tent revival.
 The crowd loves it. The devotees all hold hands, they all raise their arms aloft, they all spin and jump and prance, following their High Priest's example. The hall is filled with chants, cheers, and laughter.
 Theo is yanked by a random giggling cultist and spun around and around, almost causing the journalist to throw up and lose his lunch. Gallagher and Edwin just stand in the back, watching the madness unfold.
 They're both unfazed by this shit show. Still in her wheelchair, Victoria looks on with cold indifference written all over her sallow and pitted face. She can't even be bothered to smile or do anything else for that matter.
@@ -6136,7 +6136,7 @@ It's a pretty weird night, but things will be back to normal in no time. Ms. Arc
 Seth and Edwin retire to the former's nearby Haven, where Gallagher is waiting with a big smile on his face, "Heeey! Helluva magic show back there. The rubes REALLY fell for it, huh?"
 Seth plainly laughs and shrugs, "What can I say? Even Rafael admitted that I am a bit of a...showman, heh."
 The ex-Sheriff concurs, "Yeah, you sure are. I gotta hand it to ya, Seth- that was pretty damn impressive."
-He takes a moment to admire the décor in his buddy's Haven, "Hmm. Nice place ya got here, Seth. Really nice, in fact."
+He takes a moment to admire the décor in his buddy's Haven, "Hmm. Nice place ya got here, Seth. REALLY nice, in fact."
 Seth plops himself down on the sofa and throws his head back, "Yes. It's a very cozy little spot. I like it." His eyes are closed, but he's still alert. His lips twitch into a smile.
 He then turns to Gallagher, "So, what have you been up to these past few nights? Anything interesting going on in your world?"
 Gallagher nods, feeling determined, "Oh, yeah. Definitely. I've been building up some really solid connections with a couple of heavy hitters in this fuckin' city."
@@ -6150,8 +6150,8 @@ Gallagher takes a seat opposite his fellow Viper, "Sure, why not? What's on your
 "I have a question regarding a certain somebody, Gallagher."
 "Shoot."
 Seth faintly chuckles, "It's about the Assamite- Svetlana Bobrov."
-Gallagher can barely contain his disgust when that name is uttered, "Grrr. What the fuck about her?!" He growls a few times.
-Seth sighs, "I'm just...curious about her."
+Gallagher can barely contain his disgust when that name is uttered, "Grrr. What the fuck about her?!" he growls a few times.
+Seth sighs, "I'm just...curious about her. Intrigued, dare I say."
 The former Sheriff sneers, "Well, don't be. She and that half-Mexican Sire of hers should've had their fucking heads cut off...BY ME! But--"
 The High Priest cuts him off, "But Prince Angela wouldn't let you. Yes, yes, I've heard it a million times now. Just answer my question." His tone is more terse and demanding than usual.
 Gallagher shrugs, "Fine. Ask away."
@@ -6168,7 +6168,7 @@ He turns to Gallagher, "I saw something in them." He closes his eyes, "And...I f
 Seth holds up a finger and firmly says, "Gallagher, enough. It's just that...I feel something, a spark, a connection between us. She seems so lost and and distant and alone, and I just want to be there for her."
 "Awww, well isn't that just so fucking sweet," Gallagher sneers.
 Seth ignores that, "Hmph. Well, you have to know more about Svetlana than you're letting on."
-Gallagher sternly retorts, "No. I don't. After Angela got in the way of ME DOING MY JOB, I fucking quit and--and...well, you know the rest, don't you."
+Gallagher sternly retorts, "No. I don't. After Angela got in the way of ME DOING MY JOB, I fucking quit and--and...well, you know the rest, don't you?"
 Seth looks at his friend, "Hmm, indeed. At least we were able to save you before you lost yourself entirely."
 Gallagher has a fearful look on his face, "I...I don't wanna go back there again, Seth. I can't. No. I'm fine now, and that's how I wanna stay forever. I--If I have to drain someone whole to satiate my Beast, I fucking will."
 "As will I, old friend. As will I. Be grateful that you're part of the only Clan that has a...cure to the Wassail."
@@ -6216,7 +6216,7 @@ Victoria's expression grows distant, "Well, I shot at...it. The moon was full, g
 "I see. Interesting. We call them the Garou."
 "Yes, I know that, darling. Over the years, I have commissioned investigations, inquiries, and research into these...beings. Most of what I have uncovered has been...very useful."
 Seth asks, "So, have you ever encountered any more?"
-"No. It was only years later w--when the memories of that night came back to me. As a matter of fact, I don't recall much of that particular evening." She shakes her head.
+"No. It was only years later w--when the memories of that night came back to me. As a matter of fact, I don't recall much of that particular evening," she shakes her head.
 Seth nods, "Ah, I see." He looks down at her frail and sallow face, "Well, what doesn't kill us only serves to make us stronger, wouldn't you agree?"
 Victoria nods, "Nietzsche. Well said. So, what brings you here, Mr. Steale? Have you given thought to any of the numerous grievances I've raised?"
 Seth merely nods, "I have, yes. Edwin was kind enough to relay them to me."
@@ -6239,12 +6239,12 @@ Victoria raises her chin, "She was absolutely correct about 1 thing."
 Seth lightly chuckles, "I agree. The man who made me what I am today said that there is also no such thing as 'Truth' with a capital-T."
 Victoria smiles, "Yes, well, you are correct. And so is he. People like us, Mr. Steale, make our own truths. We shape our own destinies and we live by our own rules."
 Seth sits down, "Yes, I'm well aware of that fact. I've been doing that for decades now."
-Victoria's face scrunches up, "Tsk. I don't think so, darling. But, I'll play along with these vampire delusions of yours. So, how did you come to be Dracula, hmm?" Her tone is mocking and condescending.
+Victoria's face scrunches up, "Tsk. I don't think so, darling. But, I'll play along with these vampire delusions of yours. So, how did you come to be Dracula, hmm?" her tone is mocking and condescending.
 Seth replies with a tight look on his face, "My dear, you wouldn't believe me even if I told you. You have no idea what I'm capable of or who I've become."
 "The night is still young, my dear High Priest. I have time for a fantastic bedtime story."
 Seth dryly smiles, "I'm sure you do. I'll give you the abridged version: a man by the name of Rafael De La Cruz Sired me into a Clan known simply as...the Ministry. It was all the way back in the 1940s if I recall correctly."
-Victoria snort-chuckles, "And here I thought vampires would be more...exotic than that. The Ministry? What kind of a ridiculous name is that? And Clans?! My boy, I thought you were better than this. This is beneath you."
-"It's the truth. I can't lie to you, Victoria. That wouldn't be right." Seth's tone is smooth as butter and sly as a snake that's about to strike.
+Victoria snort-chuckles, "And here I thought vampires would be much more...exotic than that. The Ministry? What kind of a ridiculous name is that? And Clans?! My boy, I thought you were better than this. This is beneath you."
+"It's the truth. I can't lie to you, Victoria. That wouldn't be right," Seth's tone is smooth as butter and sly as a snake that's about to strike.
 Victoria mockingly smiles, "Hmm, you mustn't do this, Seth."
 Seth counters, "Then, pray tell, how would you explain me surviving all those snake bites earlier tonight?"
 Victoria chuckles, "You used some or the other method, adenopathy most likely, to de-venom the snakes and ensure that you didn't die on the spot, dear boy. Simple." Her voice is all haughty and arrogant.
@@ -6256,20 +6256,20 @@ She wonders out loud, "Well, Mr. Steale, if there is no such thing as a society 
 Without skipping a beat, Seth responds, "Power, Ms. Archibald. Power is all we're left with."
 An approving smirk dances on the corners of her mouth, "Very good, very good. And the only power that really matters is...the economic kind." Her eyes twinkle as she says that last part.
 Seth curtly nods, "I concur. Speaking of, have you considered my offer when we last spoke?"
-Victoria scoffs, "I am not dying anytime soon, High Priest. As such, I intend to hold onto what is rightfully mine for a little while longer."
+Victoria scoffs, "I am not dying anytime soon, High Priest. As such, I intend to hold on to what is rightfully mine for a little while longer."
 The Setite indifferently nods, "Hmm, I see. Edwin told me you have...issues with the mercenaries who've been hired to...keep an eye on the compound?" It's like he can't even be bothered to feel annoyed anymore.
 This harridan is exhausting, like a caricature. She's a real piece of work.
 Victoria weakly nods, "Yes, indeed. I would recommend a more viable alternative- Gen4 Security."
 "What makes them so special?"
 "I know the Director Of Operations. Her name is Baroness Maybelline Pentham. I'm sure you could get a far better deal than whatever these South African mercenaries are giving you." She seems quite smug when she says this.
 "Is that so?"
-Victoria smirks, "Of course." Her smile quickly fades and a dark shadow falls across her face as her voice drops a few decibels, "If you choose to do business with Gen4, do let me know. I would love to facilitate an instruction."
+Victoria smirks, "Of course." Her smile quickly fades and a dark shadow falls across her face as her voice drops a few decibels, "If you choose to do business with Gen4, do let me know. I would love to facilitate an introduction."
 "I'll keep it in mind, Victoria. Edwin also mentioned that you're concerned about 'outside scrutiny'. Care to elaborate?"
 Ms. Archibald props herself up and groans in pain, "Arghhh. Y--Yes. Inevitably, our little enterprise is bound to attract the attention of the wrong sort of people."
 Seth calmly reassures her, "I have it under control, Victoria. As a matter of fact, I personally dealt with a certain troublesome devotee after my last sermon."
 "Ah. Very good. Very good. I see you're not afraid to get your hands dirty, eh? I personally delegate such unpleasant matters to those whom I pay unusually large sums of money to."
-Seth faintly chuckles, "We all have our own way of doing things. You prefer...distance and I prefer a more, shall we say, hands-on approach."
-"Cheeky boy." Victoria lets out a raspy cough. She continues, "It's really quite remarkable, Seth, how much we have in common, yet, we have our differences as well, hmm? Like 2 peas in a pod, as they oft say."
+Seth faintly chuckles, "We all have our own way of doing things. You prefer...the comfort of distance and I prefer a more, shall we say, hands-on approach."
+"Cheeky boy," Victoria lets out a raspy cough. She continues, "It's really quite remarkable, Seth, how much we have in common, yet, we have our differences as well, hmm? Like 2 peas in a pod, as they oft say."
 Seth coolly replies, "Maybe, maybe not. But I've been around for a long time, Ms. Archibald."
 Victoria sighs deeply, "Do not permit your delusions of grandeur to impede you. Youth is relative, fleeting, and all that. Just look at me and all my accomplishments." Her voice trails off a bit at that last bit.
 Seth fixes his serpentine gaze on her, "Yes, indeed. Look at you- a lifetime of accumulating wealth, power, influence, and status...only to see it all go spent on a cult in the middle of the desert." He sneers, but it's almost affectionate.
@@ -6285,11 +6285,11 @@ The Setite's face tightens, "She...he had to go. I can't have someone like that 
 "I concur. I can't believe we were fooled for so long. The surgeries and procedures, you must admit, are fairly convincing, no?"
 Seth grimaces, "Hmph. Convincing and passable. Sick. He came to me sometime back and told me everything, and well...I told him to leave."
 "Good riddance, then. Sylvia was her name, yes?"
-Seth nods, "Indeed. Her prior name was Sylvester. They...call it a deadname, I believe."
+Seth nods, "Indeed. The prior name was Sylvester. They...call it a deadname, I believe."
 Victoria exhales sharply, "Madness run amok, Mr. Steale. Madness run amok! Back in my time, we did not have to contend with this nonsense. It would've been unheard of! Oh, the audacity!" She sounds so dramatic.
 Seth simply nods, "Times have changed. The world is a very different place now. Too tolerant for my tastes, heh."
-Victoria muses, "That is why you are here, hmm? To free us little lost lambs from the shackles of modernity and such nonsense." She seems rather amused by that.
-"Indeed. That's what my sermons are for. To guide them all to the path of Typhon. Tolerance, indolence, and indulgence are all hallmarks of modern life and its...endless vacuousness."
+Victoria muses, "That is why you are here, hmm? To free us little lost lambs from the shackles of modernity and such nonsense?" she seems rather amused by that.
+"Indeed. That's what my sermons are for. To guide them all to the Path of Typhon. Tolerance, indolence, and indulgence are all hallmarks of modern life and its...endless vacuousness."
 Victoria nods and begins to cough, "Well, I for one am glad that you're here to lead us poor souls back onto the right path, High Priest."
 "Good, good. Be happy in the knowledge that your money is being put to good use around here."
 "It better be. I will let your recent indiscretion slide, Mr. Steale. I am a remarkably patient woman."
@@ -6305,9 +6305,9 @@ He growls and hisses as he smothers the old lady with the pillow. He applies max
 Victoria can't even muster up the strength to struggle anymore. She's completely helpless, pinned to her bed, unable to defend herself.
 The Sand-Snake grunts and pushes down harder and harder, causing the pillow to compress further and further. Victoria's hands flail wildly, trying to grab onto anything they can get a hold of.
 She kicks and thrashes about, but it's no use. She's simply too weak, too exhausted, too tired. Her vision begins to go dark as she struggles to breathe. Muffled calls for help are met with even greater force.
-She gasps and wheezes, "Why--why? Please--" Her voice is weak and strained.
+She gasps and wheezes, "Why--why? Please--" her voice is weak and strained.
 Seth growls, "I don't need you anymore, Ms. Archibald." He grits his teeth and exerts even more pressure onto the pillow.
-She coughs and sputters, "Please...stop..." Her arms finally fall to her sides as she loses consciousness and goes limp.
+She coughs and sputters, "Please...stop..." her arms finally fall to her sides as she loses consciousness and goes limp.
 Seth lifts the pillow, exposing her face. Her mouth is wide open and the look on her face is that of pure shock and horror. He tosses the pillow aside and checks her pulse. Nothing.
 "Hmph. Goodnight, Ms. Victoria Archibald. And thanks for the money. I'll help myself to the rest."
 He turns around and heads for the door, pausing only to look back at Victoria's unmoving form, "It took a while, but I managed to figure your signature out. The rest should be easy."
@@ -6335,12 +6335,12 @@ Edwin lowers his head and doesn't immediately answer.
 Gallagher's face scrunches in anger, "HEY, EDWIN?! Fuckin' answer me! How. Did. You. Get. Rid. Of. Whatever-his-name-was??!"
 Edwin's features are tight with anxiety, "I--I buried him in the desert."
 Seth shakes his head, "Not good enough for...this one. Use the nearby incinerator this time."
-Edwin plainly nods, "As you wish, sir."
+Edwin gulps and plainly nods, "As you wish, sir."
 Gallagher commands the Ghoul, "Grab her nasty feet. I ain't touching whatever the fuck that is." He grimaces in disgust at Ms. Archibald's blister-covered feet.
 Even Edwin hesitates to touch the feet of the deceased. He looks around for a cloth or a sheet that he can wrap around them.
 Seth shakes his head and gets irritated, "Just grab them, Edwin. Don't be so squeamish."
 Edwin mumbles to himself, "Sorry." He grabs hold of the corpse's feet and gingerly lifts it off the bed while Gallagher huffs and grabs her under the arms.
-A nasty smell permeates the room and hits Edwin's nose. The 2 vampires remain unaffected by it. Seth goes ahead and opens it for them.
+A nasty smell permeates the room and hits Edwin's nose. The 2 vampires remain unaffected by it. Seth goes ahead and opens the door for them.
 The Ghoul immediately drops the body and covers his nose with his arm. Gallagher throws his arms up in exasperation, "The fuck, man?!"
 Edwin's voice is muffled, "Smell...urine." His eyes dart over to the dead old lady and then back to Seth.
 Gallagher sighs and shakes his head, "What smell?!" He makes a great effort to take a whiff and immediately recoils in disgust, "Arghh! Ugh! Urghh!" He frantically fans the air in front of him with his hands.
@@ -6365,9 +6365,9 @@ Edwin mumbles under his breath, "You are a deeply violent man."
 Gallagher stops at the red light and snickers, "Pfft. I heard that, chocolate milk. So what if I am? I was...the goddamn Sheriff of Dubai."
 Edwin turns his head aside and looks at the empty streets ahead, "I am aware of your history, Mr. Gallagher." It's late, and he's tired. He hasn't been able to get much sleep lately.
 Gallagher sneers, "Then you know what I'm capable of."
-"I can't help but feel that you...enjoy doing these...things for my Domitor. Disposing of corpses, attacking people, etcetera."
+"I can't help but feel that you...enjoy doing these...things for my Domitor. Unpleasant things. Disposing of corpses, attacking people, etcetera."
 "Hmph. Maybe I do. So what, huh?! Maybe it's because a part of me was always meant to do this kinda shit, huh?!"
-Edwin sighs, "Perhaps so. So, you still consider yourself a Sheriff? Of what? Dubai is under no one's control and Al-Kushraf has had neither Prince nor Sheriff for as long as anyone around here can remember."
+Edwin sighs, "Perhaps so. So, you still consider yourself a Sheriff? Of what, over where? Dubai is under no one's control and Al-Kushraf has had neither Prince nor Sheriff for as long as anyone around here can remember."
 Gallagher doesn't answer at first. The light turns orange and he tightens his grip on the steering wheel, eyes fixed on the dark road ahead.
 "The fuck does it matter? All I know is I like being around Seth. He gives me purpose, direction, a--and...he lets me be myself. Ya dig?"
 Edwin exhales and looks at the few palm tress that dot the sides of the road, "Yes. I suppose I do. He gave me purpose and direction as well."
@@ -6384,13 +6384,13 @@ The drive to the incinerator is long and tense. Edwin's mind is swirling with al
 As a Ghoul in Seth's service for so long, leaving now would be nothing short of fatal.
 Once at the incinerator, the duo toss the body in. It's the middle of the night and there are no people around. The only sound is the rustling of discarded plastic bags and the wind blowing across the desert sands.
 Gallagher stands the hell away from the fire while Edwin does the sordid task of making sure that Victoria's body is reduced to nothing but ash and dust. It's an agonizing and arduous process.
-Once the 2 return to the compound, Seth orders his Ghoul, "I want you to head to Sufi Street in the morning. There's a few appraisers who owe me some favors. Bring a sample of her jewelry and get an estimate of their worth." 
+Once the 2 return to the compound, Seth orders his Ghoul, "I want you to head to Sufi Street in the morning. There's a few appraisers who owe me some favors. Bring a sample of her jewelry and get an estimate of their worth."
 Edwin silently nods and lazily meanders off into the night. He's exhausted. Mentally and physically. He needs to rest, and soon. If his Domitor is willing to let him do so, that is.
 Gallagher cracks his neck and rolls his shoulders, "Alright. Fun night. So, how's your chess game coming along? Is it checkmate time yet?"
-Seth lightly shakes his head, "No. Not yet. But soon, Ewan. Soon. The board is all set up and the pieces are in place. It's just a matter of executing the proper moves." His voice is soft, calm, and collected.
+Seth lightly shakes his head, "No. Not yet. But soon, Ewan. Soon. The board is all set up and the pieces are mostly in place. It's just a matter of executing the proper moves." His voice is soft, calm, and collected.
 Gallagher remarks, "Always the modest one, huh? Well, I'll leave the scheming, plotting, planning, and possible backstabbing to ya. That shit was never my forte."
 Seth responds, "Busting skulls was always your métier, hmm?"
-The ex-Sheriff shrugs, "More or less. At least I got an opportunity to do that shit when I'm with you. Gettin' rid of that Gangrel was the best fuckin' thing you've done for us, Seth."
+The ex-Sheriff shrugs, "More or less. At least I got an opportunity to do that shit when I'm with you. Gettin' rid of the Gangrel in Dubai was the best fuckin' thing you've done for us, Seth. Prince Angela was too fucking soft for her own good."
 "Hmm. She was a problem that needed removing either way."
 "I know, I know. Sun's gonna be up soon. I'm heading back to my place to get all cozy. You staying here or heading back to your main joint?"
 Seth dryly says, "I think I'll spend another day here. Goodnight, Ewan."
@@ -6426,14 +6426,14 @@ He's feeling a little hungrier than usual, so he stops by the nearest restaurant
 The Assamite approaches a young, clean-cut, and well-dressed businessman from behind. His fangs are already out and he's slightly crouched.
 With a swift and fluid motion, John wraps his arm around the guy's neck and quickly feeds on his carotid artery. The poor guy struggles and tries to scream for help, but John has a firm hold of him.
 John hungrily takes this man's life force, but makes sure not to kill him in the process. Once the Beast has been satiated, John pulls away, licks the wound shut with the tip of his tongue, and leaves the businessman lying unconscious in the darkened alleyway.
-John takes a moment to compose himself, wipes his mouth clean with the back of his hand, and leaves the area. Many minutes later, he reaches the hotel and parks his car.
+John takes a moment to compose himself. He wipes his mouth clean with the back of his hand and leaves the area. Many minutes later, he reaches the hotel and parks his car.
 It's a pretty mid-range hotel in this part of the city. From where John is standing, it's quite a tall and imposing structure that almost looks like it reaches into the heavens.
 The steel and glass structure is surrounded by green lawns, palm trees, and neatly paved walkways. John looks around and notices a few guests milling about.
 John sighs, "Looks like they have a nice bar here, at least. Heh, not that I ever need it now..."
 He checks his phone and sees that the address given is the one here. He's still a bit dazed and confused from the recent feed. Something about that mortal's blood feels...off.
 John momentarily loses his grip and stumbles. His legs feel weak and his head is pounding.
 He mumbles, "What the fuck?" He tries to move, but his legs feel heavy. He ends up falling onto his knees and clutching his chest.
-A man in a thawb approaches John and bends over to ask, "Are you okay, brother?" His voice is heavily accented.
+A man in a thawb approaches John and bends over to ask, "Are you okay, brother?" his voice is heavily accented.
 John grunts and manages to get back on his feet, "I'm...I'm fine."
 The man is tall, broad-shouldered, and has a thick beard. He gives the Assamite a once-over and goes on his way.
 John feels another sharp pain shooting up his spine, causing him to grit his teeth. His vision is getting blurry and the sounds of the outside world are drowned out by the ringing in his ears.
@@ -6488,7 +6488,7 @@ Stephen excitedly nods, "Exactly! I want to write a book that's both engaging an
 Stephen's green eyes light up momentarily, "Y--You're also a writer??"
 "Was. Not for novels, but for a newspaper. It was a uh...long time ago. Actually, never mind."
 "Fascinating. A Kenpo instructor who used to write for a newspaper. I think I have some ideas for my next characters in my upcoming novel, hehe."
-"I'm glad to be of assistance," John says.
+"I'm glad to be of assistance," John blandly says.
 Stephen queries, "Do you mind me asking which newspaper it is you used to write for? I do love to dig as deep as I possibly can when crafting my characters."
 John is visibly uncomfortable with the current turn the conversation has taken, "Actually, I do mind."
 Stephen shakes his head, "Hmph, fine. I guess I'll just have to rely on my improvisational prowess."
@@ -6513,15 +6513,16 @@ The Assamite folds his arms, "Hmm, and what is your book about?"
 Stephen excitedly answers, "It's a sort of noir-erotica hybrid novel set in the 1950s. The protagonist is a samurai-for-hire who gets caught up in a series of murders and conspiracies involving an international spy ring."
 "Huh. Cool. Let's take 5 and then we can continue with our lesson."
 "Excellent. I'll make us some Sencha green tea and we can both talk about this story."
-For obvious reasons, John politely declines. Mr. Burg shrugs, "Suit yourself, but I need it."
+For obvious reasons, John politely declines.
+Mr. Burg shrugs, "Suit yourself, but I need it."
 John sits on the edge of the bed and listens to Stephen's story, "My protagonist is a samurai, Kiichiro Takahashi, who has recently been accused of violating the World Bushido Code. He must clear his name and find the real culprit, which will lead him on a path of intrigue, espionage, and danger."
 Stephen lowers his voice, "And sex. Lots of it...with rival warriors, dashing chemists, dominatrices--"
 John interjects, "Yeah, I get the point. There's a lot going on. So, how does Kenpo figure into all of this?"
 Mr. Burg eagerly answers, "Kiichiro, you see, is a mid-level Kenpo practitioner. But, he's not your average Joe. He's skilled and dangerous, yet he has a heart of gold. A man who fights for what's right."
 "How noble of him," John can't help but notice how Stephen is trying so hard to sell him on this book.
-Stephen goes on, wildly gesticulating as he does so, "Movie and comics are taking over. Of course, I see no issue with it- trends and all. So, I have to...adapt to the shifting tides of the industry. I'm no stranger to that." 
+Stephen goes on, wildly gesticulating as he does so, "Movies and comics are taking over. Of course, I see no issue with it- trends and all. So, I have to...adapt to the shifting tides of the industry. I'm no stranger to that."
 "Hmm, fair enough. I don't know anything about that stuff."
-Mr. Burg continues, "The contemporary movie and comics market are dominated by superheroes and super-villains, aliens, cyborgs, and most importantly...spies a--and soldiers."
+Mr. Burg continues, "The contemporary movie and comics market is dominated by superheroes and super-villains, aliens, cyborgs, and most importantly...spies a--and soldiers."
 John mutters, "Yeah, the post-9/11 security state, heh."
 Stephen sucks some air through his teeth, "Scary stuff, indeed. Anyways, what Kenpo you manage to teach me, Mr. Suarez, will help flesh out and add to my story."
 "Cool. We should probably start again, huh?" John glances at his phone and sees a few missed messages from Svetlana. He'll check them later. For now, he needs to focus on teaching this guy Kenpo.
@@ -6529,17 +6530,18 @@ And the night rolls on with John teaching this dude all that he knows. Moves are
 After many hours, Stephen has a decent grasp of the basics, but he's sweating buckets through every pore and his breathing is heavy. His face is red and his legs are wobbly.
 John, not at all feeling tired, puts his hands on his hips, "I think we did well for tonight." It's a little past 2 AM. His eyebrows shoot up in surprise when he sees the time.
 He mumbles, "Whoa. Time...just flew, huh?"
-The eccentric author regards John for a few moments, "Err...John? You don't seem to sweat...or maybe I'm just seeing things..." He squints and takes a step closer. John backs off.
-John evasively answers, "Uh...I'm quite used to this actually." It's a BS reply, and he hopes that Stephen won't pry any further.
+The eccentric author regards John for a few moments, "Err...John? You don't seem to sweat...or maybe I'm just seeing things..." he squints and takes a step closer.
+John backs off and evasively answers, "Uh...I'm quite used to this actually." It's a BS reply, and he hopes that Stephen won't pry any further.
 Thankfully, Stephen sits down and lets out a long and drawn-out sigh, "Y--You have my thanks, John. I've learned a lot from you and your Kenpo teachings." He sounds so formal.
 John nods and replies, "No problem, Mr. Burg. I'm always glad to impart my knowledge of Kenpo to those who are willing and able to learn."
-Stephen chuckles and shakes his head, "The swarthy gentleman politely told Kiichiro Takahashi of his willingness to share his vast, arcane, and borderline-esoteric knowledge with the eager warrior." 
-The Assamite laughs along with him. Stephen continues, "I'll be sure to mention you in the book if I ever finish it. The main character, Kiichiro, will do a lot of Kenpo stuff. Fighting, mainly."
+Stephen chuckles and shakes his head, "The swarthy gentleman politely told Kiichiro Takahashi of his willingness to share his vast, arcane, and borderline-esoteric knowledge with the eager warrior."
+The Assamite laughs along with him.
+Stephen continues, "I'll be sure to mention you in the book if I ever finish it. The main character, Kiichiro, will do a lot of Kenpo stuff. Fighting, mainly."
 John puts forth, "Y'know, there's a song about Kenpo, it's--"
 Stephen tiredly holds up his hand, sweat continuously dripping down his forehead, "Yes, yes, I know. It's from RedCloud. I listened to it so many times that it now loops in my head at the most inopportune and inappropriate times."
 "You really are dedicated to your craft, huh?" John glances at the mess and wonders how the hell Stephen hasn't complained about the smell.
 He gestures to the clutter and queries, "And all this...crap doesn't bother you?"
-Stephen clicks his tongue, "It's my process. I'm not as slovenly as what appears in front of you, but Kiichiro Takahashi IS quite a messy fellow."
+Stephen clicks his tongue, "This 'crap'...it's my process. I'm not as slovenly as what appears in front of you, but Kiichiro Takahashi IS quite a messy fellow."
 "And the fast food wrappers?"
 "Ah, that's me, alright. If I were you, I'd avoid the alfredo they serve down in the restaurant. It's terrible. And, well, I just love greasy fast food. That's why I have it delivered up to my room."
 John raises his eyebrow, "I thought you were staying in here until you finished your book?"
@@ -6555,7 +6557,7 @@ The question hangs in the air for a while. Stephen absentmindedly mutters someth
 He then turns to John and says, "Yes, yes! Sorry about that. I was uh...thinking about the book. Please give my thanks to Master-P and tell him that I am more than satisfied with your services."
 The writer gets up and heads to his hotel safe. He turns the combination dial to a specific set of numbers, pulls the lever down, and the safe pops open.
 Stephen rummages through it and produces 2 crispy $100 bills. He gives it to John and smiles, "And a little extra for your trouble. A...tip, if you will."
-John's eyes light up, "Whoa. Y--You--" The words get stuck in his throat. It's been a while since he's held a dollar bill.
+John's eyes light up, "Whoa. Y--You--" the words get stuck in his throat. It's been a while since he's held a dollar bill.
 The Assamite bows and gratefully accepts the money, "Thank you, Mr. Burg. I--I really appreciate it."
 Stephen waves his hand, "It's no issue. Tell your Master-P I'll be wiring the money soon. But keep the tip for yourself, Mr. Suarez. I believe you've earned it. Also, if I may?"
 "Sure?"
@@ -6566,12 +6568,12 @@ John hesitates, "I guess so, yeah."
 "I'll be sure to look you up on any social media. If I have any Kenpo-related questions, John Suarez will be my first port of call. Haha!"
 The Assamite nervously laughs along, "Yeah. So, uh...goodnight, Mr. Burg. I hope you finish your book and I hope it does well."
 "I WILL! And, rest assured that I'll make sure to mention you by name in the acknowledgments."
-John declines, "Actually, I'd prefer to be left out. Acknowledge the dojo and Master-P if you want. B--But, just leave me outta it." He's gotta think about the Masquerade and all.
+John declines, "Actually, I'd prefer to be left out. Acknowledge the dojo and Master-P if you want. B--But, just leave me outta it." He's gotta think about the Masquerade and all!
 To have his full (and real) name on a book (regardless of whether it sells or not) wouldn't be too great, especially on nights such as these.
 Stephen frowns, "Oh...why?" His expression quickly changes as he conjectures, "Ah! Of course, you are concerned about your privacy, eh?"
 John shakily nods, "Something like that, yeah."
 Stephen elaborately bows, "As you wish, Mr. Suarez. As you wish. Goodnight!"
-John gets the hint and leaves the mortal to his writing tasks. This was one of the most unusual nights of his Unlife. But, a job's a job, and John will take whatever he can get at this point.
+John gets the hint and leaves the mortal to his writing tasks. This was 1 of the most unusual nights of his Unlife. But, a job's a job, and John will take whatever he can get at this point.
 He steps in the elevator and waits for it to go down to the lobby. Once back in his car, he pulls out the 2 $100 bills he got and checks them to make sure they aren't counterfeit.
 Once he's satisfied, he puts them in his wallet and drives off into the dark night.
 Svetlana has left a few text messages, asking about his whereabouts and inquiring if he needed anything. John quickly texts back: "I'm OK. Interesting night 2nite. How was ur night?"
@@ -6595,7 +6597,7 @@ OBED: "I know. We are surrounded by those who would see us all driven to the sea
 ILHC: "Very much so. Preventative action and overwhelming force are key components in our strategy."
 OBED: "Affirmative. As I said before, I will send you whatever information I can. And, thank you again for providing us with the LVNDR system. It's been very useful thus far, despite its power requirements."
 ILHC: "For the sake of our own data-gathering, how did the LVNDR system flag this John Suarez?"
-OBED: "A recent Google search was performed on the computer of a foreign national- an American- we've been closely monitoring due to his associations with certain unsavory elements hostile to the State of Israel."
+OBED: "A recent Google search was performed on the computer of a foreign national- an American author- we've been closely monitoring due to his associations with certain unsavory elements hostile to the State of Israel."
 ILHC: "Indulge us. Would your best analyst have been able to draw that connection in record-time?"
 OBED: "I do not mean to speak ill of the brave men and women assigned under my command, but it would take them a good amount of time to compile this information and draw the appropriate conclusions."
 ILHC: "We are now certain that you appreciate the power of the LVNDR system at your disposal, Commander Gallant. Is there anything else?"
