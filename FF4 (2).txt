@@ -374,11 +374,11 @@ ILHC: "Precisely, Commander Gallant. It appears they are lashing out- violently-
 OBED: "Yes. That appears to be the case. Although, I wish our enemies would congregate in a singular location. Then, we could just do what we usually do- bomb it from the skies and wipe them all out with a single blow."
 ILHC: "Yes, but your circumstances and operating environment are vastly different. You need to keep in mind that these are not mere terrorists. No. They are monsters with abilities and powers that simply defy comprehension."
 OBED: "Yes, I have read our extensive files on them. Many times over."
-ILHC: "Then, put that knowledge to good use. Fire scares them, it makes them flinch. Fire is their primary weakness. Remember that. Always."
+ILHC: "Then, put that knowledge to good use. Fire scares them, it makes them flinch and act irrationally. Fire is their primary weakness. Remember that. Always."
 OBED: "Yes, always. Now, we will utilize incendiary weapons on the field against them. B'ezrat HaShem, we will kill many of them on our next encounter."
 ILHC: "See to it that you do. Otherwise, you may find yourself losing many more men and women before this operation is concluded. And if that is the case, then we will have no other choice but to pull back from the UAE; it'll be too risky to remain and the international fallout alone would be too much to bear."
 OBED: "To hell with the international community and its feelings! I must ensure it does not come to that. I will not fail, I will not falter, and I will not lose another good Israeli man or woman to these monsters. We will burn all our enemies in holy flame."
-ILHC: "Indeed. Burn them all. If you get close enough, stake them first. It is ironic, isn't it? How a simple piece of wood through the chest humbles these beings and renders them completely helpless and at our mercy."
+ILHC: "Indeed. Engulf them all. If you get close enough, stake them first. It is ironic, isn't it? How a simple piece of wood through the chest humbles these beings and renders them completely helpless and at our mercy."
 OBED: "Very much so. Many of my people frequently joke about it, too. Please, make sure that our 7 fallen soldiers get a proper burial."
 ILHC: "You let us handle that. May God watch over you and your men, Commander Gallant."
 OBED: "And may He watch over you as well. How is the situation back home?"
@@ -405,7 +405,7 @@ ILHC: "We are handling that part very well. All the international bodies and org
 OBED: "And the Israeli High Command has my undying loyalty and devotion. As do your superiors at the Israeli Ministry Of Defense. How did our partners in the Coalition react to our recent operational success?"
 ILHC: "At the moment, the IMOD has seen fit to withhold information of our involvement. There are some within the Coalition who continue to remain ambivalent about our necessary methods. They view it as 'too far' and 'too much'."
 OBED: "There is not a depth we won't sink to in order to protect Am Yisrael from these monsters. Nothing is off limits when it comes to the protection of the nation from all threats, natural, supernatural, or otherwise."
-ILHC: "True. You must be willing to make sacrifices. We all must be willing to make sacrifices for the good of Am Yisrael. It is the only way that we can truly keep ourselves save from the blank body scum."
+ILHC: "True. You must be willing to make sacrifices. We all must be willing to make sacrifices for the good of Am Yisrael. It is the only way that we can truly keep ourselves safe from the blank body scum."
 OBED: "Indeed, indeed."
 ILHC: "Do not hesitate to make use of the Hannibal Directive, should the tactical situation call for such drastic measures."
 OBED: "It won't be easy. Chas V'chalila (HEB: God forbid) I should find myself in such a position. But, it is better for our enemies to inherit nothing than a little bit of something that they can use against us."
@@ -420,7 +420,7 @@ OBED: "Of course, of course."
 ILHC: "Then, may God bless you and keep you and the brave men and women under your command. May His face shine upon you, now and forevermore."
 OBED: "And may He give us victory over all our enemies. Shalom aleichem."
 ILHC: "Aleichem shalom, Commander Gallant. Dismissed."
-With that, the chat messages begin to auto-delete. Commander Gallant sits back in his chair, exhales sharply, and rubs his forehead. This scumbag has been at it for a long time, but this mission has proven to be 1 of the toughest he's had in a while.
+With that, the chat messages begin to auto-delete. Commander Obed Gallant sits back in his chair, exhales sharply, and rubs his forehead. This scumbag has been at it for a long time, but this mission has proven to be 1 of the toughest he's had in a while.
 His mind races with the possibilities, as well as the potential outcomes of any action or decision that he makes. It's a lot to think about and handle. He closes his eyes and mutters a small prayer.
 He says a few meaningless words for the 7 goons who were killed tonight.
 Things are moving fast, things are moving on. The city of Al-Kushraf is about to get caught up in a ferocious battle between the Kindred and the forces of the Second Inquisition.
@@ -429,8 +429,72 @@ After the night of bloodshed and violence, a new day dawns on the gilded city. T
 Mortals (and maybe a few Ghouls) are just waking up, stretching their limbs, and getting ready for another busy day.
 The traffic is heavy, the city streets are bustling with activity, and the smells of coffee and other aromas are heavy in parts of this Middle Eastern metropolis.
 All in all, a fairly normal and mundane day in Al-Kushraf, UAE. Despite everything that has happened, despite the looming threat of the Second Inquisition, it's like nothing is happening. Nothing at all.
-That's because this fight will be waged from the shadows. It will be in the dark nights. It will be fought by a brave souls who dare to stand up to the oppressive forces. It will be fought in secret.
+That's because this fight will be waged from the shadows. It will be in the dark nights. It will be fought by brave souls who dare to stand up to the oppressive forces. It will be fought in secret.
 And mortals might get caught up in the thick of it all, but that's a bridge that'll be crossed when all the involved parties finally get there.
 For now, this is merely a prelude to the storm of blood, bullets, blades, and fire that is soon to come and sweep this city.
 Chapter 15: Menace
-4 nights pass
+4 nights pass without so much as a squeak. A lot has occurred over those past few nights, but the city is still reeling from the Marjan Tower bombing. Community efforts to provide a comprehensive count of the deceased are met with stonewalls...
+From above. The Emirati authorities are hellbent on making sure that a collapsed structure doesn't impede the flow of commerce.
+So, they do something unexpectedly expected. They pay a whole freaking bunch of pliable, naïve, and easily manipulable influencers to make sure that attention is diverted elsewhere. They also make sure that every single newspaper in the region and keeps it quiet.
+This way, there's not much talk of the incident, both online and offline.
+The people of Al-Kushraf are outraged, but not exactly surprised. This kind of shit is almost expected at this point. However, there's something about this particular incident that's gotten under their skin.
+These extremely polished and airbrushed (to the point where they look like homunculus wax figures) influencers extol the "amazingness" and "awesomeness" of Al-Kushraf.
+A short video on Instagram is just a generic montage of cars, plump asses, and palm trees with some upbeat music in the background.
+"Come, come, visit Al-Kushraf today!" a well-chiseled man beams, shiny teeth on full display as he says this. His hair is styled into a generic quiff and his shirt is unbuttoned to the sternum. He looks like an absolute tool.
+"Don't worry about what you've read! It's just like Dubai, but better in every way. See you soon at the UAE," he winks at the camera. His voice is heavily autotuned and the whole thing sounds so cheesy and forced.
+A woman shows the view of the city from high up in her penthouse suite. It's quite something, alright. She then pans the camera to herself and over-enthusiastically says, "Al-Kushraf is great! The best in the world!"
+The camera then cuts to a man with a man bun, sunglasses, and a stylish beard. He's wearing a black t-shirt that reads "AL-KUSHRAF" in bold white letters. He has a toothy grin on his face as he says, "If you're looking for a good time, come on down to Al-Kushraf!"
+The video cuts back to the woman who pouts and kisses the camera lens. She giggles, "Oh, Al-Kushraf, how I love you so." She looks like she's having a good time. A REALLY fake-good time.
+She looks right at the camera and blows another kiss. She flicks her hair and giggles some more. She's enjoying this whole charade.
+Well, she's being paid to.
+These influencers might be superficial and not wholly there at times, but they're not necessarily bad people. They're just blunt tools in the hands of an image-obsessed ruling elite that is desperate to stay afloat no matter what.
+The influencer campaign is truly ghoulish and woefully out of touch, but any kind of negative (I.E., realistic) comments in regards to the current situation are censored, deleted, or even punished with arrest by the Emirati authorities.
+A professor was arrested for questioning the bad timing of the influencer campaign in relation to current events. She was eventually released after a while, but the damage has already been done, so to speak.
+The whole thing is an exercise in absurdity and it does absolutely nothing to help the situation. The people of Al-Kushraf are being pushed to their limits. Many want answers, they want justice, and they want accountability and transparency.
+Well, good luck with that.
+As for the 4 Assamites, they've been busy working. SI or no SI, there's bills to pay, rent to take care of, and a roof to keep over one's head. The last one's particularly important for creatures who can no longer see, let alone be out in the sun.
+Svetlana got some babysitter gigs to help keep her afloat. John, thankfully, got a few important and quirky clients to privately train in Kenpo.
+Abdullah keeps up appearances at his work. Poor Zeina keeps getting hit on by this creepy expat guy; he keeps asking for her number and she keeps refusing. She wishes she could just gut him like the pig he is, but she has to hold back.
+She could easily take him on, but there's the Masquerade (and a whole bunch of other stuff) to consider.
+It's a struggle for sure. A very real and tangible struggle. And the fact that she doesn't have the funds to leave this city (like some of her fellow Assamites) and go somewhere else doesn't help her much.
+If anything, it makes things far more depressing.
+Zeina does cry tears of blood in the bathroom stall every now and then. Sometimes the emotional toll is too much for her to bear. The sanguine tears are a quiet protest against her current situation.
+Still, she does serve, clean up, expect half-decent tips (of the monetary variety) and she goes about her work. It's just that her work isn't as fulfilling or as rewarding as she would've liked it to be.
+The other Blade of Haqim members have their own jobs to work at- after all, it's only been a measly few weeks since they had to flee Dubai. Ever since then, many of them have been trying to adapt to the sudden change in environment.
+Al-Kushraf city is all new territory for them. What happened back in Dubai was enough to send most Kindred running, but they've held firm. Well, most of them anyway.
+Questions still remain about what exactly happened that night. It's not likely that these newly-arrived Assamites will be privy to the answers, though.
+As for Seth Steale, he continues to shore up and secure his position in the Domain. His network of informants and contacts is expanding by the night.
+He's also able to make connections with those who might prove to be useful in the future.
+His influence is growing by the minute and it's only a matter of time before he proceeds with his grand plan. As a prominent Setite High Priest, he knows how to use his charm and charisma to get what he wants from who he wants and when he wants.
+His cult goes with the motions, but many of them have (by now) heard of the M-Tower bombing. There's some panic and many devotees demand that the High Priest come and allay their many fears and doubts with a word from Typhon.
+Seth couldn't care any less about his food source. Edwin, his Ghoul, however insists that he at least pop in, even if only for a few minutes. Otherwise, it'll cause unrest amongst the cultists and that's the last thing anyone needs right now.
+Seth says he'll "think about it."
+However, Seth remains concerned about the potential leaks and loose ends at the cult. On Seth's request, Gallagher was able to "apprehend" a few more cultists who were making phone calls to the outside world.
+They were quickly exsanguinated and Edwin (the very source of the issue) made sure to dispose of the bodies properly...and respectfully.
+He facilitated their phone calls to their relatives, loved ones, or whoever. He just didn't expect it to end so violently. At least none of the people who were caught named Edwin before they were brutally drained by Seth, Gallagher, or any other Setite visiting during that time.
+For now, however, all loose ends at the cult have been taken care of and successfully plugged. However, Seth remains none the wiser that his own Ghoul was the one providing the cellphones to make calls.
+And Edwin makes sure to keep his head down, his mouth shut, and do whatever his Domitor demands of him, no matter how demeaning. If anything, he's glad that he hasn't been made.
+The poor guy shudders to think of how his master will draw out his torture or torment if he finds out that it was his Ghoul who gave out the phones and facilitated this treachery.
+Aside from all that, Seth's cult has seen an increase in sicknesses in the last few nights (no surprise there). Regardless, people are still flocking to the Domain to seek guidance from Typhon, as well as to pay their respects to the High Priest.
+It's a strange, but profitable dynamic, and Seth is quite the wealthy man. "God" might or might not exist, but in their (or its) name, a lot of money is to be made.
+Aaron Hart never made it to his hotel room. The Israelis kidnapped him in the airport shortly after his flight landed in Al-Kushraf. He was sedated by a fast-acting toxin, bundled up, and carried off to an underground structure in a nearby industrial district.
+The SI goons were all wearing disguises and thick gloves to ensure that there were no fingerprints left behind. Their getaway vehicle was also clean and sterile, no DNA left behind, no evidence, nothing.
+For the past 4 nights, he has been subject to brutal torture and interrogation (enhanced questioning) methods. Those fascist thugs already have a preconceived notion of Mr. Hart in their heads. A preconceived notion based on concocted and purely imagined connections to vampires.
+Waterboarding, extreme sensory deprivation, cattle prods to sensitive body parts, beatings, loud and grating sounds, forced ingestion of various substances, etc. You name it, it's definitely happened.
+Aaron has been beaten, battered, and bruised. His face is covered in blood, sweat, and tears. The SI thugs are relentless, unrelenting, and they won't stop until they get what they want.
+They want answers, but Aaron has none whatsoever. He keeps repeating that he is an "American citizen, a human rights lawyer." He rightly (and constantly) asserts his rights, but the scum torturing him don't give a shit about any of that.
+Aaron is just a "potential blank body sympathizer" to them. He's guilty until proven otherwise (and even then, it likely won't matter). This is a kangaroo court and he's the only one in it.
+It's all too much for him to bear, but he endures it with what little strength and resolve he has left. It's hard, though. He's just a mortal man, a human rights lawyer.
+He never expected, in a million years, to get wrapped up in all this lunacy, this madness. And yet, there he is in a damp, nondescript concrete structure a few meters below ground. His screams, pleas, and cries for help go unanswered.
+The walls are thick and the structure itself is soundproofed. Only the SI goons can hear his screams, but they don't care, some of them even take delight in his pain and suffering. They've heard it all before. They're not moved in the slightest.
+And they have the chutzpah to call vampires the monsters...
+All they care about is getting the information they want from this poor sod. His name is Aaron Hart, he is an American citizen and a human rights lawyer, and he has been designated as a potential blank body sympathizer.
+One sincerely hopes that the Blade of Haqim finds him and rescues him before it's too late. But, what then? How will Aaron Hart react when he finds out that vampires are indeed real?
+It's too early to answer that question now.
+Anyways, Tommy the Nosferatu Primogen finally has some info. He and his fellow Nossies down in the sewers have been able to decipher those 7 SD cards.
+There are some interesting tidbits on there. However, the information is only useful if you know how to read it. Which is precisely why Tommy is able to piece things together. He's a genius when it comes to this sort of thing.
+He calls for a meeting with the Banu Haqim quartet at an abandoned building to share his findings. It's mainly some info related to patrol routes and so on.
+Honestly, there's not a whole bunch to go off of, but it's a good starting point. Either way, it's a goldmine for the Sewer Rats who are all the more happy to get their grubby misshapen hands on info and secrets and the like.
+The information is used to its fullest potential, too. The Nosferatu can now begin to paint a better picture of the Unit 8211 threat in this Domain. What they do with said info and who they decide to share it with remains their prerogative.
+A Crawler and their many little (and big) secrets are not easily parted.
+Night falls fairly quickly. The evening air is warm, but not horribly so. A few stars
