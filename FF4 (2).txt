@@ -635,7 +635,7 @@ The nearby techs and analysts fall deathly silent. Uneasiness falls over the ent
 The air is still and no one dares to move.
 Commander Gallant solemnly nods, "That is quite the toll. Nevertheless, these 21 brave men and women- soldiers and techs will be given the funeral that they rightfully deserve. A valiant hero's burial."
 The other operators and officers begin clapping and saluting their dead comrades.
-Commander Gallant adjusts his kippah and sniffs, "When the drones were still active, we counted 4 blank bodies- there could have been more lurking in the shadows, however. What is your estimate, Lt. Klein? How many do you think were present."
+Commander Gallant adjusts his kippah and sniffs, "When the drones were still active, we counted 4 blank bodies- there could have been more lurking in the shadows, however. What is your estimate, Lt. Klein? How many do you think were present?"
 Lt. Klein dryly answers, "Without proper intel, I cannot give you an answer, sir. But, if I were to make a tactical estimate, I'd say somewhere around 6 highly-trained, likely older, blank bodies were present."
 The Commander presses his lips into a thin line and nods, "Hmm. Interesting. Dismissed, Lt. Klein. And thank you."
 She firmly salutes her superior, turns on her heel, and walks off to take care of some other things.
@@ -648,7 +648,7 @@ The Commander rubs his short beard and asks, "Oh, really now? Have you made a po
 Lt. Raz swipes her finger and a picture of Zeina and John appears. She points at their faces, "These 2, sir. We've already identified the male, sir. We'll need time, however, to locate the female."
 The Commander's face contorts into a look of rage and disgust, "God strike these filthy terrorists down. Especially that Suarez dog. Who else?"
 Lt. Raz swipes again and a picture of Abdullah appears, "He looks...young, sir."
-"Pfft. He could very well be 100s of years old, Liora! Who else?"
+"Pfft. He could very well be 100s of years old, Liora! Who else?!"
 The Lieutenant faintly sighs and swipes again. Svetlana's picture appears and the Commander's eyes widen just a little. His face tics and he snatches the tablet from his Lieutenant.
 The Commander grunts, "Her...? I--I've..."
 "Sir?"
@@ -730,14 +730,14 @@ Seth gets up and shakes Gallagher's hand, "It was a nice chat, Gallagher. Thank 
 Gallagher presses his lips into a thin smile, "Yeah, I'm just grateful for the opportunity to be of use, y'know. I feel like this is what I--I was always meant to do- busting skulls, breaking bones, and upholding the Masquerade no matter what."
 Seth places his cold hand on Gallagher's tensed shoulder, "Oh, believe me, Ewan. When the dust finally settles, WE will be very busy. You know that you can always come to me with any questions you may have, right?"
 "Mm-hmm."
-"Especially questions of a...spiritual nature. I'm always here to help you navigate through your troubles."
+"Especially questions of a...spiritual nature. I'm always here to help you navigate through your troubles. And don't forget to keep practicing those mindfulness techniques I told you about, OK?"
 Gallagher quickly nods and takes his leave from the High Priest's Haven, "I'll keep that in mind. And um...you can always rely on me, good ol' Ewan, to have your back out there. I owe you a lot more than 1, heh."
 Seth smiles and sees his fellow Serpent off, "Of course I can. You've proven yourself thus far, haven't you? We'll talk soon."
 After the ex-Sheriff drives off, Edwin, Seth's Ghoul, approaches. His head is bowed low, and he looks a bit sleep deprived. He clears his throat and asks, "All good, sir?"
 Seth narrows his eyes a little, "Of course, why wouldn't it be? Why, has something happened in the compound? Oh, god, please don't tell me something's up? Frankly, I am quite tired of dealing with people's problems or whatever other 'issues' they're having this week." The disdain for his own cultists is quite evident in his tone.
 Edwin shakes his head, "It is nothing, sir. Everything at the compound is--is quiet as a mouse, sir."
 Seth's eyebrows shoot up, "Hmm, music to my ears, Edwin. If you need me, or if something important arises, then I'll be meditating. Otherwise, don't disturb me. Got it?"
-Edwin bows his head, "As you wish, sir. May...Typhon continue to watch over and bless you, sir."
+Edwin bows his head, "As you wish, sir. May...Typhon continue to watch over and bless you, sir." He tries his best to hide his uneasiness in the presence of his master.
 Seth faintly chuckles, "Yes, the same to you, Edwin. The same to you."
 With that, the High Priest slowly walks off to his darkened meditation room. He sits in the middle of the room, crosses his legs, straightens his back, raises his chin, and shuts his eyes.
 He forces some air in and out of his dead lungs and begins meditating. The sounds of the outside world going about its business become a dull hum in the background.
@@ -772,7 +772,7 @@ Aaron's entire body quivers and a wet spot appears in his boxers. His vision dar
 Short of nearly killing Mr. Hart, Yishai's barbaric methods produce absolutely no results. He lets go of Aaron's neck and scoffs, "Tch. I expected more out of you. Pity."
 After a few moments, Yishai picks up a bottle of orange juice and empties its contents all over Aaron's head. Aaron weakly sputters, coughs, and gasps for air. His eyes are bloodshot, and he's shaking uncontrollably.
 Yishai sighs and looks at his watch. He callously says, "There, breakfast is done. Now, where were we, hmm?"
-Aaron musters up a tiny bit of energy and rocks on his chair, screaming, "YOU CAN'T DO THIS TO ME! My name is Aaron Hart. I--I am a human rights lawyer from the United States of America! You have no right to do this to me!"
+Aaron musters up a tiny bit of energy and rocks on his chair, screaming, "YOU CAN'T DO THIS TO ME! My name is Aaron Hart. I--I am a human rights lawyer from the United States of America! YOU HAVE NO RIGHT TO DO THIS TO ME!"
 Yishai looks at his pliers and grins, "You have no rights over here, only answers."
 He shakes his head and marches towards the bound-up mortal.
 He cups Aaron's face with his grimy hands and looks directly into his fear-ridden eyes, "Answers which I will get out of you- 1 way or the other. My friends, good men and women, were killed by your friends last night."
@@ -793,4 +793,329 @@ Aaron shivers.
 Aaron chokes on his words and tries to speak. He gasps for air, "M--my name--name is--Aaron--Hart. I'm an American--I'm an American citi--"
 Yishai throws the shock stick to the ground and storms off. He slams his fists against the door and yells, "HE'S NOT SAYING ANYTHING! FUCK!"
 Damn, somebody better rescue poor Aaron...and soon. He can't hold out forever- no one can. What happens after can be figured out on the way. One can hope that the Blade is fast enough to get him away from these fucking maniacs.
-Anyways, the sun begins its ever so
+Anyways, the sun begins its ever so slow descent towards the horizon, and the mortals of this sprawling city resume their evening activities and pursuits. Most of them go home or head to wherever it is they choose to spend their evenings.
+Once that fiery ball has made its retreat, the Kindred in this Domain awaken from their day-long slumber.
+Svetlana is awakened by the sounds of little Chloe giggling, followed by a squeaky voice that says, "Setlana! Setlana"
+The Wraith child's small (and flickering) form is sitting on the edge of Svetlana's bed and waving at her.
+Svetlana forces a faint smile and weakly returns the gesture. She then groans as she struggles out of her bed. The spectral girl jumps up and follows her Fetter.
+Svetlana crosses her arms and looks down at the poor child, all wide-eyed, innocent, and (blissfully) clueless about her current state of Undeath. She wants to say something to the shimmering child, but the words fail to leave her mouth.
+Chloe tilts her head, "What's wrong, Setlana??" Her voice is somewhat ethereal. It's soft, but clear, like a child's. Yet, the echo makes her sound otherworldly. She also sounds very...distant yet nearby at the same time.
+Svetlana sighs deeply and crouches down to face the Wraith child, "I must take bath now. You go and wait for me, da?"
+The Wraith kid earnestly nods her head and zooms off. She giggles, and her hazy form disappears through a solid wall. Svetlana looks at this and lets out another sigh.
+From there, she proceeds to take a nice, warm bath. No matter where the Fetter goes, the Wraith will be close by, too. Did little Chloe witness the violence that her Fetter committed last night?
+One can hope she at least shut her eyes when Svetlana was stabbing the shit out of those Unit 8211 agents.
+John wakes up and checks his phone. He sees a message from his boss, Master-P, which reads: "Good evening, Mr. Suarez. I have a few clients that I would like 4 u to train tonite. How about it? Big $$$"
+The Assamite clicks his tongue and winces. He texts back: "Sorry, Praveen. Not tonite. I got something else that requires my immediate attention."
+Within a minute, John's phone buzzes with a reply: "Ayoyo, what is this, habibi? You cannot do like this, John. I have a bloody business to run, man."
+John's fingers dance across the virtual keyboard: "Look, I'm really sorry, alright? I wish there were another way, but there isn't, OK?"
+"What is this urgent thing u are attending 2 anyway????"
+"It's personal."
+"Very well. But, if u keep doing like this, then i will have no other choice but to let u go, John habibi. U r a talented Kenpo instructor, so pls finish whatever u have to do and don't waste our time like this, yes?"
+John sniffs and rubs his eyes a few times: "Sure, sure. Thanks, Praveen. And take care."
+Praveen simply replies with a thumbs-up emoji. John puts his phone aside and does a few sit-ups before heading for the shower. There's a long night ahead for these bloodsuckers!
+After he's done bathing, John texts his Childe: "I'll come over and pick u up."
+Svetlana is wiping her hair with a towel. She had decided to wash it tonight, so her blonde hair is somewhat shinier than usual, it also smells like roses. She puts the towel aside and types a simple response: "Da. OK." 
+Svetlana takes her sweet time getting dressed. She opts for something practical- jeans and a simple blouse with faded geometric patterns on it. Her shoes are black ankle-boots. She still has a little bit of mascara and some eyeliner left, so she applies that.
+She packs her 2 daggers into her bag, and some cash as well. Then, she walks out into the living room and sits down on her couch, staring blankly into nothing.
+Little Chloe's ethereal giggles interrupt the Assamite's silent moment of contemplation. Svetlana exhales sharply and looks in the direction of the noise. Her mouth is set in a grim line, and her green eyes are filled with...sadness and anxiety.
+The spectral child zooms around and stops right in front of Svetlana. Her head is tilted, and there's a small smile on her face, "Can we play Barbie, Setlana?"
+Svetlana sighs and her shoulders slump a little. She flatly says, "Not tonight, malen'kiy (RU: little one)."
+The child pouts and begins to flicker.
+After some very long and tense silence, there's a knock at the door. Svetlana gets up, opens the door, and sees her Sire standing outside. He looks fresh, and he's wearing jeans, sneakers, and a black hoodie. His hands are stuffed inside the pockets of his jacket.
+She moves aside and lets him in. He takes a look around the place and nods approvingly, "Heh, you keep it clean. Yeah, haha, nice, nice. Love what you've done with the place."
+He sits on the sofa and joins his cold hands together, "Um...taxi's waiting outside, but I wanted to talk to you before we head out."
+Svetlana sits next to her Sire and looks at him, "Da. Talk about what?"
+John's gaze is downcast and he looks a little uneasy, "It's about Abdullah. I'm worried for him."
+She remains silent and prompts him to go on.
+He does so, "You know he was only 19 when he got Embraced, right?"
+"Da. What is worrying you, John?"
+John looks into his Childe's eyes and directly asks, "That Irish Tremere you're friends with. Saoirse, right? You think she can help us out in our...err...fight against these SI bastards?"
+Svetlana shakes her head and answers, "Nyet. She is busy with work."
+John clicks his tongue and winces slightly, "Dammit. S--Sorry. It's just that we could use another Blood Sorcerer. I don't wanna...stretch Abdullah too thin when we're out there fighting. You saw what he did last night, right?"
+"Da. It was...impressive, no?"
+John points out, "It sure was, heh. But, it takes a lotta skill...and a lot more Blood to do stuff like that. That's why...well, never mind." He lets out a tired sigh and hangs his head. He runs his hands over his face and exhales slowly.
+His head feels like it's spinning and there's an ache deep in his chest. It's been there since last night's battle against the SI menace. While most of the outward wounds have mended themselves over these last few hours, the inner wounds still ache like hell.
+He takes a few more breaths and says, "Just promise me 1 thing."
+"For you, anything."
+John gulps, "Let's promise to watch each others' backs out there, OK? Abdullah and Zeina managed to convince the others to meet us at some old warehouse. After we fled Dubai, we uh...didn't really get much of a chance to catch up."
+He smiles weakly and adds, "A lot of them are asking about you."
+Svetlana gingerly puts her hand on her Sire's back and nods, "Da. I am looking forward to seeing them after...so long."
+John comments, "Even though it's only been a few weeks since...all of that, it still feels like it was forever ago."
+"Da," the Assamite Neonate looks to the side, almost wistfully.
+John asks, again, "Are you sure Saoirse won't be able to help us?"
+Svetlana silently shakes her head.
+John then gets up from the sofa and heads to the front door. He turns around before leaving, "I'll uh...wait downstairs. I already fed, by the way. You might wanna grab someone from around here. Traffic's heavy and we've got a long way--"
+Just then, a power cut hits and everything is shrouded in total darkness. Svetlana's face is bathed in a bluish light that comes from a nearby emergency lamp that's plugged in.
+There's a faint moan in the apartment block that cuts off a few moments later.
+John remarks, "Damn, here too, huh? Same problem back in my Haven. Hmm. I'll see you when you're ready. Don't take too long." He pulls out his phone and uses the flashlight app to see better. Then, he closes the door and walks out into the corridor.
+After the power comes back, he heads downstairs, leans against the wall, and waits.
+Svetlana sees little Chloe's Wraith reappear. She's shimmering and phasing in and out. She innocently asks, "Are we going somewhere?"
+Svetlana nods, "Da. I will be gone for some time. I do not know how long."
+The Wraith protests and whooshes about, "Noooo, Setlana! No go! Stay with me and help find me Barbie!"
+Svetlana tries her best to fight back the torrent of sanguine tears forming in her eyes, "I...cannot. Not now, please. I--I must go."
+The Assamite sincerely hopes that the Wraith kid doesn't appear at the most inopportune moment, like when she's in the middle of a fight or something.
+That would be most unfortunate and very distracting. And given how last night's fight went, even a moment's distraction could prove to be quite catastrophic.
+(Especially with incendiary weapons now in play).
+Svetlana grabs her bag, her 2 daggers, and locks her front door. The last thing she sees is little Chloe's ghostly form just standing there, all sad and confused. It hurts the Assamite a lot, but what other choice does she have?
+Bring-your-Wraith-child-to-work-night is not a thing. Especially when the current "work" does involve copious amounts of violence and bloodshed.
+(Violence against the very individuals most responsible for the death of little Chloe and the rest of those poor souls at the AJRT).
+Svetlana takes the service staircase. The walls are quite grimy and the white fluorescent lights incessantly flicker. The floor is covered with old stains and smells of...something. There's a fire extinguisher near the door at the bottom of the staircase, to which the Assamite pays no heed.
+She spots a lithe woman lolling about the place. She's dressed in plain casual wear, has a few piercings on her ears and a stud on her lower lip. She has an aura of disillusionment about her.
+Svetlana's inner Beast compels her to lunge forward and take blood from that woman. Given the events of last night, Svetlana is gonna need a little more than usual if she's gonna keep using her Obfuscate Discipline.
+Still, she has no intent of killing whoever this chick is. It's quite the balancing act for a Kindred who finds themselves in such circumstances, no doubt.
+So, Svetlana sticks to the shadows and creeps forward. When the woman turns around, the Banu Haqim lunges forward and chomps down on that poor mortal's neck.
+Svetlana's fangs dig deep and the woman cries out, but the Assamite silences her with a firm hand clasped over the mouth. She drinks the mortal's blood, but only takes what she needs- not a single drop more.
+When the Beast within is satisfied, Svetlana licks the wound, making sure it's sealed shut. She gently places the unconscious woman against a wall and rushes out.
+John is in the taxi, simply staring out the window. He sees the city's bright, dazzling lights, its towering skyscrapers, the vehicles whizzing about, and the many, many people going about their business.
+They all remain oblivious to the skirmish brewing just beneath the surface. A struggle that will shake the very foundations of this sprawling metropolis.
+Svetlana hops into a cab with her Sire. The ride is somewhat quiet, save for the music the driver has put on. It's some funky Arabic pop song that John can't help but bop his head to.
+His Childe, on the other hand, watches the city go by in a blur. The warm breeze sweeps her hair and her mind races with a million thoughts.
+She looks over at her Sire and thinks to herself, "Why does he seem so...troubled?" She can sense something's wrong. There's a certain vibe about him that's...kinda off.
+Oddly enough, despite not looking at his Childe, John's wondering the same thing, "She seems...distant. More so than usual. Is everything alright with her? Is she doing OK? Goddamn, I should really sit down and talk to her sometime, but when?"
+An hour later...
+That taxi ride was a lot longer (and pricier!) than expected. Svetlana pays a part of the fare and John thanks her for doing so. After walking a few meters, the 2 Assamites find themselves staring at a long-disused warehouse building.
+There's a few empty cars parked nearby. A few bright lights can be spotted in some of the nearby midrise buildings that pepper this part of the city.
+The ground below their feet is hard and rough. Svetlana looks around and clutches her bag tightly. John slings his guitar case over his shoulder and nods his head towards the warehouse's entrance.
+"Well, no time like the present. C'mon, Svetlana. Let's go."
+"Da. Let's."
+The 2 of them stride to a side entrance and push the rusty door open. John looks at his Childe and whispers, "You ready?"
+She nods her head and looks into her Sire's eyes, "Da. I am. You?"
+John smirks, "Always."
+Inside, there's about 4 dozen (or so) Blade of Haqim members milling about the place. They're all talking to each other in very hush-hush tones, and they look like a bunch of people who truly do blend in with the crowd.
+A few of them approach Svetlana and give her a big hug. A few others simply smile and nod their heads in her direction. Some of them are a bit cold and indifferent.
+It's not like they have a grudge or something against the Neonate, it's just that they don't really know her all that well.
+They're all quite ordinarily dressed, working-class vampires that are now in the midst of a strange city for the past few weeks. Sadly, many of them are yet to find dignified employment in this place.
+That kind of anguish and lingering uncertainty is reflected on their ashy, hollow-cheeked faces. Some openly brandish their various weapons (of the melee variety only).
+They're called the "Blade of Haqim", not the "AR-15 of Haqim"! It's generally considered dishonorable to slay a foe (Kindred or otherwise) with firearms- blades are the way to go for this lot, for better or for worse.
+John greets a few of them with tight handshakes and speaks to a few others. Abdullah and Zeina are in separate corners, each mingling with their fellow Assassins and what have you.
+Abdullah wildly gesticulates and speaks to some people in Arabic; he's likely talking about last night's battle. Zeina nods along, dryly, at something some older-looking man with a beard is telling her.
+Well, this is the Blade of Haqim in Al-Kushraf, UAE. Or whatever remains of them after the events of the past few weeks. There's a lot more than them, but many fled to Turkey after the raid on Dubai.
+There's many reasons why they fled, but vamps gotta eat, too. They've got roofs that absolutely need to be over their heads during the day. And given the lack of stable employment in this city, it's not too hard to see why many sought to go to Turkey.
+(A few even went back to their home countries as well).
+Zeina and Abdullah catch sight of John and Svetlana and make their way over to them. Abdullah looks quite pleased to see his fellow Assamite, and he hugs her.
+He greets her, "As-salamu alaykum."
+Svetlana smiles and greets him back, "Wa alaykumu s-salam. How are you keeping, Abdullah?"
+Abdullah shrugs, "Still a little sore from last night's fight, but I am ready for anything." His tone does demonstrate more confidence than usual.
+John pats him on the shoulder, "Don't worry, we've got your back out there. Right, Zeina?"
+Zeina nods, "Yes, of course we do. We've been waiting for quite a long time. Are you sure this Nosferatu will show up??"
+John plainly answers, "Yeah, he'll show up. He has to."
+As if on cue, that same side entrance door groans open and in walks the Nossie Primogen, Tommy. Garth is following him closely.
+Both of them stop in their tracks and their sickly eyes widen at the sheer number of Assamites packed into this structure.
+Garth remarks, "Cor blimey!"
+Tommy exclaims, "Aye, got a whole party in this gaffe, eh?"
+Both of these Crawlers are wearing face coverings (for obvious reasons). Both of them are dressed in rather tattered suits that have clearly seen better times.
+John approaches Tommy and puts his hands on his hips, "Well, about damn time! What took you 2 so long?"
+Tommy holds out his deformed hand and calms the jumpy Assamite down, "Aye, nae bother, pal. Nae bother. Calm doon."
+Garth sighs and explains, "Power outages all over the city. The grid's practically at its limit and it's having an adverse effect on our...SchreckNet infrastructure down in the sewers. Bandwidth's been stretched lately and we had to shut off some some things."
+Tommy grunts, "Aye, it's fockin' mental doon there, so nae be giving us none yer pish, awright?" He sounds gruffer...than usual.
+Garth quickly intervenes, "What he means to say is...don't add to our existing problems. As it is, we're risking quite a lot. Helping you lot is not going to be as easy as we would've imagined, what with all the recent...setbacks in our delicate systems."
+John gets a little annoyed and this reflects in his tone, "So, DO you have anything for us, then?"
+Tommy blanks out and mutters, "You have nae a scooby of how bad it is."
+Garth sharply exhales and takes his fellow Nossie to a corner and sternly whispers something to him.
+After that, he returns and says, "He's...clearly in a sour mood. Apologies."
+Tommy growls.
+Garth glares at his friend and implores, "Thomas, please."
+The Nossie Primogen holds his hands up and says, "Awright, awright. Fine. Pfft."
+John presses his lips into a thin line and asks, "What happened, anyway?"
+Tommy growls and shakes his head, "We lost a few of our own to a fire. Had to put it out, but we were too late. There's some damage here and there."
+Garth pensively lowers his head and clasps his hands together in front of him.
+The Nosferatu Primogen goes on, "Aye, since the leccy's been all over the gaffe, it's been no easy keeping our servers and computer infrastructure down in the sewers safe."
+Svetlana gasps and asks, "What about the information we gave you from SD cards?"
+Tommy sighs and pulls out another chunky PDA with numerous map markings on it. He hands it to John, "Aye, aye. There's that. Garth did all the heavy lifting there, the clever bastard he is."
+Garth's face is still lowered, "I tried my best, friends. There's...a lot of data that we still need to sift through. It's also not all perfect, given recent circumstances."
+John flicks through the PDA and finds red splotches of what appear to be more SI patrol routes. He perches an eyebrow and inquires, "More patrol routes? Is that it?"
+Tommy shakes his head and produces a printout of words.
+Abdullah takes it, looks it over, and his face scrunches in confusion, "What is this, habibi?"
+Tommy gestures for Garth to explain, which he does, "It's a list of keywords that the SI are currently scanning for. I told you about it last night. It's a rotating list. I believe this should still be valid for a...few more hours, at best."
+Zeina steps forward and raises her chin, "What do you expect us to do with...this?"
+Tommy is about to raise his voice, but Garth (once again) interjects and answers, "What you do best, of course. With that list and the patrol routes, you have an opportunity to...err...shuffle the board around a bit."
+John shrugs, "Hmm, not what I was expecting, but sure." He looks over his shoulder and can feel the eagerness of his fellow Assamites. They're ready to fight.
+Ready to Judge.
+Svetlana comments, "Is risky, no?"
+John answers his Childe, "Garth's right, Svetlana. With this, we could shuffle the board around. Split up in small teams and whittle the SI down."
+Abdullah folds his arms, "How 'small' should our 'teams' be? Personally, I think it is wiser if we worked together and overwhelmed these accursed Zionists with our might and power."
+Zeina signals her agreement with a low grunt, but doesn't say anything else. She trusts John's judgment and will follow his lead, no questions asked. He's been solid so far.
+So far.
+John glances at his Childe and gently smiles, "What do you think, Svetlana? Should we split up? Remember, we could cover more ground that way. Going together would only attract attention to us, and we don't need that right now."
+Svetlana mulls it all over in her head. There's clear advantages and disadvantages to both proposed ideas; splitting up would mean less numbers, but it'd allow for more efficient hit-and-run moves. Moreover, overwhelming the Unit 8211 threat could backfire.
+Svetlana nods and responds, "Is better for us to split up. Small teams. Maybe 10 or 12 each?"
+Abdullah plainly gestures, "Hmm, yes. 10 or 12 would be ideal. Last night, the 4 of us barely got by." He looks aside, shakes his head, and recalls the carnage of the night before- the gunfire, the actual fire, the screams, and blood.
+So much blood.
+John puts his hand on Abdullah's shoulder and gives it a gentle squeeze, "Hey, hey, it's gonna be alright? OK? We've got your back out there, don't worry."
+Abdullah weakly smiles and thanks John for the reassurance.
+Svetlana looks at the PDA in her Sire's hands and has this really bad feeling that something is about to go very wrong tonight. Very, very wrong.
+But she pushes that feeling aside. She must be strong, not only for herself but also for her Clan and her Sire.
+John looks at Tommy with some expectation plastered on his face, "Uh...any suggestions?"
+Tommy shrugs, "You lot seem tae know what you're doing..." Judging by his tone, his mind is clearly elsewhere. Losing people like that cannot be easy, especially for a bunch of close-knit, out of sight Nosferatu who have only each other and a few Touchstones to rely upon in times good and bad.
+John blows a sharp raspberry and takes a good look around the place. A lot of Assamites are ready to fight, but are they ready for the fight of their Unlives? Only time will tell.
+Svetlana suggests, "We should ask others before making choice, no?"
+John nods, "Yep, you're right. C'mon, let's go."
+John and his Childe approach a tall man in his 30s. He's tall, has a dark complexion and a neatly trimmed beard. He's wearing a loose thawb and is brandishing a poignard in his right hand.
+The weapon is sharp and pointy and has a few scratched engravings on its handle. The man seems a little tense, but his expression softens when he sees Svetlana.
+That would be Samir. He hails from Iraq and earned himself a name amongst the Iraqi Banu Haqim as a skilled fighter against US soldiers invading his homeland.
+He has killed (Judged) plenty of those stormtroopers, as is his right (and perhaps duty) to resist such horrors under the purview of international law.
+Now, he's here in the UAE in the hopes of finding work and a fresh start. Alas, that hasn't exactly been the case, but he remains devoted to the Blade.
+Samir greets Svetlana with a gentle bow of the head, "As-salamu alaykum, Svetlana. It has been...far too long."
+Svetlana greets him back, "Wa alaykumu s-salam, Samir. How are you keeping?"
+Samir smiles at John and replies, "I am keeping well. It has been a struggle for all of us ever since we were driven from Dubai, but I hope that Al-Kushraf is the city where we will find some peace."
+John smiles and greets him back, "Hey, how's it going?" He extends a hand. Samir graciously accepts and they share a firm handshake.
+John asks his fellow Assamite, "So, how are the others keeping? I haven't had much of a chance to speak to any of 'em since the...y'know. It was--well, we were all taken by surprise. It's hard to think it was all just a few weeks ago."
+Zeina comments, "Yes. The Inquisitors must pay for their treachery!"
+Abdullah cuts in, "I do not disagree. We are eager to bring the Blade down on the necks of the Zionists." His tone is very matter of fact and straight to the point. He's ready to fight. Ready to Judge.
+Samir remarks, "I understand, my friend. The events of the past few weeks have not been easy for any of us. Some, however, have struggled more than others." He sounds somewhat sympathetic.
+John inquires, "Oh yeah? I--I heard a lot of you were struggling to find a job? Damn, that sucks."
+Samir plainly nods, "Yes, habibi. I can code in at least 4 different languages, yet I can't find a decent job. No one wants an Iraqi refugee in their ranks, it seems." His voice is tinged with bitter disappointment.
+Samir's gaze lowers and John's undead heart aches a bit for him.
+Samir looks at Svetlana, and his voice grows more solemn, "Svetlana, how do you fare? You are, after all, still considered the youngest and newest addition to our ranks. 5 years since your Embrace, yes? How do you find...Unlife so far?"
+Svetlana forces a smile, "Is not ideal, but--"
+She looks to her Sire with gratitude and adds, "--I am grateful that John and Abdullah saved me."
+Samir was actually the one who taught Svetlana how to hone and utilize her Obfuscate Discipline. John initially wanted to get her to learn Celerity (like him), but she showed a natural inclination to Obfuscate, and Samir was all the gladder to share his sanguine knowledge with the then-Fledgling.
+Svetlana's voice takes on a more serious note, "I...am also sad about loss of the other Kindred, especially Prince Angela. Is not good for us to suffer such losses."
+A small tear of blood rolls down her eye, but she wipes it away and looks at her Sire with determination and strength, "We must find those responsible and...Judge them."
+The 5 spend some time talking about recent happenings (especially in and around the MENA region), Unlife, work, and how they've been adjusting.
+It's been tough on all the Assamites gathered in this joint. After a few minutes, John walks up to the front of the warehouse and shouts, "Excuse me, everybody!" Everyone falls silent and turns their eyes and ears towards him.
+Tommy and Garth stand at the front and fix their respective gazes on Mr. Suarez.
+John gulps and begins, "It's been a while, huh? Yeah, it has. T--truth be told, I was expecting a whole lot more of us, but the last few weeks haven't exactly been kind to us. I--I don't blame the others for wanting to go to Turkey or wherever."
+A few appreciative nods and mumbles come John's way. Some others grunt and shrug, but he continues, "Now, you're all probably wondering why we're gathered here."
+He beckons to the 2 Nossies and explains, "These 2 Nosferatu have been kind enough to aid us in our...err...task."
+Some chick from the back, with a heavy accent, asks, "What is our task, John?? What can you expect the Blade to do in this city?"
+Without skipping a beat, John answers, "Wiping out the SI- all of them."
+Gasps and shocked exclamations erupt from the gathered Assamites. Some seem quite apprehensive; others are excited and eager. Still, others are indifferent and unsure of the proposition. It's a mixed bag.
+A male Assamite pipes up, "Are you mad? You want us to wage a war against them? What of the Masquerade?" His tone is incredulous, and his facial expression reflects it.
+John's eyebrows shoot up momentarily and he claps his hands a few times to get the room's attention, "Hey, hey, look- I understand that you're all a bit skeptical, but...listen. Just listen."
+He goes on, "We lost people in the raid on Dubai. Our Prince is gone. Many of you are struggling to find a decent job and a roof over your heads, and it's been tough, real tough. I get it, believe me I do."
+He nervously laughs, "My own landlord is on my ass and demanding that I cough up the rent soon. But that's beside the point- look, we all fled here because we didn't have any other choice. That Tremere bastard in Abu Dhabi wouldn't let any of us in."
+He pauses and licks his lips, "So, we turned to Al-Kushraf...and maybe, just maybe, this could be the city of our dreams."
+John takes a moment to gather his thoughts. He paces around and makes eye-contact with several of his fellow Kindred. They all look quite curious and are eagerly waiting to hear more.
+John sighs and continues, "We have a real opportunity here, friends. To--to bite back. We can get the bastards who drove us out of Dubai and nearly destroyed all the Gangrel. N--Not to mention our own Primogen, Hassan."
+Even though Hassan was not of the Blade, he was VERY supportive of their cause, nonetheless. He was destroyed along with many on that fateful evening.
+Someone from the front raises his fist and states, "We must avenge Hassan! The Zionists MUST pay for their wickedness!!" Everyone (bar the 2 Nosferatu) shout and yell in agreement.
+They were very, VERY close with the late, great Hassan. He was a great Primogen of his Clan who did all he could to keep the local Kindred population together and watch over them.
+2 of his Childer were mercilessly slain. Those who were spared fled with the rest of the Assamites, out of pure desperation.
+John's eyes grow misty with blood, and he holds his chin high. His voice grows stern, "Look- I'm not going to pretend this will be easy. As it is, the 4 of us had a hell lotta trouble fighting about a dozen or so of these bastards last night."
+Some more gasps and sounds of shock permeate the room. Uncertainty is rearing its head.
+After everyone has quieted down, John says, "So, you're probably wondering how these 2 fine Nosferatu gentlemen play into all this, huh?"
+John leans forward and whispers to Tommy, "You uh...mind coming up here?"
+Tommy accepts, but Garth declines by stating, "Stage fright. A--apologies."
+Tommy greets these Banu Haqim, "Awright, people- as your wee friend here was saying- my name is Thomas and this is Garth. We're both Nosferatu from down in the sewers, and we've been given the go-ahead to assist ye in your task or mission or whatever yous wanna call it."
+The Nossie Primogen steps closer and addresses the crowd, "We are going after the SI in this Domain, but we will need help. This is not fight we can win alone, so we must work together, aye?"
+A lady in a hijab queries, "How? How can we fight against such wicked and powerful forces? There are not enough of us to go around. Perhaps we should try and contact some other groups outside the Domain? Archons, maybe?"
+Garth looks over his shoulder and answers, "That is a perfectly reasonable idea, and you are absolutely correct. But--"
+Tommy points out, "It's no' as easy as that, hen. As much as I'd love to summon a few Archons, maybe a few wee Justicars, the truth is..." He glances at Garth, then at John.
+John sighs deeply, "...the Domain's High Priest is apprehensive about getting them involved. I--I guess he has his own reasons for doing so."
+Another female Assamite comments, "If that is the case, then what do you suggest we do?"
+Tommy steps back while John takes over. He holds the PDA in 1 hand the list of keywords being scanned for in the other, "With this, we could get the drop on these sons of bitches and really whittle their numbers down."
+Murmurs reflecting the cluelessness of his comrades are heard. John goes on, "Here's what I propose: we split up in teams of 10 and, um...make a few phone calls- that should draw these SI bastards straight to you--"
+The Assamite corrects himself, "Well, it should draw them straight into the ambush, anyway. They can't hit all of us at once if we're not all gathered together at the same place."
+A tall, burly male Assamite shakes his head and disagrees, "No, habibi! We must strike with all the power and might of the Blade and cut down these wicked Zionists! TOGETHER!" He growls into the air and his fangs glisten menacingly in the dim lighting.
+The Assamite next to him concurs, "He is right, John. If we work together and use all of our numbers, then surely, we will be able to overcome their technology and power."
+Other Assamites see the logic in the plan being proposed by John. A lady in plain casuals says, "In teams of 10, we could make it look like there are 20 of us...or more! Walla, it is a good strategy! The Zionists will not know what hit them!"
+Zeina chimes in, "I agree. Splitting apart will give us an advantage over these Zionist dogs."
+Abdullah also concurs and gives his vote of confidence to John's plan.
+Svetlana has a slightly conflicted expression on her face. She looks up at her Sire with an inquisitive gaze but says nothing.
+John looks a bit out of his element here. An argument is brewing amongst the Assamites. Some are for the idea whilst some are against it. It's not exactly ideal, all things considered.
+Tommy tries to calm the situation down, "Hold on, hold on, hold on- wan at a bloody time, aye?"
+Garth remarks, "Indeed. Let's keep the peace here, shall we? We cannot afford to fight each other, especially right now. This is no time for petty squabbling."
+His voice is drowned out by lively gesticulating, loud (but not necessarily hostile) banter, and general commotion.
+John and his Childe look on and are not entirely sure of how to calm the room down.
+Samir steps up and holds up his poignard. It glistens and reflects the light in the warehouse. He speaks loudly and clearly, "QUIET, EVERYONE!"
+The room goes silent and all eyes fall on him. He clears his throat and addresses his fellow Assamites, "Now, I understand that everyone is feeling quite nervous. It is, after all, a very big mission that is being presented to us."
+He adds, "And after all we have suffered through, reprieve is something many of us rightly deserve, but the scum who drove us from our Domain are here, and that will not change if we simply sit around and wait."
+His voice grows louder, "We have an opportunity before us, and it is one that would enable us to AVENGE our fellow Cainites! Now, silence, my dear friends. Let John say what he must. We will decide after he has spoken, yes?"
+Mutters of assent are heard. Samir takes a few steps back and rejoins the group.
+John nervously smiles and says, "T--thanks, Samir. Anyway, as I was saying: the plan is pretty straightforward."
+He goes over the idea in its entirety- use the info provided by the Nosferatu to split the Inquisitors up and hit 'em hard when they eventually show up at the designated locations.
+After he's done, Zeina questions, "What if some of them do not respond?"
+John looks at her and answers, "C'mon, Zeina. These Israeli maniacs will never give up on a chance to get at 1 of us, especially if we present ourselves as easy pickings. Besides, it's not like they've got anything else to do, right?"
+Svetlana nods in agreement, "Da, I think is good idea. We must attack but be smart. Not dumb. They are not stupid, so we must be careful."
+John smiles and adds, "That's why we've gotta be a little clever, and, well, this is a good place to start. Well, as good a place as any, really."
+Some older-looking Assamite (likely in his 70s) asks Tommy, "Is this all you have for us, sir? Is there nothing else you Crawlers can do for us?"
+Tommy replies, "Look, mate- I understand yer frustration. I--I really do. Yes, this is all we can do at the moment."
+Garth chimes in, "We've experienced some...problems as of late, but we remain committed to helping you lot wipe the Second Inquisition from this...country."
+Gasps of incredulous shock and surprise are heard from the crowd. Abdullah looks at his 4 fellow Assamites, and they share a silent moment.
+Tommy goes on, "Look, we cannae go around promising miracles."
+Someone from the middle asks, "Then what do you suggest? What can we do against their overwhelming might??"
+John easily answers that, "What we do best- Judge them. All."
+He takes on a more sympathetic expression and joins his hands together, "Look, I know that everyone gathered here tonight has, in some way or the other, been affected by the monstrous actions of the State of Israel..."
+Many heads are pensively lowered. Some even begin to tear up, red blood streaming down their faces. The loss, the pain, the suffering endured weighs down on these gathered Assamites.
+John continues. He gestures to a few in the crowd, "You've told me how these Israeli bastards razed your village. You've told me how they massacred your entire family. And I...I still can't believe what--what they did to those poor children..."
+His voice grows bitter and filled with disgust, "We have a chance here, people. Not just a chance to fight back, but a chance to bite back. Oh, these assholes know what we are and we know what they are."
+He gesticulates and fervently states, "They call US the monsters, but we're a whole lot more than they'll ever be...warts and all. Their hearts might still beat, but they have no Humanity."
+Everyone is silent and are hanging on to John's every word. He has their undivided attention.
+He paces and clenches his fist, "I feel almost compelled to share this quote with you: 'Every drop of blood drawn with the lash shall be paid by another drawn with the sword.'"
+He smiles faintly, "It's from Abraham Lincoln, heh. Changing what needs to changed, of course, we'll do what needs to be done, what HAS TO BE DONE! WHAT SHOULD BE DONE! It needs to be done!"
+John's smile grows wider, "We've got the numbers and the skill. If we work together, we can overcome their weapons and technology. I promise you that. Now, who's with me? We can do it. We can, I trust you. I know almost all of you here by name, and I KNOW we can do it. Together!"
+Many of the Assamites nod their heads and grunt in approval.
+He holds his arms out wide. Almost the entire room raises their arms in the air and enthusiastically shouts, "DEATH TO ISRAEL! FREE PALESTINE!"
+Even the 2 Nosferatu raise a tentative, but appreciative arm. John and Svetlana's lips curve into smiles of gratitude.
+John looks at Tommy and Garth and they nod approvingly, as do Zeina and Abdullah.
+John Suarez was a writer at 1 time, but not of rousing speeches or anything of that sort.
+John's eyes widen and his jaw drops. His mind is a little blown away. He had expected to be rejected outright or to be met with a whole lot more pushback and skepticism.
+A short man from the front comments, "Very well, John habibi. We will go along with your plan. The Blade will Judge these foul Zionists and send them scattering with the very sands of the desert."
+His fellow Assamites and Svetlana agree. John sighs in relief and says, "Thank you. Thank you all. We'll give 'em hell, that's for damn sure."
+He turns his head to the left and right and asks, "Any volunteers for who's gonna be leading the teams?"
+A few hands are raised. Zeina steps up and beckons them to the side so she and Abdullah can begin to coordinate with them and figure out the next steps.
+Tommy slowly claps his deformed hands together, "Aye, no bad, wee man. No bad. A bit on-the-nose, but it's an awfully effective short speech, I'll say that much. Rousing, hahaha!"
+John looks at him and shrugs, "Yeah, well...thanks. That means a lot. But it's not all fun and games. All of the people you see here have lost people to Israel's rampaging lunacy and maniacal bloodlust. You--you wouldn't even be able to stomach or believe half the stories I hear sometimes."
+He shudders and turns his head aside, "It's--it's nothing any horror flick can even come close to depicting, no. Anyway, I--I wasn't sure if it was gonna work or not, heh. But, yeah, thanks."
+Some time later...
+It's all been done. There's about a dozen Assamites split up in teams of 4. John, Samir, Abdullah, Zeina, Svetlana, and a few others are in 1 team. The other 3 teams are all scattered throughout the city and have been assigned the locations where they'll be waiting in ambush for the Inquisitors.
+Tommy and Garth depart back to the safety of the underground.
+John and his team are at a fairly empty (but not quite) parking lot near the outskirts of the city. He approaches a payphone booth- it's green in color and scuffed up around the edges.
+He looks around and sees several parked cars. Some of the fancy ones are caked in dust while the paint on a few others is worn. He sighs and looks at the list of keywords the Nosferatu have given him.
+John exhales sharply and takes the receiver and places it against his ear. He inserts a few coins and dials some random number. He waits a few seconds.
+A man picks up, "Hello, who is this? What are you calling for?"
+John randomly spouts out some of the keywords from the given list, "Blood. Beast. Kindred. Kindred. Vitae. I need a bag, man. Blood. Red stuff. Juicy red stuff. I'm already here, so just drop by and give it to me, OK?"
+The man on the other end thunders, "What the hell is this?! Who are you?! What are you even talking about?! You have the wrong number! Stupid fucking prank callers!"
+The line cuts off, and the dial tone begins beeping. John hangs the receiver and looks around. He sees no suspicious characters in the immediate area.
+He smirks and nods to his fellow Assamites.
+Showtime.
+The Unit 8211 techs immediately pick up on this hella suspicious call. Someone in the Command Center calls out, "Sir, sir! We have picked something up! Just now!"
+A tech adds, "Yes, sir! Many of the flagged keywords were utilized!"
+The tech presses a button and says, "It's coming from the outskirts of the city. Here..."
+Another tech in another row pipes up, "Sir! Another one! This one north of Sufi Street!"
+Yet another call is noted and a tech says, "We're receiving another, sir! This one near the ruins of the Marjan Tower! What the hell is going on?!"
+Lieutenant Veifer strokes his chin and narrows his eyes, "Stupid fucking animals. It was only a matter of time before they slipped up and revealed themselves to us. Send the patrol squads in."
+He turns and orders, "All squads, standby for orders! The targets are beginning to appear...all over the city! All squads, prepare to move out!"
+He taps his earpiece and informs the field operatives, "This is Lieutenant Maximillian Veifer to all field teams. Blank body activity is being reported in many areas. Proceed with caution and report your findings. Remember your training. Lt. Veifer out."
+He turns and looks at his fellow agents. He says, "You know your tasks. Keep on it. Trace those signals."
+He leaves the room, along with several other Inquisitors. The door closes shut behind them.
+1 of the Unit 8211 techies speaks to the other, "This is strange, man. All at once, isn't that a bit odd?"
+"Fuck that. They're not just vampires, they're Arabs- dumb as rocks. Besides, it's not like these animals know what a computer is."
+"Haha, yeah, you're right. Fuckin' bloodsuckers. They're so gross, dude."
+The tech shivers and shakes his head, "Yeah. Good thing we're here to kill 'em...all."
+Lt. Veifer approaches Commander Obed's office. He pushes the doors open and salutes, "Sir! We've got something! We are preparing to deploy the patrol squads and investigate potential blank body activity. It is coming from all over the city."
+Commander Obed rises from his chair and adjusts his collar, "Very good. Very good, indeed. These vermin have FINALLY given themselves away. Baruch HaShem! Now, we will show them the might of Am Yisrael's finest."
+Lt. Veifer nods, "Yes, sir. We'll get our revenge for what these animals did to our people last night."
+Commander Gallant picks up his pistol from his desk and puts it into his holster, "I will be accompanying a squad in the field, Lieutenant."
+Lt. Veifer raises an eyebrow, "Sir? Are you sure about that?"
+Commander Gallant holds up his hand and replies, "It is only fair and right for a Commander to be in the midst of battle against the enemy. Now, let's go and exterminate these unholy creatures."
+"Yes, sir. This way, Commander."
+Oh no. The big man is going into the field. This can't end well...
+Commander Obed Gallant puts on some body armor. He checks the clip in his rifle and then slings it over his shoulder. He looks at himself in the mirror- he is decked out in all sorts of armor and is fully geared for war.
+He looks into the reflection and says, "For Am Yisrael. For its people and its land. Amen."
+With that, he decides to ride along with the team being dispatched to reinforce the approaching patrol units to where John and his team are at.
+Yikes.
+Lt. Veifer has a slightly uncomfortable expression on his face while he stays behind. His commanding officer is going to the frontlines. This is a new development.
+But there's nothing he can do to change the Commander's mind, so he simply nods and watches him stride off into a dark SUV with a few heavily armed goons.
+Lt. Veifer shakes his head and scoffs, "Hff. What is he thinking? Anyway, back to work. The sooner we're done with the blank bodies in this savage region, the better."
+Back to the ambush point, a few minutes have passed.
+John Suarez is pacing about, his mind and eyes focused on his surroundings. His keen ears can make out a few sounds of a nearby highway.
+A breeze blows through his hair, and he inhales the stinging scent. Zeina is already gripping her long dagger and is just about ready to pounce.
+Abdullah paces around and bites his thumb nail. He has that look of fear on his face. As much as he wanted to use his Blood Sorcery to give everyone's weapons an edge, he decided to save it up for a sticky situation.
+It's an understandable concern, all things considered. It was easy when it was just a few blades to enchant (and enhance), but there's dozens of sharp, gnarly, and pointy stabby-slashy things that'll be able to do the job just fine tonight.
+Samir stands by a covered car with a poignard in 1 hand and a locket in the other. He looks at it affectionately and cracks a small, almost wistful smile.
+He looks around and mutters, "We will prevail. I know we will. It will not be long before we can all finally rest. Our cause is just, our Blades are sharp, and our intentions are pure and honest."
+Svetlana is a bit away, looking down the street for anything or anyone that looks like it could be an Inquisitor. She's got her 2 daggers ready. She swallows the lump in her throat and takes a few deep breaths.
+A few moments pass by.
+Nothing.
+There's no sign of any approaching Inquisitors yet.
+Svetlana walks back to the group and says, "Nothing yet. Maybe they are not coming?"
+Abdullah looks at his shoes and answers, "They will be here. Do not worry."
+Zeina sniffs, "God is with us. The Zionists are bloodthirsty- they will not pass on an opportunity to inflict violence on those they deem inferior."
+Samir adds, "Yes. We must be strong. If the plan has not worked, then I am sure John habibi will figure out what to do next. We have come so far, and it would be a shame to stop now."
+Svetlana gives a half smile and nods her head.
+John's eyes dart around the parking lot and surrounding area; he's a lot more twitchy than usual. He runs his finger along his katana blade, feeling the cold steel beneath his colder finger.
+A few more minutes pass. The night's still as calm and as silent as ever.
+Svetlana is a little restless and can't help but feel that something is off. The others around here are getting a bit anxious too. Some of them begin to wonder if the SI's even gonna show up.
+Oh, they'll show up, alright.
