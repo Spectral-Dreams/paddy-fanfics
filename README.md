@@ -18,7 +18,7 @@ What's being worked on now/Roadmap:-
 
 WIP: VTM: The Golden Goose (FF3) and VTM: The Den Of Snakes (FF4)
 
-Early Access for VTM: The Golden Goose and VTM: The Den Of Snakes planned at or near the release of VTM: Bloodlines 2 (October 21st, 2025)
+Early Access for VTM: The Golden Goose and VTM: The Den Of Snakes planned SOON (tm), likely before the year ends. TBD, no exact date.
 
 Early-Mid 2026: Full Release for VTM: The Golden Goose and VTM: The Den Of Snakes
 
