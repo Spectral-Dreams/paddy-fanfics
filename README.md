@@ -8,15 +8,21 @@ Standard Content/Trigger Warnings apply (but are not necessarily limited to):-
 
 Intense Violence, Blood & Gore, Torture, Strong Language, Slurs, Bigotry/Hate, Racism, Ableism, Sexual Content/Scenes, Full & Partial Nudity, Queerphobia, Alcohol/Substance Consumption, Rape/Non-Con, Smoking, Heavy Drug Usage, Human & Animal Death, and so on.
 
+^(Mainly applicable to the WOD fanfics, the other thing is...different. If you know, you know).
+
 FF1 (1) and (2) is VTM: Shadows Over Plaintry
 
 (1) is the full thing
 
 (2) will likely be the version with commentary (TBD)
 
+"NC0" is something else entirely, check that out at your own risk.
+
 What's being worked on now/Roadmap:-
 
 WIP: VTM: The Golden Goose (FF3) and VTM: The Den Of Snakes (FF4)
+
+WIP: Adding more to NC0 and publish before year end.
 
 Early Access for VTM: The Golden Goose and VTM: The Den Of Snakes planned SOON (tm), likely before the year ends. TBD, no exact date.
 
