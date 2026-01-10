@@ -7987,9 +7987,10 @@ In the back of his mind, he keeps worrying that someone's gonna bust open his st
 What comes next is gonna be...intriguing, to say the least!
 Chapter 11: Y2K
 The sun, that great and terrible star of heat and light, has begun its ascent, ushering in a new day for the denizens of this Midwestern metropolis. The summer heat is brutal and stinging.
-Traffic begins to build up as mortals ready themselves for yet another (hot) day of work, school, court appointments, or whatever else they're occupied with. It's another busy day for them and they're already starting off on a bad note, it seems. The usual. The monotony. The drudgery.
+Traffic begins to build up as mortals ready themselves for yet another (hot) day of work, school, court appointments, or whatever else they're occupied with. It's another busy day for them and they're already starting off on a bad note, it seems. The usual.
+The monotony. The drudgery.
 Add to that a bunch of hopped-up cops; the FCPD makes the LAPD look like the Hare Krishna. The police continue to be out in full force, assault rifles, armored vans, and all. Some folks have already gotten arrested for simply making comments.
-1 guy said something along the lines of, "The FCPD needs to relax and give us a break, y'know." They promptly put him in cuffs and threw him in a cop cruiser for whatever they could cook up.
+1 guy said something along the lines of, "The FCPD needs to relax and give us a break, y'know." They promptly put him in cuffs and threw him in a cop cruiser for whatever "reason" they could cook up on the spot.
 A group of 14-year-olds were seen doing skateboarding tricks on the streets in the wee hours of the morning. Now, their parents and guardians are going through a byzantine process of bailing their children out of a jail cell. All they did was do what all other youngsters have always done. It's as simple as that.
 But, apparently, in this city, that's now a criminal offense. It's crazy. Absolutely crazy.
 The media hoopla continues to swirl around as news crews from nearby cities and states descend upon the area like carrion flies. The 2 slain officers are lionized and praised to the high fucking heavens while there's barely a squeak about the other 4 people who were brutally murdered.
@@ -7999,7 +8000,7 @@ Why do THEIR lives matter so little?
 The 3 men all worked for Laurence's company- Lancaster-SYS.
 Laurence is the founder and CEO. The 3 men were named Matteo (a server and database architect), Jake (a programmer), and Jeong (a technician).
 Due to the unaffordable housing in this damn city, the 3 men were living together along with Jake's son, named Leo. He was 8-years-old.
-The 3 men were apparently commissioned to build a complex piece of software for a private infrastructure project that requires a lot of server and computing power. They worked night and day tirelessly at their project and it was nearing completion.
+The 3 men were apparently commissioned to build a complex piece of software for a private infrastructure project that requires a lot of server and computing power. They worked night and day, tirelessly, at their project and it was nearing completion.
 They were fueled by nothing but caffeine pills and promises of large bonuses. All good and well until Matteo got curious and started probing deeper into the finer details of the project.
 The clients (whoever they are) weren't very happy about this. They threatened to pull out until Laurence's dad got wind of this. Clarence immediately hired Mr. Strickland's people to...take care of the problem.
 The results were self-evident. The aftermath, on the other hand, continues to unravel. In typical PR fashion, the company spokesperson has offered "thoughts and prayers" to the families of the 3 slain men and the poor kid.
@@ -8056,7 +8057,7 @@ After a few rings, a sort of hoarse female voice answers, "Hello. How may I help
 The Nossie exclaims, "Markham! How the hell are you doing, huh?"
 "I'm fine. How...uh...how are you doing?"
 Darla shuffles some things on her desk and stifles a groan, "Yeah, I'm all good. I'm all good. So, what's up?"
-"I need some information, Darla. I figured you're the person who might be able to help."
+"I need some information, Darla. I figured that you're the person who might be able to help."
 The Nosferatu lady nods and a pen-clicking sound can be heard in the background of the call, "Shoot."
 Mr. Reed proceeds to tell her everything (which isn't very much) he's managed to learn about Mr. Strickland's organization of contract killers.
 By the end of it all, the blue Nosferatu lady on the other end of the line is reeling, "Whoa. Wow. That...wow, OK. Shit. That's truly messed up, huh? Yeah, I'll make some calls, turn over a few stubborn rocks, and see what's there. I'll get back to you. Just keep your phone on, alright?"
@@ -8087,15 +8088,16 @@ Jamie snickers, "Will do, commander Reed! Haha! I miss you, Markham. Really, I d
 Markham plainly says, "I'll try to wrap things up as soon as I can, Jamie. To be honest, I'm kinda tired of this place. Now that I've seen it firsthand, I...I can see why people avoid this city at all costs."
 "Oh, yeah, heh. True, true. I've been keeping up with the news. It's so sad, what happened to those people there."
 "Hm. It sure is. Hey, I should let you go now. Take care."
-Jamie laughs weakly, "Heh, you, too. And hey, Markham? Come back safely, OK?" Her tone is hopefulness laced with desperation.
+Jamie laughs weakly, "Heh, you, too. And hey, Markham? Come back safely, OK?" her tone is hopefulness laced with desperation.
 "I will. I promise. Stay safe out there."
 As he's about to hang up, Jamie suddenly asks, "Wait, wait, wait! Um...did you, hmm, did you meet someone nice, someone pretty yet?"
 Markham pauses for a few seconds and answers, "Uh...no."
 Jamie pouts, "Aww. Did you at least wear that aloha shirt? Y--you remembered to pack it, right?"
 "I did. It fits really nicely."
 "Haha! I'm glad to hear that. If--if it's possible, ah...never mind. I--ugh, I feel so weak and tired."
-The Baali tells her, "Get some rest, Jamie. You don't sound so great. Are you sure you're not sick?"
-"Yeah, yeah, I'm fine. I--I'll talk to you later, OK? OK, Markham. Bye-bye. Love ya!" She hangs up before her co-worker can respond. He puts his phone back in his pocket, sighs deeply, and goes back to the living room.
+The Baali tells her, "Get some rest, Jamie. You don't sound so great. Are you sure that you're not sick?"
+"Yeah, yeah, I'm fine. I--I'll talk to you later, OK? OK, Markham. Bye-bye. Love ya!" she hangs up before her co-worker can respond.
+He puts his phone back in his pocket, sighs deeply, and goes back to the living room.
 He sits down, looking a lot more stressed and agitated now. He rubs his temples. A knock on the door is heard. Marisol narrows her eyes and goes to answer it.
 "Hola, senorita." Burt's voice is as clear as ever, but it has that slight rough edge to it all the same.
 Marisol sighs and regards him with some suspicion, "Yes?"
@@ -8107,11 +8109,11 @@ Diego grins and lets the Baali inside, "Yeah, he's here, alright."
 Burt has his guitar case slung across his shoulder. He enters the room and nods at Markham, who nods back. The 2 Kindred look at each other for a brief moment.
 Burt grins and breaks the silence, "What's the haps, huh?"
 Markham answers, "Oh, nothing, really."
-Burt sets his guitar down, sits on the sofa, and kicks his feet up on the coffee table, "Well, then, this is a sweet place you got here, Feral."
+Burt sets his guitar case down, sits on the sofa, and kicks his feet up on the coffee table, "Well, then, this is a sweet place you got here, Feral."
 Marisol folds her arms and shoots Burt a disapproving look, "Please...take your feet off my table. Thank you." She sounds firm, but not rude, when she says this.
 The Baali shrugs and obliges, "Of course, of course. My bad. Marisol, right? Beautiful name."
 "Hmm, yes, I'm sure it is," she turns to Markham and Diego and says, "I'm off to work now. See you later. Diego, a word."
-Diego eyebrows shoot up, "The queen of the castle wants a word, heh heh. Be right back, boys."
+Diego eyebrows shoot up, "Oh! The queen of the castle wants a word, heh heh. Be right back, boys."
 Marisol takes her boyfriend out of earshot and asks, "Another Baali? Look, I know he has nothing to do with the Baali already here, but..."
 Diego nods in understanding, "I know, I know, alright. But, we can trust 'em, alright? So far, Markham's not done anything to piss us off. A good thing, right? I'm sure his Sire is just as...nice. And he's sooo cool! Did you see that eyeliner he's got on?! It's dope!"
 "Yes. I have the same brand. Alright. I love you, D. Take care. I'll let you know how tonight goes. See you later."
@@ -8122,7 +8124,7 @@ Burt nods, "Sounds like a party to me. You sure your lady won't mind me being ar
 Diego replies, "It's fine. She understands. It's just work problems, y'know how it is."
 "I sure do, buddy. I sure do."
 Markham speaks up, "The sooner we're done feeding, the better. Diego here knows all the good hunting spots."
-The Gangrel grins and lifts his chin up, "Damn right I do! We just have to stay out of sight, alright? And no making any dead bodies, alright?" He looks at Burt when saying that last part.
+The Gangrel grins and lifts his chin up, "Damn right I do! We just have to stay out of sight, alright? And no making any dead bodies, alright?" he looks at Burt when saying that last part.
 Burt plainly agrees, "That would be best, yeah."
 The 2 Demons and the Feral set off, ready to feed on a few unsuspecting mortals. After a few minutes, they're back, Beasts satiated. Burt throws his head back and makes a satisfied grunt.
 Diego whistles and stretches his arms. Markham is a bit more composed. The Feral looks at the 2 Baali and says, "C'mon, let's rock! How about it?"
@@ -8146,25 +8148,25 @@ Markham shrugs, "True. Just watch yourself out there, Burt. With the way things 
 Burt concurs with a low grunt and strums his guitar, "Hmm."
 Markham turns his head aside, his thoughts drifting towards Jamie. The more he thinks about it, the more it seems like a vampire fed from Jamie, hence her sudden weakness and tiredness. She sounded so drained, even. So very...drained.
 (It ain't the expired cup noodles).
-Markham doesn't like it one bit, but his Touchstone is far, far away from him right now. He abruptly gets up, excuses himself, and tries Jamie's number again.
+Markham doesn't like it 1 bit, but his Touchstone is far, far away from him right now. He abruptly gets up, excuses himself, and tries Jamie's number again.
 This time it goes to voicemail, "You've reached the cellphone number of Jamie Pollux, the one and only, haha! Please leave a message AFTER the beeping beep bop boop and I'll get back to ya!"
 Markham clears his throat, "Hey, it's me. You don't have to pick up. I just wanted to say...be careful, stay safe, um...check your windows and don't uh...yeah, don't loiter around too much at nights. I know you like doing that, but just try not to. Take care, bye."
 He hangs up and puts his phone away. He takes a deep breath and shakes his head. He returns to the others. They're still talking and chatting and having a blast, it seems.
 Burt wildly gesticulates and recalls the time he came upon a random Kindred who bought into the Y2K panic. A Tremere of all people. As a result, they stocked up on buckets of blood.
 That particular Usurper had taken the idea from Evangelical swindlers and liars proclaiming the end of the world...and selling doomsday-prepper food buckets. Only, in the case of certain vampires during that confused time period, the slop was replaced by actual human blood.
 "It's a miracle the Camarilla didn't get involved, or worse, the fuckin' Sabbat," Burt tells the 2 Kindred in front of him. Markham listens quietly while Diego laughs and grimaces simultaneously.
-Burt shudders and groans, "Yeah, well, I happened upon this ranch. The Tremere there had folk from around town hooked up to machines, tubes were stuck in their arms, and blood was being sucked outta them. That's when I realized, shit, they lost their goddamn minds, man!"
+Burt shudders and groans, "Yeah, well, I happened upon this ranch. The Tremere there had folk from around town hooked up to machines, tubes were stuck in their arms, and blood was being sucked outta them! That's when I realized, shit, they lost their goddamn minds, man!"
 Diego asks, "Did you do something to save 'em?"
 Burt straightens up, "'Course I did! It was lunacy, nothing more than a change in dates, go and buy a new calendar, that's it! I never did buy into all that Gehenna end is nigh bullshit. Hell, I've heard the same crop of segregationist bozos harp on about it since the fucking 1950s! It was ESPECIALLY nuts during the 1980s, isn't that right, Markham?"
 Markham dryly concurs, his mind still on Jamie, "Hmm? What? Yeah, yeah, absolutely. The uh...whole end times craziness. Yeah, it's not exactly America's greatest hits, heh. But, the Tremere at that ranch, what happened to them?"
-Burt sighs deeply, "I can't say for certain, kiddo. I managed to rescue a couple people and let the others go, but that's about as much as I could do, really. Shoved as many as I could in my jalopy and booked it to the next county over. The sun was about to come up, so I gave 'em the car and told 'em to keep driving...and don't look back."
+Burt sighs deeply, "I can't say for certain, kiddo. I managed to rescue a couple of people and let the others go, but that's about as much as I could do, really. Shoved as many as I could in my jalopy and booked it to the next county over. The sun was about to come up, so I gave 'em the car and told 'em to keep driving...and don't look back."
 Diego sighs, "Man, that sounds traumatizing. Sheesh. I hope they're doing OK now."
 Burt strums his guitar a few times and slowly nods, "Me too, buddy. Me too."
 The Baali rocker stares longingly into the distance and shakes his head, "I'm not one to get hung up on the past, even when you're as 'old' as me, haha. Either way, you're never too 'old' to learn a thing or 2, hahaha."
 The conversation eventually shifts to Burt's travels to South Central Los Angeles.
-After reading a series of articles in a cyber café, written by an investigative journalist named Gary Stephen Webb for the San Jose Mercury News, he decided to go down there and see, for himself, a focal point of the crack epidemic and its impact.
+After reading a series of articles in a cyber café, written by an investigative journalist named Gary Stephen Webb for the San Jose Mercury News, Burt decided to go down there and see, for himself, a focal point of the crack epidemic and its impact.
 "That was a year back," Burt vividly recalls, "Damn, they're still suffering down there. It's so...sad, really. I did my best to bring some comfort to these folk with my guitar, but you need a whole lot more than a stringed instrument to make a real difference. Ain't that right, Markham?"
-The Baali is snapped out of his worried stupor, "Hm? Yes, I guess so. What were you saying?" He's so lost in thought. His Touchstone is the only thing he's currently thinking about.
+The Baali is snapped out of his worried stupor, "Hm? Yes, I guess so. What were you saying?" he's so lost in thought. His Touchstone is the only one he's currently thinking about.
 Burt queries, "You read the 'Dark Alliance' series by Gary Webb, Markham? It's damn good journalism, not that sensationalized yellow tabloid shit."
 "Oh, yes. I'm familiar with it. I'm also...skeptical of a lot its claims, if I'm being completely honest with you, Burt. To me, it just feels oversimplified and...a bit far-fetched and lacking." He says this while recalling the articles he read on his bulky work computer during some free time in the office.
 Diego scratches the back of his head and takes Burt's side, "Well, I've...heard of it from some busters on the block. The CIA doing shit like that doesn't surprise me at all, hermano. The only surprise is why it took so long for us to learn about this."
@@ -8174,20 +8176,20 @@ Markham presses his lips into thin line, "Agree to disagree?"
 The Baali Neonate has still got some misplaced bliss; he's far too trusting of the system he's been working in and for. Some of that old middle class left-liberal idealism still sticks to him.
 Sure, he's thorough, careful, and diligent in his work at the SEC, but he still has yet to see the ugly and harsh reality of Y2K America.
 Burt drifts off into talking more about his travels throughout the United States, "Going to South Central LA really put things into perspective, ya know? After that, I went over to Tallahassee, then to Austin," he grins widely.
-Diego nods along, "Yeah, wow, that's pretty cool."
+Diego nods along, "Yeah, wow, that's pretty cool!"
 The 3 (well, mainly Burt and Diego) talk about the goings-on and whatnot. Eventually, the Gangrel inquires, "So, Burt, tell me more about yourself."
 The Baali rock star nervously chuckles at that open-ended query, "Whoa, hey, wow...that--that's a pretty broad question, Diego." He taps his fingers on his knee and sighs, "I--I don't know where to begin, really."
 Markham speaks up, "Well, he's a rock star. Well, was a rock star. He's been in the scene since...the 1950s, I think."
 Diego lightly smacks Burt, "You ever meet Elvis or anyone famous?"
 Burt plainly nods and smiles a little, "Oh, yeah, heh. I ran into him...and a few others over the years- Bob Dylan, Bruce Springsteen, Pete Seeger, good ol' Woody Guthrie...shit, I've met a lot of 'em over the years. Damn." He turns his head aside and silently stares off into the distance.
-Deep down, he knows that he not only comes before such folk, but also outlasts them as well. This fact nags at him. If anything, it kinda makes him feel worse.
+Deep down, he knows that he not only comes BEFORE such folk, but also outlasts them as well. This fact nags at him. If anything, it kinda makes him feel worse.
 Immortality ain't all grand and Burt's been around for a long-ass time. Not as long as Elders have, but long enough to make anyone's jaw drop.
 From there, Burt explains, "Well, after the Civil War, I found myself at the Louisiana Bayou...the place where I'd eventually be Embraced by my Sire." He pauses, looks around, and sighs deeply.
 Diego queries, "Who was your Sire? Are you close?"
 Burt quickly clicks his tongue, "Not by a longshot, kid. Like Markham over here, I...see glimpses of her...face. But I can't remember anything beyond a blurry visage standing over me. She looked like a runaway slave, or at least that's what I assume she is or was. After getting turned, I found out this book."
 He pauses, sighs, and proceeds, "It was some...Noddist tome. Crazy stuff, honestly. It explained a lot about Unlife, Kindred, the Beast, and the Blood. But, it placed a special emphasis on our Bloodline- the Baali. Truth be told, I kinda see why they call us Demons, y'know?"
 Diego nods in understanding, "Yeah, I know." The Gangrel looks at Markham and asks, "What do you think about all this, homes?"
-Markham shrugs indifferently, "I don't care much for any of that, Diego."
+Markham shrugs indifferently, "I don't care much for any of that stuff about my...Bloodline, Diego."
 Diego's eyebrows shoot up, "Heh, figures. So um...what did you do after your Embrace, Burt? Did you try to find her, yo--your Sire, I mean? Did you ever find out who she might be??"
 Burt moves some of his hair away from his eyes and answers, "Oh, yeah, I tried finding her, alright. After reading that damn Noddist book, I went all over the place, looking for some answers. I even went to New Orleans, which was like the center of this...Baali...Coven, I guess. I met some other members of the Bloodline, but no one ever heard of her or anyone matching her description."
 "Is New Orleans still a Baali center? I know some busters from there," Diego mentions.
@@ -8203,13 +8205,13 @@ Until Kristoff and Burt had a falling out owing to "creative differences". Krist
 "All he was thinking about was chart-toppers and dollar signs. Hmph."
 Burt, on the other hand, wanted something more substantive and meaningful, partly because of his experiences in the American Civil War and partly because of what he read in that Noddist book.
 After that nasty falling out, Burt went solo while Kristoff continued on with his career. In hindsight, Burt should've seen it coming. Kristoff had been getting more and more agitated with Burt's fame and success.
-Burt bitterly remarks, "As clear as my conscience was...and still is, nothing in the country I fought for destroys an artist faster than success."
+Burt bitterly remarks, "As clear as my conscience was...and still is, nothing in the country that I fought for destroys an artist faster than success."
 Diego's jaw is slightly agape, "Whoa."
 "Hmm, yeah. I flew too close to the sun and attracted attention- the wrong kind of attention. I was in Greenridge, Markham's town, for a small gig. Word of mouth only. Somehow, they found out and well, the rest you already know."
 Diego solemnly nods his head, "Yeah, yeah. Wow, that is...whoa. Where's Kristoff now?"
 Burt bitterly laughs, "Son of a bitch changed his name, went underground in the 80s and reemerged last year." There's a well-hidden anger in Burt's words.
 "Are you gonna hunt him down and make him pay?"
-"Tch, nah. He'll weave his own noose soon enough. You know what they say: 'Living well is the best revenge'. Besides, his music won't last long. He goes after trends, not what's bubbling in people's hearts. Same old shit with a different note. He's a 1-trick pony."
+"Tch, nah. He'll weave his own noose soon enough. You know what they say: 'Living well is the best revenge'. Besides, his music won't last long. He goes after trends, not what's bubbling in people's hearts. Same old shit with a different note. He's a 1-trick pony through and through."
 Diego incredulously asks, "So, what's his name now?"
 Burt answers, "He goes by the name 'Sven'. Creative stage names were NEVER his forte. I've heard of porn stars with more clever stage names than that."
 Diego laughs and Burt joins in. They look over at Markham, who is still in the kitchen, making a phone call. He's looking out the window, his eyes fixed on something. He looks lost and distressed.
@@ -8223,7 +8225,7 @@ Clifford lifts an eyebrow waiting for a continuation. When he doesn't receive on
 "It's...going well," Markham lamely finishes.
 "Well, I'm glad to hear that. So, what's up?"
 "Just checking in. I should, hopefully, be wrapping up soon."
-"That's good to hear. Like I said the last time we spoke, the Chairman is interested in meeting you. Once you're done, we're ready to make a move against that city."
+"That's good to hear! Like I said the last time we spoke, the Chairman is interested in meeting you. Once you're done, we're ready to make a move against that city."
 "I...understand, sir. I'll do my best down here."
 "Good, good. You always do, Markham. You're the best of us."
 "How's Jamie keeping?"
@@ -8234,23 +8236,24 @@ Clifford groans, "I know that, Markham. Look, I don't wanna talk about it anymor
 "It's...fine. All good."
 Clifford weakly smiles, "I better see a good tan on you when you get back, haha. Is there anything else?"
 "No. I think that's it. Just err...promise to keep an eye on Jamie for me, OK?"
-Clifford exhales sharply and shakes his head slowly, "I'll do what I can, but only because you're asking. Take care, Markham. We look forward to seeing you back here soon."
+Clifford exhales sharply and shakes his head slowly, "I'll do what I can, but only because YOU'RE asking. Take care, Markham. We look forward to seeing you back here soon."
 "Yep. Bye." The Baali hangs up and lingers around the kitchen for a moment, his gray eyes absently wandering around.
-Markham puts his phone back in his pocket and returns to the living room. He sits down next to Diego and stares at the floor. The Feral notices how despondent he looks. He gives Markham a pat on the back and says, "Hey, homes, what's up?"
+Markham puts his phone back in his pocket and returns to the living room. He sits down next to Diego and stares at the floor. The Feral notices how despondent he looks.
+He gives Markham a pat on the back and says, "Hey, homes, what's up?"
 Markham mutters, "Nah, nothing. Listen, as much as I'd love to sit around and chat, I got some work to take care of."
 Diego nods in understanding, "Oh, hey, hey. Absolutely."
 He springs up and asks Burt, "Hey, Burt, you ever been in a lowrider?"
-Burt grins and responds, "Kid, I was around when the Chicanos came up with that. Hell yeah, I've been in a lowrider. But, if you're offering, then I won't say no."
-Diego excitedly claps his hands together, "Sweet! Let's go then!" He motions for Burt to follow him.
+Burt grins and responds, "Kid, I was around when the Chicanos came up with that. Hell yeah, I've been in a lowrider! But, if you're offering, then I won't say no."
+Diego excitedly claps his hands together, "Sweet! Let's go then!" he motions for Burt to follow him.
 Markham silently goes down to get his things. He sets up his laptop at the kitchen table, plugs in the ethernet cable, and starts working on his reports. He has a lot to go through, so he starts with what's most important.
 However, it does take time since the dial-up at Diego's Haven isn't exactly the best or the fastest. After a few minutes, the connection gets cut. Markham sighs deeply, leans back in his chair, and rubs his tired eyes.
 Diego and Burt go for a cruise around the city. Diego is quite excited about driving a lowrider with the cool Baali rock star. He feels like he's in one of those old music videos.
-In the car, Burt applies some black nail polish on his fingernails and blows on them. After a few seconds, he puts the small bottle back in his pocket and asks, "So, tell me more about this...yourself."
+In the car, Burt applies some black nail polish on his fingernails and blows on them. After a few seconds, he puts the small bottle back in his pocket and asks, "So, tell me more about...yourself."
 Diego shrugs, "What's there to tell? I'm an immigrant from El Salvador. I'm Clan Gangrel, Embraced back in the 80s and I've been riding around this barrio ever since."
 Burt sticks his hand out, the air passing through the gaps in between his fingers, "Vatos in the barrio, huh?"
 Diego laughs and nods his head, "Yeah, somethin' like that, hahahah! And the Gangrel 'round here are good people, y'know. We--we can do a lotta good here, homes."
 "I'm sure you can. And what about your lady?"
-"Marisol's nice, yeah. I see myself having a future with her, y'know. She works really hard at her fancy office job. It doesn't pay much, but it's just enough for our most immediate needs."
+"Marisol's nice, yeah. I see myself having a future with her, y'know? She works really hard at her fancy office job. It doesn't pay much, but it's just enough for our most immediate needs."
 "Hmm."
 A sedan stops besides the lowrider and Burt's black nail polish is visible to the family inside. A woman grimaces at his fingernails while the 2 kids in the back point and giggle amongst each other.
 The man in the driver's seat rolls up his window and avoids making eye contact.
@@ -8262,8 +8265,8 @@ He gladly does so, of course, and the car bounces up and down, up and down, and 
 A few more cars stop besides them and the occupants look over at the lowrider with a mixture of confusion and amusement.
 At this time, the night roads are more desolate than usual. Shops and nearby eateries are either shuttered or in the process of closing for the night. In the distance, sirens blare loudly as a few gunshots break out.
 Diego winces and loses control of the steering wheel. Burt's hand quickly darts forward to grab it and steady it.
-The Gangrel sighs and mutters, "It's just...what--what was that?" His eyes are wider and the hairs on his arm are standing up straight.
-Burt looks behind them, "Dunno. I think we better keep the stunts to a minimum. I don't want you getting into trouble on my account. There's always other lowriders, there's always other nights, there's always other roads to travel."
+The Gangrel sighs and mutters, "It's just...what--what was that?" his eyes are wider and the hairs on his arm are standing up straight.
+Burt looks behind them, "Dunno. I think we better keep the stunts to a minimum. I don't want you getting into trouble on my account. There's always other lowriders, there's always other nights, and there's always other roads to travel."
 Diego nods, "Yeah. There sure are." He says this in a very quiet voice.
 The 2 vampires spend some time silently cruising around the city, making sure not to draw too much attention to themselves.
 A few hours later...
@@ -8274,7 +8277,7 @@ The Prince, on the other hand, sits inside the restaurant's main area, 1 leg fol
 The man's wearing a tweed suit and smoking a fat cigar. The Prince is dressed in a fine suit, his hair neatly combed back.
 Prince Antonio asks, "So, what else is new, Lenny?"
 That would be none other than Leonard "Lenny" Grayson, the Ventrue owner of The Golden Crown Cuisine. He takes a long drag of his cigar and blows out a puff of smoke, "Not much, Tony. Same old, same old."
-The Prince smiles and pats him on the shoulder, "C'mon, Lenny, there must be something else going on. You branching out?"
+The Prince smiles and pats him on the shoulder, "C'mon, Lenny, there must be something else going on! You branching out?"
 Lenny grins and shrugs, "Well, now that you've mentioned it. I've been thinking about expanding, maybe getting a few branches open in other cities; Ventrue-friendly cities, that is."
 The Prince smooths out his tie and replies, "You know I'm always here to help you with that, Lenny. But, you gotta gimme something in return."
 Lenny nods and smiles, "I'll keep that in mind, Tony. Thanks." He takes another puff of his cigar. He sounds very gruff.
@@ -8286,35 +8289,36 @@ The Prince chuckles and shakes his head, "You better. You're already late on you
 Lenny scoffs and looks away, "Yeah, yeah. Of course, there's our...agreement."
 Prince Antonio's eyebrows shoot up and he nods, "Hmm, yeah. I do actually need a few skulls busted, heh. I might have a few who need to be reminded of their place in my city."
 Leonard makes a show of cracking his knuckles and nodding, "I'm your man, Tony. Always. Just give me the word and I'll take care of it."
-The Prince puts his hands together and grins, "Good, good. I knew I could count on you, Lenny. Do as your Prince says, and he'll forgive your debt. I'm a forgiving kinda guy, haha."
+The Prince puts his hands together and grins, "Good, good. I knew I could count on you, Lenny. Do as your Prince says, and he'll forgive your debt. I'm a forgiving kinda guy, haha!"
 "'Course you are, Tony. How's Velma doing?"
 The Ventrue Prince clicks his tongue and casually responds, "Eh, she's going along fine. I give her a wide berth to do her thing. She's a good Sheriff. I don't wanna lose her."
-Lenny chuckles, "Yeah, she's a tough one. I still can't believe she got the job 10 years after her Embrace. Ah, well, good for her, I guess."
+Lenny chuckles, "Yeah, she's a tough one. I still can't believe that she got the job 10 years after her Embrace. Ah, well, good for her, I guess."
 Prince Antonio side-eyes his fellow Blue Blood, "Something you implying there, Leonard?"
 "No. I'm just saying. Making an observation, don't read too much into it, Tony."
 Prince Antonio explains, "Yeah, well her Sire, the former Sheriff, got Beckoned away. To where? I dunno. She was the...natural choice. You know how us Ventrue are. Who our Sires are carries a ton of weight."
 Lenny dryly says, "Mm-hmm."
-Prince Antonio does a wide gesture and goes on, "Yeah, this city was a gift to me. My Sire saw fit to leave it my hands, and a 100 years later, here I am. Still here, despite it all."
+Prince Antonio does a wide gesture and goes on, "Yeah, this city was a gift to me. My Sire saw fit to leave it my very capable hands, and a 100 years later, here I am. Still here, despite it all."
 Lenny simply nods, "Uh-huh."
-He growls and adds, "Clan Ventrue doesn't lose. We win, we succeed, and we conquer over all that stands in our way."
+He growls and aggressively adds, "Clan Ventrue doesn't lose. We win, we succeed, and we conquer over all that stands in our way."
 The Prince concurs, "Yeah, no arguing there with ya, buddy. I've done a lot for this city. You know that, Lenny. You've seen it all firsthand."
-Lenny exhales sharply and stands up, "Yeah, yeah, I have. But, the tail end of the 1960s was a long time ago. I'd like to think I've come a long way since then. Up, preferably."
-Prince Antonio agrees, "Of course you have. I was the one who authorized your Embrace, heh. Don'tcha ever forget that, capeesh?"
+Lenny exhales sharply and stands up, "Yeah, yeah, I have. But, the tail end of the 1960s was a long time ago. I'd like to think that I've come a long way since then. Up, preferably."
+Prince Antonio agrees, "Of course you have! I was the one who authorized your Embrace, heh. Don'tcha ever forget that, capeesh?"
 Lenny smirks and shakes his head, "Capeesh. Yeah, I know. I hope the restaurant's to your liking. That place you call Elysium is a fucking dump. I'd demolish it if I were you. Put up a new building in its place."
 The Prince sighs and shakes his head, "It's a matter of tradition, Lenny. I can't just destroy it. I mean, I wanna, but there are objections. Velma and a few others have been trying to get me to renovate that dusty old place."
-Lenny laughs and rolls his eyes, "Yeah right. Nobody in Flimont City's gonna wanna go to a fucking snoozefest opera or play or whatever. It's just not gonna happen, Tony. Not in this city, not with this type of crowd. It's time to move on."
+Lenny laughs and rolls his eyes, "Yeah right. Nobody in Flimont City's gonna wanna go to a fucking snoozefest opera or sissy play or whatever. It's just not gonna happen, Tony. Not in this city, not with this type of crowd. It's time to move on."
 Prince Antonio leans forward and narrows his eyes, "I'll consider it. But you got a point there, Lenny. People in this city don't really give much of a shit about...that stuff, huh?"
 Lenny scoffs and blows some smoke, "You bet your ass they don't. They don't call this fucking place 'Wall Street 2.0' for nothing, Tony."
-The Prince chuckles and nods, "Heh, yeah. I guess you're right." He gets up and adjusts his green tie, "Well, I'll see you around, Lenny. We'll talk more about your debts later."
+The Prince chuckles and nods, "Heh, yeah. I guess you're right."
+He gets up and adjusts his green tie, "Well, I'll see you around, Lenny. We'll talk more about your debts later."
 Lenny waves his hand and dismissively says, "Yeah, yeah, sure. Just tell me who you needs a good roughing up. After I'm done, we'll adjust the difference."
 Before Lenny can go somewhere else, the Prince inquires, "And how IS the place doing, huh? I mean...the--the prices are a bit high, don't you think?"
 Lenny shrugs and answers, "People will pay for quality, Tony. You know that. And I...need quality in my damn restaurant."
-Prince Antonio's face twitches and he slowly nods, "Yeah, yeah, of course. See ya around, Lenny."
+Prince Antonio's face twitches and he slowly nods, "Yeah, yeah, of course. See ya around, Lenny!"
 Lenny grunts and leaves. He walks over to his Ghoul, Janus, and whispers something in his ear. Janus is wearing a white suit with a purple cravat.
 Janus nods and leaves. Lenny goes to check on his restaurant fixtures; he adjusts a few and cracks a smile of satisfaction.
 Prince Antonio sits down and waits for the Primogen Council meeting to start. He doesn't have to wait long. The Ventrue Sheriff enters the restaurant, her face looking as stoic as ever.
 She plainly declares, "All clear. No signs of trouble, no loiterers, no nothing."
-The Prince nods and replies, "Good, good. Now, we just gotta wait for the others to show up."
+The Prince nods and replies, "Good, good! Now, we just gotta wait for the others to show up."
 Sheriff Velma curtly nods and takes her seat at the table. She shoots Lenny a subtle glance of contempt. He returns it with a smug wink. She rolls her eyes and sighs deeply.
 Soon enough, the other Primogen arrive. Clarice the Malkavian Primogen walks in and takes a look around. She mutters something incomprehensible, courteously greets everyone, and takes her seat.
 She's dressed in wide-legged pants, cream-colored flats, and a simple black blouse.
@@ -8327,24 +8331,25 @@ The Tzimisce doctor lifts his chin a little, "Were you expecting a...different a
 Whoa.
 Prince Antonio mirthlessly chuckles, "Oh, really? Getting a little too annoying, huh? Well, that's just too bad, doc. I want Galeb back. I want him found. And remember, don't get too comfortable in your position."
 Dr. Collins glares at the Prince and responds, "I never even asked to be made Primogen in the first place."
-The Ventrue Prince dismissively waves, "Tsk. Well, it's too late to back out now. Velma tells me you got a storage unit of sorts. What's in it?"
+The Ventrue Prince dismissively waves, "Tsk. Well, it's too late to back out now. Velma tells me that you got a storage unit of sorts. What's in it?"
 Dr. Collins shifts in his seat and answers, "Just some stuff of mine, that's all." He does NOT want to talk about what REALLY lies in there, especially what (particularly, who) is behind that false wall.
 The Prince looks over at Sheriff Velma, who is absentmindedly browsing the menu card on the table. She looks up from it and shrugs, "You know how Tzimisce are about their...things, Prince Antonio."
 Prince Antonio scratches his forehead with his thumb, "Hrmf. Fine. Hoard your junk or whatever it is you got, but if I find out it's something I don't like..." he trails off, leaving the ominous threat hanging in the air.
 Dr. Collins takes a deep breath and exhales slowly. He wants to get this over with as soon as possible. He still has patients to see and he had to move their appointments to be here tonight.
 He doesn't like moving appointments; once an appointment has been set, it should remain set until the patient is seen to. It's just good professional sense.
-The good doctor hates doing this to his patients (the people who rely on him), but he knows that being a Primogen comes with certain...responsibilities.
+The good doctor hates doing this to his patients (the people who rely on him), but he knows that being a Primogen comes with certain...responsibilities, certain expectations.
 He also knows that the Prince is more than willing to make his Unlife an Unliving hell if he doesn't do as he says.
 Brock, on the other hand, is just glad that he isn't being singled out by the Prince. Especially considering what happened last time.
 He sinks lower into his seat and avoids eye contact with anyone.
 Welp, no such luck. Prince Antonio hollers out to the Ghoul, "Hey, fairy!"
 Yikes.
 Brock rolls his eyes and blows a raspberry. He pretends not to hear that homophobic remark (he's heard worse) and continues to look away. He tries to ignore the Prince's loud voice.
-Prince Antonio loudly repeats himself, "Hey, fruity! Yeah, you! Get your ass over here!" he points at Brock. The Ghoul sighs and gets up. He reluctantly walks over to the table and stands in front of the Prince.
+Prince Antonio loudly repeats himself, "Hey, fruity! Yeah, you! Get your ass over here!" he points at Brock.
+The Ghoul sighs and gets up. He reluctantly walks over to the table and stands in front of the Prince.
 Prince Antonio leans back in his chair and asks, "How's it going, huh? Keepin' well?"
 Brock nods, "Mm-hmm."
 Dr. Collins is powerless in such a situation, believe it or not. The last thing he wants to do is run afoul of the Prince.
-The Prince smiles and puts his hands together, "Good, good. So, uh...you're gay, right?" He looks around and grins, "What, no one else here's gonna call him out on it?"
+The Prince smiles and puts his hands together, "Good, good. So, uh...you're gay, right?" he looks around and grins, "What, no one else here's gonna call him out on it?"
 Brock stifles a groan, "What does that have to do with anything? Besides, it's who I am, who I've always been, and who I always will be. There's nothing wrong with it."
 The Prince scoffs, "Yeah, yeah, yeah. Yap, yap, yap. Sit your ass back down...Ghoul."
 That...could have gone worse, all things considered.
@@ -8355,14 +8360,14 @@ The Sheriff looks at the menu and replies, "Nope. All quiet. But, there might be
 Speaking of...
 After 10-ish minutes, the Gangrel Primogen rolls up in a shiny lowrider. He gets out, smooths out his clothes, and strides inside. He's wearing an unbuttoned shirt and loose jeans. He's also wearing a cap. He tips it at everyone and takes his seat.
 Prince Antonio greets him, "Pedro! Good to see you. How's everything?"
-Pedro shrugs, "It's all good, hermano. All good. Hey, sup, doc! Clarice!"
+Pedro shrugs, "It's all good, hermano! All good. Hey, sup, doc! Clarice!"
 The 2 other Primogen greet him. Dr. Collins is relieved that the Prince's attention has shifted away from him and Brock. He's still pissed about that, but he's glad that the Prince isn't focused on him anymore.
-Prince Antonio calls out, "OK, OK, let's get this started. First things first: any news on Galeb?" He looks at Dr. Collins.
+Prince Antonio calls out, "OK, OK, let's get this started. First things first: any news on Galeb?" he looks at Dr. Collins.
 Again.
 Dr. Collins's expression hardens, but he does his best to maintain his composure, "Like I said: no."
 The Malkavian Primogen shakes her head, "I haven't heard a thing since you last asked that question, my Prince."
 Pedro clicks his tongue, "Nah. Nothing on my end. Maybe we should just come to terms with the fact that he's...gone. Beckoned off somewhere else, who knows?"
-Prince Antonio shakes his head, "No, no, no. That ain't happening. I WANT him back. I NEED him back. This damn city needs him back."
+Prince Antonio shakes his head, "No, no, no! That ain't happening. I WANT him back. I NEED him back! This damn city needs him back."
 Dr. Collins half-heartedly says, "We'll keep our eyes peeled. I'll talk to the other Tzimisce soon. No promises, though. No guarantees we'll find him, either. But, we're ready to do what needs to be done." The dryness and insincerity in his tone is bleedingly obvious.
 Prince Antonio smiles, "Good, good. I knew I could count on you, doc. I know you'll do your best to find him. If you don't, well..." he trails off again.
 The Prince moves on to other matters, "So, Pedro, what's going on with the Gangrel in this city? You keeping low?"
@@ -8378,9 +8383,10 @@ Pedro is taken aback and his eyebrows go up a little, "Um...no. Clive was pretty
 The Outlander pauses for a moment and stammers, "--it's unreasonable!"
 The Prince dismissively scoffs, "That filthy fucking Anarch was operating in MY goddamn Domain for who-knows-how-long! Those fucking Punks owe me for all the trouble they've caused! It's only fair that I get repaid in full, and if he doesn't pay up, then I'm gonna have to take drastic measures. And you don't want that. None of you do."
 Pedro looks away and shakes his head, "I'll...talk to him. He's not exactly happy about it, but I'll talk to him. I'll try to convince him to compromise, m--maybe meet you halfway through?"
-The Prince spreads his hands and plainly states, "Hey, I don't care of that slab has to rip an elephant to get me my dough, but he better cough it up soon. I'm a patient man, but I got limits to my patience, capeesh?"
+The Prince spreads his hands and plainly states, "Hey, I don't care if that slab has to rip an elephant to get me my dough, but he better cough it up soon. I'm a patient man, but I got limits to my patience, capeesh?"
 Pedro heaves a sigh and nods, "Yeah, yeah, I understand. I'll...do what I can. I'll try."
-Prince Antonio's face twitches and he curtly nods, "You better." He turns to Dr. Collins and asks, "So, doc, what about you? How's the clinic doing? Is it treating you well? You treating our food source well?"
+Prince Antonio's face twitches and he curtly nods, "You better."
+He turns to Dr. Collins and asks, "So, doc, what about you? How's the clinic doing? Is it treating you well? You treating our food source well?"
 Dr. Collins's jaw clenches and he tersely answers, "It's fine. And I wouldn't necessary call my patients...that. I know what we are and what we have to do, but...I'd prefer if we didn't refer to them as 'food sources'."
 He stares right at the Prince and continues, "They're people. Living, breathing people. With hopes, dreams, fears, and jobs. They're not just...food for us to take however or whenever we please. We have to strive to be better than that."
 Prince Antonio waves his hand, "Yeah, yeah, whatever. I'm just asking you to keep 'em healthy, doc."
@@ -8390,18 +8396,18 @@ Sheriff Velma steps to the front and calmly responds, "Yes. You've all seen the 
 Clarice gulps and nods her head, "Grim business. 3 men and 1 child murdered along with 2 police officers. Horrible, just horrible."
 Sheriff Velma concurs, "Indeed. It's been a real pain in the ass trying to keep things under control, but we've managed. I've got some good news: I think I've found the killers."
 Prince Antonio's eyebrows shoot up, "You have? Who is it?"
-The Sheriff holds up her hand and answers, "We're not sure. But, I have strong reason to believe it was the work of Thin-Bloods. I know those...fucking Weaklings are in this city."
+The Sheriff holds up her hand and answers, "We're not sure. But, I have strong reason to believe that it was the work of Thin-Bloods. I know those...fucking Weaklings are in this city. Still clinging on the edges, like gum under a new pair of Pradas."
 She could not be any more wrong than she is.
 Dr. Collins uncomfortably shifts in his seat and awkwardly clears his throat. Pedro looks taken aback.
 Clarice simply shakes her head and waggles her finger, "Ms. DuPont, not every tragedy or atrocity ought to be attributed to the Kindred...or other supernatural beings for that matter. It's cheap, vulgar, reductive, and downright crass."
-The Sheriff scoffs and glowers at the Malk lady, "Firstly, it's Sheriff Velma to you. Pray tell then, who else could it be? A group of humans? Yeah, right. It's almost always them. Always."
+The Sheriff scoffs and glowers at the Malk lady, "Firstly, it's Sheriff Velma to you. Pray tell then, who else could it be? A group of mortals? Yeah, right. It's almost always them. Always."
 Prince Antonio interjects, "So, Velma, you got any leads?"
-He leans forward and asks, "And what exactly are you investigating?"
+He leans forward and asks, "And what exactly are you investigating over here?"
 The Sheriff admits, "It's something I'm looking into, but I've got a few suspects in mind."
 Clarice points out, "Those horrible murders took place when the sun was still up, Miss--Sheriff Velma. How, pray tell, do you explain that, hmm?"
 The Blue Blood Sheriff claps back, "Thin-Bloods. Those worthless shits can still walk in the sun, unlike us. It's them. It's gotta be them."
 She's really hellbent on pinning those murders on the Thin-Bloods; she hates them THAT MUCH, apparently. Or maybe she just needs a reason to destroy more Thin-Bloods?
-And, Sheriff Velma DuPont has slain her fair share of Thin-Bloods in this Domain alone. Many have fallen either by her hand or into an elaborate trap she laid for them.
+And, Sheriff Velma DuPont has slain her fair share of Thin-Bloods in this Domain alone. Many have fallen either by her hand or into an elaborate trap she laid out for them.
 Prince Antonio rubs his chin and adds, "And they're so weak, they can't even put up a fight. Yeah, y'know, the more I think of it, it's just like them to do something like this."
 Dr. Collins shakes his head and sighs deeply, "I don't think it's them. Clarice also has a point. Besides, Thin-Bloods are usually too weak to do something like this. There's also the fact that the news isn't all too clear on who the victims are, apart from those 2 cops."
 He sits up and adds, "We know too much about the cops, but not nearly enough about those 4 other people who were murdered the other day. For all we know, this could've been mortals all the way down the line, no vampiric involvement needed."
@@ -8417,22 +8423,22 @@ Clarice gasps, her eyes widen, and she begins mouthing off, "Gehenna. The end. T
 The Sheriff nods, "Exactly. And, Thin-Bloods are the harbingers of Gehenna. If we let them live, if we let them persist, they'll bring about the end of us all."
 Dr. Collins shakes his head and scoffs, "That's ridiculous. Gehenna is nothing more than a myth, a legend, a scary story to deter Fledglings into behaving themselves. There's a 1000 different interpretations of what 'Gehenna' actually is. Some even say it's cyclical in nature."
 Pedro shrugs, "Well, I mean, yeah, but--"
-The Tzimisce doctor goes on, "But, what? There's no concrete evidence that any of that is real. Research into the matter has produced...mixed results, to put it mildly."
-With fear in his eyes, Pedro asks, "But what about what happened back in 1999? The Week Of Nightmares and all that shit?? You know what happened to the Ravnos Clan cuz of that shit, huh?" He wildly gesticulates and points at the good doctor.
+The Tzimisce doctor goes on, "But, what? There's no concrete evidence that ANY of that is real. Research into the matter has produced...mixed results, to put it mildly."
+With fear in his eyes, Pedro asks, "But what about what happened back in 1999? The Week Of Nightmares and all that shit?? You know what happened to the Ravnos Clan cuz of that shit, huh?" he wildly gesticulates and points at the good doctor.
 The Stoker crosses his arms and replies, "It was a horrible, awful thing, yes. But, it was an anomaly. A 1-time thing. Nothing more. I'm sure of it. It's not likely to happen again."
 Prince Antonio raises his chin, "A real wise guy, huh? What happened back in '99 was a warning for us all. I've run this city for a 100 goddamn years, and I ain't abdicating any time soon. So, that's why I give Velma the permission to do what she has to do, capeesh?"
 Dr. Collins clenches his jaw and mutters, "So, it's a desperate way of holding onto power, then? Is that it?"
 Sheriff Velma steps in and sternly warns, "Watch it, Flesh-Shaper. You don't EVER, and I mean EVER, talk to the Prince like that or make those kinds of insinuations. I've been by his side for 50 years and when he says 'jump', the only thing out of that mouth of yours should be...?"
-She smugly folds her arms, taps her foot on the ground and waits for an answer.
+She smugly folds her arms, taps her foot on the ground, and waits for an answer.
 Dr. Collins looks around. He adjusts his glasses and tells the 2 Ventrue what they wanna hear, "How high and how far, my liege."
 The Sheriff smiles and nods, "Good. Now, we're all on the same page here. As for Thin-Bloods, I've got my methods, my ways. But, it's gonna take some time to clean up the mess. And, it's gonna take a lot of resources, too."
 The Prince leans back and shrugs, "See, she's good at what she does. That's why I leave her to it, heh."
 Lenny has been listening to bits and pieces. He chimes in, "I don't personally believe in any of that Gehenna shit, but we can't have Thin-Bloods stinking up the place, hahahaha!"
 Prince Antonio laughs along, "Yeah, the Ventrue got a reputation to maintain."
-Dr. Collins refuses to back down, "So, is that it, then?! Are we just gonna keep killing them? Killing people because they're...weak?! Because they're different?!" He looks at Brock when mentioning that last part.
+Dr. Collins refuses to back down, "So, is that it, then?! Are we just gonna keep killing them? Killing people because they're...weak?! Because they're different?!" he looks at Brock when mentioning that last part.
 Pedro sighs and shakes his head, "Hey, doc, c'mon, man. It's not personal, alright? We just gotta do what we gotta do. They're just Thin-Bloods. It's not like we're destroying our own or anything. And uh...it's the Prince's orders and you know what the Traditions say."
 Dr. Collins reluctantly concedes, "Hmph. Fine. You win."
-He pauses for a moment and pleads, "But, I'm begging you to let reason and rationality prevail over prejudices and unfounded fears based on misread and misinterpreted texts. Gehenna is NOT real, well not in the way you people think it is."
+He pauses for a moment and pleads, "But, I'm begging you to let reason and rationality prevail over prejudices and unfounded fears based on misread and misinterpreted texts. Gehenna is NOT real, well not in the way that you people think it is."
 The Sheriff rolls her eyes and dismissively waves, "Whatever. You can keep telling yourself that all you want, but it won't change anything. It won't change the fact that the Mercurians are still a threat to us all. And, as Sheriff of Flimont City, I have a damn job to do."
 She firmly adds, "Upholding the Traditions of the Camarilla, enforcing them, and keeping the peace in this Domain is MY responsibility and I take it very seriously. You'd do well to remember that, Dr. Collins."
 Prince Antonio nods and agrees, "Yeah, she's right. And, I'm glad she's doing such a good job at it. These past 50 years have been a breeze thanks to you...Velma DuPont. I had my initial doubts, but you were quick to prove me wrong."
@@ -8448,7 +8454,8 @@ Mumbles and mutters all around the room.
 Prince Antonio gets up, pats his pants, and announces, "OK, then. Meeting adjourned. Now, get the fuck outta here."
 Everyone leaves. The Primogen Council meeting has concluded.
 Dr. Collins and Brock promptly leave after saying quick goodbyes to Pedro and Clarice. The Tzimisce doctor has decided to let Brock in on that...secret in his storage unit.
-So, they take a drive there. Back in the restaurant, Prince Antonio is speaking with Pedro and Clarice. The 2 Primogens are standing while the Prince is sitting down and leaning back.
+So, they take a drive there.
+Back in the restaurant, Prince Antonio is speaking with Pedro and Clarice. The 2 Primogens are standing while the Prince is sitting down and leaning back.
 The Prince asks, "So, what's going on with you 2? Anything I need to know about?"
 Clarice shakes her head, "It's all quiet on my end. No new entries or exits, no requests for Embraces, nothing. I'm just here to represent the interests of my Clan within this Council."
 Prince Antonio nods, "Good, good. And, Pedro? What about you? How's your territory keeping?"
@@ -8469,7 +8476,7 @@ Clarice remarks, "It could've gone worse, all things considered. How are you kee
 Pedro shrugs, "Eh, I'm fine. Just cruising, feeding, surviving, y'know how it is. You uh...busy tonight?"
 Clarice pulls out a neatly-folded piece of paper from her purse. She unfolds it and nods, "As a matter of fact, yes. Grocery shopping, darling. My Ghoul has run out of toothpaste and he likes a very specific brand; he insists on it, actually."
 Pedro chuckles, "You want me to drop you to the store?"
-Clarice politely answers, "I think I'd prefer to give my legs a stretch, dear. But, thank you so much for the offer. I still have not forgotten that...ride you gave me a few nights back. The car bouncing up and down made my still heart act up a bit, haha."
+Clarice politely answers, "I think I'd prefer to give my legs a stretch, dear. But, thank you so much for the offer. I still have not forgotten that...ride you gave me a few nights back. The car bouncing up and down made my still heart act up a bit, haha!"
 Pedro smiles, "Yeah, it does that, heh. No problem. Well, see ya around, Clarice."
 Clarice curtly nods, "Indeed. Goodbye, Pedro."
 The Seer heads off to the nearest grocery store. Pedro hops into his shiny ride and zooms off into the night. He decides to check in on some of his fellow Ferals and see how they're all holding up.
@@ -8478,32 +8485,33 @@ Brock adjusts his mullet and asks, "So, what exactly are we doing all the way ou
 Dr. Collins unlocks the door and pushes it open. He walks inside and flicks the light switch. The lights flicker on and illuminate the room.
 He replies, "I have something to show you. But...I want you to keep this between us, OK?"
 Brock shrugs and picks up a nearby MAD Magazine. He turns the pages and chuckles at the comic strips, "Yeah, mm-hmm. Sure thing, doc. I can do that."
-Dr. Collins walks over to the false wall and pulls it open. He walks into the secret room and beckons Brock to follow him.
+Dr. Collins walks over to the false wall and pulls it open. He walks into the secret room and beckons for Brock to follow him.
 The Ghoul puts down the magazine and walks over to the Tzimisce doctor. He enters the room and gasps loudly.
 His jaw hits the floor and his eyes widen in horror. He's stunned speechless when the doctor pulls the sheet off the body.
 Brock stammers, "W--what the hell is this?! WHAT THE FUCK IS GOING ON HERE?!"
 Dr. Collins looks away and quietly says, "I can explain."
-Brock scoffs, "Explain?! Explain what?! This--this is fucked up, man! IF--IF anybody knew you--you had THIS in here, it'd be the END OF YOU! And where the hell would that leave me? What would I do?!"
+Brock scoffs, "Explain?! Explain what?! This--this is fucked up, man! IF--IF anybody knew you--you had THIS in here, it'd be the END OF YOU! And where the hell would that leave me? What would I do?! Where would I go?! What would happen to--"
 Dr. Collins puts his cold hands on Brock's tense shoulder and squeezes them a bit, "Easy, easy, calm down, Brock. Lower your voice. No need to shout or--or get all worked up. Everything's gonna be OK. I promise."
 Brock shakes his head and yells, "No, it's not! This is bad, real bad! Why--why the hell do you have th--this in here?! Is--is this why you've been acting so weird lately?!"
-Dr. Collins gulps, "Yes. I was...look, you're just a Ghoul. You wouldn't understand why I had to do what I had to. In time, you might, but right now all you have to know is that this is a secret. Our secret. And we can't tell anyone about it. Not a soul. OK?"
+Dr. Collins gulps, "Yes. I was...look, you're just a Ghoul. You wouldn't understand why I had to do what I had to. In time, you might, but right now all you have to know is that this is a secret. OUR secret. And we can't tell anyone about it. Not a soul. OK?"
 Brock's face twitches and he reluctantly nods, "Yeah, yeah, fine. Whatever. But, you better not be doing anything else like this, doc. This is fucked up on SO MANY levels, dude! It's insane!"
-The good doctor sighs, "I know, Brock. I know, but I had no other choice. For now, I just need you to trust me. You know I care about you and about our Clan, right? I'd never let any harm, anything bad, befall us--"
-Brock angrily interjects, "Is THAT how you're rationalizing this?! Seriously?! Shit! I--I'm worried about you!" He puts his hands on his head and pulls on his hair. He paces around the room, breathing heavily.
+The good doctor sighs, "I know, Brock. I know, but I had no other choice. For now, I just need you to trust me. You know that I care about you and about our Clan, right? I'd never let any harm, anything bad, befall us--"
+Brock angrily interjects, "Is THAT how you're rationalizing this?! Seriously?! Shit! I--I'm worried about you!" he puts his hands on his head and pulls on his hair. He paces around the room, breathing heavily.
 Dr. Collins walks over to him and tries to reassure him, "I'm sorry, Brock, but this is how it has to be. I had no choice."
-Brock frowns, "What do you mean by that."
+Brock frowns, "What do you mean by that?"
 Dr. Collins opens his mouth but decides against it. He simply shrugs and goes with half of the story, "Just that...it had to be done for--for all our sakes. It's complicated, Brock." He puts the sheet back on the body and sighs.
 Brock slowly nods and mutters, "OK. I believe you, doc. Does--does anyone else know about this?"
 "No, just you. I was actually thinking of roping Dr. Sarah in. I trust her and we've been friends for quite a while now."
 "Hmmmph, yeah. Maybe you should, doc. This is...this is crazy, man. I never knew you'd have it in you to do something like THAT. Whoa, my whole conception of you as this mild-mannered doctor is kinda being challenged right now and I don't exactly like it."
-"It's not a side of myself I'm proud of, but I did what had to be done." He pauses and adds, "And, I'd rather you not share this with anybody else, OK? If the Prince found out..." he trails off. He doesn't need to finish that sentence.
+"It's not a side of myself I'm proud of, but I did what had to be done." The doc pauses and adds, "And, I'd rather you not share this with anybody else, OK? If the Prince found out..." he trails off.
+He really doesn't need to finish that sentence.
 Brock sourly chuckles, "Yeah, I know. He'd have the Sheriff take your head off...or leave you out in the sun." The Ghoul shudders at the thought of his Domitor meeting Final Death in such a horrific manner.
 Dr. Collins dryly nods, "Exactly. So, I'm gonna ask you again: please, PLEASE keep this between us."
 "You don't gimme much of a choice, do ya? Fine. It's not like I got anyone to tell, anyways."
 The Tzimisce doctor claps his hands together and puts on a more upbeat expression, "Thank you, Brock. Thank you. Now, let's get back to work. Now that I'm Primogen, I have extra responsibilities, some of which I'll be delegating to you."
 Brock sighs deeply and straightens his back, "Figures. What kind of...responsibilities?"
 "The usual that comes with being a Primogen's retainer. I'll need you to check on a few people, carry out some errands during the day, and other such things."
-"Yeah, yeah, sure thing, doc. I think I can handle that. Anything else?" he asks, still feeling uncomfortable about the...body.
+"Yeah, yeah, sure thing, doc. I think I can handle that. Anything else?" Brock asks, still feeling uncomfortable about the...body.
 Dr. Collins thinks out loud, "I should really speak to Dr. Sarah sometime soon. Maybe even tell her...about...you know."
 "Mm-hmm. How's she gonna react?"
 Dr. Collins confidently answers, "She's a pretty levelheaded person; she'll understand. Provided my reasoning is airtight. I did..."
@@ -8514,7 +8522,8 @@ However, a Ghoul being denied vampiric Blood for a long period of time could pai
 So, Brock is in this for the long(est) haul. He knows that the doc is one of the good ones and he's happy to be bound by Blood to him. The good doctor has always looked after him and his well-being.
 And, Brock doesn't want anything (or anyone for that matter) to change that dynamic.
 Dr. Collins regards his Ghoul for a few moments and kindly asks, "Is something else on your mind? I know this is quite a lot to drop on you, but I...had to tell someone. And who better than the closest I--I'll ever have to a son?"
-Upon hearing that, some tears roll down Brock's face. He quickly wipes them off with his hand. He smiles and hugs the Tzimisce doctor, "Thanks, doc. I'm...glad we have this bond, y'know? The one that makes me feel like I belong. I never had that growing up- I'm sure you know why."
+Upon hearing that, some tears roll down Brock's face. He quickly wipes them off with his hand.
+He smiles and hugs the Tzimisce doctor, "Thanks, doc. I'm...glad we have this bond, y'know? The one that makes me feel like I belong. I never had that growing up- I'm sure you know why."
 Dr. Collins returns the hug and pats his back, "I'm glad I found you, took a chance on you."
 He breaks the hug and inquires, "How are your studies going?"
 Brock repeatedly nods his head, "Great. Going great. Y'know, I actually need to see Dr. Sarah about my teeth. It's uh...been a while since I've gone for a checkup and cleanup."
@@ -8526,7 +8535,7 @@ Dr. Collins sighs and solemnly replies, "I know, Brock. I know. I'm not proud of
 Brock shrugs, "I think so. You're not actually planning on keeping the body HERE, right? I mean, you got some kinda long-term plan, right?"
 Dr. Collins ruefully chuckles, "Truth be told, no. It was a spur-of-the-moment thing."
 Brock is taken aback, "Whoa. Never took you for the rash-decisions kinda guy. You're always pretty methodical, calculated, careful, and precise, y'know?"
-"I know. But sometimes, we have to make snap judgments and quick decisions. And, this was one of them. But, I'll find out what to do with the body when the time's right. For now, keeping it here- where no one is likely to come snooping- is my best bet."
+"I know. But sometimes, we have to make snap judgments and quick decisions. And, this was 1 of them. But, I'll find out what to do with the body when the time's right. For now, keeping it here- where no one is likely to come snooping- is my best bet."
 "Fair enough. Yeah, that sounds great. Uh-huh, yeah." The trepidation and hesitation is still apparent in Brock's voice. He knows that he's gonna be in the doctor's service for all eternity (until something else were to happen). That is the way of a Ghoul, after all.
 Brock doesn't mind it all too much. The good doctor is the closest thing to family he's ever had. And, the good doctor treats him well, treats him like a son.
 So, Mr. Davies presses his lips into a thin line and assents, "OK, doc. I'll absolutely keep this between us. You can count on me. And I'll also get on those errands you need me to run."
@@ -8535,14 +8544,15 @@ The aspiring plastic surgeon asks, "Is that how it's gonna be for me??"
 Dr. Collins exits the room, locks the door, and responds, "Well, not exactly. I'm sure it'll be a lot more flexible for you."
 Brock sighs and replies, "Mm-hmm. Yeah, sure. Sounds good, doc. Well, we should probably head out now."
 "You got any place to be? Any um...dates tonight?"
-Brock clicks his tongue, "I was kinda messaging this 1 guy, a lotta back-and-forth flirting, but he didn't pass the vibe check, y'know. He wanted to meet, but with the current situation in this city, I'm not so sure, man."
+Brock clicks his tongue, "I was kinda messaging this 1 guy, a lotta back-and-forth flirting, but he didn't pass the vibe check, y'know? He wanted to meet, but with the current situation in this city, I'm not so sure, man."
 Dr. Collins walks to his car, his Ghoul following closely, "What do you mean?"
 Brock muses, "Could be some undercover cop. I was actually in the university library doing some reading, and I found out that this state has some pretty fucking harsh laws against...well, ya know."
 "Gay sex. Hmm, I didn't know that. I'm sorry, Brock."
 Brock lightly claps his Domitor's back, "Yeah, well it ain't your fault. Just the fucking Republican assholes who've been running this city for...too damn long. You never voted Republican, right?"
 Dr. Collins plainly states, "I haven't voted since 1961, nor have I ever bothered to take part since then."
 The good doctor says no more and gets in his car. Brock hops into the passenger seat and drums his fingers on the dashboard. He asks to be dropped off back home.
-He's got some studying to do. Dr. Collins, on the other hand, has patients to attend to, ailments to treat and diagnose, prescriptions to write, sagely advice to dole out, and so on and so forth.
+He's got some studying to do.
+Dr. Collins, on the other hand, has patients to attend to, ailments to treat and diagnose, prescriptions to write, sagely advice to dole out, and so on and so forth.
 As Dr. Collins drives his car, that secret body in his storage unit continues to nag at him. It weighs heavy on his conscience. But, he did what he had to. It's for the greater good of their Clan.
 And, he knows that it's just the beginning. The road ahead will be a tough one, but he's up for the challenge. He has to be. If not for himself, then for his fellow Tzimisce and their Ghouls (like Brock Davies).
 Also, roping in Dr. Sarah might be a wise choice, but there's a lot of uncertainty involved. What if she says something to somebody? What if she talks, or inadvertently lets something slip out? What if she exposes his dirty little secret?
@@ -8564,10 +8574,10 @@ She drops the toys into a dusty box and closes the lid. She gets up, wipes her h
 Dr. Collins equably says, "It shouldn't be. Just try to give him a little blood every now and then. I know it's not easy, being who you are, what you are, and all that."
 Sammie gulps and nods, "I'll try, doc. I'll try." There are dark circles under her eyes and she looks a lot more paler than the last time the doctor saw her.
 Even Wyatt looks quite gaunt and tired. It seems like both these Thin-Blooded siblings are tired, overworked (especially in Sammie's case), and generally drained.
-Dr. Collins offers, "How about I take you 3 out for a meal? Just something small, just some burgers and shakes, really, just to keep your strength up."
+Dr. Collins offers, "How about I take you 3 out for a meal? Something small, just some burgers and shakes, really, just to keep your strength up."
 Sammie sighs and shakes her head, "No, it's fine, doc. You don't need to do that, really. I see enough of burgers, shakes, and fucking fries at the diner I work at. No offense."
 "None taken. You should really try to get a better job," Dr. Collins suggests.
-Wyatt closes his book and replies, "Yeah, I keep telling her that, too. But, she insists on working at this stupid diner."
+Wyatt closes the storybook and replies, "Yeah, I keep telling her that, too. But, she insists on working at this stupid diner."
 Ralf looks up and repeats, "Stu-pid. Di-ner. Heehehehe!"
 Sammie blows a harsh raspberry, "It's the only place that doesn't ask too many questions. You know how hard it is to find a decent job in this fucking city?"
 With tired eyes, she glares at the Flesh-Shaper, "Do you? That greasy dump is the only place where I can get some extra cash to put food on the table, make sure our bills are paid, and look after Ralf, you know?"
@@ -8577,10 +8587,10 @@ Dr. Collins inquires, "Any luck getting through to...Ralf's father yet??"
 Wyatt groans and his claws come out, "That asshole. Hmph. He won't even pick up when we call him. I've tried so many times, and he never picks up. I recently found out he's away on some kind of a...business trip. How convenient."
 Sammie puts her hand on his shoulder and reassures him, "I'm sure you're doing your best, Wyatt."
 Wyatt shrugs her hand off and springs up. Little Ralf lets out a tiny gasp. He gets scared seeing his uncle acting this way.
-The Thin-Blood clenches his fists and grits his teeth. His face is flushed red with anger and he huffs and puffs, "Why does he get to walk away from all this?! Huh?!"
+The Thin-Blood clenches his fists and grits his teeth. His face is flushed red with anger and he huffs and puffs, "Why does he get to walk away from all of this?! Huh?!"
 Sammie tries to calm him down, "Wyatt, please, relax, you're scaring Ralf!"
 Ralf calls out, "Mommy, mommy. I'm scared."
-Sammie picks up her son and holds him tight, "It's OK, sweetheart. Your uncle Wyatt is just having a rough night. He didn't mean to scare you."
+Sammie picks up her son and holds him tight, "It's OK, sweetheart. Your uncle Wyatt is just having a rough time. He didn't mean to scare you."
 Wyatt walks over to the window and mutters, "Fucking bastard. Asshole. Coward. Gordon-fucking-Pym."
 He looks outside and stares at the ground. He puts his hands on his head and breathes deeply.
 Ralf waves to the doctor and grins, showing off his baby fangs.
@@ -8605,7 +8615,7 @@ Sammie crosses her arms and frowns, "What's gonna happen to us, doc? Is there go
 Dr. Collins reassures her, "It won't come to that, Sammie. It can't, OK? As Primogen for the Tzimisce Clan, I'll try to do my best to dissuade the others from pursuing such draconian policies."
 Sammie puts her hands on her head and paces around, "Yeah, go on. Play politics or whatever fancy name they have for it. Single working moms like me don't get that luxury. We're just destined to work jobs that are shittier or more-shittier, heh."
 She leans on the wall and heaves a deep sigh, "If--if only I had that little extra cash coming in, then I wouldn't have to worry as much. I just don't know why Gordon refuses to acknowledge Ralf."
-She looks at the floor and clenches her jaw, deep in contemplation and thought.
+The tired single mom looks at the floor and clenches her jaw, deep in contemplation and thought.
 Semi-bloody tears well up in her eyes and she wipes them off, "Ugh. Forget it. Listen, I gotta go read bedtime stories to my boy. Thanks for coming by, doc. And thanks for everything you've done for us. Really. I'm sorry if I got a bit snappy back there. Wyatt's sorry, too. Probably."
 With sincerity in her eyes, she adds, "It's not who we are as people. It's just that...things are not looking too great for us right now. I don't--I don't want my son to grow up in a world where he's always looking over his shoulders--"
 Dr. Collins points out, "And there's the inescapable fact that you'll always remain the same while Ralf ages...it's not easy being in your shoes, Sammie. Now, I understand that."
@@ -8615,7 +8625,7 @@ He gets in his car and takes another look at the rearview mirror. Nope, no one f
 The Stoker sighs in relief, starts his car up, and goes back to the clinic to attend to his patients. He does so with his usual precision, non-judgmental attitude, and meticulousness.
 The doctor goes about his night and attends to a wide variety of patients. He diagnoses, prescribes, and does everything he can to help the mortals who come through his clinic's doors.
 It's certainly a good way to stay in touch with one's Humanity, and in a greedy and callous blightscape like Flimont City, it's almost essential to keep one's Humanity intact.
-It is indeed the most important responsibility any Kindred has. The ability to keep their Humanity intact is a boon that some Kindred squander away in exchange for power or whatever.
+It is indeed the most important responsibility that any Kindred has. The ability to keep their Humanity intact is a boon that some Kindred squander away in exchange for wealth or power or whatever.
 As for Dr. Collins, he's been able to keep his Humanity and compassion intact.
 But, is individual kindness and decency enough to keep things going?
 Frankly, no. It's absolutely good, yes, but it's not gonna lead to the systemic change desperately needed around these parts. Individual acts of goodness can only take one so far in this world of darkness.
