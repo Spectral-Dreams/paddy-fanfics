@@ -32,4 +32,8 @@ Early-Mid 2026: Writing begins on VTM: The Velvet Curtain and VTM: Aeterna Servi
 
 Mid-Late 2026: Early Access for VTM: The Velvet Curtain and VTM: Aeterna Servitus
 
-2027 and beyond: Writing for WTA: Automata and other WOD-related projects (TBD)
+2027 and beyond: Full release for VTM: The Velvet Curtain and VTM: Aeterna Servitus. Writing for WTA: Automata and Extraterrestrial: The Stranded- Repatriation begins
+
+2028: Writing for VTM: Disciples Under The Moonlight and WTA: The Eternal War begins after full release of Automata and Repatriation
+
+Beyond: We shall see. Watch this space...
