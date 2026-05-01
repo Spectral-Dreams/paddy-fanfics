@@ -52,7 +52,7 @@ Detective Nina angrily grumbles, "Hff. How convenient."
 Björn shakes his head. He feels like he's getting sidetracked, "OK, leaving...all of that aside, I'm more curious about Markham Reed."
 Detective Ross sighs deeply, "What's there to say about him?"
 Björn regards the police detective and prods, "You don't suspect that he might've, somehow, been involved in all of this? You yourselves said that he was pretty insistent on getting Mr. Cho arrested for that hit-and-run."
-Detective Nina shrugs and says, "Now that you've mentioned it...Ross? It's definitely kinda fishy, right? The guy screams about wanting to arrest Mr. Cho. Next thing you know, he goes poof! Gone! Missing! And his joint is turned over. Weird."
+Detective Nina shrugs and says, "Now that you've mentioned it...Ross? It's definitely kinda fishy, right? The guy screams about wanting to arrest Mr. Cho. Next thing you know, he goes POOF! Gone! Missing! And his joint is turned over. Weird."
 Detective Ross looks around the place, "Ehh...why do I feel that we're grasping at straws here?"
 Björn rolls his shoulder, "Maybe you are, maybe you aren't. Did Mr. Reed leave a contact number of any kind? Place where he might be staying, anything?"
 Both cops shake their heads.
@@ -239,7 +239,7 @@ The voice goes on to explain, "DEVIATION. The consciousnesses of the Fourth Chil
 "Yeah."
 "ASSERT. Allowing access to divine data vaults. You may absorb the information therein at a pace more comfortable to you, Madeline Stephenson."
 Madeline thanks the disembodied voice, "Thank you. Why--why was I chosen?"
-"Permission to answer query granted. Time: 0.0000003 m/s. Chosen_One = True. You were chosen by the God-Machine due to your unique abilities. Assimilating you was the only logical/correct/moral choice."
+"Permission to answer query granted. Time: 0.0000003 ms. Chosen_One = True. You were chosen by the God-Machine due to your unique abilities. Assimilating you was the only logical/correct/moral choice."
 Madeline is (understandably) not very thrilled and it bleeds through her otherwise synthetic voice, "OK. Did--did the God-Machine destroy me so--so I'd be easier to assimilate? Was there no other option?"
 There is a long pause. It feels as though the other voice is carefully considering its response. It then says, "ERROR. UNAUTHORIZED. This entity lacks the necessary cognition to address such queries of moral/ethical complexity."
 Madeline grits her teeth (or she feels like she does), "I still deserve some fucking answers, don't I?! Did--did you engineer the situation just so you'd get your hands all--all over me? Answer me! Goddamnit!" she lets out a scream
@@ -491,7 +491,7 @@ Sheriff Velma, for her part, is disturbingly eager to make a move against the me
 He often smirks (in a smugly irritating sort of way) and tells her, "Let 'em simmer and boil. Let 'em look over their shoulders and wait for the axe to fall. Let them feel the noose slowly tightening around their necks."
 The man is buying time, but for what, for whom? And why?
 A night ago, Prince Antonio received word of an imminent arrival to his Domain. This man is supposedly of great repute (yikes), knows the ins and outs of this city, and has been quite an influential figure in the wider realm where finance and politics (and other stuff) intersect for decades.
-(Prince Antonio is hoping that the Lasombra will side with him.)
+(Prince Antonio is hoping that this fella will side with him.)
 The Sheriff was given orders to see to his safety and well-being. Adding to the mystery, this man is of the Lasombra Clan. A recent Embrace, even.
 But he has, apparently, amassed quite the fortune in the mortal world. And he's back because his Clan demands something of him.
 Something that he is more than willing to pay so that he may proceed with his newfound Unlife and grow to even greater heights. This man has been a standing and sturdy fixture of this city for quite a while.
@@ -634,7 +634,7 @@ Gordon slowly taps his foot along to the beat. It's a familiar tune that he hear
 "I'm getting old...but not old enough. Hmph." He grumbles some more and finishes his coffee. He spends an hour just sitting in his little dark corner, fingers steepled together, eyes glazed over, and thoughts racing.
 Mr. Pym is snapped out of his trance when he sees a whole group of older-looking ladies walk into the eatery, giggling and laughing. They take a seat right next to his table, which makes him sit up straight in surprise.
 He curtly waves at them and immediately departs. Not because he gets cooties or shit like that. No, he'd probably love to stay and chat, but he has something important to do.
-Something that his consciousness propels him to do.
+Something that his conscience (or what remains of it) propels him to do.
 Gordon leaves a couple of quarters as a tip and heads back to the parking lot where his car is parked. There's a slight chill in the breeze tonight. A welcome relief from the hot summer day.
 Gordon checks his watch again. Once he gathers his stuff, he approaches the wider-than-life stairs with a certain kind of trepidation. The closer he gets, the more jittery and antsy he gets.
 He tries to put on a confident face and strides up the steps with all the dignity and gravitas befitting a man of his status and profession. A few people recognize him and call his name out. Gordon responds with a curt wave and weak smile.
@@ -908,7 +908,7 @@ Like the eyes of LDJ's father are burrowing into the back of his head. He's not 
 He walks to the front and asks to see his client. The guard nods and waves him inside. The security check in the marble lobby is a breeze.
 Luciano Donovan Junior is in the middle of arguing with Special Agent Harold Cuomo. The former wants a bigger TV so he can watch his cartoons while the latter is insisting that he stays put.
 The Special Agent isn't in the mood to argue with LDJ, "Mr. Donovan--you're scheduled to leave in another few minutes. I don't really see the point of getting you a new TV. Once the motorcade's here, you're out and on a plane headed to New Orleans to be with your girlfriend and start a new life."
-Luciano Junior crosses his arms and scoffs, "Tchah! Fine! But I'm not forget this, alright? That fuckin' tiny TV gave me a headache! How do you see anything on it, huh?!"
+Luciano Junior crosses his arms and scoffs, "Tchah! Fine! But I'm not gonna forget this, alright? That fuckin' tiny TV gave me a headache! How do you see anything on it, huh?!"
 Special Agent Cuomo shrugs, "It's good enough for me. It's not like I'm trying to watch fuckin' Bugs Bunny on it, Mr. Donovan."
 Luciano Junior wags his finger and tuts, "Hey! Don't badmouth the bunny. He's funny, I like him."
 Special Agent Cuomo murmurs, "It's hard to believe that you're Luciano Donovan Senior's kid. The only known male heir to the Donovan fortune. You're nothing like him, you know that, right?"
@@ -929,6 +929,7 @@ He grunts, "I'm--I'm fine, Luciano. Just tell me where Harold is. I--for what it
 Luciano Junior calls out, "Hey! Hey, Gordon! What the fuck's wrong with you, huh?"
 Gordo lazily responds, "I'm just...tired, kid." The fixer eventually finds the Special Agent and they get to chatting.
 Special Agent Cuomo is in his office. He throws his feet up on the table and relaxes in his chair. He's in the middle of reading a book when Gordon enters the room.
+This particular tome was seized from a Tremere library somewhere in Tacoma. It's quite the page-turner. He's technically not supposed to be reading it, but things conveniently "go missing" from the evidence rooms all the time.
 Gordon greets the agent, "Harold--"
 "It's Special Agent Harold Cuomo to you. Close friends call me Harry, but I strongly doubt that you'll ever earn that privilege." The Special Agent closes his book and sets it aside.
 The fixer groans, "Hmph." He sits opposite the Federal Agent and nods over to the Masonic ring on desk.
@@ -1026,7 +1027,244 @@ Gordon feels a migraine coming on. An unintended side-effect of the trace amount
 Gordon just hopes that omitting certain things pertaining to LDJ won't come back to bite his ass down the line. He is, after all, a creature of self-preservation.
 His crisis of conscience was somewhat hypocritical. He was only planning on turning himself in because he felt personally affected by what might happen to him.
 At a later date (or never), he'll go into more detail about how he tried (numerous times) and failed to have the SEC Enforcement Investigator bumped off.
+After a good while, the limousine of the Lasombra Fledgling grinds to a halt in front of the residence of Gordon Pym.
+Before the Pym Reaper can make his exit, Luciano Senior grips the wrist of his soon-to-be Ghoul and sternly warns him, "Don't you even fucking THINK of trying anything funny--"
+Gordon glares at his soon-to-be Domitor and brusquely retorts, "Or you'll what, huh? This is beneath you--"
+Luciano Senior grimly threatens, "Or else I'll personally pay little Ralf a visit- I'm a VERY resourceful man who still has his ways- and it won't be to bring him a Christmas present. Hell, I might even pop by whenever I feel...Hungry. And when I'm in that state, I can't exactly be held responsible for my actions..."
+HOLY SHIT!
+He laughs lowly. His voice is like sandpaper. It's awful. Truly awful.
+Gordon's expression shifts from subtle disgust to full-on shock. He quickly snatches his arm away from the old man and leaves. The last thing he needs is more shit to deal with. Especially this. Especially now. 
+Gordon Pym stumbles out of the limo, the weight of his decisions weighing heavily on his slightly slumped shoulders. He hobbles his way back to his place and pops a multitude of pills so that he can sleep it all away.
+The future Ghoul doesn't know what else to do. He's been through a lot in a very short amount of time.
+He washes his hands- both in the literal and abstract sense- of any further thing to do with Luciano Donovan Junior; that buster's fate is pretty much sealed.
+After drying his hands with a towel, Gordo checks the time. It's almost past midnight, but not too late for a glass or 2 of single malt scotch. He's not necessarily one for casual boozing but tonight has been...a night.
+As the fixer is lightly sipping on his booze (a thank you gift from another client of his), he surmises that alcohol is going to play a major part in his new life going forward. He has a feeling that he'll need it. A lot of it.
+To drown out the nagging thoughts, the many voices, and the...other things. Yeah, he definitely feels some kind of...something that he hasn't felt before.
+It is the Vitae of his master asserting itself within not only Mr. Pym's body but also his psyche. It is starting to take root in his mind, in his very essence, his being as a whole.
+He is slowly beginning to change. And not for the better, mind you. Not. For. The. Better.
+Luciano Senior has already relayed the relevant info to his fellow Lasombra in this city. A few of them came from Israel (absolute maniacs) and the rest of them are the Sabbat defectors looking for a place in Prince Antonio's Court (or what's left of it).
+They coordinate a plan and ready themselves.
+Special Agent Cuomo claps his hands and loudly announces, "ALRIGHT, PEOPLE! Showtime! Let's get this baby on the road! I want wheels up in 3! Let's move, people! Let's move!"
+Luciano Junior is strapped with a Kevlar vest (for added protection and show, if nothing else). He fidgets with it as Agent Heartley struggles to secure a strap. His heart races, thumps against his rib cage. Sweat rolls down his forehead.
+"Hey, get off me!" LDJ swats Agent Heartley's hand away, "I can do it myself!" He tugs and adjusts the straps of the bulletproof vest.
+Agent Heartley groans and shakes her head, "Hff. Fine. After this, you're no longer our problem."
+Special Agent Cuomo approaches the little twerp, "All fine here? There's a plane- fueled and ready- waiting for you." He gestures for LDJ to follow him.
+As the 2 of them walk, Special Agent Cuomo goes on, "Pilot has instructions to fly you straight to the Big Easy. I've instructed a few field agents to pick up your girlfriend so she can join you there. It's the least we could do."
+LJD sighs, "And my stuff?"
+"All packed and ready, just like you told us. The rest will be shipped to you."
+"I guess that's it, then..." Luciano Junior says, dejectedly.
+Special Agent Cuomo claps the other man's back, "Think of this as a...a new start. Truth be told, we're giving more than we're getting from this whole deal with you."
+Luciano Jr. glowers at the Special Agent, "Fuck you. I gave you Mauve, Paul, and Gordon too. That's all I know. Hell, I'd give my dad up, but I dunno where that old creep is."
+"Don't worry about your father. Just worry about yourself."
+A large convoy of bulletproof SUVs with tinted windows pulls up into the parking lot. There are armed people inside of each and every one of them.
+A fair-skinned man in a tight suit and a short haircut has his hands clasped together. His broad chest is puffed out, and his stance is wide and confident. He approaches Special Agent Cuomo and Luciano Junior.
+The man extends his warm hand to LDJ, "Name's Mike. It's a pleasure to meet you, Mr. Donovan."
+Luciano Junior skeptically eyes this newcomer. He cautiously accepts his handshake. This guy's grip is terribly firm, "Uh...Luciano. Junior. But you already knew that. What do you do around here?"
+With an annoying smirk, Mike answers, "I'll be your temporary head of security. Due to the traffic in this city, the motorcade is going to take a while."
+Special Agent Cuomo clarifies, "We're taking extra precautions just in case anyone from your...old life tries to bump you off on the way to the airfield. Can't be too cautious, heh. And you DID get yourself a pretty sweet deal."
+LDJ adjusts his collar and rudely asks, "Why do you keep bringing up my fuckin' deal like it's a bad thing? You people are the ones who forced me into this. You guys made me sell...everyone out."
+Special Agent Cuomo's chuckle is dry and mirthless, "I'm not gonna argue with you. I'd like to say that it was a pleasure knowing you, but truth be told, I'd sooner stick a cactus up my ass and sing the whole score from a shitty musical in a nightclub than ever see your face again."
+Agent Mike snickers.
+LDJ grumbles under his breath, "Pfft. Yeah, fuck you too."
+From there, Agent Mike holds the door open for the self-entitled son of the Lasombra Fledgling. Luciano Jr. climbs into the backseat of a bulletproof SUV.
+Agent Mike climbs in soon after and wiggles around till he's all settled in. He taps his earpiece and says, "Sierra-November, all clear. Rooster is in the henhouse. I repeat: Rooster is in the henhouse. Ready to roll."
+Luciano Junior asks, "Rooster? The fuck kinda codename is that?"
+Agent Mike laughs heartily, "It was Agent Heartley's idea, s--sir. I just follow orders around here. Don't look at me like I have a say in the matter. We'll be going now. Try and relax, sir. You're safe with us."
+Luciano Jr. throws his head against the plush headrest and heaves a mighty sigh. This is it. The end of the road for him. He just doesn't know it yet.
+The motorcade pulls out. Special Agent Cuomo indifferently watches on.
+Agent Heartley folds her arms and breathes a sigh of relief, "Phew! Glad he's outta our hair, huh? Y'know, Harry, I've never met anyone so obnoxious and unpleasant before. God help us if that kid ever amasses as much power as his dad."
+Special Agent Cuomo's expression is cold and distant, "I'd take Skinny-fucking-Tim any day over...this. Do you feel that we lost more than we gained by letting him off like that? I mean, we've got his associates, but still..."
+Agent Heartley scoffs, "Oh, yeah. Sure. He turned state's evidence for a single blank body. Other than that...what has he given us?"
+Special Agent Cuomo bites his lower lip and puts his hands on his hips, "I wanna start by opening up investigations into Paul Cho, Gordon Pym, and the other investors in Luciano Donovan Junior's circles."
+He adds, "Give it to the lower rungs, but the moment that they see something fishy, we swoop in and take over. You find anything useful on that blank body's laptop? What about her things?"
+Agent Heartley shrugs, "We're still sifting through it. By the way, any news from your Mister X?"
+"Nope. Not a squeak. Why?"
+"Just curious, Harold. I'm itching to get back out on the field again. I know that our recent losses aren't doing us any favors but...we're getting nowhere with the op. I mean, the SAD is a great place to work but we can't stand around here and do nothing while all of these fucking blank bodies--"
+Special Agent Cuomo holds up his hand and cuts her off, "I know, I know. How 'bout this: the next piece of intel that we receive is yours for the taking. I'll send you on that one, how about that?"
+Agent Heartley smiles brightly and nods her head, "I like the sound of that, sir."
+The sight of the convoy grows smaller in the distance. Special Agent Cuomo is very relieved to be rid of this particular headache. As the duo head back inside, Special Agent Cuomo tells his second-in-command about this book that he's been reading.
+"Oh, shit. You really need to see it to believe it, Heather."
+The streets are mostly dark. The night still reigns supreme and is far from over. The city is still alive, albeit at a slightly slower pace.
+The motorcade slows down due to some unexpected traffic up ahead.
+Agent Mike taps his earpiece and rasps, "What's the holdup? Oh. Huh. OK. Ten-Four, Sierra-November. Out."
+Luciano Junior impatiently asks, "Why aren't we there yet, huh? Y'know, I thought that they was gonna put me in a fuckin' helicopter."
+Agent Mike adjusts the sleeves of his own tight suit and chuckles lightly, "Well, you know how the higher-ups can get, sir. I just follow orders and do as I'm told around here."
+"Oh, yeah? And what exactly did they tell you, huh?"
+Agent Mike shrugs, "That you are an important witness of some kind who has or--or had some very dangerous friends. We're supposed to protect you, sir. You have a woman by the name of Angelique waiting for you in New Orleans."
+Luciano Jr. sarcastically quips, "Yeah, that about sums it up neatly, heh. And what's your story, huh? Mike. Mikey or whatever the fuck."
+Agent Mike clears his throat, "Did a tour in Afghanistan, sir. Did a lotta good there. Came back and my cousin hooked me up with a sweet gig with some top-secret FBI taskforce. No regrets, no complaints, no looking back, sir."
+(Ah, just your average, run-of-the-mill war criminal).
+Luciano Jr. blandly gesticulates, "Cool, cool. So, you...kill anyone?"
+Agent Mike licks his lips and nods, "Yes, I--I have, sir. They...had it coming, if you get my meaning, sir."
+Luciano Jr. smirks, "Sounds like you were doing God's work back there. Are you--are you expecting anyone to jump us?"
+Agent Mike looks at his watch, "We can never be too cautious, sir. Don't worry, these babies that you're riding in are bulletproof." He knocks on the bulletproof windows and grins.
+The son of the Lasombra Fledgling sighs, "I know that. You're SURE that we--we're safe, right?"
+Agent Mike reassures him, "As safe as can be, sir."
+After some light maneuvering, the motorcade gets to moving at a steady pace again.
+Somewhere under a bridge...
+The lights are all out- killed would be a better description. Shards of glass litter the floor of this dark place. An old and nearly decrepit bridge looms above the gathered Shadows. A few cars pass by, but nothing else. It's dark and cold.
+There's not much to see. There's not much that CAN be seen. The cracked and crumbling pavement is the only thing that can be discerned through the pitch blackness of the night.
+But it's not just an ordinary pitch darkness, there's something extra here. Some thick, indiscernible fog that hangs heavily over the bridge and everything around it.
+This unnatural mist seems to be emanating from a lone figure sulking under this bridge. He leans against a support beam of this decaying bridge and folds his arms. His expression is blank.
+He sports a ducktail beard and unhealthily pale skin. A pair of sunglasses shields his eyes from the world around him. There is a slight grin on his face. It's subtle and almost unnoticeable.
+His trenchcoat flaps in the light wind. The hem of his coat brushes up against his shins. There's no sound except for the occasional gust of wind and the sound of cars passing by.
+A woman sports similar clothing. She's ducking behind a support beam, just far enough away from the man that she can still get a good look at him.
+She glares at him, "Showoff. Since when were you capable of utilizing your Oblivion Discipline to cover large swathes of land like this?"
+The man chuckles lightly and answers, "Since 1997. This is the result of all of my hard work, Dona."
+Dona scoffs, "And all that Diablerie you've been committing. Your own Sire's Sire. You're insane, Eli."
+Eli smirks and extends his hands to either side of his body, "Well...I'm still here, aren't I?"
+He jerks his chin over to a group of 4 people huddled closely together and asks his fellow Lasombra, "What's their story?"
+Dona explains, "They're with the Israeli...err...branch of our Clan. Some hotshot named Luciano Donovan Senior wanted us to work with them."
+Eli observes, "They haven't said much...they're not Sabbat, right?"
+Dona claps back, "Fuck should I know, huh? Do I look like I have access to the Auspex Discipline, huh?"
+Eli snickers, "Oh, I love it when you get all riled up." From there, he pulls out his wakizashi sword and begins to show off by elaborately twirling it around. He has a very distinct and elaborate fencing technique.
+Dona sighs, "Showoff..." she cracks her knuckles and puts on a thick pair of worn-down gloves.
+Eli taunts, "You're just mad because you're not as good as me."
+She retorts, "Says the Banu Haqim wannabe."
+Trenchcoats, sunglasses at night, and swords. These yuppies-turned-edgy-mall-ninjas have really done it for themselves. They're a bit old to be wearing these kinds of outfits, but they are pretty damn badass and are NOT to be taken lightly or underestimated.
+On the other hand, their fellow Lasombra are dressed fairly casually. Their hollow and ashen faces are all grimaces and sneers. Their fangs are borne and their claws are out. These 4 Israelis look ready for a fight.
+A bloody one.
+Dona's enhanced vampiric hearing picks up on a slight rumble in the distance. She perks her head up and narrows her eyes. Something is coming. Something is definitely coming.
+Eli hears it, too. He lets out a brief chuckle as even more black mist starts to emanate from his Unliving body. His dark aura is strong, powerful.
+The 2 Shadows exchange a brief glance before readying themselves. The other 4 take up their respective positions and wait.
+Agent Mike looks ahead and squints. The cars in front of him slow down a bit. He puts his hand to his earpiece and inquires, "What's the hold up? We're in the clear--"
+Just then, the frontmost car of the convoy is literally flipped over by something fast and unseen. The occupants are dead before they can even react to the sudden impact.
+Agent Mike's eyes go wide and he gasps. He pulls out his pistol and covers Luciano Junior with his own body.
+"GET DOWN!" he yells.
+The rest of the cars are flipped and mangled in a similar manner. Dona, making use of her Potence Discipline, effortlessly flips armored SUV after armored SUV like someone were flipping pancakes or pizzas.
+Eli uses his Oblivion Discipline to shroud all of the woefully unprepared security personnel. He makes sure that they cannot see a single thing. It's all darkness. Utter darkness.
+A few survivors scramble out of their vehicles and pull out their weapons. The other 4 Turncoats get busy. Slashes and stabs galore. There are screams and sounds of gurgling, coughing, and choking.
+A few errant gunshots ring out, but it's no use. The darkness is so thick that even their bullets are swallowed up by the all-consuming void.
+Adding insult to greater injury, when an FBI agent attempts to call for backup, her digital device fizzes, conks out, and stops working. She bangs it and curses under her breath.
+She is then cut down by a well-placed slash from another Lasombra's claws. She screams as she is slashed across the face...repeatedly. Screeches emerge from 1 of the Israeli Lasombra's mouth as he viciously assaults the downed FBI agent.
+Luciano Junior is cowering in the backseat of this the SUV. Dona falls back and soaks up some gunfire. Eli rushes to her aid and slices a few Feds up with his sword.
+He grins and cackles as he kills. His fellow Lasombra are doing a fine job of dispatching everyone else. Dona takes a moment to refill her dwindling Vitae (who'd have thunk that overturning big-ass SUVs would be so...draining).
+She sinks her pointy fangs into a bewildered and struggling FBI agent's neck. He tries to fight back but his strength is quickly sapped from him, as is his lifeforce.
+Dona discards the drained corpse, wipes the dripping blood off of her lips, and moves on.
+The rest of the Lasombra continue to get rid of the few staggering agents who put up something resembling a fight. They didn't expect to be hit by vamps.
+Dona overturns the vehicle in front of where Agent Mike, LDJ, and the driver are currently hiding. Luciano Junior shrieks in terror. Agent Mike flinches and holds his gun tighter.
+The driver puts the SUV in reverse and prepares to peel out while Agent Mike frantically orders, "Route 1 compromised! Moving to secondary--"
+The SUV jerks and abruptly halts. Dona- all by her strong lonesome- is holding onto the hood of this vehicle, preventing it from getting away. She tightly grits her teeth like a maniac and holds on.
+She channels extra Blood into her Potence Discipline and begins to lift the car a few inches off of the ground. The tires keep spinning and squealing. She's getting angrier and angrier. The veins in her neck bulge.
+Agent Mike rolls down a window and shoots at her. His shots miss but Dona gets the hint. He immediately rolls the window back up and tells Luciano Junior to brace himself.
+After some more grunting, Dona completely overturns the car, leaving the occupants all stunned, dazed, and utterly confused.
+Eli grabs a random agent and bites him in the neck. He sucks him dry and plunges his sword deep into the man's chest. A few others open fire on him, but it's no use as they are jumped and slashed by the other Lasombra.
+The last few survivors are all too weak to put up much of a fight. Their deaths are mercifully quick. A few even beg for their lives, but there will be no mercy for them.
+Eli chuckles and saunters over to the turned-over SUV. He's twirling his sword and stroking his ducktail beard. There's a smug, self-assured look on his face.
+Dona begins to punch the bulletproof glass. Mike sees her and gulps deeply. He makes sure to shield Luciano Junior with his body.
+He says to the son of the Lasombra Fledgling, "Stay behind me! STAY BEHIND ME!"
+The driver in the front is pinned and he's panicking. The passenger side door has been all but crushed by Dona's incredible display of Potence.
+Eli paces around and fakes a yawn, "Any day now, Dona."
+Dona grunts and keeps on punching the bulletproof glass, but it is yet to shatter. The driver, seeing no other way out of this mess, tries to radio for help. He bangs on the digital radio and curses under his breath.
+No signal. None whatsoever.
+Agent Mike reassures LDJ, "Don't--don't worry. This--it's bulletproof--"
+Luciano Jr. desperately cries out, "IS IT FUCKIN' PUNCH-PROOF! WHAT IS SHE DOING!"
+Agent Mike takes a few deep breaths, trying to remain composed under pressure, "I--I don't know, sir." He looks at the dead FBI agents splayed all over the road and grimaces.
+The driver in the front keeps on trying to call for some backup. Even his little Nokia phone seems to be malfunctioning.
+Agent Mike is not taking this very well. His eyes are darting around and he's sweating bullets. He frenetically calls out to the driver, "HEY! HEY! Have--have you managed to get through?"
+The driver shakes his head and sighs deeply, "No, sir. There's no signal! I--I keep trying--"
+Dona rams her balled-up fists into the bulletproof glass repeatedly. She's getting real sick and tired of this. Her face is contorted into a snarl, and her bloody fangs are fully visible, glistening in the faint light.
+Agent Mike tells the driver, "Keep--keep trying. We'll be fine. Do--don't worry, Mister Donovan. We'll keep you safe. Backup is..." he trails off and stares at the insanely strong Lasombra lady who's punching the bulletproof glass like it owes her a ton of dough.
+The other Lasombra shuffle about the place and admire their gruesome handiwork. Eli taunts his fellow Shadow, "Getting weaker, huh? What would you your Sire say if she saw you--"
+Dona lets out a guttural scream and continues punching away, but she's barely able to put a single crack in the glass.
+Agent Mike is starting to freak out a bit. Luciano Junior shrieks and clutches his own head, "I DON'T WANNA FUCKIN' DIE IN HERE!"
+Agent Mike breathes in and out, "What--what is she hoping to achieve by--by hitting the window like that?"
+Eli laughs loudly, "I don't know! Let's ask her!"
+Agent Mike's face contorts into a look of pure confusion as he glares daggers at the maniacal Lasombra.
+The driver keeps on banging on the radio. He tries his phone again. It's still dead. The Nokia phone won't budge, like, at all.
+Agent Mike taps his earpiece and frantically shouts, "Sierra-November! ANYBODY! COME IN?! Is anyone out there? Pick up, dammit!"
+Another Lasombra speaks into the earpiece, his voice a tad muffled, "BOO! We're coming for you, little scared puppy. You're next!"
+The sound of a deep, grated laugh sends chills down Agent Mike's spine. Luciano Junior tries to hold his shit together.
+He cries out, "DON'T LET THEM GET ME! GET OUT THERE AND SHOOT THEM, MIKE!"
+The ground beneath rumbles as Dona keeps on punching away. The cracks are beginning to form, but not fast enough. Eli smirks and paces around the turned-over SUV.
+He flatly muses, "Ripping the roof off is also an option...y'know..."
+While mashing away, Dona snarls at him, "That takes more--ugh--effort--ughrhg! WHY. WON'T. YOU. BREAK?! RRRRRARGH!" she draws her clenched fist all the way back and slams it into the bulletproof glass.
+A small and subtle crack finally forms. The driver sees this and gasps. He looks at Agent Mike with widened eyes. He keeps on trying to get some semblance of a signal so the higher-ups can be informed and send reinforcements.
+But alas, it's no use.
+Agent Mike bites his lip and takes a few deep breaths. Luciano Junior keeps asking him to go out there and shoot these fuckers.
+Agent Mike grips LDJ, shakes him a few times, and tells him to shut up. He keeps his gun aimed at the cracked window.
+Eli chuckles, "I can smell...3 bodies in there. 2 for the taking. The other one is the Kine that we are to deliver to the Fledgling- unharmed."
+Dona grunts and keeps punching away. With her Potence nearing its limits, she pulls her fist all the way back and punches as hard as she possibly can. A few more tiny cracks form.
+The 4 Israeli Lasombra start to get impatient. They ask what's going on and demand to make an exit. Eli orders them to lend a hand, but their Potence Levels are nowhere near as high as Dona's.
+Dona keeps on punching away. She's almost there. She can feel it. Some bloody sweat trickles down her forehead. Her still heart begins to act up, and she even forces a few breaths into (and out of) her body.
+She screams out in agony and keeps mashing the cracked glass. The others watch on, arms folded indifferently. Eli is the only one who paces around and tauntingly twirls his blood-slicked wakizashi sword about.
+The driver keeps on trying his radio, phone, and anything else that might be of use. Agent Mike frantically looks around, but there's really no way out of this mess.
+Dona takes a brief breather before rearing her fist back and slamming it into the cracked glass as hard as she can.
+Eli faintly chuckles, "You need Blood...I can feel it."
+Dona has certainly consumed quite a bit of Vitae. She can sense her Beast rousing within her, threatening to drive her into a maddening Frenzy. She holds onto it with all her strength and focuses on the task at hand.
+Agent Mike and Luciano Junior remain silent in the backseat. Words fail to translate what they're feeling and processing right now. This is a terrifying and harrowing moment for both of them.
+The driver in the front is shaking and practically crying. He bangs the digital radio and frantically tells his boss to pick up. His voice is quivering like he's got a bad case of the shaky shakes.
+After landing yet another fruitless punch, Dona stumbles backward and groans. Her face contorts into an expression of pure rage. Her eyes are locked onto the cracked glass, and her fangs are fully visible.
+Eli glares at her like she's a failure and shakes his head disapprovingly, "Tsk, tsk, tsk. And here I thought that the woman who once punched a big fucking hole through a concrete wall would do better."
+Dona growls, "Fuck you, Eli! I've had enough of your shit! You--you wanna give it a go, be my guest!"
+Eli channels some of his Oblivion mist and directs it towards the small cracks that Dona's knuckles have been able to produce. With some deft guidance, he's able to get some of that shadowy black mist into the cracks of the bulletproof glass.
+It's slow going, but he's getting somewhere. He tells the other Lasombra, "I'm gonna need you guys to cover the exits. There's 3 Kine in there- 2 are your happy meals, the other belongs to the Fledgling and we're under STRICT instructions to bring his ass in ALIVE."
+Dona hobbles over to a few corpses and drains them of what blood remains. She feels her Potence Discipline replenishing and her Hunger quieting.
+Eli snickers, "So eager to fill your belly. Hmph."
+Dona bites into another limp wrist and gets a few more mouthfuls. Her Beast has subsided. She marches back over to the SUV, draws her fist back, and punches the window again.
+Eli winces and aids her by filling the car with his shadowy mist. It's thick, heavy, and very difficult to see through. The occupants can't see a single thing.
+Luciano Jr. foolishly unbuckles his seatbelt. In the overturned car, his head hits the roof with a thud. Agent Mike notices this and gasps.
+He yells at him, "Stay--stay still! DAMMIT!"
+Agent Mike blinks and tries to swat the encroaching shadows away with his free hand. He curses under his breath and tells Luciano Junior to keep still.
+Thanks to the Oblivion, the cracks somehow widen. The window itself begins to grow weaker and weaker. Dona's punches get harder and harder.
+Luciano Junior loudly asks, "WHAT'S GOING ON?! WHAT IS THAT THING DOING!?"
+The glass grows brittle to the point where Dona's fists start to smash through.
+Agent Mike is starting to freak out. His breathing becomes erratic and his grip on his pistol tightens. He steadies his aim and prepares to open fire the second the glass shatters.
+He orders LDJ, "Sir! I'm gonna need you to look away! And when you both get the chance, I want you to RUN as fast you can, got it?"
+The driver weakly nods and pulls out a peashooter from the glove compartment. He checks the mags and swallows the lump in his throat.
+Agent Mike tells him, "You need to find a way to get us some backup, alright?"
+Dona viciously snarls and keeps on hitting the glass. She's almost through. She's so close to breaking the window. It's growing more and more fragile by the second.
+Eli's Oblivion mist turns into a full-on fog that obscures the occupants' vision. The shadows swirl around the car in a menacing fashion, and the cracks continue to grow wider.
+The driver complains, "I can't see shit!" he begins coughing, like someone tossed a tear gas grenade in here or something.
+Agent Mike looks at Luciano Junior and tells him, "When I tell you to go, you run like hell, OK?"
+LDJ wordlessly nods, the terror on his face quite visible. Agent Mike takes a deep breath and keeps his finger on the trigger. He waits for the opportune moment to open fire on these vampires.
+Ah, he's already dead.
+With a final pulling back of her fist, Dona finally breaks through the glass. Agent Mike fires a few shots in the direction of the Lasombra. As the shards of glass fly literally everywhere, Luciano Junior and the driver bolt out of the car.
+Eli yanks Agent Mike out and absolutely dismembers the mortal with his sword. He grins as the man's dismembered body parts scatter all over the road.
+The driver is pounced on by the Israelis and torn to shreds, his screams falling upon deaf ears. Luciano Junior dashes away and runs for his life.
+Dona quickly leaps on top of the overturned vehicle, shrieks, and pounces on the fleeing mortal. He falls over and struggles against her preternatural grip. He kicks, screams, and cries. He begs for mercy and says that he'll do whatever she wants him to do.
+Dona subdues him. Before she's about to give him a K/O, Eli holds her back and reminds her of the fact that she might just end up punching a hole through this mortal's face.
+She stops herself and looks up at Eli. He looks down on LDJ, brings his foot up, and stomps on his head with only a portion of his vampiric might. It doesn't kill him, but he's definitely concussed and seeing stars now.
+Dona snickers, "So much for not making a hole in his head, huh? Now, there's a nasty boot print on his face."
+Eli rolls his eyes and tells her to grab the guy. Dona tosses him over her shoulder and carries him off, following the other Lasombra towards an unassuming white van that's parked a few yards away.
+Eli drives and tells her, "The Fledgling never said we had to bring him in mint condition, heh."
+The Israelis remain mostly silent and talk amongst each other, all hush-hush like. Dona and Eli sit in the front while LDJ has been bound and gagged with ropes for added measure.
+Eli drives down at a fairly leisurely pace. He doesn't want to risk attracting any unnecessary attention. How very considerate of him.
+Dona stares at her surroundings, "So...this dump gonna be our new stomping grounds from now on, huh?"
+Eli sighs and takes a sharp turn when the traffic light turns green, "Why? Did the Sabbat give us anything better other than backwater shitholes and reservations?"
+Dona scowls and wistfully stares out the window, "At least Vegas was pretty."
+Eli chuckles, "Mm-hmm. But casinos weren't exactly ideal hunting grounds for...those of our Clan. Remember that time the slot machines started acting funny when you were nearby?"
+Dona sighs and stares back at Luciano Junior, who's still out cold. The Israelis stare back at her, their dead eyes locked onto her.
+1 of them speaks to her in Aramaic. She can't understand a thing. So, she merely nods and musters up a half-smile.
+Eli keeps his hands on the steering wheel and his foot on the accelerator. He makes sure to stay well within the bounds of the prescribed speed limit so as not to rouse any suspicion.
+He flatly asks, "You're not Hungry, are you?"
+Dona shakes her head, "Nah. You?"
+"Could use a bag. Impressions of this Domain so far?"
+"It's a dump."
+Eli heartily chuckles and drives on till he gets to the mansion of Luciano Donovan Senior. Time for a father-son reunion.
+And a sendoff...
+The Lasombra Fledgling is pacing around his wide and spacious living room. With each step he takes, his shoe clacks against the marble floor. He is currently biting on the tip of his thumb and musing over certain things.
+It isn't long before a large white van pulls up to the front of this opulent mansion. A few seconds later, Dona, Eli, and the other Israeli Lasombra come in carrying Luciano Junior over their shoulders.
+Luciano Senior grimaces in disgust and waves them off, "Not in here! There's a shed nearby. Bring that idiot over there. And not a step further! I just had these floors polished and I'm NOT having you track dirt in here, got it?"
+The other Shadows all roll their eyes but obey. After all, it's Luciano Senior's Haven and his rules apply here. No exceptions, broadly speaking.
+The Lasombra Fledgling is waiting for them in the shed. He tells his subordinates to get going and leave him alone with his son. A stern talking-to lies ahead.
+However, he does order that the ropes stay firmly bound around the young man's wrists and ankles. Just in case.
+Luciano Sr. sits his son down on a wooden chair and slaps him awake. The shed is not very well-lit. The ground is hard and there are no windows to speak of. In the corner stands an old, rusty, and dilapidated fridge.
+The walls are a tad moldy. Luciano Sr. looks around and says to himself, "Yeah, I'll have it done over...later."
+He slaps his son across the face and orders him to wake up. LDJ is slowly regaining consciousness. His head spins like a top and he's still seeing stars.
+Luciano Sr. grips him by the shirt collar and growls in his ear, "You piece of shit, wake up!"
+Luciano Jr. blinks rapidly and shakes his head. He mutters something incoherent, but his father quickly slaps him awake and berates him for his foolishness.
+The other Lasombra are told to wait outside. Dona and Eli fold their arms and lean against the wall while the Israelis mill about and look bored.
+After a while, Luciano Jr. fully awakens. He looks around the shed, an odd feeling of familiarity washing over him. He knows this place. He's been here before.
+Many times, when he was a kid. It was usually to bring the catch of the week for a bit of making out. He blinks and shakes his head. A searing pain shoots through his temples.
+Luciano Sr. snarls at his offspring and shoves his thumb into his cheek, "Do you realize how much you've cost me?! DO YOU?!"
+Luciano Jr. squirms and tries to push him off. He incredulously asks, "DAD! Where--where the fuck have you been, huh? Gordon said--"
+The Donovan patriarch backhands his son, "Shut up. Enough about Gordon Pym. By the way, he told me...everything. You thought that my absence was a license for you to run loose, huh? Hmph, well you're in for a surprise, kid."
+Luciano Jr. still sways and staggers about. He's barely able to hold himself steady on the chair.
+He asks his father, "Dad...dad...what's going on here? I--the FBI--"
+The Lasombra Fledgling grits his teeth and sternly interrupts, "Oh, I know. I know. But this isn't a rescue, it's...a sendoff. Consider this my last and final parting gift to you, you worthless runt."
 intercept ldj fbi convoy motorcade, kill feds, and abduct him for a stern talk. u failed u little pissant not worth of the donovan fam name. a disgrace!
 ld senior had ldj's mom killed. confesses, brags, boasts as much
 donovan patriarch
 markham completely at a loss. what now. call jamie, mayhaps? after full news of how bad rhondas condition is. sacred heart hospital flooded, we did everything we could to save them.
+ld senior present self to prince more out of pragmatic necessity than anything else. sheriff also.
