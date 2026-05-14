@@ -17509,12 +17509,13 @@ Which is just more of the same, really. All one needs to do is "replenish the pa
 Even though pork isn't really much of a thing here in the UAE.
 During the day, the Ghouls (along with Edwin) go about preparing for the next round of the nightly festivities. Food, drink, and other party supplies are being brought in.
 The guests of honor are "asleep" now, but they're gonna be awakening soon, and they have to make sure that everything's ready and in tip-top shape.
-Sound checks, meal prep, floor cleaning, furniture arrangement, and so on. Edwin takes this time to get some rest of his own, but he can barely put his head down without somebody yelling for him to do come and help with something.
-There's always something that needs to be done around here, and everyone seems to be relying on him-specifically- to make it happen. He just wants to sleep and recharge, but eternal duty eternally calls.
+Sound checks, meal prep, floor cleaning, furniture arrangement, and so on. Edwin takes this time to get some rest of his own, but he can barely put his head down without somebody yelling for him to come and help with something or the other.
+There's always something that needs to be done around here, and everyone seems to be relying on him- specifically- to make it happen. He just wants to sleep and recharge, but eternal duty eternally calls.
 Such is the price that one pays for the "cheap" path to life eternal. Edwin is becoming more and more acutely aware of this. Eternal servitude is expected of him and other Vassal Ghouls, but...something feels off.
 Unnatural. Wrong, perhaps. Something inside of Edwin is telling him to leave. Run away. Now! While there's still time. Just grab your shit and bail, man! Maybe even take up Sylvia's offer.
 Theoretically speaking, she'd likely be a better Domitor than Seth. She might have her foibles and all, but at least she's not an obsessive sociopathic (soon-to-be) billionaire.
-It's the little things. Regardless, Edwin goes about his thankless duties. He keeps a firm, neutral expression on his face as he listens to the requests of people who can't see him as anything else but a quasi-immortal lapdog.
+It's the little things.
+Regardless, Edwin goes about his thankless duties. He keeps a firm, neutral expression on his face as he listens to the requests of people who can't see him as anything else but a quasi-immortal lapdog.
 In their eyes, he's little more than a useful thing. They treat him like he's invisible, or that he doesn't deserve respect just because of who he is.
 Who is he, anyway? A man from Uganda who spoke good English and made the mistake of engaging in small, idle talk with the man from who's wrist he'd drink 3 times?
 The Ghoul of this city's High Priest helps to lug some crates of wine, food, and other party supplies into a room. He doesn't have a choice but to go along with the flow. What can he do, anyway?
@@ -17524,7 +17525,7 @@ There's only 1 thing for it now: to accept it. Accept it and serve. And serve he
 Edwin also has to see to it that the drugs (cocaine, weed, heroin, etc.) are being handled properly. He knows that some of the Kindred like to ingest them from their "food".
 They claim that it makes them feel more...alive. For a few moments at least. Even the dead wanna get "high".
 A few baggies of black powder catch Edwin's eye. It looks like gunpowder. He asks another Ghoul what this particular drug is and where it's from.
-"That? Oh, um...yeah, it's Pigment. Black Heroin or Black H. Or Gunpowder, haha! We got a shipment of this shit from Magnolia City. They had to move it fast cuz the cops were closing in, so eh..."
+"That? Oh, um...yeah, it's Pigment. Black Heroin or Black H. Or Gunpowder, haha! We got a shipment of this shit from Magnolia City, USA. They had to move it fast cuz the cops were closing in, so eh..."
 Edwin's eyebrows go up and he further asks, "I've never seen this particular substance before. What makes it...different from the rest of the err...narcotics over here?"
 "Heck if I know. But they say that you can see dead people after taking a hit. I think we also got it in pill form. Liquid, too, but don't quote me on that."
 Edwin looks skeptical, "Seeing the dead? Hmm. That seems a bit of a stretch, no?"
@@ -17543,14 +17544,14 @@ Edwin squints a little bit and says, "Orpheus? I think I've heard Seth mention t
 Edwin's eyes narrow in contemplation, "Yes, so do I." The heavy-eyed Ghoul proceeds with his eternal duties. He goes about helping others with their tasks and then gets a few minutes of sleep before the sun goes down.
 A few more hours and it's time for the 2nd night of The Celebration Of Power to start.
 Meanwhile...
-Lieutenant Shem Davidai is busy burying his beak in a more conventional drug- cocaine. Or as Arnold would say, "COCAINUM!"
+Lieutenant Shem Davidai is busy burying his beak in a more conventional drug- cocaine. Or as Arnold Schwarzenegger would say, "COCAINUM!"
 The Lieutenant is seated in his small office, and he snorts up an entire line straight into his nostril. He's been doing this for the past few minutes or so. His pupils are now wide and dilated, and he can barely sit still. He's practically shaking with pure energy.
 Lt. Davidai being a crackhead is a very well-known fact amongst the lower rungs of the Unit 8211 hierarchy. He is a known drug user, yet nobody does anything about it because he's got his own "in", if you will.
 He's got the protection of his family back in Israel. His mother is an MK (Member of Knesset) with the fascist Likud party, so she pulls some strings from her end to make sure that her son's "habit" isn't a problem for anyone.
 (He's also got aunts and uncles all over Israel's military-intelligence structure, so job security isn't a major worry for him).
 He's never actually been in trouble for using drugs on duty, which is pretty strange, considering how much he snorts. But then again, it's not like he's ever been caught...so far.
-Lt. Davidai has confided in Rabbi Schlanger about his drug problem, but he remains insistent that he can kick it when the time comes. He can quite whenever he wants, he tells himself.
-In any event, it's not like the Rabbi can really do anything about Lt. Davidai's habit. Sure, he can try to report the man, but that would be a bit counterintuitive, given how much time and money has gone into this operation already.
+Lt. Davidai has confided in Rabbi Schlanger about his drug problem, but he remains insistent that he can kick it when the time comes. He can quit whenever he wants, he tells himself.
+In any event, it's not like the Rabbi can really do anything about Lt. Davidai's habit. Sure, he can try to report the man, but that would be a bit counterintuitive, given how much time and money has gone into this blasted operation already.
 Lt. Davidai is erratic (even more so with the added pressures and responsibilities), but he remains focused on the mission and capable when the situation calls for it. He's also very loyal, at least to his Commander.
 And his damn country, too.
 Lt. Shem has personally been hard at work, preparing to launch a massive counteroffensive (of the cyber variety) against the blank body computer infrastructure in this region.
@@ -17577,7 +17578,7 @@ He puts his elbows on the armrests and then taps the tips of his fingers togethe
 "Of course, sir! I--I am still processing the deaths of Lt. Klein and Lt. Veifer, s--sir!"
 "As am I. I wonder if you can help me with something. A technical problem of sorts."
 Lt. Davidai gulps deeply, "Anything, sir."
-Commander Obed explains, "I have been...interfacing with the LVNDR system recently- you and Lt. Raz clearly know more about its inner workings than me- and it's been quite helpful. I was wondering if there's any way I can communicate with it more efficiently."
+Commander Obed explains, "I have been...interfacing with the LVNDR system recently- you and Lt. Raz clearly know more about its inner workings than me- and it's been quite helpful. I was wondering if there's any way that I can communicate with it more efficiently."
 Lt. Davidai asks, "What did you have in--in mind, sir?"
 "I have attempted to ask it some questions. I receive useful answers, but there are times when I get an error message of some kind. For example, I asked it to give me more info on something. It then proceeded to show me a bunch of blank boxes and error messages."
 Lt. Davidai strokes his chin a few times, "I see. What did you ask it about? Also, keep in mind that the LVNDR system is still very much a prototype. I still cannot believe that we--we've been given the privilege of testing it out, sir! I mean..."
@@ -17611,11 +17612,12 @@ For its time, it's pretty darn advanced, and Lt. Davidai is very proud of himsel
 However, he has also been secretly trying to find a way to sabotage the LVNDR system. It's mostly a form of "pen-testing" (Penetration Testing) and seeing if he can get around the many security features, fail-safes, and firewalls in place.
 After all, who better to help with breaking in than 1 of the creators of said horrible system?
 Of course, the real reason Lt. Davidai wants to sabotage his own creation is because of his deep, personal hatred for some Arab-Israeli chick (who was on the LVNDR creation team) who rejected his romantic advances years ago.
-(Truly as petty as they come).
+(Truly as petty as they come, but that's Israel for ya).
 Anyway, Lt. Davidai gets back to work and does his best to prepare for the coming cyberattack.
 Something...or someone is trying to interfere with the LVNDR system's workings as of late. Whatever is going on, Lt. Davidai can barely keep up anymore.
 He sees a lot of spam messages clogging up the log files, and he suspects that there's something bigger going on here. Whatever it is, he's determined to see it through.
-The Lieutenant continues to prepare for the coming attack. He takes a little break and snorts some more cocaine. A coked-up fascist maniac, damn, what else is new?
+The Lieutenant continues to prepare for the coming attack. He takes a little break and snorts some more cocaine.
+A coked-up fascist maniac, damn, what else is new?
 Almost like how the Nazis were "blitzed" on smack during the Second World War. The flags might be different, but the methods remain the same.
 He's just a coked-up, juiced-up Israeli fascist working for a super-secret military-intelligence Org that's hellbent on destroying the "blank body threat" in this part of the world.
 One hopes in great earnest for the day when these fascists (and their Western paymasters) get what's coming to them- be it in the courts of law or on the fields of battle.
@@ -17623,7 +17625,7 @@ Either way, Lt. Shem Davidai doesn't know how long he'll be able to keep going. 
 Ah, well...
 The sun sinks below the horizon and the 2nd night of The Celebration Of Power will soon be underway.
 The partygoers (especially those who are Kindred) begin to flood into the 140th floor of The Grand Alhambra. The Ghouls do their best to help out while avoiding eye contact with the creepy blank faces.
-Those lifeless eyes and intense stares...yeesh! The cold skin, pointy fangs, and sharp claws are also a tad bit unnerving.
+Those lifeless eyes and intense stares...yeesh! The cold skin, pointy fangs, and sharp claws are also a tad bit unnerving. Not to mention, the unnatural auras and eerie stares.
 The sky above darkens. A few stars begin to twinkle, and the moon looms overhead. A few cars and other vehicles zoom by. The evening crowd swells up as people go for a night out at the city.
 Everyone will soon be having a grand time. Food, drinks, drugs, music, sex, and so much more. It's a real party. There are even a few Blood Dolls offering themselves up to the Kindred as "appetizers".
 More and more folks are flooding into the 140th floor of the hotel. The Ghouls are doing their best to accommodate all these people, but they're starting to get overwhelmed.
@@ -17645,7 +17647,8 @@ Svetlana groans, "I hate this. Can I wear something else?" she's practically ple
 "Nyet. Now, can we please go? Urgh, so tight. Grrr!" Svetlana tugs on her dress a few times. She tries to pull it down a bit, but it won't budge. She growls and then stomps her foot.
 Joyce rolls her eyes, "Come on, let's go. Guest of honor can't be showing up late, heh."
 Well, this is wave 2 of Seth's gifts for the object of his obsessive limerence. One wonders what tonight's actual gift (that he's gonna present to Svetlana in front of everyone else) will be.
-Take your guesses. In any event, Svetlana and Joyce make their way to the elevator. They go down to the ground floor and then get into the Setite's car.
+Take your guesses.
+In any event, Svetlana and Joyce make their way to the elevator. They go down to the ground floor and then get into the Setite's car.
 This time, Joyce refrains from doing Svetlana's makeup, but she does give some relatively decent advice on the Assamite's hair. Svetlana reluctantly takes it. She ends up looking a bit more presentable than last night.
 The drive to The Grand Alhambra is uneventful. The traffic isn't too bad, and the nightlife is already in full swing.
 Tristan arrives with John a few minutes later and the 4 of these vampires prepare for the long elevator rides to the 140th floor. They switch elevators when required and continue on...onwards and upwards!
@@ -17678,8 +17681,8 @@ By now, he's practically become an expert at navigating the many twists, turns, 
 The Scottish man eventually makes his way topside, gets in a beatdown sedan with fully tinted windows, and absently stares at the city going by in a blur of lights, colors, and sounds.
 He thinks back to his early nights as a Nosferatu back in Scotland. Gosh, those 1st nights were brutal. Skin was peeling off, his whole mouth ached like hell, and he couldn't even look at himself in the mirror without wanting to hurl.
 But that was then, and this is now. Thomas Bollard has grown accustomed to his new appearance. Sure, he still kinda hates it, but he's gotten used to it.
-He reckons that are more important matters in Unlife. He takes his responsibilities as Primogen very seriously and intends to keep it that way.
-He has a lot of work to do tonight. A lot of wee secrets and shite that need a very attuned ear to hear and a very keen eye to see.
+He reckons that there are more important matters in Unlife. He takes his responsibilities as Primogen very seriously and intends to keep it that way.
+He has a lot of work to do tonight. A lot of wee secrets and shite that need a very attuned ear tae hear and a very keen eye tae see.
 The Nosferatu Primogen arrives at The Grand Alhambra and prepares to go inside. He's already dreading this whole thing. He'd rather be doon in the Warrens working on some new project or doing something else.
 Alas! But duty calls!
 As he's in the elevator, he pulls out his phone and hits the "Like" button on a few silly videos and pictures that his grandkids posted online.
@@ -17696,7 +17699,7 @@ The Setite pauses for a few moments, his serpentine eyes scanning over the whole
 He then speaks into the mic, "As you all know, this is a special occasion. We have come together to celebrate our strength, our unity, and our power. This is a time for us to rejoice, to revel, and to remember what we have achieved."
 From there, he reminds the attendees, "And most importantly, we're here to celebrate our VICTORY!"
 Members of the audience begin to clap and cheer. Some people start chanting "Truth In Power!" over and over again.
-Seth smiles and nods approvingly. He lets the cheering go on for a few seconds before he speaks again, "Now, I'm sure you're all wondering how long this year's Celebration will last. Well, you're just gonna have to wait and find out, heh."
+Seth smiles and nods approvingly. He lets the cheering go on for a few seconds before he speaks again, "Now, I'm sure that you're all wondering how long this year's Celebration will last. Well, you're just gonna have to wait and find out, heh."
 More cheering and applause erupt from the audience.
 After that dies down, Seth goes over this year's theme, again. He brings the microphone close to his mouth and says, "Look back through time and remember. Remember what you were and how far you've come...up since then."
 He adds, "Know that you're stronger when you are stripped of your creature comforts. You know why? Because modern comforts have made you soft, predictable, and boring."
@@ -17709,7 +17712,7 @@ She looks around and sees a lot of people who are clearly enjoying themselves.
 John is, yet again, dressed in the opposite of formal wear. He's clad in denim jeans, a plain t-shirt, and a faded utility jacket of some kind. His maroon sneakers are scuffed and dusty.
 After offering a few more pointless platitudes and nuggets of "wisdom", Seth calls Svetlana up on stage. He beckons for her to come forward, having this...look in his eyes.
 The High Priest presents the gift box to Svetlana. She reluctantly walks up on stage and accepts the box. She carefully unwraps it and then opens the lid.
-Gasps emanate from the crowd when they the Assamite holding, in her trembling hand, the latest and greatest iPad (with Retina display).
+Gasps emanate from the crowd when they see the Assamite holding, in her trembling hand, the latest and greatest iPad (with Retina display).
 Seth grins and says, "Well, what do you think, Svetlana?"
 Svetlana is visibly stunned. She's at a loss for words. She manages to say, "Uh, um...is--is very nice...and kind of you, Seth."
 She nervously grins at the crowd. Some of them are visibly jealous. Others are just staring at her blankly.
@@ -17733,7 +17736,7 @@ She struts into the party with a soft smile on her face. She struggles to stay b
 Her presence is immediately noticed by many people. They whisper amongst themselves and stare at her with wide eyes.
 Sylvia doesn't seem to mind. She calmly grabs a glass of red blood, holds it up to those who stare at her with suspicion, and then takes a light sip.
 She smacks her lips and gracefully moves on.
-Seth's eyes widen when he sees his ex. He quickly makes his way over to her and says, "What are you doing here?!"
+Seth's eyes widen when he sees his ex. He quickly makes his way over to her and bristles, "What are you doing here?!"
 Sylvia rolls her eyes, "Well, I'm here to have fun, drink some human punch, and maybe meet a cute guy- if I'm lucky, heh. What are you doing here, babe?"
 Seth grits his teeth and brings the tip of his snake head cane close to Sylvia's face, "I'm here because I'm the High Priest, dammit! You know that. You should NOT be here!"
 Sylvia giggles, "Why not? Says who? You and..." she cranes her neck and looks over Seth's shoulder, "...who, exactly?"
@@ -17743,13 +17746,13 @@ The Malkavian Primogen has a fairly indifferent and nonchalant expression on his
 Sylvia lightly claps her hands together and giggles, "Aww...thanks, Absalom!"
 The Elder grabs a shot glass of blood and walks off, chin held high.
 Seth stares at Sylvia with a look of utter contempt and disgust. He shakes his head and then says, "You are NOT welcome here, Sylvia. Leave. Now."
-Sylvia smirks and side-eyes him, "You gonna make me? You know that you can't do that, right? Besides, this whole thing isn't even your fucking idea anyway. You just lifted it from Sybil and carried on, didn't you?"
+Sylvia smirks and side-eyes him, "You gonna make me? You know that you can't do that, right? Besides, this whole thing isn't even your fucking idea anyway. You just lifted it from Sybil and carried on, didn't you? Just like you plagiarized your preacher dad's sermon notes."
 Seth frowns and snaps, "What the hell do you know about anything?!"
 Sylvia tuts disapprovingly, "Tsk, tsk, tsk. Did you forget the past- OUR past together- so soon, babe? C'mon, let's face it...you're just a cheap knockoff of Sybil. A pale imitation of her greatness."
 She then puts on a mocking tone of voice and says, "Oh, I'm Seth Steale! Oh, look at me with my snake cane and big-ass cult in the middle of the desert and--"
 Seth furiously grabs her wrist and hisses, "Shut your damn mouth, you--you--"
 Sylvia chuckles and teases, "Ooh, I'm so scared! What're you gonna do, huh? Go on, what are you gonna call me, huh? A tranny? An impostor? A fake? A bit--"
-The High Priest grits his teeth and snarls, "You are NOT a woman! You NEVER WILL BE! You're just a sick, confused, perverted man who's trying to be one!"
+The High Priest grits his teeth and snarls, "You are NOT a woman! You NEVER WILL BE! You're just a twisted, sick, confused, and perverted man who's trying to be one! And it'll NEVER WORK!"
 Sylvia smirks and coyly replies, "Oh, that's where you're dead wrong, babe. C'mon, you want me to go au naturel and prove it to ya, huh? The procedures were painful when you're a walking corpse, but oh, were they so worth it."
 Seth harshly lets go of her wrist and glares at her, "Get out of here. NOW!"
 Sylvia laughs, "Make me! Go on, make me leave, Seth!"
@@ -17783,7 +17786,7 @@ Svetlana nods and replies, "Thank you." She sits down on her chair and slides he
 Sylvia notices the tablet and asks, "Oh, whatcha got there?"
 The Assamite stiffens up and quickly says, "Is nothing. Is nothing."
 The Setite infers a few things, "Lemme guess: my ex gave it to you tonight. Am I right or am I right?"
-The Assassin admits this with a silent nod of the head. She looks away from her friend and fiddles with the iPad.
+The Assassin admits this with a silent nod of the head. She looks away from her friend and awkwardly fiddles with the iPad.
 Sylvia sighs, "Well, that's just peachy. Hey, I'm not jealous of you or anything, so don't worry. You do know about Seth, don't you?"
 The Judge looks up from her tablet, "I have only been in city for few weeks. I do not know everything."
 The Serpent chuckles softly, "Ah, of course. My bad, heh-heh. And how do you like Al-Kushraf compared to neighboring Dubai, hmm?"
@@ -17821,13 +17824,14 @@ Sylvia rolls her eyes, "Oh, great. Here comes Mr. Pinkerton."
 Gallagher stops right in front of her and scowls, "You're not supposed to be here!"
 Sylvia dryly greets her fellow Viper, "Yes, Ewan. How are you? Oh, I'm fine. And what about you? Oh, y'know, the usual. Just the usual."
 Gallagher turns his attention to Svetlana while pointing a finger at Sylvia, "Do you know that you're talking to a fucking man, Svetlana?! Or do you not give a shit, huh? THAT'S A DUDE, SVETLANA!"
-Svetlana blandly shrugs, "She does not look like man to me."
+Svetlana blandly shrugs, "She does not look like man to me. If she says she is woman, then she is woman."
 Gallagher grunts and his hand balls up into a fist, like he's got this thing in him that needs to be unleashed.
 Sylvia laughs, "Oh, Ewan. Ewan, Ewan, Ewan. You really think that Seth would let you get away with beating Svetlana up? Hahahaha!"
 The ex-Sheriff shakes his clenched fist at Sylvia, "I wouldn't mind having a go at you, though..."
 Sylvia remains remarkably composed. She lifts her chin, "Gallagher, dear. Honey. Don't you forget who it was that pulled you from the Wassail, from the brink of destruction, hmm?"
 Gallagher's expression falls, "HEY! That--that's not funny! I--I would've been a fucking goner!"
-Sylvia nods, "Exactly." She playfully strokes her chin and asks, "And who was it who concocted that rare snake venom mix that pulled your sorry ass away from the final Frenzy, hmm, hmm?"
+Sylvia nods, "Exactly."
+She playfully strokes her chin and asks, "And who was it who concocted that rare snake venom mix that pulled your sorry ass away from the final Frenzy, hmm, hmm?"
 Gallagher lowers his head and plainly admits, "It was you...but that's only because we Setites are the only ones who--who can bring folk back from the Wassail. B--being a Wight doesn't mean it--it's the end."
 Sylvia smiles smugly, "There we go. But y'know, Ewan...there are times when I ask myself whether I made the right call or not."
 Gallagher tenses up and his expression demonstrates shock and horror, "Wh--what?!"
@@ -17835,7 +17839,7 @@ Sylvia giggles, "Oh, I'm just kidding! Hahahaha!"
 Svetlana figures that it's best to keep quiet when a big man with a short temper is around her.
 Gallagher sighs with relief and snarls, "FUCK YOU! It doesn't change shit- you're still a crazy pinko tranny dude pretending to be a chick!"
 Sylvia calmly sips her drink and then says, "Hmm, interesting. I didn't realize that you were so interested in my naughty parts, Gallagher. And pinko, seriously? Still stuck in the ye olde nights, are we?"
-Gallagher's pale face flushes red with anger, "SHUT UP! SHUT THE FUCK UP!"
+Gallagher's pale face flushes red with anger, "SHUT UP! SHUT UP!! SHUT THE FUCK UP!"
 Sylvia smirks and lazily drapes her arm over the back of her chair, "Or what? What're you gonna do, huh? Are you gonna hit me, Ewan? Would you hit a lady? Knowing you, I'd probably guess the answer would be 'yes'. Eugh."
 Gallagher looks down at his clenched fist. He grits his teeth and then growls, "I'm going to report this to Seth. He'll have your head for this! Just you fucking wait, you--you freak!"
 Sylvia laughs, "Oh, please. Like he'd ever do that. We both know that he's got too much on his plate to deal with little ol' me. Take a chill pill and mix it in with your next drink, Ewan."
@@ -17849,7 +17853,7 @@ Sylvia sighs in relief, "Whew. What a...drama queen. Heh, he'd probably look fun
 Whatever Sylvia did to "save" Ewan Gallagher clearly affected him a bit, no doubt. After getting kicked out by Prince Angela, Gallagher lurked in Dubai for a few months before coming over to Al-Kushraf.
 (All because the Dove Prince refused to have John and Svetlana executed because the latter's Embrace at the former's fangs was unauthorized. Gallagher's abrupt leaving was an angry protest, more so than anything else).
 1 violent thing led to another, and he was practically Frenzying like mad.
-The Ministry is the only known Clan that possesses a "cure" to the Wassail. Sylvia knows a variant of this ancient poison that can reverse the effects of the Wassail and potentially save even the maddest of Wights.
+The Ministry is the only known Clan that possesses a "cure" to the Wassail. Sylvia knows a variant of this ancient poison that can reverse the effects of the Wassail and potentially save even the maddest and far-gone of Wights.
 However, it's a rare and expensive mixture that requires a lot of exotic ingredients. And even then, getting it to work is pretty tricky.
 Either way, at the time, Sylvia did what she had to do for reasons of her own. She most certainly would've preferred to see that Pinkerton goon dissolve into ashes or be put down like a rabid dog.
 But no, she saved him. She saved him for a reason. And now...she's not entirely sure if she made the right choice or not.
@@ -17859,20 +17863,21 @@ And this, coupled with his violent nature, has made him an extremely volatile in
 It's not a pretty sight. Then again, what different is he to the many imperial stormtroopers waging relentless colonial wars of aggression and annihilation on the oppressed peoples of the world, especially in the Middle East?
 They're also 'roided up, have objectively terrible worldviews, and have a disturbingly violent streak. Only difference is they fight for nebulous concepts like god and country whereas Gallagher fancies himself as a pretty hardcore Camarilla loyalist, a strict upholder of the Traditions and all that.
 In short, rotten products of a rotting, irredeemable social order.
-(Oh, that and those same troops are practically worshipped as demigods back in their poverty-stricken homelands. Bitterly ironic.)
+(Oh, that and those same troops are practically worshipped as demigods back in their crumbling, poverty-stricken homelands. Bitterly ironic.)
 The minutes on the clock tick by and soon enough...Seth walks back up on stage. HEY! The DJ was right in the middle of dropping a sick techno track, but oh well. Seth's got the floor now. Literally. He's standing on a raised platform with a microphone in his hand.
 He clears his throat and begins speaking, "Ahem. If I may have your attention, ladies and gentlemen, for a few moments."
 The room falls to a deathly silence. All eyes are on Seth. Svetlana looks up from her iPad and sets it aside. Sylvia is still taking sips of the blood and savoring every drop. John is still chatting with a few people. Gallagher is nowhere to be seen.
 Seth gulps lightly and smiles insincerely, "I would uh...like to take this moment to--well, first...I wanna acknowledge someone, someone who has been helpful to me over these past few nights."
 Edwin, oddly enough, is also nowhere to be seen.
 The High Priest waits for a moment before proceeding, "This particular man has been invaluable to me, yes. But more importantly, he has made the very important decision to rededicate himself to Typhon."
-Tense murmurs erupt from the clueless amidst the crowd, a few other people in the crowd begin to tentatively clap their hands together. Seth's smile widens. His eyes scan the crowd. They briefly stop at Svetlana, but he quickly looks away from her.
+Tense murmurs erupt from the clueless amidst the crowd; a few other people in the crowd begin to tentatively clap their hands together.
+Seth's smile widens. His eyes scan the crowd. They briefly stop at Svetlana, but he quickly looks away from her.
 Seth continues, "So, without further ado...may I present to you and in the presence of Typhon...Ewaaaaaaaaaan Gallagherrrrrrrrrr!"
 The ex-Sheriff of Dubai marches onto the stage, chest puffed out, shoulders squared, and an annoyingly wide grin on his face. He waves to the crowd like he's a celebrity or something. He steps up next to Seth and then clasps his hands in front of him.
 He stands there with his head held high and his gaze fixed straight ahead, almost like a statue.
 Seth pats his fellow Serpent on the shoulder and says, "Now, I know that many of you here don't know Ewan as well as I do, but I can assure you that he's...the real deal. Maybe some of you just haven't had the privilege of knowing him yet but trust me when I say that he's 1 of the most loyal, dedicated, and dependable men I've ever had the pleasure of working with."
 The crowd murmurs amongst themselves once again. Certain Elders of the Ministry appear very imperturbable- they merely regard their fellow Setite with a cool, calm, and collected stare.
-They seem to be indifferent to whatever is happening on stage. Some of them are even fake-yawning and looking away. Others are tapping their feet impatiently. Still others are whispering to each other.
+They seem to be indifferent to whatever is happening on stage. Some of them are even fake-yawning and looking away. Others are tapping their feet impatiently. Still, others are whispering to each other.
 Gallagher, for his part, smugly smirks and takes it all in. He remains ramrod straight. When Seth holds the mic up to his mouth, he begins to speak, "'Sup, fuckos?"
 Seth's eyebrows briefly go up, but he keeps the mic held up to the ex-Sheriff's mouth. Gallagher clears his throat and continues, "I just wanted to thank Seth for having me up here tonight."
 Gallagher clears his throat and rolls a shoulder, "I've lived a long, tough life. I went to the school of hard knocks and graduated with a Magna CUM laude, haha! I have no fuckin' idea what that means, but whatever."
@@ -17883,8 +17888,9 @@ Seth excitedly remarks, "Indeed! And- this goes out to my fellow Typhonists- whi
 Some Setites look at each other with scrunched up faces. They whisper amongst themselves. Some of them begin to walk out of the room. Others shake their heads and sigh.
 Seth stifles a sigh, "Ah, I see. Hey, no biggie. After all, we're immortal, hahahaha!"
 Some of the imperturbable Elders folds their arms. Their dead eyes burrow into Seth's very being. He tries to ignore them, but it's difficult. He's (not literally) sweating bullets.
-So, the High Priest quickly segues into the other reason for why he interrupted everyone's fun, "And now, I would like to a few more moments of your time. Just a few moments, if you please?"
-Assenting grumbles and groans arise from the crowd. Seth nods and beams, "Excellent. Now, I'm sure that some of you who've been attending these gatherings for decades will know what I'm about to say. But for the benefit of our newer guests, I'd like to explain a bit..."
+So, the High Priest quickly segues into the other reason for why he interrupted everyone's fun, "And now, I would like a few more moments of your time. Just a few moments, if you please?"
+Assenting grumbles and groans arise from the crowd.
+Seth nods and beams, "Excellent. Now, I'm sure that some of you who've been attending these gatherings for decades will know what I'm about to say. But for the benefit of our newer guests, I'd like to explain a bit..."
 Yeah, he's basically gonna recite The Hymn Of The Pearl in its entirety. Before doing so, he goes over a brief history of its significance and how it all pertains to him- particularly the red stuff sloshing around his body.
 It's not too terribly interesting, but it does serve to explain some things. Not everything, but certain things.
 After that's out of the way, Mr. Steale clears his throat and begins from the top. While reciting the entire thing, one can't notice a certain...tightness in his voice. It's like he's choking back sanguine tears.
@@ -17899,10 +17905,10 @@ N0S4A2, the Caitiff racecar driver, is still kicking about in this city, eh?
 Seth sneers and looks down at the Freestyler, "Oh. It's you. What do you want?"
 With their face still concealed, N0S4A2 snarls, "You dare celebrate? When so many are dead...you--you DARE CELEBRATE?! So many fled, so many gone!"
 Seth callously mumbles, "I can barely hear what you're saying under that damn helmet. Take it off so we can talk properly, like gentlemen."
-N0S4A2 growls and shakes their head, "No! Do not tell me what to do, Snake! Many Caitiff dead...gone because of you! SHAME ON YOU! SHAME ON YOU! SHAME ON YOU!"
+N0S4A2 growls and shakes their head, "No! Do not tell me what to do, Snake! Many Caitiff dead...gone because of you! SHAME ON YOU! SHAME ON YOU! SHAME ON YOU! SHAME ON YOU!"
 Seth angrily retorts, "OK, now, listen here! The Ministry had absolutely NOTHING to do with the bombing of the Marjan Tower! It was the Second Inquisition, dammit!"
 N0S4A2 waves their hand dismissively and points an accusatory finger at Seth, "Then why are you doing NOTHING?! Instead of celebration, you should be...looking for them."
-John slowly steps towards the Clanless vampires, "N0S4A2, we're doing everything that we can to get the bastards responsible for this. We've been fighting--"
+John slowly steps towards the Clanless vampire, "N0S4A2, we're doing everything that we can to get the bastards responsible for this. We've been fighting--"
 N0S4A2 turns their attention to John, "I know what you do, Banu Haqim. Hmph...thank you. What about Ministry? What does Ministry do to help?"
 Seth sighs and rubs his forehead, "We're trying to get rid of them, OK? Now, get that damn helmet off and help yourself--"
 The Unbound Kindred growls, "Helmet stays on."
@@ -17922,9 +17928,9 @@ Svetlana has no idea what she's going to do with her new iPad, but she figures t
 The Nossies can get their own tech and replace and/or fix what they've lost as of late. That's what Svetlana hopes, anyway. She doesn't know where how they manage, but those Crawlers are a crafty, ingenious bunch!
 John, out of curiosity, goes and sees the food on display. He notices rows of tacos, quesadillas, samosas (chicken and veg), and stacks of pita bread.
 To the side, there's a small table with a mélange of large bowls and containers full of hummus, dipping sauces, and other condiments.
-"Huh, crazy." John sucks some air through his teeth and shuffles off after poking a few samosas. He steals a quick glance at all the food that his Unliving form can no longer enjoy, let alone accept.
+"Huh, crazy!" John sucks some air through his teeth and shuffles off after poking a few samosas. He steals a quick glance at all the food that his Unliving form can no longer enjoy, let alone accept.
 He remembers a time when he would've gone nuts over this stuff! Alas, those days are long gone. Besides, the opportunity being presented to "re-enjoy" these delights is a rather dubious one.
-All the frightful and scared mortals are loading their plates up while the nocturnal predators take them off to and feed on them...as (or after) they eat.
+All the frightful and scared mortals are loading their plates up while the nocturnal predators take them off to feed on them...as (or after) they eat.
 John isn't sure what to make of this questionable arrangement.
 Many of these trembling mortals are from Seth's cult compound. A few of them perished last night and it's still too early to tell how many will breathe their last breath tonight.
 And yet, here they are. Filling their bellies with tasty treats and guzzling down all kinds of beverages. Oh, and snorting up lines of coke like it's nobody's business.
@@ -17975,7 +17981,7 @@ Cristina asks him how long he's been in Al-Kushraf.
 Cristina clicks her tongue and puts her cold hand on John's equally cold hand, "I am sorry to hear that, John. I heard something of the attacks on Dubai. Was it as bad as they said?"
 John solemnly nods, "Yeah. Yeah, it was. A lot of good people were destroyed that night. Hassan- who was our old Primogen- then almost all of the Gangrel...including the Prince herself. We barely made it outta there alive."
 Cristina shakes her head and sighs deeply, "I see. How awful that must have been for you."
-John's eyes dart around the room, "Yeah, it was. It was traumatic for all of us, Cristina.
+John's eyes dart around the room, "Yeah, it was. It was traumatic for all of us, Cristina."
 From there, the chat drifts to other topics. John asks her about her Unlife in Al-Kushraf. She tells him that she's been working as a hotel receptionist. She took off for tonight to come and visit this grand party.
 John asks her if she knows Seth. She says that she does, but only in passing.
 The Assamite has this...look in his eyes. It's all over his face, too. A desire that has been long suppressed is starting to bubble up to the surface.
@@ -17985,8 +17991,8 @@ John looks down at the keycard and then back at his Ventrue girlfriend. His jaw 
 Cristina raises her chin, "I am not the type of woman who likes to be kept waiting, naiintindihan mo ba (Tagalog: do you understand)?" her tone is firm yet sensual.
 John eagerly nods, "Uh, yeah. Yeah, I do."
 "Good. Then please, come with me..." the Blue Blood tightly holds onto John's hand and leads him to the elevator with a confident strut. They wait for the elevator to arrive.
-As the elevator takes its sweet time, the 2 Kindred shoot each other lustful glances. Their hands are clasped together. They're practically giddy with excitement.
-Finally, the elevator arrives and they step get inside along with a few others. Cristina licks her lips and blushes a little. John feels something unusual in his nether regions.
+As the elevator takes its sweet time, the 2 Kindred shoot each other lustful glances. Their hands are clasped together. They're practically giddy with excitement!
+Finally, the elevator arrives and they step inside along with a few others. Cristina licks her lips and blushes a little. John feels something unusual in his nether regions.
 Something that he, admittedly, hasn't felt in a VERY LONG time. It's obvious what's gonna happen in the next few minutes. The (sexual) tension between these 2 is palpable!
 When the elevator reaches the intended floor, they both exit and walk towards the room that Cristina reserved. She elegantly swipes the keycard, and the door unlocks.
 The Ventrue ushers the Assamite in and the door clicks behind them with a soft thud.
@@ -18000,7 +18006,7 @@ John tries to assure her, "No, no. That's not true. N--not at all. Those SI bast
 Cristina softly says, "It is no problem. I...understand. I do have a few more questions, if that is fine with you."
 "Sure, sure. Yep."
 "When we were chatting on Skype, you mentioned being a...dance instructor. Is that true or was that merely another lie so that you could uphold the Masquerade?"
-The Assamite rubs the base of his neck, "Oh, yeah. Heh. That...was a lie. I thought it'd sound way cooler...and sexier if I said that I was a dance instructor. Sorry." Feeling slightly embarrassed, He gives a sheepish smile.
+The Assamite rubs the base of his neck, "Oh, yeah. Heh. That...was a lie. I thought it'd sound way cooler...and sexier if I said that I was a dance instructor. Sorry." Feeling slightly embarrassed, he gives a sheepish smile.
 The Blue Blood nods thoughtfully, "It is understandable. At least you take the Masquerade seriously, so that is...admirable. So, what is your occupation, then?"
 "I'm a Kenpo instructor. Y'know, Kenpo. Err...martial arts. Um...fighting, but it's a whole lot more than just creatively beating people up, heh."
 "Hmm. I see. And are you a good teacher of Kenpo?"
@@ -18018,7 +18024,8 @@ She drifted around for a few years before finally settling in Dubai.
 "It was...a change of scene, at the very least. I still keep up with the news, and I can say that my country has only gotten worse on these nights."
 John nods along, "Yeah. And how has the UAE been treating ya? Hotel receptionist sounds kinda...stable, if anything."
 Cristina faintly chuckles, "Oh, I wish it was, John. I wish it was. As a matter of fact, there is some internal restructuring going on right now, so I do not even know if I will keep the job by the time the year ends."
-John gasps, "Oh, that's awful! What--what's gonna happen if you lose the job?" John isn't too well-versed in the workings of the hospitality industry.
+John gasps, "Oh, that's awful! What--what's gonna happen if you lose the job?"
+The Assassin isn't too well-versed in the workings of the hospitality industry.
 The Ventrue shrugs, "What usually happens. I will have to look for something else. My papers are...in a mess, but I have made some interesting friends who might be willing to help, should things get bad."
 John leans back a bit, "Oh, OK. Ventrue friends, right?"
 "Yes. Not the best option, but they are of the Clan, they are of the Blood. We know each other's struggles, the pressure that is put on us from the Sires, the expectations, the obligations to act in a certain way, et cetera."
@@ -18036,7 +18043,7 @@ John is visibly disturbed by this. He can't imagine being so cruel and callous t
 Cristina goes on, "I didn't want him to speak the whole language or anything. Just a--a few basic words and small phrases. Nothing so grandiose, nothing so...overwhelming."
 John's jaw hangs open, "Oh my gosh, what a total asshole. I wouldn't wanna meet him. I wouldn't wanna be him."
 Cristina chuckles at that and looks into John's eyes, "And yet, he was my lover. I thought he was also in love with me as much as I was in love with him, but such did not turn out to be the case."
-John can tell that her still heart is broken and shattered. It hurts him, seeing her like this. He wants to address it. To take her pain and sadness away.
+John can tell that her still dead heart is broken and shattered. It hurts him, seeing her like this. He wants to address it. To take her pain and sadness away.
 He nervously leans in closer and slowly turns her cheek towards him. Their faces are mere millimeters away from each other. The tips of their noses are almost touching.
 Cristina quickly closes the rest of the gap and plants a passionate, deep kiss on John's lips. She grabs the sides of his head and pulls him closer.
 From there, Cristina shoves him onto his back and pins his arms above his head. John can't help but chuckle and giggle under her hungry kisses.
@@ -18046,7 +18053,8 @@ The Ventrue seductively licks her lips and allays his worries, "Shh. Let me guid
 Cristina straddles the Assamite and places a cold finger on his lips, "I will teach it to you when the time comes. Be patient."
 She takes off her clothes and throws them all over the room. John is in awe of her cold, naked body. He timidly reaches out and squeezes her boobs. So squishy!
 The Ventrue bites her bottom lip and moans with pleasure. After that, she helps John out of his clothes. Their cold, naked bodies press against each other.
-She whispers into John's ear, "Close your eyes." John does as he is told. Let her take the lead on this.
+She whispers into John's ear, "Close your eyes."
+John does as he is told. Let her take the lead on this.
 Ah, the horizontal boogie. The making of love. Not...that easy when one is a vampire, but Cristina seems to know what she's doing. John does have some trouble...getting hard, but Cristina's icy hand around his dick is helping.
 The Blue Blood guides the Assamite inside of her. He thrusts in and out of her quite fast (too fast owing to his passive Celerity). Cristina holds onto John and gently gets him to slow down.
 In between pants and moans, she says, "We...we...yes! We are not in--in a hurry...yes! We are not in a hurry, John. We do not have--have places...ahhhhhh...yes...to be. Slow, slow. Mmm."
@@ -18065,6 +18073,7 @@ What'll Seth say about the guest of honor leaving so soon?
 Maybe she could even lightly activate her Obfuscate so that she kinda, sorta blends into the background. That's what she'll consider doing.
 Anyways, Edwin is frantically walking about. As is to be expected, certain "oopsie-woopsies" have already been reported, which means he and many other Ghouls are gonna have to clean up the bloody messes.
 He's gonna have to call in some extra muscle, too. Oh, boy.
+Oh, joy.
 On the way back from disposing of yet another exsanguinated corpse, Edwin is accosted by a devotee from Seth's cult. She's bone white, skinny, and has dark circles around her eyes. She's wearing a plain white dress with generic lipstick.
 Her trimmed eyebrows are knit together in concern, "Edwin, I--I want to talk to you. N--now." Her voice is soft and frail.
 Edwin stops in his tracks and looks a little frustrated, "I'm sorry, sister...err...I do not recall your name. I cannot talk now; I have other things to see to." He tries to step past her, but she blocks his path.
@@ -18078,17 +18087,20 @@ Edwin's face tics and he takes her by the arm and leads her to a more secluded a
 She persists, "I need to make a phone call, Edwin. You've helped me before, but you suddenly stopped--"
 Edwin faintly growls at her, "Yes, I stopped helping you people because my Domitor was starting to kill you all for--for making too many phone calls to the outside world. So, please. Don't put us both in danger like this." His voice is filled with a mixture of frustration and impatience.
 Ann pleads, "Ple--please, brother Edwin. I understand why the great, blessed High Priest denies us contact with the outside world, but I need to make a phone call. Just this once. I will not ask again." She looks at him with desperation in her amber eyes.
-Edwin clicks his tongue and heaves a sigh, "Do you have any idea how much trouble I will get in if--if Seth finds out that it has been ME who has been helping you people make these calls? Hmm?"
+Edwin clicks his tongue and heaves a sigh, "Do you have any idea how much trouble I will get in if--if Seth finds out that it has been ME who has been helping you people make these calls all this time? Hmm?"
 Ann nods and begs even more, "I--I understand. I do. But...please, brother Edwin! It's my sister-in-law. Before embarking on the Path of Typhon, she and I were close. I want to know if she is doing well." Her voice is quivering with emotion.
 "HEY, Edwin! We got ourselves another mess on the 90th floor! Reports of a Frenzy are also coming in, get your ass over here! Pronto!" shouts a fellow Ghoul from across the room.
 Edwin turns to Ann and says, "Fine." He shoves a cellphone in her expecting hands and tells her to make it quick.
 He then calls out, "WAIT! You go and see to it; I will come soon!"
 The other Ghoul nods and bolts off. Ann dials a number and cracks a tense but hopeful smile. She puts the phone to her ear.
 After a few seconds, Ann sniffs and asks, "Hello? Yeah? Haha! Hey, yeah, yeah. It's me. Heh, yep. I--I'm fine. How are you doing? How's my brother? Still giving ya the run-around, huh? Heh. Good, good. I miss you guys so much. Yeah, yeah."
-She looks up at Edwin and waits for the other person on the end of the line to say their bit. Edwin doesn't leave- he stays put. Ann frowns and continues, "Listen, I--I don't have much time, but...give my love to everybody back there, OK?"
-The Ghoul tenses his shoulders and looks away. He really shouldn't be doing this, but he's already in too deep. Ann goes on, "I--I gotta go. Oh, oh, my! Wow, that's great news. 6 months, huh? Lucky you!"
+She looks up at Edwin and waits for the other person on the end of the line to say their bit. Edwin doesn't leave- he stays put.
+Ann frowns and continues, "Listen, I--I don't have much time, but...give my love to everybody back there, OK?"
+The Ghoul tenses his shoulders and looks away. He really shouldn't be doing this, but he's already in too deep.
+Ann goes on, "I--I gotta go. Oh, oh, my! Wow, that's great news. 6 months, huh? Lucky you!"
 Ann points to the phone and mouths to Edwin, "She's pregnant. Triplets."
-Edwin tightly smiles and nods along. Ann continues, "Well, congratulations. I hope everything goes well. Yes, yes. I'll try to. Yeah, I'll try. OK, yep, I really gotta go now. Heh, yeah. Bye!"
+Edwin tightly smiles and nods along.
+Ann continues, "Well, congratulations. I hope and pray that everything goes well. Yes, yes. I'll try to. Yeah, I'll try. OK, yep, I really gotta go now. Heh, yeah. Bye!"
 The Ghoul snatches the phone away and ends the call. He smartly deletes the number from the phone's call history and pockets the device.
 Ann bows her head and quietly says, "Thank you, brother Edwin. May--may Typhon richly bless you and may you find favor in the eyes of the great, blessed High Priest."
 Edwin dryly says, "Hmm. I pray that this doesn't get me- or you- into any trouble. Now, if you'll excuse me..." he speedily walks off without saying another word.
@@ -18103,7 +18115,7 @@ Ann continues, "I need to make this confession, great High Priest."
 "And why is that?"
 Ann gulps deeply, "Because of--of an earlier sermon you gave back in the compound, High Priest. You spoke of how...how we have been given the privilege of carrying the message of Apep, but we are also burdened with the shackles of modernity."
 Seth dryly looks at her, "Yes, I said something to that effect, didn't I?"
-Ann sniffs and lowers her head, "You certainly did, b--brother Steale. Can we go somewhere private?"
+Ann sniffs and lowers her head, "You certainly did, b--brother Steale. Can we go somewhere private? Please?"
 Seth shrugs and guides her to a small room at the far end of the floor. The room is quite dimly lit, and it will do perfectly. There's a couch, a few chairs, and a coffee table.
 By the end of it all, Seth alone exits the room with blood slowly dripping from his mouth. Ann is lying dead on the couch, her neck savagely torn open. She has a look of pure terror frozen on her face.
 The High Priest lifts his chin and calmly walks on like nothing has happened. No one saw him enter the room, so no one will see him exit. And even if they did, Ann would just be the 1 of many exsanguinated bodies that'll need to be disposed of.
@@ -18123,7 +18135,7 @@ The Prince of Abu Dhabi- Helmut Strauss of Clan Tremere- has been informed of th
 Amongst them are the few surviving Gangrel, including Prince Angela's Childe- Santiago. They should be arriving to this Domain over the next few nights, apparently.
 The only reason the Unit 8211 thugs haven't managed to penetrate Abu Dhabi is because the Tremere in that Domain have complete 720-degree protection over the whole place. They have made sure that those who mean ill cannot enter their Domain without...severe consequences.
 (In short, the SI learned that it's best if they don't fuck with Awakened Mages who managed to synthesize True Magick with the ways of the Blood. Some of them have even kept their Avatars following their Embrace. Wild.)
-Anyways, the party is chugging along and is far from over. However, people are slowly trickling out of the hotel. Some go in large groups, some go alone, some go in pairs.
+Anyways, the party is chugging along and is far from over. However, people are slowly trickling out of the hotel. Some go in large groups, some go alone, and some go in pairs.
 While Seth roams around and twirls his magical snake-head cane, a man's deep voice calls out, "Brother Steale!"
 Seth stops in his tracks and turns to face the speaker. This man is clad in a fancy red robe. He holds a cane very similar to Seth's. His skin is very dark and ashy, and his face is quite wrinkly.
 His eyebrows are uneven and his lips are quite chapped. He wears a heavy necklace with a pendant that depicts a snake coiled around a tree.
@@ -18131,16 +18143,17 @@ Seth maintains a neutral disposition, "Brother Orlando. Praise be."
 Orlando twirls his cane around. The rubies in the snake cane's eyes are a deep, piercing red. So unlike the green emerald eyes in Seth's cane.
 He says, "Praise be. I am pleased to see you again. This is quite the jamboree you've got here! Typhon must be exceedingly good to you if you can afford all of this."
 Seth bows his head, "Indeed. So, Orlando...are you back in this city for good or is this just a fleeting visit to your old haunts, hmm?"
-Orlando shrugs, "I am not sure. My duties as High Priest of Tallahassee require me to travel around quite a bit. I have to give some CIA types the run-around, make 'em chase their own tail and bite down on it. Hard."
+Orlando shrugs, "I am not sure. My duties as High Priest of Tallahassee require me to travel around quite a bit. I have to give some CIA types the run-around, make 'em chase their own tail, and bite down on it. Hard."
 Seth lightly chuckles at that, "Ah, yes. And how is Florida treating you?"
 Orlando raises his chin and proclaims, "We are practically adding more and more to the flock...every night! Blessed is Typhon for making us so successful."
 Seth nods, "Blessed is Typhon indeed. You have done well, brother Orlando. For yourself...and the Ministry as a whole, heh."
 "Indeed. Indeed. How about a friendly game, hmm? Remember those?" Orlando tauntingly twirls his cane a few times.
-Seth dryly says, "How could I forget?" he takes a few steps forward and strokes the emeralds in his cane.
+Seth dryly says, "Ah. How could I forget?" he takes a few steps forward and strokes the emeralds in his cane.
 Orlando smirks, "Ah, yes. I remember those nights well. I was fond to see if either of our snakes would...devour the other."
 Seth nods, "Yes, well...I'm always down for a little game, brother Orlando. Provided you are."
 Orlando gets cocky, "This is not a game, brother Seth. It is a battle of wits, of wills, of cunning. A battle of faith, even. Whose faith is stronger, hmm? Yours or mine?"
-A few people huddle around the 2 Setites, curious to see what they're talking about. Seth clears his throat and says, "You are welcome to try, brother Orlando."
+A few people huddle around the 2 Setites, curious to see what they're talking about.
+Seth clears his throat and says, "You are welcome to try, brother Orlando."
 Orlando then says, "The stakes?"
 "It's a friendly game, Orlando. Let's not...take any needless risks tonight, hmm?"
 "Fine by me!"
@@ -18157,7 +18170,7 @@ Seth raises an eyebrow and looks down at the snake. He sniffs and tosses his own
 The cane begins to change shape and form. It rattles on the ground a few times before morphing into a snake. Its green eyes are almost hypnotic.
 The 2 snakes hiss at each other and circle around their respective masters. Seth's eyes are also slits and he speaks with even more of a hiss (dragging on his s's) than usual, "Let us see who devours whom, brother Orlando."
 Orlando snarls, "Hsssssss. Indeed. May the Great Chaos Serpent favor me tonight."
-Seth says, "May Typhon grant me victory."
+Seth counters, "May Typhon grant me victory."
 The 2 snakes continue to circle around the 2 Setites. Then, they slowly slither towards the center. They get closer and closer, and their tongues flick in and out of their mouths.
 They're getting ready to strike. Orlando's snake lunges forward, but Seth's snake dodges the attack. Seth's snake then lunges forward, but Orlando's snake dodges the attack.
 The crowd gasps in astonishment. Seth and Orlando both smirk at each other. Their snakes continue to circle around, waiting for an opening, a chance to strike.
@@ -18186,7 +18199,8 @@ Ruby taunts emerald with a shrill hiss. Emerald retorts with a low growl. The cr
 Sylvia dryly watches on from the sidelines. She's so terribly bored by it all and doesn't make any effort to hide it.
 She sighs and rolls her eyes. Gallagher is right next to her; he nudges her side with his elbow and tells her to can it. He's always down to see something or the other violent happen.
 Sylvia shrugs and says, "Well, it's not like I'm going to do anything to stop them. It's like a dick measuring contest. Eugh."
-Gallagher snarls, "Shut up! This is fucking exciting!" he rubs his hands together and watches on with sheer anticipation. He's kinda rooting for Seth, but he's also open to Orlando taking the win.
+Gallagher snarls, "Shut up! This is fucking exciting!"
+He rubs his hands together and watches on with sheer anticipation. He's kinda rooting for Seth, but he's also open to Orlando taking the win.
 Seth's snake strikes first. It lunges forward and bites red's neck. Red screeches and tries to shake off the attacker. Emerald continues to bite down until it tears a chunk of ruby's flesh off.
 Red cries out in pain and tries to curl up and protect itself. Green seizes the moment and takes a big bite out of red's tail. Red screeches and tries to shake off the attacker.
 Green's mouth opens to swallow red's oozing tail. The crowd gasps and murmurs amongst themselves. Seth smirks and extends his hand as his snake begins to devour Orlando's serpent whole.
@@ -18230,10 +18244,10 @@ Seth obsessively watches the Assamite frantically jabbing her index finger in th
 Orlando's lips curl into a smile, "I am pleased to see that your faith in Typhon is as strong as it ever was, perhaps even more so. But your Edwin..."
 He clicks his tongue repeatedly, "Tsk, tsk, tsk, tsk. Disobedience is such an ugly thing, isn't it? I am sure that you will...correct him in due time."
 Seth wordlessly shrugs Orlando's hand off of him and rushes over to the elevator. The doors open and Svetlana steps inside.
-He blocks the closing doors with his hand and looks at Svetlana with desperation in his dead eyes. She stands in the corner; her arms crossed and she looks away from him.
+He blocks the closing doors with his hand and looks at Svetlana with desperation in his dead eyes. She stands in the corner; her arms are crossed and she looks away from him.
 He takes a few steps towards her and says, "I--I'm sorry about that, Svetlana. I hope that it doesn't affect how you view me."
 She scoffs and shakes her head. She turns to look at him, "You have problems, Seth."
-"We all do. I--I hope that you enjoy that iPad."
+"We all do. I--I hope you enjoy that iPad."
 Svetlana lowers her head, "Goodnight, Seth. I go home to my Haven now. I cannot be here anymore. Is too much. S--sorry."
 Seth's expression falters. He hangs his head and backs away from the elevator. The doors close and Svetlana Bobrov is gone. Sylvia steps into the other elevator.
 She pokes her head out and snickers, "Heh. Wow. You do know that we could've cured her, right? Saved whoever that was?"
@@ -18244,9 +18258,10 @@ For a man of his standing to be disobeyed by his own Ghoul...in front of all the
 But he can feel things slowly crumbling apart. Edwin remains on the periphery. His fellow Ghouls keep their distance from him as well. As Vassal Ghouls, they are expected (by virtue of the Blood Bond) to obey every single word of their immortal masters.
 Edwin's behavior tonight is seen as an embarrassment to the Ministry in Al-Kushraf city. Amongst the Ghouls, word goes around about how the High-freaking-Priest's own Ghoul openly defied him in public.
 Edwin knows that he's going to be punished for this. He doesn't yet know what kind of punishment Seth will inflict upon him. Either way, he expects something bad.
-But he was not expecting the worst.
-All those wealthy, powerful, and influential Kindred are gonna start having their doubts about Mr. Steale and his capabilities and this brings great consternation to Seth.
-Now, he's gonna have to work extra hard to prove that he has still got "it". Whatever "it" might be, of course.
+But he was not expecting the absolute worst.
+All those wealthy, powerful, and influential Kindred are gonna start having their doubts about Mr. Steale and his capabilities. And this brings great consternation to Seth.
+Now, he's gonna have to work extra hard to prove that he has still got "it".
+Whatever "it" might be, of course.
 This does throw a wrench in the High Priest's plans for this city, but he'll make it work. He's not gonna let a little setback like this ruin everything that he's been working towards for literal decades.
 Before the party dies down, Seth jovially announces that this will go on for 2 more nights.
 "2 more nights! 2 more nights of celebration! A Celebration Of Power! Of Victory! 2 more nights!" as happy as he tries to sound, there is some strain in his voice.
@@ -18275,13 +18290,13 @@ Edwin notices the red light and hits the brakes. He replies, "I--I'm so sorry, s
 Edwin gulps and fails to recall the memory. He shakes his head, "N--No, sir. I don't. I'm so sorry, sir."
 Seth calmly responds, "That's alright. That's perfectly fine. Do you need a reminder, hmm?" he is clearly taunting the poor Ghoul.
 Edwin nods and says, "Yes, sir. Please. I need to be reminded, sir."
-The High Priest watches a few doves erratically flying around the streetlight. He sighs and continues, "I will never ask you to do anything that I wouldn’t do myself. I've gotten rid of bodies, killed people, done all sorts of things."
+The High Priest watches a few doves erratically flying around the streetlight. He sighs and continues, "I will never ask you to do anything that I wouldn’t do myself. I've gotten rid of bodies, killed people, and done all sorts of things."
 The light turns orange. Seth goes on, "You know my history all too well, Edwin. The point is, I have always done what needed to be done. If I tell you to do something, then it needs to be done, right? No questions asked, no hesitation."
 Edwin's foot hovers on the gas pedal. He nods and replies, "Y--Yes, sir. It does."
-"Hmm. We'll talk more when we get home. It's been a long night, my friend. My plan proceeds as intended. Everything is falling into place. This city will be mine. All praise is to Typhon."
+"Hmm. We'll talk more when we get home. It's been a long night, my friend. My plan proceeds as intended. Everything is falling into place. This city will soon be mine. All praise is to Typhon."
 Edwin stammers, "B--blessed be--be Typhon." The light turns green and he slams his foot on the gas pedal and zooms off into the night.
 Seth is pleased with his Ghoul's fearful and reverential response. He leans back in his seat and closes his eyes, a small yet smug smile creeping up on his face.
-He thinks about the future. He thinks about how this city will soon be under his control.
+He thinks about the future. He thinks about how this city will soon be under his control. Soon and very soon.
 Meanwhile...
 There is a house on this cul-de-sac. It's right at the end. Its roofs are sloped, its walls are a pale beige, and it has a single floor. The windows are shut. Thick curtains cover them. A tall chimney stands at the very top of the roof.
 The houses around are mostly identical. The streetlamps are in good, working condition. The street itself is rather clean. Not a speck of garbage anywhere to be found. There are a few cars parked on the curbs.
@@ -18312,7 +18327,7 @@ Sylvia knows exactly what he means, "Yes, so I've heard. The Blade only Embraces
 Sylvia shrugs and replies, "For starters, she seems to have her head screwed on right- a lotta Cainites here are losing so much Humanity that I can fucking feel the Beast right under their skin whenever I stand next to 'em."
 "Ahhhh, yes, yes, that makes sense. Hmm. What about the local political climate? Is that Domain still lacking in Prince and Sheriff?"
 "Mm-hmm--" Sylvia pauses and takes a look at a painting on her wall. It's a painting of Sybil (of all people).
-The Setite Elder is depicted as being lanky and slim. Her head is bald and she appears to be in her early-30s. She has hollow cheeks and brooding gray eyes.
+The Setite Elder is depicted as being lanky and slim. Her head is bald and she appears to be in her early-30s. She has hollow cheeks and brooding hazel eyes.
 She's very much posed like "The Thinker" statue, with her knuckle pressed against her chin. She's dressed in a green blowse and a shawl. She is most certainly not smiling.
 Sylvia's eyes linger on that painting for a few moments before the man snaps her out of it, "Agent Sylvia? Are you there? Hello? You still there? Hello?"
 Sylvia sighs deeply, "Hm? Oh, yeah, yeah. Yep. Totally. Still here. Where were we?"
@@ -18321,7 +18336,7 @@ Sylvia shakes her head, "Nope. Same ol' same ol'. Uh...the Celebration Of Power 
 "Hmm. Did anything of note happen during this year's Celebration?"
 "Apart from my ex-boyfriend making it all about himself? Nope. Nothing else."
 The man sighs and says, "Alright, thank you for the update, Agent. And what of...Seth Steale? How does he react to you on these nights?"
-Sylvia bitterly answers, "With about as much venom as his snake-stick thing. He hasn't tried to run me out of town. Yet. But I feel like he's trying real hard to make me stay here."
+Sylvia bitterly answers, "With about as much venom as his snake-stick thing. He hasn't tried to run me out of town. Yet. But I feel like he's trying real hard to make my stay here...difficult. A lot difficult than it a--already is."
 "Reports from other sources indicate he has that effect on a lot of people, Agent Sylvia. Was it wise to take such a...hands-on approach as opposed to a more passive mode of observation?"
 Sylvia rolls her eyes, "Oh, c'mon. You know that being a Monitor was a hell lot riskier! Hands-on was the way to go- I got you good intel, useful information. So, I regret nothing."
 The man remarks, "It's...certainly an unconventional approach. The Order of the Inconnu doesn't really do hands-on for Sect affairs, for a variety of reasons, but it is true that you have yielded us some interesting results. Keep at it."
@@ -18354,7 +18369,7 @@ Sylvia frowns, "Hey, c'mon! Stop underestimating me! You know that I'm capable, 
 "I'm listening..."
 The man explains, "There is this Baali rockstar by the name of Burt. He has, for years now, expressed interest in joining The Order. But he has, unfortunately, the wrong...credentials, shall we say?"
 Sylvia asks, "How so?"
-"Must I spell out the requirements of joining the Inconnu for an Agent like yourself?"
+"Must I spell out the requirements of joining the Inconnu for an experienced Agent like yourself?"
 Sylvia smiles widely and lifts a finger, "Ah. I get it. I see. He's lacking the 6th Generation or older requirement, right? Heh."
 "Indeed. You and perhaps 1 other Agent are to formally...um...what's that word? Ah, yes. Ahem...vet this Baali to see if he truly has what it takes to join our esteemed and secretive organization."
 "I've never heard of this guy until now."
@@ -18384,12 +18399,13 @@ Sylvia dryly chuckles, "Yeah, it does. Heh. Almost reminds me of what I did to g
 Way back when, Sylvia recalls kneeling down in front of a 6th Generation Setite. A rather callous man. He was quite portly and had a head full of dark curls. His gray eyes looked down at the woman like a hawk looks at a hare.
 Sylvia, being the smart lass that she was (and still is), had managed to convince that man that she wanted to enter into a Blood Bond with him (with her serving as the Thrall and him as the Regnant).
 He was only all the more happy to accept this...enticing offer. He chortled loudly and stroked Sylvia's chin. She felt shivers go down her spine but didn't look away.
-In the end, he agreed to it. He slashed his wrist with his bent claw and offered the dripping Vitae up to Sylvia's quivering lips. She gave him a puppy-dog-eyes kinda look and convinced him that she needed a good few gulps before she could become a Bound to him.
+In the end, he agreed to it. He slashed his wrist with his bent claw and offered the dripping Vitae up to Sylvia's quivering lips. She gave him a puppy-dog-eyes kinda look and convinced him that she needed a good few gulps before she could become fully Bound to him.
 Heh.
 Needless to say, she took more than a mere sip from that guy. Once she had finished Diablerizing him, the black gooey "essence" was practically dripping from her chin.
 The fella's body had crumbled to ashes a few moments after she had taken the last drop of Vitae from him. Her mind was swimming with newfound memories and insights, new thoughts, and new ideas.
 And after that, she was given an invitation to join the Order of the Inconnu. She'd checked off the Generation requirement, passed her vetting with flying colors, and soon became a full-fledged Agent.
-But as she looks back on what she did, she does wonder if it was all worth it. Amaranth, after all, is no laughing matter. It's not just the act of draining another Kindred dry; it's also the sheer rush of power that comes with it.
+But as she looks back on what she did, she does wonder if it was all worth it.
+Amaranth, after all, is no laughing matter. It's not just the act of draining another Kindred dry; it's also the sheer rush of power that comes with it.
 (Plus, the Diablerist is essentially losing out on some Humanity and absorbing the essence, the memories and the experiences of their victim. This can have long-lasting effects on the psyche of the vampire).
 It's also quite hard to stop after the 1st time- just ask any Banu Haqim Neonate or Ancilla.
 Anyways, Sylvia goes over a few more deets pertaining to this Burt fella (a very interesting guy!), says goodbye to her contact, and promises to regularly keep in touch and share any new info, should the situation warrant it, of course.
