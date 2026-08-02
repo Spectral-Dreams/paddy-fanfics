@@ -27708,8 +27708,8 @@ Now, Ms. Bobrov finds herself on the edge of a rowboat, her arms loosely hanging
 This place is...off. Gloomier than usual. The water feels like a thick, viscous liquid when it laps against her fingertips. The air smells and tastes very sour, bitter, and salty.
 Svetlana's memories seem to be mostly intact but are still a horrendous blur for the most part. The entity rowing the boat starts to blabber on.
 The long-gone Assamite can slowly feel herself coming around, but she's still woozy from whatever happened to her.
-The boat-rower stares on ahead and points a skeletal finger at a lighthouse in the farthest distance. A blanket of depressing fog obscures its top from view. The creature says, "Almost. Almost there."
-Its voice sounds devoid of life, akin to a hollow and empty echo. The Assamite tries to open her mouth but is unable to. Her lips feel parched and a pain wraps itself around her neck like a noose. She struggles to get up but can't.
+The boat-rower stares on ahead and points a skeletal finger at a lighthouse in the farthest distance. A blanket of depressing fog obscures its top from view. The creature rasps, "Almost. Almost there."
+Its voice sounds devoid of life, akin to a hollow and empty echo. The Assamite tries to open her mouth but is unable to. Her lips feel parched and a pain wraps itself around her neck like a noose. She struggles to get up but she can't.
 "Enfant...you should count yourself lucky. Don't move too much- we are nearly there."
 Svetlana feels sticky and wet all over. A sharp pain starts to make itself known in her lower belly. It slowly crawls up, down, and all around. Her last moments repeatedly flash in front of her mind's eye.
 Mr. Bean shooting her multiple times, the sensation of the bardiche slicing through her neck and bringing Final Death upon her, and then something...different.
@@ -27724,7 +27724,7 @@ Svetlana's hands still wade through the thick, viscous water. She opens her eyes
 The creature keeps on rowing, "If I were you, I would remove my hands from that substance. It's bad luck for Enfants to touch it. You should have been brought here much sooner, but...the fates had other plans."
 Svetlana can feel the sticky fluid on her fingers and palms, so she dries them off on the tattered clothes covering her body. She tries to move again and this time, she manages to prop herself up, but only slightly.
 Her head feels horribly light and dizzy.
-The creature lets out a deep exhale, "Good. You're awake. There's someone who wants to meet you- she's quite eager, actually."
+The creature lets out a deep exhale, "Good. You're awake. There's someone who wants to meet you- she's quite eager to do so, actually."
 Svetlana runs her hand on her face and groans, but it sounds so distant and muffled. Her eyesight is blurry. She sees only vague shapes and flittering lights. The pain in her lower belly starts to crawl up her spine, but she fights it off by clenching her jaw shut.
 "You ought to be glad that the Caul was lifted almost as soon as you were brought here- otherwise, you wouldn't have survived that initial encounter...or worse."
 It sings, "0 parades for dead Judges. 1 Fetter. 2 essences."
@@ -27739,12 +27739,12 @@ She bends over to grasp her knees and gets a somewhat better picture of her surr
 Her surroundings are gloomy, grim, and utterly devoid of any kind of life. The foul wind carries strange echoes. The viscous substance that the boat rowed over bubbles up in a few spots.
 Svetlana tries to take a step forward but stumbles over again. She feels weak from the knees down. The skeletal being indifferently strides on, not bothering to spare a glance at her.
 Svetlana starts to crawl after it while the pain in her neck is getting worse and worse.
-The red cloak is blown around by the strong, foul winds. Svetlana crawls along, feeling like a complete mess. She squints and spots a smaller figure standing quite close to the figure clad in red.
+The red cloak of the other figure is blown around by the strong, foul winds. Svetlana crawls along, feeling like a complete mess. She squints and spots a smaller figure standing quite close to the figure clad in red.
 The figure in red grows larger as they approach the distressed Assamite. The smaller figure seems to be sitting on some sort of perch that's been carved into the ground.
 Meanwhile, the boat-rower stops in its tracks and places a skeletal hand on the chest of whomever is wearing the red cloak. The figure in the red cloak appears to look like a human being.
 His ashy face is devoid of any expression. He has dark eyes that are surrounded by wrinkles. He reaches into the large pockets of his red cloak and drops a few coins on the skeleton's expecting palm.
 Svetlana tries to blink away the blurriness, but it doesn't go away.
-The skeleton shuffles the oboli in its skeletal palm and drops them all into a pouch loosely hanging off its side. It shoves past the man and walks away while muttering, "0 parades for dead Judges."
+The skeleton shuffles the Oboli in its skeletal palm and drops them all into a pouch loosely hanging off its side. It shoves past the man and walks away while muttering, "0 parades for dead Judges."
 The man takes a few steps closer to Svetlana. He gently helps her up. His lips are chapped, cracked, and his head has a few boils on it. He looks to be in his late-40s or early-50s.
 He speaks with a common British accent and introduces himself, "The name's Jerome. I already have a fair idea of who you are...Svetlana Bobrov."
 Even now, she struggles to utter a single word. Jerome feels disturbingly cold to the touch. He shimmers every now and then, which is highly unusual for a human being.
@@ -27755,7 +27755,7 @@ She turns around and lets out a squeal of delight, "Setlana! Setlana! You came! 
 Jerome has a pained and sympathetic expression on his face. The long-gone child's face looks much like it did in life, but with a bit of dirt and debris on it here and there.
 She jumps up and down and rushes over to hug her old babysitter. The Assamite goes numb. A wide-eyed and vacant look fills her face. Her mouth is open and she's trying to say something, but the words just won't come out.
 Chloe breaks the hug and shuffles over to show Svetlana something. She produces a charred teddy bear and grins innocently, "Me teddy bear! See! D--did you bring me Barbie, Setlana? What about me blanket, did you al-so bring that?"
-Jerome bends over slightly and places his scarred hand on Svetlana's slumped shoulder, "Even after all the years, she's just like you are now- confused and lost."
+Jerome bends over slightly and places his scarred hand on Svetlana's slumped shoulder, "Even after all these years, she's just like you are now- confused and lost."
 He then turns his attention to little Chloe and asks, "Chloe, love, do you mind if I speak to Svetlana over her for a while?"
 The child pouts, "Her name Setlana!"
 Jerome tightly smiles, "Hm. Yes. Do you mind if I erm...speak to Setlana over here for a while, dear? We shan't be too long. Why don't you go play hide-and-seek with the skeleton, eh?"
@@ -27768,7 +27768,7 @@ Jerome squeezes her shoulder once more, "That's the spirit. You are dead. And th
 He sits down across her and goes on, "I suspect that you have an inkling of what...she is. And what you now are. You're a Wraith. The Caul was lifted off you almost as soon as you got here. And you won't believe who your Reaper is--"
 Svetlana slowly mumbles, "C--Chloe."
 Jerome has a troubled look on his face, "Yes. It's almost unheard of for a Wraith to Reap their own Fetter, but when you first came here, little Chloe was practically glowing with excitement. I daresay that she's been looking forward to seeing you...ever since she lost you."
-He leans back and continues, "She yanked that bloody Caul off with no effort at all, didn't even flinch or show any reaction to it. Just wrapped her tiny fingers around the thin plasmic cocoon and lifted it off like there was a surprise underneath."
+He leans back and continues, "She yanked that bloody Caul off with no effort at all, didn't even flinch or show any reaction to it. Just wrapped her tiny fingers around the thin plasmic cocoon and lifted it off like there was a surprise waiting for her underneath."
 Svetlana has a traumatized and bewildered look on her face. She keeps on trying to speak but only sputters out raspy gasps and wheezes.
 "Your memories may or may not return, although I wouldn't worry too much about it. You don't seem like the type to cling to the past- especially when it's not a good one. You were Chloe's Fetter and now she's your Reaper. In all my time roaming the vast emptiness of the Shadowlands, I've never quite seen anything like it."
 Jerome lets out an exasperated sigh and points to the Enfant's neck, which is nastily bruised and discolored, "You bear your Deathmarks on your neck. I won't press you about it. No need to reopen old wounds but know that the appropriate Legion shall come for you soon enough."
@@ -27790,21 +27790,21 @@ For such surreal and gloomy surroundings, Chloe looks quite happy.
 "Come, come!" she squeals. She runs off while her charred Relic teddy bear bobs up and down. Svetlana hobbles after her Reaper, feeling like an empty husk all the while.
 Svetlana spots numerous shadowy figures materialize in and out of view. Most of them look like human beings, but some of them appear to be rather inhuman.
 They're all on a pier of some kind. Vague outlines of shops and restaurants can be seen in the farthest distance. A lighthouse towers over everything else. Horses seem to trample all over the slimy waters.
-Svetlana narrows her eyes and spots an assortment of figures on most of horses. They're charging into a raging battle. It's too far away for her to make out any of the finer details.
+Svetlana narrows her eyes and spots an assortment of figures on most of those horses. They're charging into a raging battle. It's too far away for her to make out any of the finer details.
 The skeletal rowboater appears next to her and comments, "You'll be amongst them soon enough, Enfant. It should've been the child who made a mess of things, but even the Undead have their limits."
 It lets out another clicking sound and mutters, "0 parades for dead Judges."
 Svetlana glares at the robed skeleton. It's more than 10 feet tall and as upright as a marble statue.
 The boat-rower continues, "I know what you're thinking. But don't worry yourself about any of that now. The child is happy to see her old Fetter. The fact that nothing has yet happened to her despite the destruction of her Fetter is...odd but not wholly unheard of. It's best if you just go along with it. I'd tell you to hope for the best, but I'd be lying."
-Svetlana winces when a thunderclap rings out. She looks around for the source of it but can't find it.
-The skeleton points to where the battle is raging at, "That's the origin of that sudden noise, Enfant. I bet 1 obolus that you'll be over there in no time. It should've been the kid, but she radiates Passion that I've never seen in all my time here. By Charon, the kid should've become a Domem by now, but...she's still here as if nothing happened."
+Svetlana winces when a thunderclap rings out. She looks around for the source of it but can't seem to find it.
+The skeleton points to where the battle is raging at, "That's the origin of that sudden noise, Enfant. I bet 1 Obolus that you'll be over there in no time. It should've been the kid, but she radiates Passion that I've never seen in all my time here. By Charon, the kid should've become a Domem by now, but...she's still here as if nothing happened."
 Svetlana can hear the loudest wailing and shrieking that she's ever heard. She covers her ears, but that does little to mitigate the piercing loudness and sorrowful cries.
 The boat-rower simply comments, "That's just the Tempest and its inhabitants acting up again. You'll get a taste of it soon enough. I'm sure of it."
-It shambles off, but not before adding, "I would strongly advise against dipping yourself in these...waters. The Afterlife is unlike anything even a blood-leech like you could possibly imagine."
+It shambles off, but not before adding, "I would strongly advise against dipping yourself into these...waters. The Afterlife is unlike anything even a blood-leech like you could possibly imagine."
 The skeletal being walks off into the fog and disappears.
 Jerome returns and pats little Chloe's head. The child impatiently calls out, "Setlana! Come play! Come see me friends! Come! Come!"
 Svetlana still can't make eye-contact with her Reaper, but she forces herself to do so anyway. She slowly turns around and looks into the child's sparkling eyes.
 She lets out a soft and tired smile that goes unnoticed by little Chloe. She follows her Reaper towards the other side of this dreary island. Jerome follows closely behind.
-Along the way, he reaches into a loose pocket in his red cloak and produces an a few oboli. These coins emanate a strange weeping sound- they were Wraiths once. He presses the coins into Svetlana's palm.
+Along the way, he reaches into a loose pocket in his red cloak and produces an a few Oboli. These coins emanate a strange weeping sound- they were Wraiths once. He presses the coins into Svetlana's palm.
 "A bit of advice: always pay your Ferryman."
 Svetlana stops in her tracks and looks at the grayish Soulsteel disk which is approximately 4 inches in diameter and marked with the seal of Charon. She brings it closer and the weeping sound grows louder.
 "They're called Oboli for a reason. And unless you want to end up as an inanimate object, I strongly recommend that you learn to follow along with the flow of the Shadowlands."
@@ -27812,13 +27812,13 @@ Jerome shrugs and explains, "You have your Fetter, Svetlana. I don't know what i
 Svetlana manages to ask, "What about Chloe? How is she still here? Shouldn't she have--have gone into Transcendence by now?"
 Jerome grimly puts in, "Or the Harrowing. She exists in a limbo state...of sorts. You seem to know quite a bit about our kind, Miss Bobrov. That alone could very well give you a leg up in the vast Underworld. Just don't go too deep, yeah?"
 "Da. What--what to do now?"
-Little Chloe hums and skips along the sandy shore of this island. The Enfant watches her from afar, still unable to wrap her head around her who her Reaper actually is.
+Little Chloe hums and skips along the sandy shore of this island. The Enfant watches her from afar, still unable to wrap her head around who her Reaper actually is.
 Jerome tells her, "Be glad that it was her and not someone unscrupulous. Over the years, some have accused that poor, innocent little child of violating the Dictum Mortuum. Svetlana, she doesn't even have a grasp of the concept of death, let alone Undeath."
 Svetlana stops and picks up a pebble that emanates a strange thrumming sound. It's the size of a walnut and has a peculiar sheen to it.
 Jerome vaguely notes, "Almost every tangible object here was a Wraith. Not all, mind you, but a fair chunk." He shrugs and continues with his striding. Svetlana grimaces and puts the pebble in a pocket of her tattered clothing.
 Little Chloe stops to dig around in the sand with her hands. She energetically searches for something and produces a rather large Soulsteel coin. She lets out a high-pitched chuckle and hobbles over to Svetlana with the coin in hand.
 Svetlana takes the coin and inspects it. It's a bit rusted at the edges. And when the nearby waves aren't raging, a faint weeping sound can be heard coming from it. She puts it in her pocket and follows after Chloe.
-Jerome nods in approval, "Yes. You and her are going to need as much Oboli as possible. If you intend to survive and avoid a fate worse than being swallowed whole by Oblivion, then you're going to need all the resources you can get."
+Jerome nods in approval, "Yes. You and her are going to need as much Oboli as possible. If you intend to survive and avoid a fate worse than being swallowed whole by Oblivion, then you're going to need all the resources that you can get."
 Svetlana struggles when inquiring, "How did she survive her for--for all this time? For so long?"
 "You were her Fetter, piece it together. When you still were counted amongst the denizens of the Skinlands, she would often Slumber into or near you. That alone fueled her Corpus to the point of turbocharging it. And you being a vampire certainly helped matters along."
 Svetlana's lower lip quivers and she stutters. A grave silence washes over her.
@@ -27826,12 +27826,12 @@ Little Chloe holds up her teddy bear and flashes a toothy grin at the Enfant, "S
 Svetlana slowly nods and takes the Wraith child's Relic in her hands. The child runs off in a flurry of giggles.
 Jerome looks at her and grimly says, "She could fall into the Harrowing at any moment. Yet, she hasn't. And it doesn't help that certain Legions have been orbiting around her ever since her arrival. There was a fierce debate as to which Legion a child like her ought to belong to."
 He sighs and tells Svetlana, "The most obvious one would indubitably put her in harm's way. She's only 5-years-old, barely a child in mortal terms- a life snuffed out too bloody soon. I do believe that her uniqueness has bought her some time, but not much. You, on the other hand..."
-Jerome fixes Svetlana with an inquisitive stare, "You're a different sort. You're a warrior. At least that's the kind of vampiric Clan that you belonged to. 5 years ago, you might've been brought here. But John Suarez had other plans for you. You may have only delayed the inevitable, Enfant. I am sorry for how things turned out."
+Jerome fixes Svetlana with an inquisitive stare, "You're a different sort. You're a warrior. At least that's the kind of vampiric Clan that you belonged to. 5 years ago, you might've been brought here. But John Suarez and Abdullah Rachman had other plans for you. You may have only delayed the inevitable, Enfant. I am sorry for how things turned out in the end, though."
 Svetlana shakes her head and stares vacantly at the charred teddy bear, "I am...so scared."
-"I know. Even I was like that when I was brought here back in the 1950s. I was shaking like a leaf, but I managed to get it together. It's the only way to survive down here, Svetlana. Find your Fetter at the soonest. And when you do, be ready for to be called up to your appropriate Legion. They shall come for you soon enough."
+"I know. Even I was like that when I was brought here back in the 1950s. I was shaking like a leaf, but I managed to get it together. It's the only way to survive down here, Svetlana. Find your Fetter at the soonest. And when you do, be ready for yourself to be called up to your appropriate Legion. They shall come for you soon enough."
 He emphatically warns the Enfant, "Don't try to outrun them. Your old vampiric powers- your Disciplines- won't work in this damned place. You can neither run nor hide from the Hierarchy. And that child is already on their radar, so there's no need to get her wrapped up in this blasted mess any further."
 Svetlana's ears pick up on little Chloe's giggles and shrieks of joy. She whips her head around and sees that her Reaper is hiding behind a crumbling coconut tree whose leaves are tinted blue. The child peeks from behind the tree and playfully sticks out her tongue and makes a few funny faces and noises.
-Jerome observes the Enfant's reaction and says, "There's little doubt about it- you fueled her for all those years, Ms. Bobrov. You weren't just a Fetter; you were THE Fetter. If you want to ensure that she stays safe and out of harm's way, then you must do what it takes to keep her...and those like her...safe."
+Jerome observes the Enfant's reaction and says, "There's little doubt about it- you fueled her for all those years, Ms. Bobrov. You weren't just a Fetter; you were THE Fetter. If you want to ensure that she stays safe and out of harm's way, then you must do what it takes to keep her...and those like her...safe and sound. Or whatever can pass for 'sound' around these damned parts."
 He pauses to scratch his scarred chin, "You're no stranger to violence. Even now, I catch glimpses of what you've done...and what was done to you. I'm not here to condemn you or judge you, but I am here to give you some advice: keep others safe, even if it means risking your own safety."
 Svetlana balls her hands into fists and keeps on listening.
 Jerome resumes, "I daresay that you'll be called upon to do exactly that in the not-so-distant future. Know that time here works differently than it did back in the Skinlands. You'll be assigned a Legion soon enough- it's likely the same one that little Chloe should've been assigned to all those years ago."
@@ -27858,7 +27858,7 @@ The sight of the Enfant's obsidian dagger filled her with dread, fear, and anger
 And when he wasn't staring at her Fetter, Svetlana would attempt to Slumber into it so she could gain back some Corpus. She tries to a few workarounds to get a good 8 hours in.
 Not an easy task with all the bad, vile, and downright nasty stuff happening around the Prince's cult compound.
 At least she and little Chloe are able to interact with each other.
-It isn't long before the call comes for Svetlana. It is Jerome who tells her that the time has come. The Enfant is conscripted into the ranks of the Grim Legion.
+It isn't long before the call comes for Svetlana. It is Jerome who tells her that the time has finally come. The Enfant is conscripted into the ranks of the Grim Legion.
 She bears the Deathmarks all over her body- but the nasty scar around her neck is the most prominent one. Members of the Grim Legion perished as a result of violence, usually murder.
 Little Chloe's forced enlistment was deferred and delayed for these past few years- bureaucracy in the Afterlife is almost as cumbersome as it was in the waking world.
 The Hierarchy is still evaluating the child's case- a final decision is yet to be handed down. For now, they accept Svetlana Bobrov as an adequate substitute for her own Reaper.
@@ -27867,14 +27867,14 @@ Most of those who fight along her don't last for too long or are shuffled around
 Maybe they'd be able to shed some much-needed light on this strange situation. She's given a few leads, all of which point to a Garou from New Zealand who has since gone into Transcendence. Lucky bastard.
 Even now, the siren's song of Oblivion calls out to all the denizens of the Shadowlands, wishing to lull all into its embrace of pure nothingness. There are times when Svetlana has been tempted to throw herself into its cold arms.
 Jerome, for his part, acts as a guide. He reveals to the Enfant that he is of the Emerald Legion- those who died as a result of accidents, be it a common or a freakish one. He flat-out refuses to state the cause of his death beyond the obvious Deathmarks all over the visible portions of his Corpus.
-Svetlana does not to press any further. She has enough on her mind with her Reaper. Usually, it's supposed to be the other way around- the Reaper takes care of, watches over, and sees to the newly arrived Enfant's wellbeing. Not so in this case. If anything, it's the quite opposite.
+Svetlana does not opt to press any further. She has enough on her mind with her Reaper. Usually, it's supposed to be the other way around- the Reaper takes care of, watches over, and sees to the newly arrived Enfant's wellbeing. Not so in this case. If anything, it's the quite opposite.
 Svetlana does come across a few Wraiths who still have their Cauls on. She stays far away from them and advises the Reaping-happy little child to do likewise. In her spare time, she often practices using her shitty Soulforged blade.
 It speaks to her in a familiar language when it isn't being wielded.
 Svetlana is no longer a vampire of the Blade of Haqim, of the Banu Haqim Clan of Kindred Society. One should know that she now finds herself in an entirely different...world.
 Not a Society of vampires, not the fragmented (some would say shattered) Garou Nation, not in a Cabal of Mages, or however the hell Changelings organize themselves.
-No. It's a whole world down here. Jerome says that it's an inverted and grotesque parody of the world of the Quick (the living). And it is a world characterized by its own politics, economy, history, culture, and everything else.
+No. It's a whole discrete world down here. Jerome says that it's an inverted and grotesque parody of the world of the Quick (the living). And it is a world characterized by its own politics, economy, history, culture, and everything else.
 The beings who populate it, by and large, are also its raw materials required for manufacturing. Truly fucked up stuff.
-The Necropolis that Svetlana and little Chloe usually float around in is the Wraith equivalent of the UAE. The kid likes this hangout spot that from the outside has the appearance of a seaside chip shop but looks like an upscale Los Angeles restaurant from the 1980s.
+The Necropolis that Svetlana and little Chloe usually float around in is the Wraith equivalent of the UAE. The kid likes this hangout spot that, from the outside, has the appearance of a seaside chip shop but looks like an upscale Los Angeles restaurant from the 1980s on the inside.
 Flashing lights, an actual disco ball smuggled in through the Shroud, and fancy neon signs supposedly fueled by Angst. They've even got a claw machine with an assortment of rewards that range from the macabre to the mundane. Svetlana hasn't seen anybody win anything from it yet.
 The creature who brought her in does drop by occasionally, every time bringing a new soul (or souls) along with it. Every time the skeletal being sees Svetlana, it sings out: "0 parades for dead Judges. 1 Fetter. 1 battle after another. 2 essences."
 Architecturally speaking, the appearance of the Shadowlands (or this part of it, at least) is mixed all over the place- a veritable wacky, hodgepodge mishmash of various styles, aesthetic preferences, and what-have-you. This isn't something that bothers little Chloe, though.
@@ -27886,15 +27886,15 @@ The Hierarchy sees all (supposedly), controls all (allegedly), and is the ultima
 For the most part. Smarter Wraiths can slip through the cracks in more ways than 1.
 The economy of Oboli chugs along. Attempts to smuggle in human currencies through the Shroud are generally frowned upon- unless one wishes to remember what a yen looked like and keep it around for purely decorative purposes.
 Little Chloe's case still persists in the courts of the Hierarchy- they'll drag it out for as long as they can. It is even said that some of the Grim Legion's higher-ups have taken an interest in the child's case. If nothing else, she's intriguing because she's still here...sans Fetter.
-The Dictum Mortuum strictly forbids interference (and interfacing) with the world of the Quick. People always find creative ways to circumvent this.
+The Dictum Mortuum strictly forbids interference (and interfacing) with the world of the Quick. People always find creative ways to circumvent this as well.
 Within weeks of her being boated over here, Svetlana is soon ordered to put down a few Orpheus Projectionists who somehow managed to make an incursion all the way beyond the Shroud and into the Shadowlands. How they did it is of no interest to the Grim Legion's top brass.
 They're here, but they shouldn't be.
-Svetlana and a few others are sent to ensure that those Orpheus employees are turned into past tenses. Somewhere in the waking world, their physical bodies violently spasm and give out as Svetlana delivers the killing blow to each Orpheus intruder.
+Svetlana and a few others are sent to ensure that those Orpheus employees are turned into past tenses. Somewhere in the waking world, their physical bodies violently spasm and give out as Svetlana viciously delivers the killing blow to each Orpheus intruder.
 They were not equipped- let alone trained- to deal with a raging, vicious whirlwind like Svetlana Bobrov.
 And just like that, the Grim Legion has yet another victory to chalk up on its belt.
 Svetlana does attempt to reach out to the old world. There are portions where the Shroud is weak. She even tries to expend some of her Plasma to try and materialize in her former Haven back in Al-Kushraf.
 It's already been rented out to another family. There are no traces of any of her old possessions. Her matryoshka dolls, those old pictures of babushka and dedushka, and other stuff that was likely tossed into a box and left to languish in a dusty storage unit.
-She needs her Corpus and her Plasma to keep up with daily tasks, duties, and the like. But she feels deeply uncomfortable with the fact that Prince Seth has her Fetter in that blasted display case.
+She needs her Corpus and her Plasma to keep up with daily tasks, duties, and the like. But she feels deeply uncomfortable with the fact that Prince Seth has her Fetter in that blasted display case of his.
 Little Chloe apparently knows a few Slumbering spots deeper within the ever-shifting maze of the Labyrinth. After all, the kid has survived in this gloomy landscape for the past half-decade.
 Despite having violated Dictum Mortuum so many times, Chloe has managed to avoid the (usually fiery) ire of the Hierarchy. And she's just a kid, c'mon!
 The weeks in this place soon morph into months. Svetlana goes up a few ranks, gets assigned a decent Soulforged glaive, and even gets some Oboli as a sort of bonus. The damn glaive goes brittle and breaks in the middle of a battle against some Garou-turned-Wraiths who aren't taking this whole Undeath thing too well.
@@ -27911,7 +27911,7 @@ Months soon turn to years. But even time itself feels so different here.
 A little over a decade later...
 Israel is carrying out a genocide in Gaza, a pandemic continues to ravage the world- with many more likely on the way, fascism is on the rise again (everywhere from Latin America to Oceania), climate change is out of control, social inequality is at an all-time high, a proxy war in Ukraine has already claimed well over half-a-million lives, and the world seems to be slowly falling apart at the seams.
 Imperialism (the American flavor, in particular) runs wild over the entire planet and bathes it in blood, ashes, tears, and suffering. Swindling, scamming, and open thievery is the new norm. Vile, repulsive, and bloated creeps run the world from east to west.
-Austerity and war go hand in hand. Living standards once taken for granted are now plummeting. The great social democratic, reformist experiments are dead- or on their way to dying an ignominious death.
+Austerity and war go hand in hand. Living standards once taken for granted are now plummeting. The great social democratic (reformist) experiments are dead- or on their way to dying an ignominious death.
 The UAE bubble has effectively bursted. The illusion shattered a lot faster than anyone could've anticipated.
 Power, wealth, and fame lead to the worst possible outcomes imaginable for Prince Seth Steale. Some random Toreador half-jokingly remarked that he is the Great Steale (much like the Great Gatsby).
 She lost her head the next night.
@@ -27948,19 +27948,19 @@ There are rumors that he's either started a cult or is a part of one. It's said 
 (Odd even by Kindred standards!)
 He still has a habit of licking bloody knives like a kid licking batter off a spoon. No one dares to tell him to stop. And no one dares say his true name, let alone go out of their way to find it.
 He's simply Mr. Bean, Malkavian Neonate with bleached hair. He's simply Mr. Bean, the guy who beheaded Svetlana all those years ago. He's simply Mr. Bean, the guy who still sees ghostly seagulls when the day-sleep takes hold of him.
-He's simply Mr. Bean, the guy who has never forgotten about what he did to Svetlana Bobrov. He's simply Mr. Bean, former Caitiff and now the adopted Childe of Absalom.
+He's simply Mr. Bean, the guy who has never forgotten about what he did to Svetlana Bobrov. He's simply Mr. Bean, former Caitiff and now the adopted Childe of Seneschal Absalom.
 Svetlana, for her part, simply has no interest in getting back at the Lunatic.
 Even now, visions of what may perhaps be haunt him. The Malk isn't too sure what to make of them.
 What about Prince Seth Steale? How's he doing?
 His ascent was violent, chaotic, careless, and confusing...by design (mostly). It was a whizbang ascent on a staircase of corpses, ashes, Vitae, and blood. It was a rapid ascent on a bed of lies, half-truths, betrayals, corruption, and exaggerations.
 For all intents and purposes, the High Priest successfully merged the cities of Al-Kushraf and Dubai, creating a single Camarilla Domain under HIS rule, HIS iron-fisted, serpentine leadership. To him, it's nothing short of a truly remarkable achievement.
-He has a lot to deal with, and delegating hasn't been his strong point. He spends a lot of time moving between these 2 cities- often back and forth in the same night!
+He has a lot to deal with, and delegating hasn't always been his strong point. He spends a lot of time moving between these 2 cities- often back and forth in the same night!
 As such, this necessitated the buying of some Havens. Yes, Havens. Plural. He's literally a sociopathic billionaire.
 Prince Seth buys himself and Sheriff Ewan separate Havens in the Dubai Marina. The latter opted for some place in Palm Jumeirah. All of it was paid in cash under the name of "Lewis Bloom."
 So, in certain circles, Prince Seth is simply referred to as Mr. Lewis Bloom. What he does is anybody's guess, but he's got the cash to throw around- lots and lots of it.
 Prince Seth maintains his limerence- his unrequited obsession- towards Svetlana. In his Havens, he builds these creepy shrines to her. They contain pictures of her (acquired from her socials), some of her old possessions, pieces of clothing including innerwear, and other deeply personal stuff.
 The Setite Prince even develops an unhealthy obsession with women who look remotely like the late Ms. Bobrov. They never last long and Sheriff Gallagher has to personally dispose of what's left of them. He's even tasked with covering up and killing any investigations that inevitably arise from the disappearances of these poor women.
-Recently, the Prince has fallen prey to something simply known as the Contagion. The dark circles around his eyes grow more prominent with each passing night. His skin gets paler and paler. His regular rotation of Blood Dolls fails to sate his Beast's Hunger.
+Recently, the Prince has fallen prey to something simply known as the Contagion. The dark circles around his eyes grow more prominent with each passing night. His skin gets paler and paler. His regular rotation of Blood Dolls fails to sate his Beast's ravenous Hunger.
 The Contagion is a reality-warping plague that uniquely affects supernatural beings, and Prince Seth has somehow...gotten sick. So much for Kindred not being able to catch colds!
 Prince Seth spends most of his nights in a dark, nondescript room. There are times when even the slightest bit of light causes him to hiss and recoil in pain. He's ordered Sheriff Gallagher to ensure that the drapes remain shut at all times.
 The shutters are always quadruple checked before the Prince awakens from his day-sleep.
@@ -27969,6 +27969,7 @@ The Elder Seer drops a few vague hints before withdrawing into silence and incoh
 It is difficult to pin down what the Contagion is and is not, because strains appear wildly different from each other.
 Prince Seth is lazily splayed on a plush leather recliner. He can barely move his body- he feels so heavy and sluggish. The Prince's skin is as pale as snow and his amber eyes are bloodshot. They've been turning into snake-like slits at the most inopportune of times.
 Prince Seth barely holds onto a business card of some kind. It falls from his weak grip and flutters to the floor. It's a card for a subsidiary of the Orpheus Group.
+A ghost that only an Orpheus Projectionist can make contact with was said to have knowledge of a potential "cure".
 Adding insults to injuries, the Unit 8211 menace is back, but with a vengeance. It's true, the killings of Commander Obed Gallant and the rest of those worthless fascists accomplished a great deal of good.
 But now, they're back for some Blood. These Israelis are not back in full force because...well, they're busy lighting the entirety of the Middle East on fire- from Iran to Lebanon to what remains of Gaza. But they're still here, and they're still causing trouble.
 Commander Laura Weiss now leads them. Yeah, the unpunished sole survivor underwent a few promotions as the years dragged on. She climbed the ranks by destroying various Kindred around the world- targeted assassinations, deep-cover infiltrations, and so on and so forth and what have you.
@@ -27992,6 +27993,9 @@ Svetlana takes it upon herself to stand in for as many of these kids as possible
 Before an incursion, Percy loudly berates Svetlana in front of all the other Executioners.
 In the midst of a large and ragtag gathering of Legionnaires, the young man (in appearance only) bellows at her, "YOU WILL STORM THAT NEST OR I SHALL HAVE YOU AND THOSE BLASTED CHILDREN UNDER YOUR SUPPOSED CARE MOLIATED!"
 Svetlana just stares at him with that same blank look. She lowers her head pensively and mutters, "Da."
+Yet, she looks up at him and pleads, "Please. H--have mercy. They are only small children. Do not hurt them more than they have already been hurt. Do--do not harm them. Please."
+She takes note of his bulky, Soulforged armor which covers his body from the neck down. The intricate carvings on its hardened exterior are unlike anything she has ever seen before.
+"OOOOOOOOUT!"
 No more, no less. With the numerous little children following in tow, she readies her Soulforged weapons and heads out on a doomed excursion that could very well be her last.
 The children stick close to her out of necessity. If she leaves them, the others might get ideas and start fitting them out with shoddy armor and crappy weapons.
 Svetlana would rather cast herself into Oblivion than let that happen. With the children all prepped, she raises her chin (only slightly) and prepares to rappel down into a gaping hole that has only recently opened up in the middle of nowhere.
