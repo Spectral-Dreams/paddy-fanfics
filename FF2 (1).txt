@@ -3,7 +3,7 @@ ALT Title: Vampire: The Masquerade- Eternal Servitude
 By: Paddy
 Writing Start Date: 16th July, 2026
 Writing End Date: ongoing
-Fandoms: World Of Darkness (WOD), Vampire: The Masquerade (VTM), Mage: The Ascension (MTA)
+Fandoms: World Of Darkness (WOD), Vampire: The Masquerade (VTM), Mage: The Ascension (MTA), Changeling: The Lost (CTL)
 Genre(s): Horror, Urban Fantasy, Drama, Thriller, Intrigue, Action-Adventure, Gothic Punk, Gothic Horror, Supernatural, Tragedy, Magical Realism, Modern Gothic, Political Horror, Social Horror, Economic Horror
 Summary: A Ghoul by the name of Cassandra is plunged into a vast, secretive, and dark world that she only has a theoretical understanding of. Allegiances will be tested, decisions must be made. The steep price that one pays for life eternal is...eternal servitude. Favors are owed. Favors must now be repaid. Tomorrow may not even come, not in this world of darkness.
 Content/Trigger Warnings: Intense Violence, Blood & Gore, Torture, Psychological/Mental Torture, Strong Language, Slurs, Bigotry/Hate, Racism, Queerphobia, Sexual Content/Scenes, Full & Partial Nudity, Alcohol/Substance Consumption, Smoking, Human & Animal Death, Xenophobia, Ableism, and so on.
@@ -13,6 +13,7 @@ Inspirations (Not ALL of them, just the main ones):
 WOD: The God-Machine Chronicle Anthology
 VTM: Night Road | Out For Blood | Parliament Of Knives | Sins Of The Sires | Coteries Of New York | Shadows Of New York | We Eat Blood And All Our Friends Are Dead | Reckoning Of New York | Clans Of London | Walk Among Us
 MTA: Refuge | Melody Through The Mirrorshade Lens | Truth Beyond Paradox
+CTL: Huntsmen Anthology | Hollow Courts Anthology
 TV Shows: Toxic Town (2025), The Hack (2025), Dirty Business (2026)
 ...And many more.
 Act 1: British Autumn
@@ -2085,7 +2086,7 @@ Sven narrows his eyes and pulls her to a corner, "You what?! Oh, you did, did yo
 Cassandra is quick to clarify, "But--but I didn't touch anything else! Promise! I used the keycard to go in, search around, and nothing more, yeah? I also got her coffee and a bunch of condoms and dental dams for your little groupie afterparty later."
 Sven claps her on the back, "Thanks! Are you sure you didn't mess with anything in my temporary Haven? Because I'll know if you did."
 Cassandra frowns, "Yeah, I'm s--sure."
-The Baali isn't wholly convinced. He intensifies his gaze and stares into her hazel eyes, "C'mon, out with it. Better now than later. And if you did futz with anything in my hotel suite, I'll simply have to ask you to forget about it. Either that, or you can Gregory's massive favor goodbye."
+The Baali isn't wholly convinced. He intensifies his gaze and stares into her hazel eyes, "C'mon, out with it. Better now than later. And if you did futz with anything in my hotel suite, I'll simply have to ask you to forget about it. Either that, or you can kiss Gregory's massive favor goodbye."
 Cassandra swallows heavily and shakes her head, "I--I didn't touch anything! I didn't see anything I--I wasn't supposed to see, yeah?! Now--now stop looking at me like that! Please!"
 Sven blinks a few times and forces a deep breath, "Oh, OK. Yeah, sorry about that. It's just that I can get pretty intense when I'm under a lot of pressure, y'know? Thank you for all your help today, Cassie. I really appreciate it. And I'm sure that Carla does, too."
 Cassandra glares at him with a bit of anger in her eyes, "Right. You owe Greg, yeah? Don't leave without helping out, OK?"
@@ -3010,7 +3011,7 @@ Norman smiles politely.
 Captain Mark walks away to a secluded corner and lowers his voice, "Ma'am, are we sure that such people can be trusted?"
 "We wouldn't be working alongside them if we weren't certain about their loyalty to Queen and Country, Captain Meadows. But we do have certain protocols in place. Should they either prove too volatile or outlive their uses to us, then we'll simply terminate their status as an 'ally' and let the rest be handled from there."
 Mark asks, "T--targeted assassinations, ma'am?"
-"Yes. We have the names of their families, friends, loved ones, lovers, children, grandchildren, close associates...anyone that could be used against them should such measures ever be required."
+"Yes. We have the names of their families, friends, loved ones, lovers, children, grandchildren, great grandchildren, close associates...anyone that could be used against them should such measures ever be required."
 "Is the integrity of Operation Brightburn being threatened, ma'am?"
 "What do you think, Captain?"
 Captain Mark looks uncertain and it reflects in his tone, "I still do not trust reality-benders, ma'am. Such powers ought not to be in anybody's hands. The kinds of things that they could do...they--they're at odds with--with EVERYTHING, if you will."
