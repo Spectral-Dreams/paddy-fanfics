@@ -2,4 +2,4 @@
 
 PREPPING FOR MIGRATION TO GITLAB BECAUSE AIN'T NO WAY I'M DOING 2FA, DAWG!
 
-https://gitlab.com/Spectral-Dreams/paddy-fanfics
+GITLAB isn't it, sadly...
